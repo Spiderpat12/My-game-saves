@@ -10,7 +10,7 @@ Direct3D:
     VRAM:     1999 MB
     Driver:   32.0.15.7680
 Begin MonoManager ReloadAssembly
-- Completed reload, in  1.470 seconds
+- Completed reload, in  0.102 seconds
 OnLevelWasLoaded was found on GameMap
 This message has been deprecated and will be removed in a later version of Unity.
 Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
@@ -25,7 +25,7 @@ D3D11 device created for Microsoft Media Foundation video decoding.
 <RI> Initialized touch support.
 The class named 'ConfigManager' is abstract. The script class can't be abstract!
 
-UnloadTime: 31.088300 ms
+UnloadTime: 0.870200 ms
 Graphics tier changed to High
 
 Steam initializing
@@ -43,5 +43,88 @@ Restored language code 'EN'
 
 
 Unloading 362 unused Assets to reduce memory usage. Loaded Objects now: 3824.
-Total: 1.952100 ms (FindLiveObjects: 0.218400 ms CreateObjectMapping: 0.092900 ms MarkObjects: 1.480600 ms  DeleteObjects: 0.159600 ms)
+Total: 1.683200 ms (FindLiveObjects: 0.204600 ms CreateObjectMapping: 0.120700 ms MarkObjects: 1.247500 ms  DeleteObjects: 0.109900 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+Steam stats received.
+
+Direct3D: detected that using refresh rate causes time drift. Will stop trusting refresh rate until the game window is moved.
+Direct3D: detected that vsync is broken (it does not limit frame rate properly). Delta time will now be calculated using cpu-side time stampling until the game window is moved.
+Didn't need to wait for PlayerPrefs load.
+
+UnloadTime: 4.977300 ms
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+
+Performing automatic level start.
+
+Failed to retrieve achievement state for ENDING_C
+
+Failed to retrieve achievement state for STEELSOUL
+
+Game controller set to None.
+
+Failed to retrieve achievement state for DREAM_SOUL_MASTER_DEFEAT
+
+Failed to retrieve achievement state for ZOTE
+
+Failed to retrieve achievement state for NAILSMITH_KILL
+
+Failed to retrieve achievement state for NAILSMITH_SPARE
+
+Failed to retrieve achievement state for QUIRREL_EPILOGUE
+
+Failed to retrieve achievement state for MOURNER
+
+Failed to retrieve achievement state for STAG_STATION_ALL
+
+Failed to retrieve achievement state for ENDING_A
+
+Failed to retrieve achievement state for ENDING_C
+
+Failed to retrieve achievement state for VOID
+
+Failed to retrieve achievement state for SPEEDRUN_1
+
+Failed to retrieve achievement state for SPEEDRUN_2
+
+Failed to retrieve achievement state for SPEED_COMPLETION
+
+Failed to retrieve achievement state for STEELSOUL
+
+Failed to retrieve achievement state for STEELSOUL_COMPLETION
+
+Failed to retrieve achievement state for HUNTER_1
+
+Failed to retrieve achievement state for HUNTER_2
+
+Failed to retrieve achievement state for MR_MUSHROOM
+
+Failed to retrieve achievement state for GREY_PRINCE
+
+Failed to retrieve achievement state for BANISHMENT
+
+Failed to retrieve achievement state for PANTHEON3
+
+Failed to retrieve achievement state for ENDINGD
+
+pd.maxHealth: 11 pd.maxHealthBase: 9
+
+pd.maxHealth: 8 pd.maxHealthBase: 8
+
+pd.maxHealth: 7 pd.maxHealthBase: 7
+
+pd.maxHealth: 6 pd.maxHealthBase: 6
+
+
+Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 46212.
+Total: 149.095900 ms (FindLiveObjects: 3.701800 ms CreateObjectMapping: 4.035100 ms MarkObjects: 141.053400 ms  DeleteObjects: 0.304900 ms)
+
+Save file 4 clearing...
+
+Save file 4 cleared
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1af0 -> priority: 1 
+  Thread -> id: 1134 -> priority: 1 
+Shutting down Steam API.
 
