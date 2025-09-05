@@ -13,7 +13,7 @@ Direct3D:
     VRAM:     1999 MB
     Driver:   32.0.15.7680
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.292 seconds
+- Loaded All Assemblies, in  0.285 seconds
 - Finished resetting the current domain, in  0.003 seconds
 [Physics::Module] Selected backend.
 [Physics::Module] Name: PhysX
@@ -24,111 +24,127 @@ Begin MonoManager ReloadAssembly
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.541500 ms
+UnloadTime: 0.626400 ms
 Steam initializing
 Steam failed to initialize
 Selected online subsystem SteamOnlineSubsystem
 Direct3D: detected that using refresh rate causes time drift. Will stop trusting refresh rate until the game window is moved.
 Direct3D: detected that vsync is broken (it does not limit frame rate properly). Delta time will now be calculated using cpu-side time stampling until the game window is moved.
 Unloading 5 Unused Serialized files (Serialized files now loaded: 527)
-UnloadTime: 1.400100 ms
+UnloadTime: 1.571200 ms
 Discovered supported languages: DE, EN, ES, FR, IT, JA, KO, PT, RU, ZH
 Loaded saved language code 'EN'
 Restored language code 'EN'
 Couldn't find a Game Manager, make sure one exists in the scene.
 Couldn't find GameCameras, make sure one exists in the scene.
 Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 6108.
-Total: 4.260400 ms (FindLiveObjects: 0.418100 ms CreateObjectMapping: 0.231500 ms MarkObjects: 3.562100 ms  DeleteObjects: 0.048300 ms)
+Total: 6.069200 ms (FindLiveObjects: 0.518500 ms CreateObjectMapping: 0.806300 ms MarkObjects: 4.692000 ms  DeleteObjects: 0.052000 ms)
 
 Unloading 2 Unused Serialized files (Serialized files now loaded: 527)
 Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 13326.
-Total: 6.718800 ms (FindLiveObjects: 0.790300 ms CreateObjectMapping: 0.570000 ms MarkObjects: 5.328500 ms  DeleteObjects: 0.029700 ms)
+Total: 8.543100 ms (FindLiveObjects: 0.806900 ms CreateObjectMapping: 1.292000 ms MarkObjects: 6.411800 ms  DeleteObjects: 0.032100 ms)
 
 Unloading 1 Unused Serialized files (Serialized files now loaded: 579)
 Couldn't find GameCameras, make sure one exists in the scene.
 Couldn't find a Game Manager, make sure one exists in the scene.
-UnloadTime: 11.438500 ms
+UnloadTime: 8.849700 ms
 Loaded saved language code 'EN'
 Restored language code 'EN'
 Unloading 73 unused Assets to reduce memory usage. Loaded Objects now: 66300.
-Total: 63.359800 ms (FindLiveObjects: 6.361500 ms CreateObjectMapping: 7.750200 ms MarkObjects: 48.871600 ms  DeleteObjects: 0.376300 ms)
-
-ERROR: Can't load achievements if they haven't been fetched yet!
-NullReferenceException: Object reference not set to an instance of an object
-  at PolyAndCode.UI.VerticalRecyclingSystem.CreateCellPool () [0x000e5] in <fd56c045f07f4558870b58a8c3e7932c>:0 
-  at PolyAndCode.UI.VerticalRecyclingSystem+<InitCoroutine>d__25.MoveNext () [0x0005c] in <fd56c045f07f4558870b58a8c3e7932c>:0 
-  at UnityEngine.SetupCoroutine.InvokeMoveNext (System.Collections.IEnumerator enumerator, System.IntPtr returnValueAddress) [0x00026] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+Total: 53.167200 ms (FindLiveObjects: 6.157800 ms CreateObjectMapping: 7.263600 ms MarkObjects: 39.370000 ms  DeleteObjects: 0.375400 ms)
 
 MenuButton missing flashEffect!
 Making UI menu lean.
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Unloading 3 Unused Serialized files (Serialized files now loaded: 570)
-Unloading 272 unused Assets to reduce memory usage. Loaded Objects now: 112252.
-Total: 101.086400 ms (FindLiveObjects: 11.962600 ms CreateObjectMapping: 11.907100 ms MarkObjects: 75.945100 ms  DeleteObjects: 1.271300 ms)
+Unloading 3 Unused Serialized files (Serialized files now loaded: 610)
+Unloading 113 unused Assets to reduce memory usage. Loaded Objects now: 123998.
+Total: 117.202300 ms (FindLiveObjects: 12.835500 ms CreateObjectMapping: 13.768700 ms MarkObjects: 89.457100 ms  DeleteObjects: 1.140800 ms)
 
 Converting Vertex Colors from Color32 to Color.
 Converting Vertex Colors from Color32 to Color.
 Converting Vertex Colors from Color32 to Color.
+Using fallback 1 to find tilemap. Scene Bellshrine_05 requires manual fixing.
+Using fallback 1 to find tilemap. Scene Bellshrine_05 requires manual fixing.
+Cannot set the parent of the GameObject 'Slam Effect' while activating or deactivating the parent GameObject 'Shell Fossil Mimic'.
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Unable to retrieve achievement state for FIRST_SILK_SPOOL, because Steam is not initialized
-Unable to unlock achievement FIRST_SILK_SPOOL, because Steam is not initialized
-Unable to update achievement progress for ALL_SILK_SPOOLS, because Steam is not initialized
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Hazard Respawn Trigger v2 (2) does not have a Hazard Respawn Marker Set
+Hazard Respawn Trigger v2 (3) does not have a Hazard Respawn Marker Set
+Hazard Respawn Trigger v2 does not have a Hazard Respawn Marker Set
+PlayOneShot was called with a null AudioClip.
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Unloading 1 Unused Serialized files (Serialized files now loaded: 631)
+UnloadTime: 9.419000 ms
+Unloading 11053 unused Assets to reduce memory usage. Loaded Objects now: 122969.
+Total: 186.856700 ms (FindLiveObjects: 16.965600 ms CreateObjectMapping: 14.875600 ms MarkObjects: 94.514700 ms  DeleteObjects: 60.500700 ms)
+
+First video frame not zero: 4 (0.066667s). Result may be out of sync. Please make sure tracks all start at 0 in archive:/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5.resource
+Unloading 2 Unused Serialized files (Serialized files now loaded: 583)
+Unloading 44 unused Assets to reduce memory usage. Loaded Objects now: 128410.
+Total: 126.983400 ms (FindLiveObjects: 14.290100 ms CreateObjectMapping: 9.190500 ms MarkObjects: 102.973500 ms  DeleteObjects: 0.528900 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 668)
+UnloadTime: 7.135300 ms
+First video frame not zero: 4 (0.066667s). Result may be out of sync. Please make sure tracks all start at 0 in archive:/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5.resource
+Unloading 10041 unused Assets to reduce memory usage. Loaded Objects now: 122758.
+Total: 199.278000 ms (FindLiveObjects: 20.209200 ms CreateObjectMapping: 17.318100 ms MarkObjects: 100.910000 ms  DeleteObjects: 60.840400 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 626)
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 129783.
+Total: 136.688700 ms (FindLiveObjects: 14.427200 ms CreateObjectMapping: 10.024400 ms MarkObjects: 111.853500 ms  DeleteObjects: 0.383400 ms)
+
+Using fallback 1 to find tilemap. Scene Bellshrine_05 requires manual fixing.
+Using fallback 1 to find tilemap. Scene Bellshrine_05 requires manual fixing.
+Using fallback 1 to find tilemap. Scene Bellshrine_05 requires manual fixing.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 611)
+Unloading 4043 unused Assets to reduce memory usage. Loaded Objects now: 127970.
+Total: 178.244600 ms (FindLiveObjects: 16.094200 ms CreateObjectMapping: 10.277000 ms MarkObjects: 118.827800 ms  DeleteObjects: 33.045200 ms)
+
+Hazard Respawn Trigger v2 (2) does not have a Hazard Respawn Marker Set
+Hazard Respawn Trigger v2 does not have a Hazard Respawn Marker Set
+Unable to update achievement progress for ALL_MAPS, because Steam is not initialized
 Unable to retrieve achievement state for FIRST_TOOL, because Steam is not initialized
 Unable to update achievement progress for ALL_TOOLS, because Steam is not initialized
-Unloading 1 Unused Serialized files (Serialized files now loaded: 639)
-Unloading 3957 unused Assets to reduce memory usage. Loaded Objects now: 141998.
-Total: 152.769800 ms (FindLiveObjects: 16.182600 ms CreateObjectMapping: 11.060400 ms MarkObjects: 105.605300 ms  DeleteObjects: 19.921300 ms)
+Cannot use 'linearVelocity' on a static body.
+Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft After 2'.
+gameObject1 is null!
+Using fallback 1 to find tilemap. Scene Bellshrine_05 requires manual fixing.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 635)
+Unloading 3633 unused Assets to reduce memory usage. Loaded Objects now: 128177.
+Total: 153.591100 ms (FindLiveObjects: 15.596000 ms CreateObjectMapping: 10.694900 ms MarkObjects: 103.437400 ms  DeleteObjects: 23.862400 ms)
 
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Unloading 1 Unused Serialized files (Serialized files now loaded: 639)
-Unloading 364 unused Assets to reduce memory usage. Loaded Objects now: 142044.
-Total: 140.077100 ms (FindLiveObjects: 16.914600 ms CreateObjectMapping: 10.268100 ms MarkObjects: 106.933900 ms  DeleteObjects: 5.960100 ms)
+Hazard Respawn Trigger v2 (2) does not have a Hazard Respawn Marker Set
+Hazard Respawn Trigger v2 does not have a Hazard Respawn Marker Set
+Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft After 2'.
+gameObject1 is null!
+Coroutine couldn't be started because the the game object 'Seamstress Umbrella Platform' is inactive!
+Unloading 1 Unused Serialized files (Serialized files now loaded: 644)
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+UnloadTime: 7.145500 ms
+Unloading 6648 unused Assets to reduce memory usage. Loaded Objects now: 123703.
+Total: 148.946000 ms (FindLiveObjects: 14.802200 ms CreateObjectMapping: 9.646600 ms MarkObjects: 94.226900 ms  DeleteObjects: 30.270000 ms)
 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 639)
-Unloading 364 unused Assets to reduce memory usage. Loaded Objects now: 142068.
-Total: 128.782600 ms (FindLiveObjects: 14.118000 ms CreateObjectMapping: 9.748700 ms MarkObjects: 98.627300 ms  DeleteObjects: 6.288200 ms)
+Unloading 0 Unused Serialized files (Serialized files now loaded: 539)
+Unloading 7866 unused Assets to reduce memory usage. Loaded Objects now: 26029.
+Total: 95.360800 ms (FindLiveObjects: 2.448400 ms CreateObjectMapping: 5.202300 ms MarkObjects: 68.632900 ms  DeleteObjects: 19.076700 ms)
 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 639)
-Unloading 364 unused Assets to reduce memory usage. Loaded Objects now: 142094.
-Total: 132.149900 ms (FindLiveObjects: 14.651400 ms CreateObjectMapping: 12.123300 ms MarkObjects: 99.491500 ms  DeleteObjects: 5.883500 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 639)
-Unloading 364 unused Assets to reduce memory usage. Loaded Objects now: 142119.
-Total: 131.971200 ms (FindLiveObjects: 15.463600 ms CreateObjectMapping: 10.249800 ms MarkObjects: 100.999100 ms  DeleteObjects: 5.258000 ms)
-
-Unable to retrieve achievement state for DEFEATED_LACE_1, because Steam is not initialized
-Unable to unlock achievement DEFEATED_LACE_1, because Steam is not initialized
-Unloading 1 Unused Serialized files (Serialized files now loaded: 641)
-UnloadTime: 17.123300 ms
-Unloading 3799 unused Assets to reduce memory usage. Loaded Objects now: 123163.
-Total: 131.681000 ms (FindLiveObjects: 14.458100 ms CreateObjectMapping: 10.207500 ms MarkObjects: 90.344100 ms  DeleteObjects: 16.671100 ms)
-
-Unloading 0 Unused Serialized files (Serialized files now loaded: 525)
-Unloading 7841 unused Assets to reduce memory usage. Loaded Objects now: 25679.
-Total: 73.843600 ms (FindLiveObjects: 2.289700 ms CreateObjectMapping: 3.903100 ms MarkObjects: 48.756700 ms  DeleteObjects: 18.893800 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 577)
-UnloadTime: 1.090200 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 586)
+UnloadTime: 1.046000 ms
 Loaded saved language code 'EN'
 Restored language code 'EN'
-Unloading 62 unused Assets to reduce memory usage. Loaded Objects now: 71854.
-Total: 90.398600 ms (FindLiveObjects: 5.826700 ms CreateObjectMapping: 7.531800 ms MarkObjects: 76.802900 ms  DeleteObjects: 0.236500 ms)
+Unloading 57 unused Assets to reduce memory usage. Loaded Objects now: 72199.
+Total: 101.049200 ms (FindLiveObjects: 7.521500 ms CreateObjectMapping: 11.881900 ms MarkObjects: 81.430500 ms  DeleteObjects: 0.214600 ms)
 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 575)
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 71838.
-Total: 120.987000 ms (FindLiveObjects: 7.617700 ms CreateObjectMapping: 8.292900 ms MarkObjects: 104.938800 ms  DeleteObjects: 0.137200 ms)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 584)
+Unloading 5611 unused Assets to reduce memory usage. Loaded Objects now: 66572.
+Total: 101.117600 ms (FindLiveObjects: 7.057800 ms CreateObjectMapping: 7.910500 ms MarkObjects: 69.819100 ms  DeleteObjects: 16.329900 ms)
 
 [Physics::Module] Cleanup current backned.
 [Physics::Module] Id: 0xf2b8ea05
