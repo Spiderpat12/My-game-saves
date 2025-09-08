@@ -544,3 +544,410 @@ Unloading 1 Unused Serialized files (Serialized files now loaded: 655)
 Unloading 5612 unused Assets to reduce memory usage. Loaded Objects now: 68584.
 Total: 79.176000 ms (FindLiveObjects: 7.373300 ms CreateObjectMapping: 6.993200 ms MarkObjects: 50.344100 ms  DeleteObjects: 14.464800 ms)
 
+MenuButton missing flashEffect!
+Making UI menu lean.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Unloading 1 Unused Serialized files (Serialized files now loaded: 652)
+Unloading 110 unused Assets to reduce memory usage. Loaded Objects now: 114341.
+Total: 98.151800 ms (FindLiveObjects: 10.895900 ms CreateObjectMapping: 10.371100 ms MarkObjects: 75.746100 ms  DeleteObjects: 1.138400 ms)
+
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Unloading 1 Unused Serialized files (Serialized files now loaded: 658)
+UnloadTime: 8.437400 ms
+First video frame not zero: 4 (0.066667s). Result may be out of sync. Please make sure tracks all start at 0 in archive:/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5.resource
+Unloading 5417 unused Assets to reduce memory usage. Loaded Objects now: 131078.
+Total: 155.161800 ms (FindLiveObjects: 17.278400 ms CreateObjectMapping: 10.833700 ms MarkObjects: 101.535800 ms  DeleteObjects: 25.513400 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 663)
+Unloading 41 unused Assets to reduce memory usage. Loaded Objects now: 141448.
+Total: 119.062500 ms (FindLiveObjects: 13.773400 ms CreateObjectMapping: 10.059400 ms MarkObjects: 94.633600 ms  DeleteObjects: 0.595800 ms)
+
+Using fallback 1 to find tilemap. Scene Bellshrine_03 requires manual fixing.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Cannot use 'linearVelocity' on a static body.
+Cannot set the parent of the GameObject 'Corpse Bone Circler(Clone)' while activating or deactivating the parent GameObject 'Art'.
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Unloading 1 Unused Serialized files (Serialized files now loaded: 743)
+UnloadTime: 6.858100 ms
+First video frame not zero: 4 (0.066667s). Result may be out of sync. Please make sure tracks all start at 0 in archive:/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5.resource
+Unloading 11836 unused Assets to reduce memory usage. Loaded Objects now: 131386.
+Total: 199.466400 ms (FindLiveObjects: 17.259500 ms CreateObjectMapping: 16.174500 ms MarkObjects: 106.363500 ms  DeleteObjects: 59.668400 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 666)
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 140815.
+Total: 125.939300 ms (FindLiveObjects: 16.012800 ms CreateObjectMapping: 11.093200 ms MarkObjects: 98.346900 ms  DeleteObjects: 0.486100 ms)
+
+Cannot use 'linearVelocity' on a static body.
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Cannot use 'linearVelocity' on a static body.
+Cannot use 'angularVelocity' on a static body.
+Cannot use 'angularVelocity' on a static body.
+Cannot use 'linearVelocity' on a static body.
+Cannot use 'linearVelocity' on a static body.
+Cannot use 'angularVelocity' on a static body.
+Cannot use 'angularVelocity' on a static body.
+Cannot use 'linearVelocity' on a static body.
+Cannot use 'linearVelocity' on a static body.
+Cannot use 'angularVelocity' on a static body.
+Cannot use 'angularVelocity' on a static body.
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Cannot use 'linearVelocity' on a static body.
+Cannot use 'linearVelocity' on a static body.
+Cannot use 'angularVelocity' on a static body.
+Cannot use 'angularVelocity' on a static body.
+Cannot use 'linearVelocity' on a static body.
+Cannot use 'linearVelocity' on a static body.
+Cannot use 'angularVelocity' on a static body.
+Cannot use 'angularVelocity' on a static body.
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Using fallback 1 to find tilemap. Scene Belltown_Shrine requires manual fixing.
+Cannot use 'linearVelocity' on a static body.
+Cannot use 'linearVelocity' on a static body.
+Cannot use 'angularVelocity' on a static body.
+Cannot use 'angularVelocity' on a static body.
+Can not play a disabled audio source
+Cannot use 'linearVelocity' on a static body.
+Cannot use 'linearVelocity' on a static body.
+Cannot use 'angularVelocity' on a static body.
+Cannot use 'angularVelocity' on a static body.
+Cannot use 'linearVelocity' on a static body.
+Cannot use 'linearVelocity' on a static body.
+Cannot use 'angularVelocity' on a static body.
+Using fallback 1 to find tilemap. Scene Belltown_Shrine requires manual fixing.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Unable to retrieve achievement state for FIRST_WISH, because Steam is not initialized
+Started loading clips for Bone Record Bone_East_14
+Started loading clips for Bone Record Greymoor_flooded_corridor
+Started loading clips for Bone Record Understore_Map_Room
+Started loading clips for Bone Record Wisp Top
+Started loading clips for Weaver Totem Bonetown_upper_room
+Started loading clips for Weaver Totem Witch
+Started loading clips for Weaver Totem Slab_Bottom
+Started loading clips for Seal Chit Aspid_01
+Started loading clips for Seal Chit Ward Corpse
+Started loading clips for Seal Chit City Merchant
+Started loading clips for Seal Chit Silk Siphon
+Started loading clips for Weaver Record Weave_08
+Started loading clips for Weaver Record Sprint_Challenge
+Started loading clips for Weaver Record Conductor
+Started loading clips for Ancient Egg Abyss Middle
+Started loading clips for Psalm Cylinder Librarian
+Started loading clips for Psalm Cylinder Ward
+Started loading clips for Psalm Cylinder Hang
+Started loading clips for Psalm Cylinder Grindle
+Started loading clips for Psalm Cylinder Library Roof
+Started loading clips for Librarian Melody Cylinder
+Finished loading gramaphone clip for Psalm Cylinder Librarian
+Finished loading gramaphone clip for Psalm Cylinder Ward
+Finished loading gramaphone clip for Psalm Cylinder Hang
+Finished loading gramaphone clip for Psalm Cylinder Grindle
+Finished loading gramaphone clip for Psalm Cylinder Library Roof
+Finished loading gramaphone clip for Librarian Melody Cylinder
+Finished loading needolin clip for Librarian Melody Cylinder
+Freed clips for Bone Record Bone_East_14
+Freed clips for Bone Record Greymoor_flooded_corridor
+Freed clips for Bone Record Understore_Map_Room
+Freed clips for Bone Record Wisp Top
+Freed clips for Weaver Totem Bonetown_upper_room
+Freed clips for Weaver Totem Witch
+Freed clips for Weaver Totem Slab_Bottom
+Freed clips for Seal Chit Aspid_01
+Freed clips for Seal Chit Ward Corpse
+Freed clips for Seal Chit City Merchant
+Freed clips for Seal Chit Silk Siphon
+Freed clips for Weaver Record Weave_08
+Freed clips for Weaver Record Sprint_Challenge
+Freed clips for Weaver Record Conductor
+Freed clips for Ancient Egg Abyss Middle
+Freed clips for Psalm Cylinder Librarian
+Freed clips for Psalm Cylinder Ward
+Freed clips for Psalm Cylinder Hang
+Freed clips for Psalm Cylinder Grindle
+Freed clips for Psalm Cylinder Library Roof
+Freed clips for Librarian Melody Cylinder
+Couldn't find transition point "door4", falling back to first available: "door5"
+Unloading 1 Unused Serialized files (Serialized files now loaded: 704)
+UnloadTime: 9.066600 ms
+First video frame not zero: 4 (0.066667s). Result may be out of sync. Please make sure tracks all start at 0 in archive:/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5.resource
+Unloading 11329 unused Assets to reduce memory usage. Loaded Objects now: 132532.
+Total: 207.185800 ms (FindLiveObjects: 17.648700 ms CreateObjectMapping: 14.218000 ms MarkObjects: 101.919800 ms  DeleteObjects: 73.398800 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 677)
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 146622.
+Total: 123.282800 ms (FindLiveObjects: 16.211600 ms CreateObjectMapping: 10.018200 ms MarkObjects: 96.725900 ms  DeleteObjects: 0.326800 ms)
+
+Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 689)
+Unloading 7763 unused Assets to reduce memory usage. Loaded Objects now: 146878.
+Total: 197.151700 ms (FindLiveObjects: 17.326200 ms CreateObjectMapping: 12.491200 ms MarkObjects: 120.364600 ms  DeleteObjects: 46.969400 ms)
+
+Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 685)
+Unloading 7338 unused Assets to reduce memory usage. Loaded Objects now: 143448.
+Total: 201.851100 ms (FindLiveObjects: 17.675000 ms CreateObjectMapping: 12.691500 ms MarkObjects: 113.046700 ms  DeleteObjects: 58.437500 ms)
+
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Cannot use 'linearVelocity' on a static body.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Hazard Respawn Trigger v2 (1) does not have a Hazard Respawn Marker Set
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 682)
+Unloading 5889 unused Assets to reduce memory usage. Loaded Objects now: 143885.
+Total: 161.485500 ms (FindLiveObjects: 18.009600 ms CreateObjectMapping: 13.655600 ms MarkObjects: 100.395400 ms  DeleteObjects: 29.424600 ms)
+
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot use 'linearVelocity' on a static body.
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Unable to update achievement progress for ALL_MAPS, because Steam is not initialized
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Sprite not found attached to tk2dSpriteAnimator.
+Cannot use 'linearVelocity' on a static body.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Sprite not found attached to tk2dSpriteAnimator.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 678)
+Unloading 8119 unused Assets to reduce memory usage. Loaded Objects now: 144304.
+Total: 187.820400 ms (FindLiveObjects: 17.475800 ms CreateObjectMapping: 11.989200 ms MarkObjects: 110.114400 ms  DeleteObjects: 48.240700 ms)
+
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Hazard Respawn Trigger v2 (1) does not have a Hazard Respawn Marker Set
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Sprite not found attached to tk2dSpriteAnimator.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 678)
+Unloading 5941 unused Assets to reduce memory usage. Loaded Objects now: 144101.
+Total: 182.859100 ms (FindLiveObjects: 18.473200 ms CreateObjectMapping: 12.810500 ms MarkObjects: 122.624400 ms  DeleteObjects: 28.950700 ms)
+
+Hazard Respawn Trigger v2 (1) does not have a Hazard Respawn Marker Set
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Unloading 1 Unused Serialized files (Serialized files now loaded: 682)
+Scene Manager missing from scene Arborium_09
+UnloadTime: 16.367800 ms
+Unloading 8098 unused Assets to reduce memory usage. Loaded Objects now: 132571.
+Total: 178.131500 ms (FindLiveObjects: 18.854100 ms CreateObjectMapping: 14.664800 ms MarkObjects: 122.033300 ms  DeleteObjects: 22.578900 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 607)
+Unloading 7392 unused Assets to reduce memory usage. Loaded Objects now: 29244.
+Total: 80.758700 ms (FindLiveObjects: 2.555200 ms CreateObjectMapping: 4.579000 ms MarkObjects: 57.560200 ms  DeleteObjects: 16.064000 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 657)
+UnloadTime: 0.590000 ms
+Loaded saved language code 'EN'
+Restored language code 'EN'
+Unloading 69 unused Assets to reduce memory usage. Loaded Objects now: 75008.
+Total: 93.128100 ms (FindLiveObjects: 6.852800 ms CreateObjectMapping: 9.968600 ms MarkObjects: 75.565900 ms  DeleteObjects: 0.740500 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 655)
+Unloading 5612 unused Assets to reduce memory usage. Loaded Objects now: 69380.
+Total: 82.903100 ms (FindLiveObjects: 7.996000 ms CreateObjectMapping: 7.444800 ms MarkObjects: 53.369100 ms  DeleteObjects: 14.092800 ms)
+
+MenuButton missing flashEffect!
+Making UI menu lean.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Sprite not found attached to tk2dSpriteAnimator.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 650)
+Unloading 294 unused Assets to reduce memory usage. Loaded Objects now: 119379.
+Total: 100.522400 ms (FindLiveObjects: 11.712600 ms CreateObjectMapping: 10.579900 ms MarkObjects: 76.812200 ms  DeleteObjects: 1.417500 ms)
+
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Hazard Respawn Trigger v2 (1) does not have a Hazard Respawn Marker Set
+Unable to retrieve achievement state for FIRST_SILK_SPOOL, because Steam is not initialized
+Unable to update achievement progress for ALL_SILK_SPOOLS, because Steam is not initialized
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Sprite not found attached to tk2dSpriteAnimator.
+Cannot use 'linearVelocity' on a static body.
+Cannot use 'linearVelocity' on a static body.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Sprite not found attached to tk2dSpriteAnimator.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 693)
+Unloading 7734 unused Assets to reduce memory usage. Loaded Objects now: 144616.
+Total: 163.956700 ms (FindLiveObjects: 17.537700 ms CreateObjectMapping: 11.464800 ms MarkObjects: 101.271200 ms  DeleteObjects: 33.682800 ms)
+
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Sprite not found attached to tk2dSpriteAnimator.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Unable to update achievement progress for BELLWAYS_FULL, because Steam is not initialized
+Unloading 1 Unused Serialized files (Serialized files now loaded: 699)
+Scene Manager missing from scene Bellway_Aqueduct
+UnloadTime: 10.225400 ms
+Unloading 12120 unused Assets to reduce memory usage. Loaded Objects now: 132929.
+Total: 201.719500 ms (FindLiveObjects: 16.069600 ms CreateObjectMapping: 13.006200 ms MarkObjects: 121.453200 ms  DeleteObjects: 51.190000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 607)
+Unloading 7424 unused Assets to reduce memory usage. Loaded Objects now: 29557.
+Total: 76.430700 ms (FindLiveObjects: 2.573000 ms CreateObjectMapping: 5.111200 ms MarkObjects: 53.105700 ms  DeleteObjects: 15.640600 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 657)
+UnloadTime: 0.967600 ms
+Loaded saved language code 'EN'
+Restored language code 'EN'
+Unloading 59 unused Assets to reduce memory usage. Loaded Objects now: 75329.
+Total: 75.608300 ms (FindLiveObjects: 6.449500 ms CreateObjectMapping: 9.894700 ms MarkObjects: 58.828800 ms  DeleteObjects: 0.435000 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 655)
+Unloading 5612 unused Assets to reduce memory usage. Loaded Objects now: 69701.
+Total: 76.083600 ms (FindLiveObjects: 6.320800 ms CreateObjectMapping: 7.992600 ms MarkObjects: 47.364500 ms  DeleteObjects: 14.405500 ms)
+
+[Physics::Module] Cleanup current backned.
+[Physics::Module] Id: 0xf2b8ea05
+Input System module state changed to: ShutdownInProgress.
+Input System polling thread exited.
+Input System module state changed to: Shutdown.
