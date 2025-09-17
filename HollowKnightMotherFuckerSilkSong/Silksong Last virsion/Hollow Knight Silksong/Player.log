@@ -13,8 +13,8 @@ Direct3D:
     VRAM:     1999 MB
     Driver:   32.0.15.7680
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.357 seconds
-- Finished resetting the current domain, in  0.003 seconds
+- Loaded All Assemblies, in  3.903 seconds
+- Finished resetting the current domain, in  0.039 seconds
 [Physics::Module] Selected backend.
 [Physics::Module] Name: PhysX
 [Physics::Module] Id: 0xf2b8ea05
@@ -24,35 +24,531 @@ Begin MonoManager ReloadAssembly
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.514600 ms
+UnloadTime: 4.616900 ms
 Steam initializing
 Steam failed to initialize
 Selected online subsystem SteamOnlineSubsystem
 Direct3D: detected that using refresh rate causes time drift. Will stop trusting refresh rate until the game window is moved.
 Direct3D: detected that vsync is broken (it does not limit frame rate properly). Delta time will now be calculated using cpu-side time stampling until the game window is moved.
+UnloadTime: 1.646200 ms
 Unloading 5 Unused Serialized files (Serialized files now loaded: 527)
-UnloadTime: 2.336500 ms
 Discovered supported languages: DE, EN, ES, FR, IT, JA, KO, PT, RU, ZH
 Loaded saved language code 'EN'
 Restored language code 'EN'
 Couldn't find a Game Manager, make sure one exists in the scene.
 Couldn't find GameCameras, make sure one exists in the scene.
 Unloading 53 unused Assets to reduce memory usage. Loaded Objects now: 6115.
-Total: 5.528400 ms (FindLiveObjects: 0.485900 ms CreateObjectMapping: 0.300600 ms MarkObjects: 4.679600 ms  DeleteObjects: 0.062200 ms)
+Total: 4.821500 ms (FindLiveObjects: 0.401100 ms CreateObjectMapping: 0.165600 ms MarkObjects: 4.182400 ms  DeleteObjects: 0.072200 ms)
 
-Unloading 2 Unused Serialized files (Serialized files now loaded: 527)
-Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 13333.
-Total: 10.817600 ms (FindLiveObjects: 0.877200 ms CreateObjectMapping: 1.493800 ms MarkObjects: 8.408100 ms  DeleteObjects: 0.037900 ms)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 527)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 6115.
+Total: 4.304400 ms (FindLiveObjects: 0.690800 ms CreateObjectMapping: 0.398800 ms MarkObjects: 3.202500 ms  DeleteObjects: 0.012000 ms)
 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 579)
 Couldn't find GameCameras, make sure one exists in the scene.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 579)
 Couldn't find a Game Manager, make sure one exists in the scene.
-UnloadTime: 10.120600 ms
+UnloadTime: 10.423200 ms
 Loaded saved language code 'EN'
 Restored language code 'EN'
 Unloading 73 unused Assets to reduce memory usage. Loaded Objects now: 66314.
-Total: 51.273300 ms (FindLiveObjects: 7.122900 ms CreateObjectMapping: 7.292500 ms MarkObjects: 36.443300 ms  DeleteObjects: 0.414000 ms)
+Total: 56.826900 ms (FindLiveObjects: 6.092100 ms CreateObjectMapping: 6.726700 ms MarkObjects: 43.603300 ms  DeleteObjects: 0.404600 ms)
 
+MenuButton missing flashEffect!
+Making UI menu lean.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Unloading 3 Unused Serialized files (Serialized files now loaded: 611)
+Unloading 107 unused Assets to reduce memory usage. Loaded Objects now: 118137.
+Total: 103.025000 ms (FindLiveObjects: 12.674900 ms CreateObjectMapping: 12.394100 ms MarkObjects: 77.095000 ms  DeleteObjects: 0.860500 ms)
+
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 628)
+UnloadTime: 22.888500 ms
+Unloading 7165 unused Assets to reduce memory usage. Loaded Objects now: 139322.
+Total: 162.205000 ms (FindLiveObjects: 16.515300 ms CreateObjectMapping: 14.692500 ms MarkObjects: 110.885000 ms  DeleteObjects: 20.111900 ms)
+
+Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for archive:/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1.resource
+Unloading 2 Unused Serialized files (Serialized files now loaded: 638)
+Unloading 114 unused Assets to reduce memory usage. Loaded Objects now: 153742.
+Total: 127.077100 ms (FindLiveObjects: 14.653500 ms CreateObjectMapping: 9.100200 ms MarkObjects: 102.109100 ms  DeleteObjects: 1.214100 ms)
+
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Cannot set the parent of the GameObject 'Start Marker' while activating or deactivating the parent GameObject 'Song Reed Grand'.
+Cannot set the parent of the GameObject 'Battle Range' while activating or deactivating the parent GameObject 'Song Reed Grand'.
+Can't add component 'AudioLowPassFilter' to Audio Player broken cogs because such a component is already added to the game object!
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Cannot set the parent of the GameObject 'Start Marker' while activating or deactivating the parent GameObject 'Song Reed Grand'.
+Cannot set the parent of the GameObject 'Battle Range' while activating or deactivating the parent GameObject 'Song Reed Grand'.
+Can't add component 'AudioLowPassFilter' to Audio Player broken cogs because such a component is already added to the game object!
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Cannot set the parent of the GameObject 'Start Marker' while activating or deactivating the parent GameObject 'Song Reed Grand'.
+Cannot set the parent of the GameObject 'Battle Range' while activating or deactivating the parent GameObject 'Song Reed Grand'.
+Can't add component 'AudioLowPassFilter' to Audio Player broken cogs because such a component is already added to the game object!
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 610)
+Unloading 7087 unused Assets to reduce memory usage. Loaded Objects now: 154980.
+Total: 158.914000 ms (FindLiveObjects: 17.819100 ms CreateObjectMapping: 11.179400 ms MarkObjects: 95.615800 ms  DeleteObjects: 34.299400 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 616)
+UnloadTime: 14.325600 ms
+Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for archive:/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1.resource
+Unloading 4699 unused Assets to reduce memory usage. Loaded Objects now: 140076.
+Total: 160.055300 ms (FindLiveObjects: 16.084600 ms CreateObjectMapping: 11.394800 ms MarkObjects: 122.048700 ms  DeleteObjects: 10.526500 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 603)
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 148464.
+Total: 117.103500 ms (FindLiveObjects: 14.820600 ms CreateObjectMapping: 9.999800 ms MarkObjects: 91.326800 ms  DeleteObjects: 0.955900 ms)
+
+Coroutine couldn't be started because the the game object 'Camera Wind Region' is inactive!
+Unable to retrieve achievement state for FIRST_TOOL, because Steam is not initialized
+Unable to update achievement progress for ALL_TOOLS, because Steam is not initialized
+Coroutine couldn't be started because the the game object 'Camera Wind Region' is inactive!
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 591)
+UnloadTime: 8.969700 ms
+Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for archive:/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1.resource
+Unloading 6831 unused Assets to reduce memory usage. Loaded Objects now: 140303.
+Total: 144.741500 ms (FindLiveObjects: 18.020700 ms CreateObjectMapping: 12.768600 ms MarkObjects: 93.666600 ms  DeleteObjects: 20.285200 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 603)
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 155178.
+Total: 118.844500 ms (FindLiveObjects: 14.689300 ms CreateObjectMapping: 9.429300 ms MarkObjects: 94.429300 ms  DeleteObjects: 0.296300 ms)
+
+Could Not Create Action: : Dialogue: Churchkeeper:  (Maybe the script was removed?)
+Cannot set the parent of the GameObject 'Start Marker' while activating or deactivating the parent GameObject 'Song Reed Grand'.
+Cannot set the parent of the GameObject 'Battle Range' while activating or deactivating the parent GameObject 'Song Reed Grand'.
+Can't add component 'AudioLowPassFilter' to Audio Player broken cogs because such a component is already added to the game object!
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Unable to retrieve achievement state for FIRST_SILK_SKILL, because Steam is not initialized
+Unable to retrieve achievement state for ALL_SILK_SKILLS, because Steam is not initialized
+Unable to unlock achievement ALL_SILK_SKILLS, because Steam is not initialized
+Unable to update achievement progress for ALL_SILK_SKILLS, because Steam is not initialized
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Can not play a disabled audio source
+Unloading 1 Unused Serialized files (Serialized files now loaded: 584)
+Unloading 8737 unused Assets to reduce memory usage. Loaded Objects now: 142690.
+Total: 179.001800 ms (FindLiveObjects: 16.578100 ms CreateObjectMapping: 11.622000 ms MarkObjects: 103.311100 ms  DeleteObjects: 47.490400 ms)
+
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Cannot use 'linearVelocity' on a static body.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 602)
+Unloading 2289 unused Assets to reduce memory usage. Loaded Objects now: 155389.
+Total: 129.225000 ms (FindLiveObjects: 15.639800 ms CreateObjectMapping: 9.778400 ms MarkObjects: 93.559000 ms  DeleteObjects: 10.246900 ms)
+
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 600)
+UnloadTime: 15.948400 ms
+Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for archive:/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1.resource
+Unloading 4706 unused Assets to reduce memory usage. Loaded Objects now: 140601.
+Total: 231.339200 ms (FindLiveObjects: 16.484100 ms CreateObjectMapping: 15.504500 ms MarkObjects: 184.384500 ms  DeleteObjects: 14.965300 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 610)
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 147845.
+Total: 113.087900 ms (FindLiveObjects: 14.738700 ms CreateObjectMapping: 9.943400 ms MarkObjects: 88.090300 ms  DeleteObjects: 0.315100 ms)
+
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 619)
+Unloading 2007 unused Assets to reduce memory usage. Loaded Objects now: 147963.
+Total: 133.348700 ms (FindLiveObjects: 14.572900 ms CreateObjectMapping: 9.434100 ms MarkObjects: 101.704100 ms  DeleteObjects: 7.637400 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 625)
+Scene Manager missing from scene Bellway_Shadow
+UnloadTime: 7.078000 ms
+Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for archive:/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1.resource
+Unloading 3485 unused Assets to reduce memory usage. Loaded Objects now: 140159.
+Total: 120.926400 ms (FindLiveObjects: 15.703600 ms CreateObjectMapping: 14.205000 ms MarkObjects: 80.908000 ms  DeleteObjects: 10.109300 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 603)
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 151147.
+Total: 114.342800 ms (FindLiveObjects: 14.402700 ms CreateObjectMapping: 9.776500 ms MarkObjects: 89.427100 ms  DeleteObjects: 0.735900 ms)
+
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Hazard Respawn Trigger v2 (12) does not have a Hazard Respawn Marker Set
+Unable to retrieve achievement state for FIRST_WISH, because Steam is not initialized
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Cannot use 'linearVelocity' on a static body.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 581)
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+UnloadTime: 14.886800 ms
+Unloading 7031 unused Assets to reduce memory usage. Loaded Objects now: 141162.
+Total: 144.837000 ms (FindLiveObjects: 14.671600 ms CreateObjectMapping: 9.634900 ms MarkObjects: 78.151900 ms  DeleteObjects: 42.378400 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 525)
+Unloading 6899 unused Assets to reduce memory usage. Loaded Objects now: 26728.
+Total: 78.498600 ms (FindLiveObjects: 2.776500 ms CreateObjectMapping: 5.622700 ms MarkObjects: 56.002300 ms  DeleteObjects: 14.096600 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 577)
+UnloadTime: 0.974200 ms
+Loaded saved language code 'EN'
+Restored language code 'EN'
+Unloading 56 unused Assets to reduce memory usage. Loaded Objects now: 71963.
+Total: 91.061000 ms (FindLiveObjects: 6.541000 ms CreateObjectMapping: 6.981000 ms MarkObjects: 77.293900 ms  DeleteObjects: 0.244700 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 575)
+Unloading 5619 unused Assets to reduce memory usage. Loaded Objects now: 66328.
+Total: 71.410000 ms (FindLiveObjects: 6.869100 ms CreateObjectMapping: 7.269400 ms MarkObjects: 42.230800 ms  DeleteObjects: 15.040500 ms)
+
+MenuButton missing flashEffect!
+Making UI menu lean.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Unloading 1 Unused Serialized files (Serialized files now loaded: 600)
+Unloading 114 unused Assets to reduce memory usage. Loaded Objects now: 116917.
+Total: 105.345900 ms (FindLiveObjects: 10.359800 ms CreateObjectMapping: 11.017000 ms MarkObjects: 82.856000 ms  DeleteObjects: 1.112600 ms)
+
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Cannot use 'linearVelocity' on a static body.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
+Hazard Respawn Trigger v2 (12) does not have a Hazard Respawn Marker Set
+Hazard Respawn Trigger v2 (12) does not have a Hazard Respawn Marker Set
+Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
+Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Roachfeeder Short'.
+Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Roachfeeder Short'.
+Can not play a disabled audio source
+Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 671)
+Unloading 7751 unused Assets to reduce memory usage. Loaded Objects now: 157824.
+Total: 198.331900 ms (FindLiveObjects: 16.936400 ms CreateObjectMapping: 10.609800 ms MarkObjects: 104.415300 ms  DeleteObjects: 66.370100 ms)
+
+Can not play a disabled audio source
+Can not play a disabled audio source
+Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Roachfeeder Short'.
+Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Roachfeeder Short'.
+Can not play a disabled audio source
+Coroutine couldn't be started because the the game object 'Farmer Catcher (3)' is inactive!
+Coroutine couldn't be started because the the game object 'Farmer Catcher (3)' is inactive!
+Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
+Cannot use 'linearVelocity' on a static body.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 617)
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+Scene Manager missing from scene Dust_04
+UnloadTime: 17.283400 ms
+Unloading 8557 unused Assets to reduce memory usage. Loaded Objects now: 141186.
+Total: 185.206300 ms (FindLiveObjects: 16.612300 ms CreateObjectMapping: 10.248000 ms MarkObjects: 83.742100 ms  DeleteObjects: 74.603700 ms)
+
+Inactive coroutines were cleared: 1
+Unloading 0 Unused Serialized files (Serialized files now loaded: 525)
+Unloading 7154 unused Assets to reduce memory usage. Loaded Objects now: 27299.
+Total: 79.048800 ms (FindLiveObjects: 2.356800 ms CreateObjectMapping: 4.853800 ms MarkObjects: 56.427000 ms  DeleteObjects: 15.410900 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 577)
+UnloadTime: 0.436000 ms
+Loaded saved language code 'EN'
+Restored language code 'EN'
+Unloading 55 unused Assets to reduce memory usage. Loaded Objects now: 72521.
+Total: 90.950900 ms (FindLiveObjects: 6.126000 ms CreateObjectMapping: 7.282000 ms MarkObjects: 77.327900 ms  DeleteObjects: 0.214600 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 575)
+Unloading 5596 unused Assets to reduce memory usage. Loaded Objects now: 66909.
+Total: 67.759900 ms (FindLiveObjects: 5.826200 ms CreateObjectMapping: 7.809500 ms MarkObjects: 39.573100 ms  DeleteObjects: 14.550800 ms)
+
+MenuButton missing flashEffect!
+Making UI menu lean.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Unloading 1 Unused Serialized files (Serialized files now loaded: 615)
+Unloading 117 unused Assets to reduce memory usage. Loaded Objects now: 121155.
+Total: 101.685900 ms (FindLiveObjects: 11.121300 ms CreateObjectMapping: 10.683800 ms MarkObjects: 78.893000 ms  DeleteObjects: 0.987500 ms)
+
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Can not play a disabled audio source
+Can not play a disabled audio source
+Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Roachfeeder Short'.
+Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Roachfeeder Short'.
+Can not play a disabled audio source
+Unable to retrieve achievement state for FIRST_WISH, because Steam is not initialized
+Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for archive:/CAB-74414972cb415d866e51ce80a0999ed7/CAB-74414972cb415d866e51ce80a0999ed7.resource
+Coroutine couldn't be started because the the game object 'CutsceneScreen' is inactive!
+Unable to retrieve achievement state for FIRST_CREST, because Steam is not initialized
+Unable to retrieve achievement state for ALL_CRESTS, because Steam is not initialized
+Unable to unlock achievement ALL_CRESTS, because Steam is not initialized
+Unable to update achievement progress for ALL_CRESTS, because Steam is not initialized
+Unloading 1 Unused Serialized files (Serialized files now loaded: 658)
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+UnloadTime: 10.704500 ms
+Unloading 8136 unused Assets to reduce memory usage. Loaded Objects now: 141794.
+Total: 153.683500 ms (FindLiveObjects: 14.470300 ms CreateObjectMapping: 9.835900 ms MarkObjects: 83.483000 ms  DeleteObjects: 45.893900 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 525)
+Unloading 7098 unused Assets to reduce memory usage. Loaded Objects now: 27685.
+Total: 80.968200 ms (FindLiveObjects: 2.386900 ms CreateObjectMapping: 4.205300 ms MarkObjects: 58.730600 ms  DeleteObjects: 15.645100 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 577)
+UnloadTime: 0.439500 ms
+Loaded saved language code 'EN'
+Restored language code 'EN'
+Unloading 223 unused Assets to reduce memory usage. Loaded Objects now: 72738.
+Total: 72.889900 ms (FindLiveObjects: 7.289300 ms CreateObjectMapping: 7.199500 ms MarkObjects: 57.117500 ms  DeleteObjects: 1.283300 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 575)
+Unloading 5590 unused Assets to reduce memory usage. Loaded Objects now: 67132.
+Total: 65.694400 ms (FindLiveObjects: 6.354800 ms CreateObjectMapping: 6.644900 ms MarkObjects: 38.495300 ms  DeleteObjects: 14.198900 ms)
+
+MenuButton missing flashEffect!
+Making UI menu lean.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Unloading 1 Unused Serialized files (Serialized files now loaded: 586)
+Unloading 113 unused Assets to reduce memory usage. Loaded Objects now: 115890.
+Total: 89.947400 ms (FindLiveObjects: 11.353300 ms CreateObjectMapping: 9.653400 ms MarkObjects: 68.046700 ms  DeleteObjects: 0.893300 ms)
+
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Roachfeeder Short'.
+Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Roachfeeder Short'.
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Started loading clips for Bone Record Bone_East_14
+Started loading clips for Bone Record Greymoor_flooded_corridor
+Started loading clips for Bone Record Understore_Map_Room
+Started loading clips for Bone Record Wisp Top
+Started loading clips for Weaver Totem Bonetown_upper_room
+Started loading clips for Weaver Totem Witch
+Started loading clips for Weaver Totem Slab_Bottom
+Started loading clips for Seal Chit Aspid_01
+Started loading clips for Seal Chit Ward Corpse
+Started loading clips for Seal Chit City Merchant
+Started loading clips for Seal Chit Silk Siphon
+Started loading clips for Weaver Record Weave_08
+Started loading clips for Weaver Record Sprint_Challenge
+Started loading clips for Weaver Record Conductor
+Started loading clips for Ancient Egg Abyss Middle
+Started loading clips for Psalm Cylinder Librarian
+Started loading clips for Psalm Cylinder Ward
+Started loading clips for Psalm Cylinder Hang
+Started loading clips for Psalm Cylinder Grindle
+Started loading clips for Psalm Cylinder Library Roof
+Started loading clips for Librarian Melody Cylinder
+Finished loading gramaphone clip for Psalm Cylinder Librarian
+Finished loading gramaphone clip for Psalm Cylinder Ward
+Finished loading gramaphone clip for Psalm Cylinder Hang
+Finished loading gramaphone clip for Psalm Cylinder Grindle
+Finished loading gramaphone clip for Psalm Cylinder Library Roof
+Finished loading gramaphone clip for Librarian Melody Cylinder
+Finished loading needolin clip for Librarian Melody Cylinder
+Freed clips for Bone Record Bone_East_14
+Freed clips for Bone Record Greymoor_flooded_corridor
+Freed clips for Bone Record Understore_Map_Room
+Freed clips for Bone Record Wisp Top
+Freed clips for Weaver Totem Bonetown_upper_room
+Freed clips for Weaver Totem Witch
+Freed clips for Weaver Totem Slab_Bottom
+Freed clips for Seal Chit Aspid_01
+Freed clips for Seal Chit Ward Corpse
+Freed clips for Seal Chit City Merchant
+Freed clips for Seal Chit Silk Siphon
+Freed clips for Weaver Record Weave_08
+Freed clips for Weaver Record Sprint_Challenge
+Freed clips for Weaver Record Conductor
+Freed clips for Ancient Egg Abyss Middle
+Freed clips for Psalm Cylinder Librarian
+Freed clips for Psalm Cylinder Ward
+Freed clips for Psalm Cylinder Hang
+Freed clips for Psalm Cylinder Grindle
+Freed clips for Psalm Cylinder Library Roof
+Freed clips for Librarian Melody Cylinder
+Couldn't find transition point "door4", falling back to first available: "door5"
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Started loading clips for Bone Record Bone_East_14
+Started loading clips for Bone Record Greymoor_flooded_corridor
+Started loading clips for Bone Record Understore_Map_Room
+Started loading clips for Bone Record Wisp Top
+Started loading clips for Weaver Totem Bonetown_upper_room
+Started loading clips for Weaver Totem Witch
+Started loading clips for Weaver Totem Slab_Bottom
+Started loading clips for Seal Chit Aspid_01
+Started loading clips for Seal Chit Ward Corpse
+Started loading clips for Seal Chit City Merchant
+Started loading clips for Seal Chit Silk Siphon
+Started loading clips for Weaver Record Weave_08
+Started loading clips for Weaver Record Sprint_Challenge
+Started loading clips for Weaver Record Conductor
+Started loading clips for Ancient Egg Abyss Middle
+Started loading clips for Psalm Cylinder Librarian
+Started loading clips for Psalm Cylinder Ward
+Started loading clips for Psalm Cylinder Hang
+Started loading clips for Psalm Cylinder Grindle
+Started loading clips for Psalm Cylinder Library Roof
+Started loading clips for Librarian Melody Cylinder
+Finished loading gramaphone clip for Psalm Cylinder Librarian
+Finished loading gramaphone clip for Psalm Cylinder Ward
+Finished loading gramaphone clip for Psalm Cylinder Hang
+Finished loading gramaphone clip for Psalm Cylinder Grindle
+Finished loading gramaphone clip for Psalm Cylinder Library Roof
+Finished loading gramaphone clip for Librarian Melody Cylinder
+Finished loading needolin clip for Librarian Melody Cylinder
+Unable to retrieve achievement state for BELLHOME, because Steam is not initialized
+Freed clips for Bone Record Bone_East_14
+Freed clips for Bone Record Greymoor_flooded_corridor
+Freed clips for Bone Record Understore_Map_Room
+Freed clips for Bone Record Wisp Top
+Freed clips for Weaver Totem Bonetown_upper_room
+Freed clips for Weaver Totem Witch
+Freed clips for Weaver Totem Slab_Bottom
+Freed clips for Seal Chit Aspid_01
+Freed clips for Seal Chit Ward Corpse
+Freed clips for Seal Chit City Merchant
+Freed clips for Seal Chit Silk Siphon
+Freed clips for Weaver Record Weave_08
+Freed clips for Weaver Record Sprint_Challenge
+Freed clips for Weaver Record Conductor
+Freed clips for Ancient Egg Abyss Middle
+Freed clips for Psalm Cylinder Librarian
+Freed clips for Psalm Cylinder Ward
+Freed clips for Psalm Cylinder Hang
+Freed clips for Psalm Cylinder Grindle
+Freed clips for Psalm Cylinder Library Roof
+Freed clips for Librarian Melody Cylinder
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 643)
+UnloadTime: 10.295200 ms
+Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for archive:/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1.resource
+Unloading 10057 unused Assets to reduce memory usage. Loaded Objects now: 141431.
+Total: 201.568400 ms (FindLiveObjects: 17.330200 ms CreateObjectMapping: 13.079300 ms MarkObjects: 112.001000 ms  DeleteObjects: 59.157600 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 605)
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 156497.
+Total: 128.786000 ms (FindLiveObjects: 15.696000 ms CreateObjectMapping: 10.216100 ms MarkObjects: 102.573800 ms  DeleteObjects: 0.299900 ms)
+
+Could Not Create Action: : Dialogue: Churchkeeper:  (Maybe the script was removed?)
+Started loading clips for Psalm Cylinder Library Roof
+Finished loading gramaphone clip for Psalm Cylinder Library Roof
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Freed clips for Psalm Cylinder Library Roof
+Started loading clips for Psalm Cylinder Library Roof
+Finished loading gramaphone clip for Psalm Cylinder Library Roof
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Started loading clips for Psalm Cylinder Librarian
+Started loading clips for Psalm Cylinder Ward
+Started loading clips for Psalm Cylinder Hang
+Started loading clips for Psalm Cylinder Grindle
+Started loading clips for Librarian Melody Cylinder
+Finished loading gramaphone clip for Psalm Cylinder Librarian
+Finished loading gramaphone clip for Psalm Cylinder Ward
+Finished loading gramaphone clip for Psalm Cylinder Hang
+Finished loading gramaphone clip for Psalm Cylinder Grindle
+Finished loading gramaphone clip for Librarian Melody Cylinder
+Finished loading needolin clip for Librarian Melody Cylinder
+Freed clips for Psalm Cylinder Librarian
+Freed clips for Psalm Cylinder Hang
+Freed clips for Psalm Cylinder Grindle
+Freed clips for Librarian Melody Cylinder
+Freed clips for Psalm Cylinder Library Roof
+Unloading 1 Unused Serialized files (Serialized files now loaded: 598)
+UnloadTime: 36.652200 ms
+Unloading 7935 unused Assets to reduce memory usage. Loaded Objects now: 141446.
+Total: 184.245800 ms (FindLiveObjects: 15.937800 ms CreateObjectMapping: 11.277100 ms MarkObjects: 104.506900 ms  DeleteObjects: 52.523800 ms)
+
+Freed clips for Psalm Cylinder Ward
+Unloading 0 Unused Serialized files (Serialized files now loaded: 525)
+Unloading 6862 unused Assets to reduce memory usage. Loaded Objects now: 27827.
+Total: 81.285500 ms (FindLiveObjects: 2.403900 ms CreateObjectMapping: 3.847600 ms MarkObjects: 60.491300 ms  DeleteObjects: 14.542500 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 577)
+UnloadTime: 0.451300 ms
+Loaded saved language code 'EN'
+Restored language code 'EN'
+Unloading 77 unused Assets to reduce memory usage. Loaded Objects now: 73032.
+Total: 140.185100 ms (FindLiveObjects: 6.250200 ms CreateObjectMapping: 8.417800 ms MarkObjects: 124.629000 ms  DeleteObjects: 0.887800 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 575)
+Unloading 5594 unused Assets to reduce memory usage. Loaded Objects now: 67422.
+Total: 85.503500 ms (FindLiveObjects: 6.194100 ms CreateObjectMapping: 6.922500 ms MarkObjects: 56.407300 ms  DeleteObjects: 15.979100 ms)
+
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
 [Physics::Module] Cleanup current backned.
 [Physics::Module] Id: 0xf2b8ea05
 Input System module state changed to: ShutdownInProgress.

@@ -13,8 +13,8 @@ Direct3D:
     VRAM:     1999 MB
     Driver:   32.0.15.7680
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.486 seconds
-- Finished resetting the current domain, in  0.006 seconds
+- Loaded All Assemblies, in  0.403 seconds
+- Finished resetting the current domain, in  0.003 seconds
 [Physics::Module] Selected backend.
 [Physics::Module] Name: PhysX
 [Physics::Module] Id: 0xf2b8ea05
@@ -24,38 +24,154 @@ Begin MonoManager ReloadAssembly
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.550000 ms
+UnloadTime: 0.765200 ms
 Steam initializing
 Steam failed to initialize
 Selected online subsystem SteamOnlineSubsystem
 Direct3D: detected that using refresh rate causes time drift. Will stop trusting refresh rate until the game window is moved.
 Direct3D: detected that vsync is broken (it does not limit frame rate properly). Delta time will now be calculated using cpu-side time stampling until the game window is moved.
 Unloading 5 Unused Serialized files (Serialized files now loaded: 527)
-UnloadTime: 1.605500 ms
+UnloadTime: 1.594500 ms
 Discovered supported languages: DE, EN, ES, FR, IT, JA, KO, PT, RU, ZH
 Loaded saved language code 'EN'
 Restored language code 'EN'
 Couldn't find a Game Manager, make sure one exists in the scene.
 Couldn't find GameCameras, make sure one exists in the scene.
 Unloading 53 unused Assets to reduce memory usage. Loaded Objects now: 6115.
-Total: 6.556500 ms (FindLiveObjects: 0.407000 ms CreateObjectMapping: 0.396200 ms MarkObjects: 5.691800 ms  DeleteObjects: 0.061100 ms)
+Total: 5.354000 ms (FindLiveObjects: 0.368500 ms CreateObjectMapping: 0.193700 ms MarkObjects: 4.734800 ms  DeleteObjects: 0.056600 ms)
 
 Unloading 2 Unused Serialized files (Serialized files now loaded: 527)
 Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 13333.
-Total: 7.053400 ms (FindLiveObjects: 0.781900 ms CreateObjectMapping: 0.725900 ms MarkObjects: 5.474400 ms  DeleteObjects: 0.071000 ms)
+Total: 8.947500 ms (FindLiveObjects: 1.283800 ms CreateObjectMapping: 1.762200 ms MarkObjects: 5.806600 ms  DeleteObjects: 0.094600 ms)
 
 Unloading 1 Unused Serialized files (Serialized files now loaded: 579)
 Couldn't find GameCameras, make sure one exists in the scene.
 Couldn't find a Game Manager, make sure one exists in the scene.
-UnloadTime: 12.531300 ms
+UnloadTime: 21.426700 ms
 Loaded saved language code 'EN'
 Restored language code 'EN'
 Unloading 73 unused Assets to reduce memory usage. Loaded Objects now: 66314.
-Total: 81.653800 ms (FindLiveObjects: 8.847700 ms CreateObjectMapping: 8.281900 ms MarkObjects: 64.165000 ms  DeleteObjects: 0.358700 ms)
+Total: 84.171000 ms (FindLiveObjects: 6.933300 ms CreateObjectMapping: 9.221100 ms MarkObjects: 67.685000 ms  DeleteObjects: 0.331200 ms)
 
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
+MenuButton missing flashEffect!
+Making UI menu lean.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Unloading 3 Unused Serialized files (Serialized files now loaded: 562)
+Unloading 235 unused Assets to reduce memory usage. Loaded Objects now: 107720.
+Total: 110.920500 ms (FindLiveObjects: 11.170100 ms CreateObjectMapping: 9.055900 ms MarkObjects: 88.275900 ms  DeleteObjects: 2.418100 ms)
+
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Couldn't find transition point "door1", falling back to first available: "left1"
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Unloading 1 Unused Serialized files (Serialized files now loaded: 632)
+Unloading 5129 unused Assets to reduce memory usage. Loaded Objects now: 146024.
+Total: 156.745000 ms (FindLiveObjects: 18.169300 ms CreateObjectMapping: 13.337900 ms MarkObjects: 105.303800 ms  DeleteObjects: 19.933600 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 649)
+Scene Manager missing from scene Bellway_02
+Scene Manager missing from scene Bellway_02
+UnloadTime: 10.822400 ms
+Unloading 4279 unused Assets to reduce memory usage. Loaded Objects now: 139044.
+Total: 154.967200 ms (FindLiveObjects: 16.489700 ms CreateObjectMapping: 14.092600 ms MarkObjects: 113.376300 ms  DeleteObjects: 11.008300 ms)
+
+Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for archive:/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1.resource
+Unloading 2 Unused Serialized files (Serialized files now loaded: 589)
+Unloading 48 unused Assets to reduce memory usage. Loaded Objects now: 144688.
+Total: 113.129400 ms (FindLiveObjects: 15.154900 ms CreateObjectMapping: 9.281000 ms MarkObjects: 86.696200 ms  DeleteObjects: 1.997000 ms)
+
+Reloading same scene! Destroying GuidComponents to prevent collisions...
+Unable to retrieve achievement state for FIRST_CREST, because Steam is not initialized
+Unable to update achievement progress for ALL_CRESTS, because Steam is not initialized
+Couldn't find transition point "door2", falling back to first available: "top1"
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Using fallback 1 to find tilemap. Scene Bellshrine requires manual fixing.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Using fallback 1 to find tilemap. Scene Bellshrine requires manual fixing.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 661)
+UnloadTime: 16.181200 ms
+Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for archive:/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1.resource
+Unloading 12276 unused Assets to reduce memory usage. Loaded Objects now: 140532.
+Total: 282.014000 ms (FindLiveObjects: 21.068100 ms CreateObjectMapping: 27.261000 ms MarkObjects: 141.395200 ms  DeleteObjects: 92.289300 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 654)
+Unloading 55 unused Assets to reduce memory usage. Loaded Objects now: 153438.
+Total: 166.860300 ms (FindLiveObjects: 18.167300 ms CreateObjectMapping: 11.495700 ms MarkObjects: 132.564700 ms  DeleteObjects: 4.632200 ms)
+
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+gameObject1 is null!
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 632)
+Unloading 3336 unused Assets to reduce memory usage. Loaded Objects now: 153362.
+Total: 201.640700 ms (FindLiveObjects: 23.318800 ms CreateObjectMapping: 11.355500 ms MarkObjects: 124.009900 ms  DeleteObjects: 42.956200 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 645)
+Scene Manager missing from scene Bellway_03
+Scene Manager missing from scene Bellway_03
+UnloadTime: 18.596800 ms
+Unloading 5026 unused Assets to reduce memory usage. Loaded Objects now: 139862.
+Total: 181.114800 ms (FindLiveObjects: 17.758600 ms CreateObjectMapping: 12.756100 ms MarkObjects: 130.335900 ms  DeleteObjects: 20.263700 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 587)
+Unloading 6923 unused Assets to reduce memory usage. Loaded Objects now: 26682.
+Total: 118.903900 ms (FindLiveObjects: 4.204800 ms CreateObjectMapping: 5.008300 ms MarkObjects: 91.103100 ms  DeleteObjects: 18.587500 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 637)
+UnloadTime: 1.085100 ms
+Loaded saved language code 'EN'
+Restored language code 'EN'
+Unloading 99 unused Assets to reduce memory usage. Loaded Objects now: 71873.
+Total: 129.240800 ms (FindLiveObjects: 6.902900 ms CreateObjectMapping: 11.408900 ms MarkObjects: 109.849200 ms  DeleteObjects: 1.079400 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 635)
+Unloading 5619 unused Assets to reduce memory usage. Loaded Objects now: 66238.
+Total: 128.822100 ms (FindLiveObjects: 10.092000 ms CreateObjectMapping: 9.659600 ms MarkObjects: 92.403500 ms  DeleteObjects: 16.666400 ms)
+
 Couldn't find a Game Manager, make sure one exists in the scene.
 Couldn't find a Game Manager, make sure one exists in the scene.
 Couldn't find a Game Manager, make sure one exists in the scene.
