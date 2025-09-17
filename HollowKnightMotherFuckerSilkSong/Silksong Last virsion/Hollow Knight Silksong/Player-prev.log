@@ -13,8 +13,8 @@ Direct3D:
     VRAM:     1999 MB
     Driver:   32.0.15.7680
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.403 seconds
-- Finished resetting the current domain, in  0.003 seconds
+- Loaded All Assemblies, in  3.811 seconds
+- Finished resetting the current domain, in  0.039 seconds
 [Physics::Module] Selected backend.
 [Physics::Module] Name: PhysX
 [Physics::Module] Id: 0xf2b8ea05
@@ -24,153 +24,222 @@ Begin MonoManager ReloadAssembly
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.765200 ms
+UnloadTime: 9.366700 ms
 Steam initializing
 Steam failed to initialize
 Selected online subsystem SteamOnlineSubsystem
 Direct3D: detected that using refresh rate causes time drift. Will stop trusting refresh rate until the game window is moved.
 Direct3D: detected that vsync is broken (it does not limit frame rate properly). Delta time will now be calculated using cpu-side time stampling until the game window is moved.
+UnloadTime: 4.915400 ms
 Unloading 5 Unused Serialized files (Serialized files now loaded: 527)
-UnloadTime: 1.594500 ms
 Discovered supported languages: DE, EN, ES, FR, IT, JA, KO, PT, RU, ZH
 Loaded saved language code 'EN'
 Restored language code 'EN'
 Couldn't find a Game Manager, make sure one exists in the scene.
 Couldn't find GameCameras, make sure one exists in the scene.
 Unloading 53 unused Assets to reduce memory usage. Loaded Objects now: 6115.
-Total: 5.354000 ms (FindLiveObjects: 0.368500 ms CreateObjectMapping: 0.193700 ms MarkObjects: 4.734800 ms  DeleteObjects: 0.056600 ms)
+Total: 3.908300 ms (FindLiveObjects: 0.380200 ms CreateObjectMapping: 0.201100 ms MarkObjects: 3.263900 ms  DeleteObjects: 0.063000 ms)
 
-Unloading 2 Unused Serialized files (Serialized files now loaded: 527)
-Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 13333.
-Total: 8.947500 ms (FindLiveObjects: 1.283800 ms CreateObjectMapping: 1.762200 ms MarkObjects: 5.806600 ms  DeleteObjects: 0.094600 ms)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 527)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 6115.
+Total: 4.615800 ms (FindLiveObjects: 0.774000 ms CreateObjectMapping: 0.434200 ms MarkObjects: 3.369500 ms  DeleteObjects: 0.038000 ms)
 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 579)
 Couldn't find GameCameras, make sure one exists in the scene.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 579)
 Couldn't find a Game Manager, make sure one exists in the scene.
-UnloadTime: 21.426700 ms
+UnloadTime: 9.165800 ms
 Loaded saved language code 'EN'
 Restored language code 'EN'
 Unloading 73 unused Assets to reduce memory usage. Loaded Objects now: 66314.
-Total: 84.171000 ms (FindLiveObjects: 6.933300 ms CreateObjectMapping: 9.221100 ms MarkObjects: 67.685000 ms  DeleteObjects: 0.331200 ms)
+Total: 51.095800 ms (FindLiveObjects: 5.875100 ms CreateObjectMapping: 5.647800 ms MarkObjects: 39.245100 ms  DeleteObjects: 0.327400 ms)
 
 MenuButton missing flashEffect!
 Making UI menu lean.
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Unloading 3 Unused Serialized files (Serialized files now loaded: 562)
-Unloading 235 unused Assets to reduce memory usage. Loaded Objects now: 107720.
-Total: 110.920500 ms (FindLiveObjects: 11.170100 ms CreateObjectMapping: 9.055900 ms MarkObjects: 88.275900 ms  DeleteObjects: 2.418100 ms)
+Unloading 3 Unused Serialized files (Serialized files now loaded: 615)
+Unloading 116 unused Assets to reduce memory usage. Loaded Objects now: 121547.
+Total: 151.622500 ms (FindLiveObjects: 11.098200 ms CreateObjectMapping: 12.258200 ms MarkObjects: 127.319200 ms  DeleteObjects: 0.946400 ms)
 
 Converting Vertex Colors from Color32 to Color.
 Converting Vertex Colors from Color32 to Color.
 Converting Vertex Colors from Color32 to Color.
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
 Can not play a disabled audio source
 Can not play a disabled audio source
 Can not play a disabled audio source
 Can not play a disabled audio source
 Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Couldn't find transition point "door1", falling back to first available: "left1"
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Unloading 1 Unused Serialized files (Serialized files now loaded: 632)
-Unloading 5129 unused Assets to reduce memory usage. Loaded Objects now: 146024.
-Total: 156.745000 ms (FindLiveObjects: 18.169300 ms CreateObjectMapping: 13.337900 ms MarkObjects: 105.303800 ms  DeleteObjects: 19.933600 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 649)
-Scene Manager missing from scene Bellway_02
-Scene Manager missing from scene Bellway_02
-UnloadTime: 10.822400 ms
-Unloading 4279 unused Assets to reduce memory usage. Loaded Objects now: 139044.
-Total: 154.967200 ms (FindLiveObjects: 16.489700 ms CreateObjectMapping: 14.092600 ms MarkObjects: 113.376300 ms  DeleteObjects: 11.008300 ms)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 633)
+UnloadTime: 12.663400 ms
+Unloading 8917 unused Assets to reduce memory usage. Loaded Objects now: 139509.
+Total: 146.503300 ms (FindLiveObjects: 17.236300 ms CreateObjectMapping: 11.300000 ms MarkObjects: 84.048800 ms  DeleteObjects: 33.917800 ms)
 
 Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for archive:/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1.resource
-Unloading 2 Unused Serialized files (Serialized files now loaded: 589)
-Unloading 48 unused Assets to reduce memory usage. Loaded Objects now: 144688.
-Total: 113.129400 ms (FindLiveObjects: 15.154900 ms CreateObjectMapping: 9.281000 ms MarkObjects: 86.696200 ms  DeleteObjects: 1.997000 ms)
+Unloading 2 Unused Serialized files (Serialized files now loaded: 625)
+Unloading 50 unused Assets to reduce memory usage. Loaded Objects now: 145261.
+Total: 121.895800 ms (FindLiveObjects: 15.507200 ms CreateObjectMapping: 13.018400 ms MarkObjects: 92.103400 ms  DeleteObjects: 1.266600 ms)
 
-Reloading same scene! Destroying GuidComponents to prevent collisions...
-Unable to retrieve achievement state for FIRST_CREST, because Steam is not initialized
-Unable to update achievement progress for ALL_CRESTS, because Steam is not initialized
-Couldn't find transition point "door2", falling back to first available: "top1"
+Cannot set the parent of the GameObject 'Unalert Range' while activating or deactivating the parent GameObject 'Roof Crab'.
 Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
 Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
 Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
 Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
 Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
 Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
+Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
+Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
+Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
+Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
+Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
 Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
+Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
+Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
+Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
+Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
+Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
+Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
+Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
+Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
+Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
+Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
+Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
+Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
+Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
+Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
 Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Using fallback 1 to find tilemap. Scene Bellshrine requires manual fixing.
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Using fallback 1 to find tilemap. Scene Bellshrine requires manual fixing.
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Unloading 1 Unused Serialized files (Serialized files now loaded: 661)
-UnloadTime: 16.181200 ms
-Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for archive:/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1.resource
-Unloading 12276 unused Assets to reduce memory usage. Loaded Objects now: 140532.
-Total: 282.014000 ms (FindLiveObjects: 21.068100 ms CreateObjectMapping: 27.261000 ms MarkObjects: 141.395200 ms  DeleteObjects: 92.289300 ms)
+Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
+Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
+Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
+Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
+Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
+Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
+Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
+Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
+Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
+Unloading 1 Unused Serialized files (Serialized files now loaded: 588)
+UnloadTime: 8.565600 ms
+Unloading 8877 unused Assets to reduce memory usage. Loaded Objects now: 140637.
+Total: 174.952300 ms (FindLiveObjects: 15.809100 ms CreateObjectMapping: 12.073200 ms MarkObjects: 94.323000 ms  DeleteObjects: 52.746700 ms)
 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 654)
-Unloading 55 unused Assets to reduce memory usage. Loaded Objects now: 153438.
-Total: 166.860300 ms (FindLiveObjects: 18.167300 ms CreateObjectMapping: 11.495700 ms MarkObjects: 132.564700 ms  DeleteObjects: 4.632200 ms)
+Unloading 0 Unused Serialized files (Serialized files now loaded: 525)
+Unloading 6898 unused Assets to reduce memory usage. Loaded Objects now: 27107.
+Total: 80.244500 ms (FindLiveObjects: 2.238700 ms CreateObjectMapping: 5.391900 ms MarkObjects: 57.922400 ms  DeleteObjects: 14.691200 ms)
 
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-gameObject1 is null!
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Unloading 1 Unused Serialized files (Serialized files now loaded: 632)
-Unloading 3336 unused Assets to reduce memory usage. Loaded Objects now: 153362.
-Total: 201.640700 ms (FindLiveObjects: 23.318800 ms CreateObjectMapping: 11.355500 ms MarkObjects: 124.009900 ms  DeleteObjects: 42.956200 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 645)
-Scene Manager missing from scene Bellway_03
-Scene Manager missing from scene Bellway_03
-UnloadTime: 18.596800 ms
-Unloading 5026 unused Assets to reduce memory usage. Loaded Objects now: 139862.
-Total: 181.114800 ms (FindLiveObjects: 17.758600 ms CreateObjectMapping: 12.756100 ms MarkObjects: 130.335900 ms  DeleteObjects: 20.263700 ms)
-
-Unloading 0 Unused Serialized files (Serialized files now loaded: 587)
-Unloading 6923 unused Assets to reduce memory usage. Loaded Objects now: 26682.
-Total: 118.903900 ms (FindLiveObjects: 4.204800 ms CreateObjectMapping: 5.008300 ms MarkObjects: 91.103100 ms  DeleteObjects: 18.587500 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 637)
-UnloadTime: 1.085100 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 577)
+UnloadTime: 1.220500 ms
 Loaded saved language code 'EN'
 Restored language code 'EN'
-Unloading 99 unused Assets to reduce memory usage. Loaded Objects now: 71873.
-Total: 129.240800 ms (FindLiveObjects: 6.902900 ms CreateObjectMapping: 11.408900 ms MarkObjects: 109.849200 ms  DeleteObjects: 1.079400 ms)
+Unloading 141 unused Assets to reduce memory usage. Loaded Objects now: 72258.
+Total: 84.689700 ms (FindLiveObjects: 6.973000 ms CreateObjectMapping: 6.882500 ms MarkObjects: 70.044800 ms  DeleteObjects: 0.789000 ms)
 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 635)
-Unloading 5619 unused Assets to reduce memory usage. Loaded Objects now: 66238.
-Total: 128.822100 ms (FindLiveObjects: 10.092000 ms CreateObjectMapping: 9.659600 ms MarkObjects: 92.403500 ms  DeleteObjects: 16.666400 ms)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 575)
+Unloading 5610 unused Assets to reduce memory usage. Loaded Objects now: 66632.
+Total: 76.053000 ms (FindLiveObjects: 6.542600 ms CreateObjectMapping: 8.295900 ms MarkObjects: 46.719700 ms  DeleteObjects: 14.494500 ms)
+
+MenuButton missing flashEffect!
+Making UI menu lean.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Unloading 1 Unused Serialized files (Serialized files now loaded: 564)
+Unloading 277 unused Assets to reduce memory usage. Loaded Objects now: 108323.
+Total: 106.005100 ms (FindLiveObjects: 10.686700 ms CreateObjectMapping: 10.266900 ms MarkObjects: 83.877800 ms  DeleteObjects: 1.173500 ms)
+
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
+Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
+Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
+Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
+Unable to retrieve achievement state for FIRST_WISH, because Steam is not initialized
+Can not play a disabled audio source
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Cannot set the parent of the GameObject 'Unalert Range' while activating or deactivating the parent GameObject 'Roof Crab'.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 659)
+Scene Manager missing from scene Bellway_01
+Scene Manager missing from scene Bellway_01
+UnloadTime: 10.979800 ms
+Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for archive:/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1.resource
+Unloading 12342 unused Assets to reduce memory usage. Loaded Objects now: 142276.
+Total: 280.991600 ms (FindLiveObjects: 25.289100 ms CreateObjectMapping: 15.205000 ms MarkObjects: 146.497400 ms  DeleteObjects: 93.999700 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 672)
+Unloading 75 unused Assets to reduce memory usage. Loaded Objects now: 151743.
+Total: 140.494900 ms (FindLiveObjects: 16.270300 ms CreateObjectMapping: 11.454400 ms MarkObjects: 112.186800 ms  DeleteObjects: 0.583100 ms)
+
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+Unable to retrieve achievement state for FIRST_TOOL, because Steam is not initialized
+Unable to update achievement progress for ALL_TOOLS, because Steam is not initialized
+Unable to retrieve achievement state for FLEAS_ALL, because Steam is not initialized
+Unable to unlock achievement FLEAS_ALL, because Steam is not initialized
+Unloading 1 Unused Serialized files (Serialized files now loaded: 655)
+UnloadTime: 21.060000 ms
+Unloading 8493 unused Assets to reduce memory usage. Loaded Objects now: 142654.
+Total: 159.492900 ms (FindLiveObjects: 17.979800 ms CreateObjectMapping: 11.560500 ms MarkObjects: 91.271200 ms  DeleteObjects: 38.680900 ms)
+
+Inactive coroutines were cleared: 5
+Unloading 0 Unused Serialized files (Serialized files now loaded: 539)
+Unloading 6918 unused Assets to reduce memory usage. Loaded Objects now: 27445.
+Total: 91.527800 ms (FindLiveObjects: 2.412400 ms CreateObjectMapping: 5.683800 ms MarkObjects: 65.540200 ms  DeleteObjects: 17.890900 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 586)
+UnloadTime: 0.714700 ms
+Loaded saved language code 'EN'
+Restored language code 'EN'
+Unloading 55 unused Assets to reduce memory usage. Loaded Objects now: 72677.
+Total: 91.291400 ms (FindLiveObjects: 6.985700 ms CreateObjectMapping: 7.866800 ms MarkObjects: 76.239200 ms  DeleteObjects: 0.199300 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 584)
+Unloading 5611 unused Assets to reduce memory usage. Loaded Objects now: 67050.
+Total: 79.547500 ms (FindLiveObjects: 7.254900 ms CreateObjectMapping: 8.292000 ms MarkObjects: 48.582400 ms  DeleteObjects: 15.417900 ms)
+
+MenuButton missing flashEffect!
+Making UI menu lean.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Unloading 1 Unused Serialized files (Serialized files now loaded: 594)
+Unloading 112 unused Assets to reduce memory usage. Loaded Objects now: 119934.
+Total: 108.340200 ms (FindLiveObjects: 12.497000 ms CreateObjectMapping: 9.924600 ms MarkObjects: 84.519800 ms  DeleteObjects: 1.398300 ms)
+
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Can not play a disabled audio source
+Unloading 1 Unused Serialized files (Serialized files now loaded: 612)
+UnloadTime: 22.677900 ms
+Unloading 5121 unused Assets to reduce memory usage. Loaded Objects now: 141859.
+Total: 164.782900 ms (FindLiveObjects: 22.533600 ms CreateObjectMapping: 10.954300 ms MarkObjects: 110.303300 ms  DeleteObjects: 20.991100 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 539)
+Unloading 6867 unused Assets to reduce memory usage. Loaded Objects now: 27635.
+Total: 104.116300 ms (FindLiveObjects: 2.967600 ms CreateObjectMapping: 16.039100 ms MarkObjects: 69.128700 ms  DeleteObjects: 15.980600 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 586)
+UnloadTime: 0.564400 ms
+Loaded saved language code 'EN'
+Restored language code 'EN'
+Unloading 55 unused Assets to reduce memory usage. Loaded Objects now: 72867.
+Total: 93.509100 ms (FindLiveObjects: 7.458200 ms CreateObjectMapping: 8.604800 ms MarkObjects: 77.236800 ms  DeleteObjects: 0.208900 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 584)
+Unloading 5611 unused Assets to reduce memory usage. Loaded Objects now: 67240.
+Total: 101.758600 ms (FindLiveObjects: 8.759300 ms CreateObjectMapping: 7.557900 ms MarkObjects: 68.623200 ms  DeleteObjects: 16.817900 ms)
 
 Couldn't find a Game Manager, make sure one exists in the scene.
 Couldn't find a Game Manager, make sure one exists in the scene.
