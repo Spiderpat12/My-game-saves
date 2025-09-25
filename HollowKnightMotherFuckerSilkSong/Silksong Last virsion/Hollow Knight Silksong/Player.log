@@ -13,8 +13,8 @@ Direct3D:
     VRAM:     1999 MB
     Driver:   32.0.15.6094
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.260 seconds
-- Finished resetting the current domain, in  0.003 seconds
+- Loaded All Assemblies, in  2.238 seconds
+- Finished resetting the current domain, in  0.051 seconds
 [Physics::Module] Selected backend.
 [Physics::Module] Name: PhysX
 [Physics::Module] Id: 0xf2b8ea05
@@ -24,47 +24,59 @@ Begin MonoManager ReloadAssembly
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.573100 ms
+UnloadTime: 12.493900 ms
 Steam initializing
 Steam failed to initialize
 Selected online subsystem SteamOnlineSubsystem
 Direct3D: detected that using refresh rate causes time drift. Will stop trusting refresh rate until the game window is moved.
 Direct3D: detected that vsync is broken (it does not limit frame rate properly). Delta time will now be calculated using cpu-side time stampling until the game window is moved.
 Unloading 5 Unused Serialized files (Serialized files now loaded: 527)
-UnloadTime: 1.775400 ms
+UnloadTime: 1.606200 ms
 Discovered supported languages: DE, EN, ES, FR, IT, JA, KO, PT, RU, ZH
 Loaded saved language code 'EN'
 Restored language code 'EN'
 Couldn't find a Game Manager, make sure one exists in the scene.
 Couldn't find GameCameras, make sure one exists in the scene.
 Unloading 53 unused Assets to reduce memory usage. Loaded Objects now: 6115.
-Total: 5.363800 ms (FindLiveObjects: 0.456400 ms CreateObjectMapping: 0.227600 ms MarkObjects: 4.628200 ms  DeleteObjects: 0.051500 ms)
+Total: 12.489100 ms (FindLiveObjects: 7.343500 ms CreateObjectMapping: 0.163400 ms MarkObjects: 4.898800 ms  DeleteObjects: 0.083100 ms)
 
-Unloading 2 Unused Serialized files (Serialized files now loaded: 527)
-Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 13333.
-Total: 7.696000 ms (FindLiveObjects: 0.791700 ms CreateObjectMapping: 1.193000 ms MarkObjects: 5.679000 ms  DeleteObjects: 0.032000 ms)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 527)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 6115.
+Total: 4.365300 ms (FindLiveObjects: 0.395100 ms CreateObjectMapping: 0.198900 ms MarkObjects: 3.736000 ms  DeleteObjects: 0.035000 ms)
 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 579)
 Couldn't find GameCameras, make sure one exists in the scene.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 579)
 Couldn't find a Game Manager, make sure one exists in the scene.
-UnloadTime: 12.050700 ms
+UnloadTime: 45.422000 ms
 Loaded saved language code 'EN'
 Restored language code 'EN'
 Unloading 73 unused Assets to reduce memory usage. Loaded Objects now: 66314.
-Total: 65.115500 ms (FindLiveObjects: 6.358400 ms CreateObjectMapping: 6.578800 ms MarkObjects: 51.720700 ms  DeleteObjects: 0.457000 ms)
+Total: 49.212200 ms (FindLiveObjects: 5.255200 ms CreateObjectMapping: 5.819100 ms MarkObjects: 37.810600 ms  DeleteObjects: 0.327100 ms)
 
 MenuButton missing flashEffect!
 Making UI menu lean.
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Unloading 3 Unused Serialized files (Serialized files now loaded: 582)
-Unloading 107 unused Assets to reduce memory usage. Loaded Objects now: 119706.
-Total: 97.413000 ms (FindLiveObjects: 11.124600 ms CreateObjectMapping: 12.061800 ms MarkObjects: 73.365500 ms  DeleteObjects: 0.860500 ms)
+Unloading 3 Unused Serialized files (Serialized files now loaded: 571)
+Unloading 237 unused Assets to reduce memory usage. Loaded Objects now: 110930.
+Total: 110.790100 ms (FindLiveObjects: 10.904800 ms CreateObjectMapping: 12.339300 ms MarkObjects: 86.085400 ms  DeleteObjects: 1.460200 ms)
 
 Converting Vertex Colors from Color32 to Color.
 Converting Vertex Colors from Color32 to Color.
 Converting Vertex Colors from Color32 to Color.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 659)
+UnloadTime: 10.544900 ms
+Unloading 10420 unused Assets to reduce memory usage. Loaded Objects now: 139306.
+Total: 153.984500 ms (FindLiveObjects: 14.734300 ms CreateObjectMapping: 10.754700 ms MarkObjects: 81.405000 ms  DeleteObjects: 47.090200 ms)
+
+Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for archive:/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1.resource
+Unloading 2 Unused Serialized files (Serialized files now loaded: 667)
+Unloading 75 unused Assets to reduce memory usage. Loaded Objects now: 148229.
+Total: 180.907600 ms (FindLiveObjects: 16.453200 ms CreateObjectMapping: 15.351700 ms MarkObjects: 148.629800 ms  DeleteObjects: 0.472600 ms)
+
 Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
 Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
 Can not play a disabled audio source
@@ -86,73 +98,457 @@ Can not play a disabled audio source
 Can not play a disabled audio source
 Can not play a disabled audio source
 Can not play a disabled audio source
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Unloading 1 Unused Serialized files (Serialized files now loaded: 645)
-Scene Manager missing from scene Bellway_Aqueduct
-Scene Manager missing from scene Bellway_Aqueduct
-UnloadTime: 11.069100 ms
-Unloading 10577 unused Assets to reduce memory usage. Loaded Objects now: 140333.
-Total: 151.987200 ms (FindLiveObjects: 16.375100 ms CreateObjectMapping: 12.830600 ms MarkObjects: 86.362100 ms  DeleteObjects: 36.419000 ms)
-
-Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for archive:/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1.resource
-Unloading 2 Unused Serialized files (Serialized files now loaded: 618)
-Unloading 125 unused Assets to reduce memory usage. Loaded Objects now: 145066.
-Total: 109.451900 ms (FindLiveObjects: 14.436200 ms CreateObjectMapping: 11.091700 ms MarkObjects: 81.937300 ms  DeleteObjects: 1.986400 ms)
-
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Unloading 1 Unused Serialized files (Serialized files now loaded: 642)
-Scene Manager missing from scene Bonetown
-UnloadTime: 25.922000 ms
-Unloading 8141 unused Assets to reduce memory usage. Loaded Objects now: 139047.
-Total: 148.041500 ms (FindLiveObjects: 14.236200 ms CreateObjectMapping: 10.380300 ms MarkObjects: 77.560500 ms  DeleteObjects: 45.864200 ms)
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Unloading 1 Unused Serialized files (Serialized files now loaded: 612)
+UnloadTime: 51.951400 ms
+Unloading 8020 unused Assets to reduce memory usage. Loaded Objects now: 139288.
+Total: 154.489400 ms (FindLiveObjects: 15.690800 ms CreateObjectMapping: 11.498100 ms MarkObjects: 90.337900 ms  DeleteObjects: 36.962300 ms)
 
 Unloading 0 Unused Serialized files (Serialized files now loaded: 525)
-Unloading 6885 unused Assets to reduce memory usage. Loaded Objects now: 26473.
-Total: 72.762600 ms (FindLiveObjects: 2.270300 ms CreateObjectMapping: 3.604100 ms MarkObjects: 53.191200 ms  DeleteObjects: 13.696700 ms)
+Unloading 6848 unused Assets to reduce memory usage. Loaded Objects now: 26473.
+Total: 77.679700 ms (FindLiveObjects: 2.220900 ms CreateObjectMapping: 4.235500 ms MarkObjects: 58.521700 ms  DeleteObjects: 12.701400 ms)
 
 Unloading 1 Unused Serialized files (Serialized files now loaded: 577)
-UnloadTime: 0.969000 ms
+UnloadTime: 1.074800 ms
 Loaded saved language code 'EN'
 Restored language code 'EN'
-Unloading 56 unused Assets to reduce memory usage. Loaded Objects now: 71721.
-Total: 82.046300 ms (FindLiveObjects: 6.102500 ms CreateObjectMapping: 6.395700 ms MarkObjects: 69.330400 ms  DeleteObjects: 0.217400 ms)
+Unloading 71 unused Assets to reduce memory usage. Loaded Objects now: 71706.
+Total: 78.241900 ms (FindLiveObjects: 6.196100 ms CreateObjectMapping: 7.231900 ms MarkObjects: 63.662500 ms  DeleteObjects: 1.151100 ms)
 
 Unloading 1 Unused Serialized files (Serialized files now loaded: 575)
-Unloading 5609 unused Assets to reduce memory usage. Loaded Objects now: 66096.
-Total: 68.544200 ms (FindLiveObjects: 6.050300 ms CreateObjectMapping: 6.337800 ms MarkObjects: 42.838200 ms  DeleteObjects: 13.317600 ms)
+Unloading 5609 unused Assets to reduce memory usage. Loaded Objects now: 66081.
+Total: 72.020100 ms (FindLiveObjects: 6.239500 ms CreateObjectMapping: 7.358300 ms MarkObjects: 44.437900 ms  DeleteObjects: 13.984100 ms)
 
 MenuButton missing flashEffect!
 Making UI menu lean.
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Unloading 1 Unused Serialized files (Serialized files now loaded: 571)
-Unloading 241 unused Assets to reduce memory usage. Loaded Objects now: 110329.
-Total: 111.109100 ms (FindLiveObjects: 10.322000 ms CreateObjectMapping: 9.656400 ms MarkObjects: 90.104900 ms  DeleteObjects: 1.025300 ms)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 588)
+Unloading 113 unused Assets to reduce memory usage. Loaded Objects now: 118592.
+Total: 101.223900 ms (FindLiveObjects: 11.757500 ms CreateObjectMapping: 11.431900 ms MarkObjects: 76.691800 ms  DeleteObjects: 1.342200 ms)
 
 Converting Vertex Colors from Color32 to Color.
 Converting Vertex Colors from Color32 to Color.
 Converting Vertex Colors from Color32 to Color.
-Unloading 1 Unused Serialized files (Serialized files now loaded: 573)
-UnloadTime: 5.145300 ms
-Unloading 3975 unused Assets to reduce memory usage. Loaded Objects now: 138618.
-Total: 107.998400 ms (FindLiveObjects: 13.346100 ms CreateObjectMapping: 9.414100 ms MarkObjects: 77.627600 ms  DeleteObjects: 7.610200 ms)
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Unloading 1 Unused Serialized files (Serialized files now loaded: 594)
+UnloadTime: 14.999700 ms
+Unloading 5853 unused Assets to reduce memory usage. Loaded Objects now: 129897.
+Total: 120.698300 ms (FindLiveObjects: 13.602900 ms CreateObjectMapping: 9.827400 ms MarkObjects: 82.209400 ms  DeleteObjects: 15.058200 ms)
+
+First video frame not zero: 4 (0.066667s). Result may be out of sync. Please make sure tracks all start at 0 in archive:/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5.resource
+Unloading 1 Unused Serialized files (Serialized files now loaded: 596)
+Unloading 70 unused Assets to reduce memory usage. Loaded Objects now: 139370.
+Total: 120.643400 ms (FindLiveObjects: 15.137200 ms CreateObjectMapping: 11.055300 ms MarkObjects: 93.877700 ms  DeleteObjects: 0.573000 ms)
+
+Unable to retrieve achievement state for FIRST_WISH, because Steam is not initialized
+Unable to retrieve achievement state for FIRST_WISH, because Steam is not initialized
+Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for archive:/CAB-4c86b47ae5500a27be89ac060e3ea2b6/CAB-4c86b47ae5500a27be89ac060e3ea2b6.resource
+Coroutine couldn't be started because the the game object 'CutsceneScreen' is inactive!
+Couldn't find transition point "door3", falling back to first available: "door5"
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Unloading 1 Unused Serialized files (Serialized files now loaded: 633)
+UnloadTime: 8.945800 ms
+First video frame not zero: 4 (0.066667s). Result may be out of sync. Please make sure tracks all start at 0 in archive:/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5.resource
+Unloading 6496 unused Assets to reduce memory usage. Loaded Objects now: 130371.
+Total: 171.563000 ms (FindLiveObjects: 16.008600 ms CreateObjectMapping: 12.307200 ms MarkObjects: 112.840200 ms  DeleteObjects: 30.406500 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 626)
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 143207.
+Total: 127.755500 ms (FindLiveObjects: 15.851700 ms CreateObjectMapping: 10.823400 ms MarkObjects: 100.815700 ms  DeleteObjects: 0.264500 ms)
+
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Hazard Respawn Trigger v2 (2) does not have a Hazard Respawn Marker Set
+Hazard Respawn Trigger v2 does not have a Hazard Respawn Marker Set
+gameObject1 is null!
+gameObject1 is null!
+Coroutine couldn't be started because the the game object 'Seamstress Umbrella Platform' is inactive!
+gameObject1 is null!
+Can not play a disabled audio source
+Unloading 1 Unused Serialized files (Serialized files now loaded: 618)
+Unloading 6189 unused Assets to reduce memory usage. Loaded Objects now: 132778.
+Total: 169.283300 ms (FindLiveObjects: 14.845800 ms CreateObjectMapping: 11.222900 ms MarkObjects: 99.321800 ms  DeleteObjects: 43.892500 ms)
+
+gameObject1 is null!
+HutongGames.PlayMaker.StartHeroVibrationRegion in bone_plat_02_crumble (1) (UnityEngine.GameObject) is missing Hero Vibration Region object
+Unloading 1 Unused Serialized files (Serialized files now loaded: 618)
+Unloading 4360 unused Assets to reduce memory usage. Loaded Objects now: 132875.
+Total: 173.041800 ms (FindLiveObjects: 15.344900 ms CreateObjectMapping: 10.494400 ms MarkObjects: 114.634000 ms  DeleteObjects: 32.568100 ms)
+
+gameObject1 is null!
+Unloading 1 Unused Serialized files (Serialized files now loaded: 618)
+Unloading 4338 unused Assets to reduce memory usage. Loaded Objects now: 132964.
+Total: 157.659500 ms (FindLiveObjects: 14.525500 ms CreateObjectMapping: 10.456900 ms MarkObjects: 100.011700 ms  DeleteObjects: 32.665200 ms)
+
+gameObject1 is null!
+Coroutine couldn't be started because the the game object 'Seamstress Umbrella Platform' is inactive!
+gameObject1 is null!
+Unloading 1 Unused Serialized files (Serialized files now loaded: 618)
+Unloading 4390 unused Assets to reduce memory usage. Loaded Objects now: 133014.
+Total: 163.796500 ms (FindLiveObjects: 15.570500 ms CreateObjectMapping: 10.386900 ms MarkObjects: 106.416600 ms  DeleteObjects: 31.421900 ms)
+
+gameObject1 is null!
+HutongGames.PlayMaker.StartHeroVibrationRegion in bone_plat_02_crumble (1) (UnityEngine.GameObject) is missing Hero Vibration Region object
+Unable to update achievement progress for ALL_MASKS, because Steam is not initialized
+Cannot use 'linearVelocity' on a static body.
+gameObject1 is null!
+Coroutine couldn't be started because the the game object 'Seamstress Umbrella Platform' is inactive!
+gameObject1 is null!
+Unloading 1 Unused Serialized files (Serialized files now loaded: 639)
+Unloading 5827 unused Assets to reduce memory usage. Loaded Objects now: 133345.
+Total: 165.880100 ms (FindLiveObjects: 13.739100 ms CreateObjectMapping: 10.350000 ms MarkObjects: 103.551600 ms  DeleteObjects: 38.239200 ms)
+
+gameObject1 is null!
+Unloading 1 Unused Serialized files (Serialized files now loaded: 639)
+Unloading 3144 unused Assets to reduce memory usage. Loaded Objects now: 133353.
+Total: 144.203900 ms (FindLiveObjects: 14.050700 ms CreateObjectMapping: 9.965100 ms MarkObjects: 106.184400 ms  DeleteObjects: 14.003400 ms)
+
+gameObject1 is null!
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V3(Clone)).
+Cannot use 'linearVelocity' on a static body.
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Unloading 1 Unused Serialized files (Serialized files now loaded: 668)
+UnloadTime: 14.200500 ms
+First video frame not zero: 4 (0.066667s). Result may be out of sync. Please make sure tracks all start at 0 in archive:/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5.resource
+Unloading 6979 unused Assets to reduce memory usage. Loaded Objects now: 132348.
+Total: 167.297500 ms (FindLiveObjects: 15.697000 ms CreateObjectMapping: 10.835100 ms MarkObjects: 115.273800 ms  DeleteObjects: 25.491100 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 641)
+Unloading 182 unused Assets to reduce memory usage. Loaded Objects now: 140906.
+Total: 125.144900 ms (FindLiveObjects: 14.677800 ms CreateObjectMapping: 9.501900 ms MarkObjects: 98.849000 ms  DeleteObjects: 2.115900 ms)
+
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Unable to retrieve achievement state for FIRST_WISH, because Steam is not initialized
+Unable to update achievement progress for ALL_MASKS, because Steam is not initialized
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Unloading 1 Unused Serialized files (Serialized files now loaded: 633)
+UnloadTime: 11.361700 ms
+First video frame not zero: 4 (0.066667s). Result may be out of sync. Please make sure tracks all start at 0 in archive:/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5.resource
+Unloading 6446 unused Assets to reduce memory usage. Loaded Objects now: 131658.
+Total: 178.672300 ms (FindLiveObjects: 16.631800 ms CreateObjectMapping: 14.649100 ms MarkObjects: 115.493200 ms  DeleteObjects: 31.897900 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 596)
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 146774.
+Total: 132.484900 ms (FindLiveObjects: 16.055600 ms CreateObjectMapping: 10.740400 ms MarkObjects: 105.363600 ms  DeleteObjects: 0.324900 ms)
+
+Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
+Cannot use 'linearVelocity' on a static body.
+Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 660)
+Unloading 7707 unused Assets to reduce memory usage. Loaded Objects now: 148671.
+Total: 214.787900 ms (FindLiveObjects: 16.851800 ms CreateObjectMapping: 11.240000 ms MarkObjects: 137.826800 ms  DeleteObjects: 48.869100 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 633)
+UnloadTime: 8.916100 ms
+First video frame not zero: 4 (0.066667s). Result may be out of sync. Please make sure tracks all start at 0 in archive:/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5.resource
+Unloading 6470 unused Assets to reduce memory usage. Loaded Objects now: 131806.
+Total: 183.786700 ms (FindLiveObjects: 16.170800 ms CreateObjectMapping: 14.557800 ms MarkObjects: 121.894200 ms  DeleteObjects: 31.163400 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 643)
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 146909.
+Total: 127.317800 ms (FindLiveObjects: 15.761200 ms CreateObjectMapping: 10.723000 ms MarkObjects: 100.394500 ms  DeleteObjects: 0.438700 ms)
+
+Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
+Cannot use 'linearVelocity' on a static body.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 659)
+Unloading 6890 unused Assets to reduce memory usage. Loaded Objects now: 148572.
+Total: 174.885500 ms (FindLiveObjects: 15.967900 ms CreateObjectMapping: 11.252400 ms MarkObjects: 107.594200 ms  DeleteObjects: 40.070700 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 633)
+UnloadTime: 11.335200 ms
+First video frame not zero: 4 (0.066667s). Result may be out of sync. Please make sure tracks all start at 0 in archive:/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5.resource
+Unloading 6879 unused Assets to reduce memory usage. Loaded Objects now: 131922.
+Total: 169.092400 ms (FindLiveObjects: 19.538700 ms CreateObjectMapping: 14.774900 ms MarkObjects: 99.842900 ms  DeleteObjects: 34.935600 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 643)
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 147026.
+Total: 122.121800 ms (FindLiveObjects: 14.106600 ms CreateObjectMapping: 9.615200 ms MarkObjects: 97.818800 ms  DeleteObjects: 0.580900 ms)
+
+Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
+Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
+Unable to retrieve achievement state for FIRST_WISH, because Steam is not initialized
+Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Cannot use 'linearVelocity' on a static body.
+Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
+Cannot use 'linearVelocity' on a static body.
+Cannot use 'linearVelocity' on a static body.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 662)
+Unloading 8191 unused Assets to reduce memory usage. Loaded Objects now: 149349.
+Total: 193.947900 ms (FindLiveObjects: 16.699300 ms CreateObjectMapping: 12.218100 ms MarkObjects: 115.325700 ms  DeleteObjects: 49.704500 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 633)
+UnloadTime: 10.500500 ms
+First video frame not zero: 4 (0.066667s). Result may be out of sync. Please make sure tracks all start at 0 in archive:/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5.resource
+Unloading 6861 unused Assets to reduce memory usage. Loaded Objects now: 132067.
+Total: 155.792100 ms (FindLiveObjects: 16.761600 ms CreateObjectMapping: 13.496300 ms MarkObjects: 94.213100 ms  DeleteObjects: 31.320800 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 643)
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 147170.
+Total: 140.250700 ms (FindLiveObjects: 15.722200 ms CreateObjectMapping: 10.173400 ms MarkObjects: 113.903600 ms  DeleteObjects: 0.451200 ms)
+
+Could Not Create Action: : Dialogue: Churchkeeper:  (Maybe the script was removed?)
+Cannot use 'linearVelocity' on a static body.
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
+Coroutine couldn't be started because the the game object 'ParrySlash Hit' is inactive!
+Cannot use 'linearVelocity' on a static body.
+Cannot use 'linearVelocity' on a static body.
+Cannot use 'linearVelocity' on a static body.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 615)
+UnloadTime: 14.979900 ms
+First video frame not zero: 4 (0.066667s). Result may be out of sync. Please make sure tracks all start at 0 in archive:/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5.resource
+Unloading 10087 unused Assets to reduce memory usage. Loaded Objects now: 132534.
+Total: 191.934900 ms (FindLiveObjects: 17.854500 ms CreateObjectMapping: 17.106400 ms MarkObjects: 104.706100 ms  DeleteObjects: 52.267400 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 600)
+Unloading 76 unused Assets to reduce memory usage. Loaded Objects now: 139114.
+Total: 137.283900 ms (FindLiveObjects: 15.053000 ms CreateObjectMapping: 9.106600 ms MarkObjects: 111.871000 ms  DeleteObjects: 1.252900 ms)
+
+Unable to retrieve achievement state for FIRST_TOOL, because Steam is not initialized
+Unable to update achievement progress for ALL_TOOLS, because Steam is not initialized
+Unloading 1 Unused Serialized files (Serialized files now loaded: 623)
+UnloadTime: 7.946900 ms
+First video frame not zero: 4 (0.066667s). Result may be out of sync. Please make sure tracks all start at 0 in archive:/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5.resource
+Unloading 6333 unused Assets to reduce memory usage. Loaded Objects now: 132317.
+Total: 189.149100 ms (FindLiveObjects: 18.684700 ms CreateObjectMapping: 13.588800 ms MarkObjects: 123.120000 ms  DeleteObjects: 33.755200 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 593)
+Unloading 54 unused Assets to reduce memory usage. Loaded Objects now: 141988.
+Total: 157.162900 ms (FindLiveObjects: 18.159700 ms CreateObjectMapping: 11.819300 ms MarkObjects: 126.072200 ms  DeleteObjects: 1.111200 ms)
+
+Unable to update achievement progress for ALL_MAPS, because Steam is not initialized
+Unloading 1 Unused Serialized files (Serialized files now loaded: 646)
+Unloading 4503 unused Assets to reduce memory usage. Loaded Objects now: 155923.
+Total: 149.899000 ms (FindLiveObjects: 17.326000 ms CreateObjectMapping: 11.225300 ms MarkObjects: 101.352400 ms  DeleteObjects: 19.994900 ms)
+
+Unable to retrieve achievement state for FIRST_TOOL, because Steam is not initialized
+Unable to update achievement progress for ALL_TOOLS, because Steam is not initialized
+Cannot use 'linearVelocity' on a static body.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 619)
+Unloading 3446 unused Assets to reduce memory usage. Loaded Objects now: 139184.
+Total: 144.905900 ms (FindLiveObjects: 15.226100 ms CreateObjectMapping: 10.263500 ms MarkObjects: 101.710900 ms  DeleteObjects: 17.704900 ms)
+
+Coroutine couldn't be started because the the game object 'Camera Wind Region' is inactive!
+Reloading same scene! Destroying GuidComponents to prevent collisions...
+Unloading 1 Unused Serialized files (Serialized files now loaded: 624)
+Unloading 4410 unused Assets to reduce memory usage. Loaded Objects now: 146071.
+Total: 184.571500 ms (FindLiveObjects: 19.315500 ms CreateObjectMapping: 13.598400 ms MarkObjects: 125.053000 ms  DeleteObjects: 26.604200 ms)
+
+Coroutine couldn't be started because the the game object 'Camera Wind Region' is inactive!
+Unable to update achievement progress for ALL_MASKS, because Steam is not initialized
+Direct3D: detected that using refresh rate causes time drift. Will stop trusting refresh rate until the game window is moved.
+Direct3D: detected that vsync is broken (it does not limit frame rate properly). Delta time will now be calculated using cpu-side time stampling until the game window is moved.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 612)
+Unloading 3781 unused Assets to reduce memory usage. Loaded Objects now: 139473.
+Total: 149.839600 ms (FindLiveObjects: 16.198300 ms CreateObjectMapping: 10.140100 ms MarkObjects: 101.834000 ms  DeleteObjects: 21.667000 ms)
+
+Unable to retrieve achievement state for FLEAS_HALF, because Steam is not initialized
+Unable to update achievement progress for FLEAS_HALF, because Steam is not initialized
+Unable to retrieve achievement state for FLEAS_HALF, because Steam is not initialized
+Unable to update achievement progress for FLEAS_HALF, because Steam is not initialized
+Unloading 1 Unused Serialized files (Serialized files now loaded: 646)
+UnloadTime: 11.003900 ms
+First video frame not zero: 4 (0.066667s). Result may be out of sync. Please make sure tracks all start at 0 in archive:/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5.resource
+Unloading 9638 unused Assets to reduce memory usage. Loaded Objects now: 133400.
+Total: 169.538100 ms (FindLiveObjects: 16.471600 ms CreateObjectMapping: 12.087500 ms MarkObjects: 102.101100 ms  DeleteObjects: 38.877700 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 590)
+Unloading 70 unused Assets to reduce memory usage. Loaded Objects now: 142716.
+Total: 132.991200 ms (FindLiveObjects: 17.729100 ms CreateObjectMapping: 10.244000 ms MarkObjects: 104.310600 ms  DeleteObjects: 0.706900 ms)
+
+Started loading clips for Bone Record Bone_East_14
+Started loading clips for Bone Record Greymoor_flooded_corridor
+Started loading clips for Bone Record Understore_Map_Room
+Started loading clips for Bone Record Wisp Top
+Started loading clips for Weaver Totem Bonetown_upper_room
+Started loading clips for Weaver Totem Witch
+Started loading clips for Weaver Totem Slab_Bottom
+Started loading clips for Seal Chit Aspid_01
+Started loading clips for Seal Chit Ward Corpse
+Started loading clips for Seal Chit City Merchant
+Started loading clips for Seal Chit Silk Siphon
+Started loading clips for Weaver Record Weave_08
+Started loading clips for Weaver Record Sprint_Challenge
+Started loading clips for Weaver Record Conductor
+Started loading clips for Ancient Egg Abyss Middle
+Started loading clips for Psalm Cylinder Librarian
+Started loading clips for Psalm Cylinder Ward
+Started loading clips for Psalm Cylinder Hang
+Started loading clips for Psalm Cylinder Grindle
+Started loading clips for Psalm Cylinder Library Roof
+Started loading clips for Librarian Melody Cylinder
+Finished loading gramaphone clip for Psalm Cylinder Librarian
+Finished loading gramaphone clip for Psalm Cylinder Ward
+Finished loading gramaphone clip for Psalm Cylinder Hang
+Finished loading gramaphone clip for Psalm Cylinder Grindle
+Finished loading gramaphone clip for Psalm Cylinder Library Roof
+Finished loading gramaphone clip for Librarian Melody Cylinder
+Finished loading needolin clip for Librarian Melody Cylinder
+Freed clips for Bone Record Bone_East_14
+Freed clips for Bone Record Greymoor_flooded_corridor
+Freed clips for Bone Record Understore_Map_Room
+Freed clips for Bone Record Wisp Top
+Freed clips for Weaver Totem Bonetown_upper_room
+Freed clips for Weaver Totem Witch
+Freed clips for Weaver Totem Slab_Bottom
+Freed clips for Seal Chit Aspid_01
+Freed clips for Seal Chit Ward Corpse
+Freed clips for Seal Chit City Merchant
+Freed clips for Seal Chit Silk Siphon
+Freed clips for Weaver Record Weave_08
+Freed clips for Weaver Record Sprint_Challenge
+Freed clips for Weaver Record Conductor
+Freed clips for Ancient Egg Abyss Middle
+Freed clips for Psalm Cylinder Librarian
+Freed clips for Psalm Cylinder Ward
+Freed clips for Psalm Cylinder Hang
+Freed clips for Psalm Cylinder Grindle
+Freed clips for Psalm Cylinder Library Roof
+Freed clips for Librarian Melody Cylinder
+Couldn't find transition point "door4", falling back to first available: "door5"
+Unloading 1 Unused Serialized files (Serialized files now loaded: 629)
+UnloadTime: 15.485400 ms
+Unloading 7156 unused Assets to reduce memory usage. Loaded Objects now: 133234.
+Total: 139.763000 ms (FindLiveObjects: 16.146300 ms CreateObjectMapping: 10.110400 ms MarkObjects: 81.801100 ms  DeleteObjects: 31.704900 ms)
 
 Unloading 0 Unused Serialized files (Serialized files now loaded: 525)
-Unloading 6854 unused Assets to reduce memory usage. Loaded Objects now: 26672.
-Total: 74.578200 ms (FindLiveObjects: 2.303100 ms CreateObjectMapping: 3.239900 ms MarkObjects: 56.290400 ms  DeleteObjects: 12.744500 ms)
+Unloading 7277 unused Assets to reduce memory usage. Loaded Objects now: 28133.
+Total: 78.802800 ms (FindLiveObjects: 2.931200 ms CreateObjectMapping: 4.684400 ms MarkObjects: 54.821800 ms  DeleteObjects: 16.364900 ms)
 
 Unloading 1 Unused Serialized files (Serialized files now loaded: 577)
-UnloadTime: 0.465200 ms
+UnloadTime: 0.499900 ms
 Loaded saved language code 'EN'
 Restored language code 'EN'
-Unloading 56 unused Assets to reduce memory usage. Loaded Objects now: 71923.
-Total: 79.460900 ms (FindLiveObjects: 6.117900 ms CreateObjectMapping: 6.476800 ms MarkObjects: 66.666100 ms  DeleteObjects: 0.199800 ms)
+Unloading 57 unused Assets to reduce memory usage. Loaded Objects now: 73691.
+Total: 86.909700 ms (FindLiveObjects: 6.631700 ms CreateObjectMapping: 8.292000 ms MarkObjects: 71.755900 ms  DeleteObjects: 0.229400 ms)
 
 Unloading 1 Unused Serialized files (Serialized files now loaded: 575)
-Unloading 5609 unused Assets to reduce memory usage. Loaded Objects now: 66298.
-Total: 70.010500 ms (FindLiveObjects: 6.386100 ms CreateObjectMapping: 6.693100 ms MarkObjects: 43.634300 ms  DeleteObjects: 13.296600 ms)
+Unloading 5609 unused Assets to reduce memory usage. Loaded Objects now: 68066.
+Total: 78.513500 ms (FindLiveObjects: 6.816800 ms CreateObjectMapping: 8.223200 ms MarkObjects: 48.910400 ms  DeleteObjects: 14.562800 ms)
 
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
 [Physics::Module] Cleanup current backned.
 [Physics::Module] Id: 0xf2b8ea05
 Input System module state changed to: ShutdownInProgress.
