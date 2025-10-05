@@ -13,8 +13,8 @@ Direct3D:
     VRAM:     1999 MB
     Driver:   32.0.15.6094
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  2.496 seconds
-- Finished resetting the current domain, in  0.059 seconds
+- Loaded All Assemblies, in  2.664 seconds
+- Finished resetting the current domain, in  0.048 seconds
 [Physics::Module] Selected backend.
 [Physics::Module] Name: PhysX
 [Physics::Module] Id: 0xf2b8ea05
@@ -24,185 +24,1437 @@ Begin MonoManager ReloadAssembly
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 13.440200 ms
+UnloadTime: 1.946000 ms
 Steam initializing
 Steam failed to initialize
 Selected online subsystem SteamOnlineSubsystem
 Direct3D: detected that using refresh rate causes time drift. Will stop trusting refresh rate until the game window is moved.
 Direct3D: detected that vsync is broken (it does not limit frame rate properly). Delta time will now be calculated using cpu-side time stampling until the game window is moved.
 Unloading 5 Unused Serialized files (Serialized files now loaded: 527)
-UnloadTime: 1.694600 ms
+UnloadTime: 1.551800 ms
 Discovered supported languages: DE, EN, ES, FR, IT, JA, KO, PT, RU, ZH
 Loaded saved language code 'EN'
 Restored language code 'EN'
 Couldn't find a Game Manager, make sure one exists in the scene.
 Couldn't find GameCameras, make sure one exists in the scene.
 Unloading 53 unused Assets to reduce memory usage. Loaded Objects now: 6115.
-Total: 5.110800 ms (FindLiveObjects: 0.479000 ms CreateObjectMapping: 0.224500 ms MarkObjects: 4.328200 ms  DeleteObjects: 0.078800 ms)
+Total: 5.579000 ms (FindLiveObjects: 0.445600 ms CreateObjectMapping: 0.208500 ms MarkObjects: 4.840500 ms  DeleteObjects: 0.084000 ms)
 
 Unloading 2 Unused Serialized files (Serialized files now loaded: 527)
 Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 13333.
-Total: 9.797700 ms (FindLiveObjects: 0.808500 ms CreateObjectMapping: 0.599500 ms MarkObjects: 8.351900 ms  DeleteObjects: 0.037600 ms)
+Total: 12.110000 ms (FindLiveObjects: 0.860400 ms CreateObjectMapping: 1.205200 ms MarkObjects: 10.000400 ms  DeleteObjects: 0.043500 ms)
 
 Couldn't find GameCameras, make sure one exists in the scene.
 Unloading 1 Unused Serialized files (Serialized files now loaded: 579)
 Couldn't find a Game Manager, make sure one exists in the scene.
-UnloadTime: 10.205500 ms
+UnloadTime: 11.167400 ms
 Loaded saved language code 'EN'
 Restored language code 'EN'
 Unloading 73 unused Assets to reduce memory usage. Loaded Objects now: 66314.
-Total: 70.838100 ms (FindLiveObjects: 9.972600 ms CreateObjectMapping: 8.438300 ms MarkObjects: 52.057100 ms  DeleteObjects: 0.369700 ms)
+Total: 47.903900 ms (FindLiveObjects: 5.574200 ms CreateObjectMapping: 5.707900 ms MarkObjects: 36.315500 ms  DeleteObjects: 0.306000 ms)
 
 MenuButton missing flashEffect!
 Making UI menu lean.
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Unloading 3 Unused Serialized files (Serialized files now loaded: 582)
-Unloading 107 unused Assets to reduce memory usage. Loaded Objects now: 119709.
-Total: 103.128900 ms (FindLiveObjects: 11.010500 ms CreateObjectMapping: 14.408700 ms MarkObjects: 76.717700 ms  DeleteObjects: 0.991800 ms)
+Unloading 3 Unused Serialized files (Serialized files now loaded: 615)
+Unloading 116 unused Assets to reduce memory usage. Loaded Objects now: 120988.
+Total: 102.944300 ms (FindLiveObjects: 11.556200 ms CreateObjectMapping: 12.758100 ms MarkObjects: 77.771300 ms  DeleteObjects: 0.858300 ms)
 
 Converting Vertex Colors from Color32 to Color.
 Converting Vertex Colors from Color32 to Color.
 Converting Vertex Colors from Color32 to Color.
-Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
-Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Unloading 1 Unused Serialized files (Serialized files now loaded: 594)
-Unloading 5710 unused Assets to reduce memory usage. Loaded Objects now: 146762.
-Total: 125.667700 ms (FindLiveObjects: 16.735500 ms CreateObjectMapping: 10.177300 ms MarkObjects: 83.089000 ms  DeleteObjects: 15.665500 ms)
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Started loading clips for Bone Record Bone_East_14
+Started loading clips for Bone Record Greymoor_flooded_corridor
+Started loading clips for Bone Record Understore_Map_Room
+Started loading clips for Bone Record Wisp Top
+Started loading clips for Weaver Totem Bonetown_upper_room
+Started loading clips for Weaver Totem Witch
+Started loading clips for Weaver Totem Slab_Bottom
+Started loading clips for Seal Chit Aspid_01
+Started loading clips for Seal Chit Ward Corpse
+Started loading clips for Seal Chit City Merchant
+Started loading clips for Seal Chit Silk Siphon
+Started loading clips for Weaver Record Weave_08
+Started loading clips for Weaver Record Sprint_Challenge
+Started loading clips for Weaver Record Conductor
+Started loading clips for Ancient Egg Abyss Middle
+Started loading clips for Psalm Cylinder Librarian
+Started loading clips for Psalm Cylinder Ward
+Started loading clips for Psalm Cylinder Hang
+Started loading clips for Psalm Cylinder Grindle
+Started loading clips for Psalm Cylinder Library Roof
+Started loading clips for Librarian Melody Cylinder
+Finished loading gramaphone clip for Psalm Cylinder Librarian
+Finished loading gramaphone clip for Psalm Cylinder Ward
+Finished loading gramaphone clip for Psalm Cylinder Hang
+Finished loading gramaphone clip for Psalm Cylinder Grindle
+Finished loading gramaphone clip for Psalm Cylinder Library Roof
+Finished loading gramaphone clip for Librarian Melody Cylinder
+Finished loading needolin clip for Librarian Melody Cylinder
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Freed clips for Bone Record Bone_East_14
+Freed clips for Bone Record Greymoor_flooded_corridor
+Freed clips for Bone Record Understore_Map_Room
+Freed clips for Bone Record Wisp Top
+Freed clips for Weaver Totem Bonetown_upper_room
+Freed clips for Weaver Totem Witch
+Freed clips for Weaver Totem Slab_Bottom
+Freed clips for Seal Chit Aspid_01
+Freed clips for Seal Chit Ward Corpse
+Freed clips for Seal Chit City Merchant
+Freed clips for Seal Chit Silk Siphon
+Freed clips for Weaver Record Weave_08
+Freed clips for Weaver Record Sprint_Challenge
+Freed clips for Weaver Record Conductor
+Freed clips for Ancient Egg Abyss Middle
+Freed clips for Psalm Cylinder Librarian
+Freed clips for Psalm Cylinder Ward
+Freed clips for Psalm Cylinder Hang
+Freed clips for Psalm Cylinder Grindle
+Freed clips for Psalm Cylinder Library Roof
+Freed clips for Librarian Melody Cylinder
+Couldn't find transition point "door4", falling back to first available: "door5"
+Unable to retrieve achievement state for BELLHOME, because Steam is not initialized
+Unloading 1 Unused Serialized files (Serialized files now loaded: 633)
+UnloadTime: 10.254600 ms
+Unloading 10281 unused Assets to reduce memory usage. Loaded Objects now: 129978.
+Total: 158.648900 ms (FindLiveObjects: 14.106100 ms CreateObjectMapping: 13.512800 ms MarkObjects: 96.252200 ms  DeleteObjects: 34.777400 ms)
 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 597)
-UnloadTime: 10.331300 ms
-Unloading 6362 unused Assets to reduce memory usage. Loaded Objects now: 140398.
-Total: 152.683800 ms (FindLiveObjects: 16.003700 ms CreateObjectMapping: 11.174400 ms MarkObjects: 89.035200 ms  DeleteObjects: 36.470000 ms)
+First video frame not zero: 4 (0.066667s). Result may be out of sync. Please make sure tracks all start at 0 in archive:/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5.resource
+Unloading 2 Unused Serialized files (Serialized files now loaded: 625)
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 135758.
+Total: 104.787700 ms (FindLiveObjects: 12.625900 ms CreateObjectMapping: 9.602400 ms MarkObjects: 82.110500 ms  DeleteObjects: 0.448600 ms)
 
-Unloading 0 Unused Serialized files (Serialized files now loaded: 525)
-Unloading 6883 unused Assets to reduce memory usage. Loaded Objects now: 26409.
-Total: 80.491400 ms (FindLiveObjects: 2.448900 ms CreateObjectMapping: 4.138500 ms MarkObjects: 58.339800 ms  DeleteObjects: 15.563900 ms)
+Cannot set the parent of the GameObject 'Unalert Range' while activating or deactivating the parent GameObject 'Roof Crab'.
+Cannot set the parent of the GameObject 'Unalert Range' while activating or deactivating the parent GameObject 'Roof Crab'.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 683)
+UnloadTime: 8.653500 ms
+First video frame not zero: 4 (0.066667s). Result may be out of sync. Please make sure tracks all start at 0 in archive:/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5.resource
+Unloading 14873 unused Assets to reduce memory usage. Loaded Objects now: 130658.
+Total: 204.881600 ms (FindLiveObjects: 18.043200 ms CreateObjectMapping: 23.015000 ms MarkObjects: 86.928800 ms  DeleteObjects: 76.894300 ms)
 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 577)
-UnloadTime: 1.032200 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 606)
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 140975.
+Total: 114.003100 ms (FindLiveObjects: 14.976400 ms CreateObjectMapping: 10.181200 ms MarkObjects: 88.405900 ms  DeleteObjects: 0.439400 ms)
+
+Using fallback 1 to find tilemap. Scene Bellshrine_03 requires manual fixing.
+Unable to retrieve achievement state for FIRST_TOOL, because Steam is not initialized
+Unable to update achievement progress for ALL_TOOLS, because Steam is not initialized
+Cannot use 'linearVelocity' on a static body.
+Unable to retrieve achievement state for FLEAS_HALF, because Steam is not initialized
+Unable to update achievement progress for FLEAS_HALF, because Steam is not initialized
+Unable to retrieve achievement state for FLEAS_HALF, because Steam is not initialized
+Unable to update achievement progress for FLEAS_HALF, because Steam is not initialized
+Cannot use 'linearVelocity' on a static body.
+Cannot set the parent of the GameObject 'Unalert Range' while activating or deactivating the parent GameObject 'Roof Crab'.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 683)
+UnloadTime: 6.907400 ms
+First video frame not zero: 4 (0.066667s). Result may be out of sync. Please make sure tracks all start at 0 in archive:/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5.resource
+Unloading 13185 unused Assets to reduce memory usage. Loaded Objects now: 131083.
+Total: 194.534000 ms (FindLiveObjects: 17.402100 ms CreateObjectMapping: 16.244500 ms MarkObjects: 91.530000 ms  DeleteObjects: 69.357100 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 599)
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 140120.
+Total: 112.275400 ms (FindLiveObjects: 15.791500 ms CreateObjectMapping: 9.212400 ms MarkObjects: 86.774500 ms  DeleteObjects: 0.496600 ms)
+
+Using fallback 1 to find tilemap. Scene Bellshrine requires manual fixing.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Can not play a disabled audio source
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Unloading 1 Unused Serialized files (Serialized files now loaded: 650)
+UnloadTime: 7.949000 ms
+First video frame not zero: 4 (0.066667s). Result may be out of sync. Please make sure tracks all start at 0 in archive:/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5.resource
+Unloading 11522 unused Assets to reduce memory usage. Loaded Objects now: 131140.
+Total: 175.868600 ms (FindLiveObjects: 18.808900 ms CreateObjectMapping: 16.146000 ms MarkObjects: 82.810300 ms  DeleteObjects: 58.103100 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 644)
+Unloading 79 unused Assets to reduce memory usage. Loaded Objects now: 139251.
+Total: 129.148700 ms (FindLiveObjects: 14.357300 ms CreateObjectMapping: 10.350200 ms MarkObjects: 103.807300 ms  DeleteObjects: 0.633400 ms)
+
+Can not play a disabled audio source
+Coroutine couldn't be started because the the game object 'Camera Wind Region' is inactive!
+Can not play a disabled audio source
+Can not play a disabled audio source
+Unable to retrieve achievement state for FIRST_TOOL, because Steam is not initialized
+Unable to update achievement progress for ALL_TOOLS, because Steam is not initialized
+Cannot use 'linearVelocity' on a static body.
+Coroutine couldn't be started because the the game object 'Camera Wind Region' is inactive!
+The referenced script (tk2dSpriteAnimatorDebug) on this Behaviour is missing!
+The referenced script (tk2dSpriteAnimatorDebug) on this Behaviour is missing!
+The referenced script (tk2dSpriteAnimatorDebug) on this Behaviour is missing!
+The referenced script (tk2dSpriteAnimatorDebug) on this Behaviour is missing!
+The referenced script (tk2dSpriteAnimatorDebug) on this Behaviour is missing!
+The referenced script (tk2dSpriteAnimatorDebug) on this Behaviour is missing!
+The referenced script (tk2dSpriteAnimatorDebug) on this Behaviour is missing!
+The referenced script (tk2dSpriteAnimatorDebug) on this Behaviour is missing!
+The referenced script (tk2dSpriteAnimatorDebug) on this Behaviour is missing!
+The referenced script (tk2dSpriteAnimatorDebug) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object 'Judge Child (6)') is missing!
+The referenced script on this Behaviour (Game Object 'Judge Child (10)') is missing!
+The referenced script on this Behaviour (Game Object 'Judge Child (7)') is missing!
+The referenced script on this Behaviour (Game Object 'Judge Child (3)') is missing!
+The referenced script on this Behaviour (Game Object 'Judge Child (9)') is missing!
+The referenced script on this Behaviour (Game Object 'Judge Child (1)') is missing!
+The referenced script on this Behaviour (Game Object 'Judge Child (5)') is missing!
+The referenced script on this Behaviour (Game Object 'Judge Child (8)') is missing!
+The referenced script on this Behaviour (Game Object 'Judge Child (4)') is missing!
+The referenced script on this Behaviour (Game Object 'Judge Child (2)') is missing!
+Coroutine couldn't be started because the the game object 'Camera Wind Region' is inactive!
+Cannot use 'linearVelocity' on a static body.
+Coroutine couldn't be started because the the game object 'Camera Wind Region' is inactive!
+Unloading 1 Unused Serialized files (Serialized files now loaded: 603)
+UnloadTime: 6.827900 ms
+First video frame not zero: 4 (0.066667s). Result may be out of sync. Please make sure tracks all start at 0 in archive:/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5.resource
+Unloading 7740 unused Assets to reduce memory usage. Loaded Objects now: 130973.
+Total: 153.210800 ms (FindLiveObjects: 16.248200 ms CreateObjectMapping: 13.861900 ms MarkObjects: 91.018300 ms  DeleteObjects: 32.082100 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 615)
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 145853.
+Total: 120.547900 ms (FindLiveObjects: 17.293700 ms CreateObjectMapping: 9.110600 ms MarkObjects: 93.844900 ms  DeleteObjects: 0.298300 ms)
+
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
+Cannot use 'linearVelocity' on a static body.
+Could Not Create Action: : Dialogue: Churchkeeper:  (Maybe the script was removed?)
+Unable to retrieve achievement state for FIRST_WISH, because Steam is not initialized
+Unable to retrieve achievement state for FIRST_WISH, because Steam is not initialized
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Cannot use 'linearVelocity' on a static body.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Unloading 1 Unused Serialized files (Serialized files now loaded: 609)
+UnloadTime: 30.937900 ms
+Unloading 8542 unused Assets to reduce memory usage. Loaded Objects now: 132193.
+Total: 151.276300 ms (FindLiveObjects: 13.138100 ms CreateObjectMapping: 9.537100 ms MarkObjects: 74.508100 ms  DeleteObjects: 54.092800 ms)
+
+Inactive coroutines were cleared: 1
+Unloading 0 Unused Serialized files (Serialized files now loaded: 539)
+Unloading 7381 unused Assets to reduce memory usage. Loaded Objects now: 26344.
+Total: 74.815200 ms (FindLiveObjects: 2.448800 ms CreateObjectMapping: 3.464700 ms MarkObjects: 54.892000 ms  DeleteObjects: 14.009300 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 586)
+UnloadTime: 1.180600 ms
 Loaded saved language code 'EN'
 Restored language code 'EN'
-Unloading 56 unused Assets to reduce memory usage. Loaded Objects now: 71657.
-Total: 70.622800 ms (FindLiveObjects: 6.856100 ms CreateObjectMapping: 6.227300 ms MarkObjects: 57.330700 ms  DeleteObjects: 0.208300 ms)
+Unloading 108 unused Assets to reduce memory usage. Loaded Objects now: 71850.
+Total: 85.378500 ms (FindLiveObjects: 6.590700 ms CreateObjectMapping: 6.366300 ms MarkObjects: 70.851400 ms  DeleteObjects: 1.570000 ms)
 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 575)
-Unloading 5609 unused Assets to reduce memory usage. Loaded Objects now: 66032.
-Total: 66.306400 ms (FindLiveObjects: 5.694500 ms CreateObjectMapping: 7.353700 ms MarkObjects: 40.721100 ms  DeleteObjects: 12.536600 ms)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 584)
+Unloading 5614 unused Assets to reduce memory usage. Loaded Objects now: 66220.
+Total: 67.688700 ms (FindLiveObjects: 5.854300 ms CreateObjectMapping: 7.061900 ms MarkObjects: 41.251800 ms  DeleteObjects: 13.520200 ms)
 
 MenuButton missing flashEffect!
 Making UI menu lean.
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Unloading 1 Unused Serialized files (Serialized files now loaded: 582)
-Unloading 112 unused Assets to reduce memory usage. Loaded Objects now: 118831.
-Total: 109.412300 ms (FindLiveObjects: 10.629000 ms CreateObjectMapping: 10.005900 ms MarkObjects: 87.878700 ms  DeleteObjects: 0.898500 ms)
+Could Not Create Action: : Dialogue: Churchkeeper:  (Maybe the script was removed?)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 604)
+Unloading 108 unused Assets to reduce memory usage. Loaded Objects now: 118603.
+Total: 90.372500 ms (FindLiveObjects: 10.891900 ms CreateObjectMapping: 9.618300 ms MarkObjects: 68.924200 ms  DeleteObjects: 0.937800 ms)
 
 Converting Vertex Colors from Color32 to Color.
 Converting Vertex Colors from Color32 to Color.
 Converting Vertex Colors from Color32 to Color.
-Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Cannot use 'linearVelocity' on a static body.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Cannot use 'linearVelocity' on a static body.
+Cannot use 'linearVelocity' on a static body.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
+Started loading clips for Psalm Cylinder Librarian
+Started loading clips for Psalm Cylinder Ward
+Started loading clips for Psalm Cylinder Hang
+Started loading clips for Psalm Cylinder Grindle
+Started loading clips for Psalm Cylinder Library Roof
+Started loading clips for Librarian Melody Cylinder
+Finished loading gramaphone clip for Psalm Cylinder Librarian
+Finished loading gramaphone clip for Psalm Cylinder Ward
+Finished loading gramaphone clip for Psalm Cylinder Hang
+Finished loading gramaphone clip for Psalm Cylinder Grindle
+Finished loading gramaphone clip for Psalm Cylinder Library Roof
+Finished loading gramaphone clip for Librarian Melody Cylinder
+Finished loading needolin clip for Librarian Melody Cylinder
+Unable to update achievement progress for CITADEL_SONG, because Steam is not initialized
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Freed clips for Psalm Cylinder Librarian
+Freed clips for Psalm Cylinder Ward
+Freed clips for Psalm Cylinder Hang
+Freed clips for Psalm Cylinder Grindle
+Freed clips for Psalm Cylinder Library Roof
+Freed clips for Librarian Melody Cylinder
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
+Cannot use 'linearVelocity' on a static body.
+Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
+Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
+Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
+Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
+Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
+Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 629)
+Unloading 10229 unused Assets to reduce memory usage. Loaded Objects now: 146703.
+Total: 224.873400 ms (FindLiveObjects: 16.338200 ms CreateObjectMapping: 11.307300 ms MarkObjects: 102.218500 ms  DeleteObjects: 95.009000 ms)
+
+Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
+Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
+Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
+Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
+Unable to update achievement progress for CITADEL_SONG, because Steam is not initialized
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
+Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
+Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 596)
+Unloading 4989 unused Assets to reduce memory usage. Loaded Objects now: 142046.
+Total: 175.236600 ms (FindLiveObjects: 15.250300 ms CreateObjectMapping: 9.962500 ms MarkObjects: 108.086200 ms  DeleteObjects: 41.937300 ms)
+
+Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
+Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
+Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Cannot use 'linearVelocity' on a static body.
+Cannot use 'linearVelocity' on a static body.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Sprite not found attached to tk2dSpriteAnimator.
+Unable to update achievement progress for ALL_MAPS, because Steam is not initialized
+Cannot use 'linearVelocity' on a static body.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Sprite not found attached to tk2dSpriteAnimator.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Hazard Respawn Trigger v2 (1) does not have a Hazard Respawn Marker Set
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Sprite not found attached to tk2dSpriteAnimator.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 636)
+Unloading 8968 unused Assets to reduce memory usage. Loaded Objects now: 143883.
+Total: 173.905300 ms (FindLiveObjects: 14.376900 ms CreateObjectMapping: 10.711200 ms MarkObjects: 91.312600 ms  DeleteObjects: 57.504100 ms)
+
+Hazard Respawn Trigger v2 (1) does not have a Hazard Respawn Marker Set
+Unable to update achievement progress for ALL_SILK_SPOOLS, because Steam is not initialized
+Unable to update achievement progress for TUBES_FULL, because Steam is not initialized
+Cannot use 'linearVelocity' on a static body.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Sprite not found attached to tk2dSpriteAnimator.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 634)
+Unloading 4128 unused Assets to reduce memory usage. Loaded Objects now: 144847.
+Total: 129.408700 ms (FindLiveObjects: 14.112800 ms CreateObjectMapping: 9.488200 ms MarkObjects: 92.841200 ms  DeleteObjects: 12.966100 ms)
+
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Sprite not found attached to tk2dSpriteAnimator.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 634)
+Unloading 3427 unused Assets to reduce memory usage. Loaded Objects now: 144830.
+Total: 112.960600 ms (FindLiveObjects: 13.630500 ms CreateObjectMapping: 9.687800 ms MarkObjects: 79.826900 ms  DeleteObjects: 9.815100 ms)
+
+Unable to retrieve achievement state for FIRST_TOOL, because Steam is not initialized
+Unable to update achievement progress for ALL_TOOLS, because Steam is not initialized
+Cannot use 'linearVelocity' on a static body.
+PD Variable SavedFlea_Arborium_08 does not exist! This is fine if we're just calling this to display quest updated after bool set.
+Unable to retrieve achievement state for FLEAS_HALF, because Steam is not initialized
+Unable to update achievement progress for FLEAS_HALF, because Steam is not initialized
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Sprite not found attached to tk2dSpriteAnimator.
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
 Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Unloading 1 Unused Serialized files (Serialized files now loaded: 594)
-Unloading 4600 unused Assets to reduce memory usage. Loaded Objects now: 147516.
-Total: 149.816300 ms (FindLiveObjects: 14.739000 ms CreateObjectMapping: 12.261000 ms MarkObjects: 108.478000 ms  DeleteObjects: 14.338000 ms)
+Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
+Unable to retrieve achievement state for FIRST_SILK_SPOOL, because Steam is not initialized
+Unable to update achievement progress for ALL_SILK_SPOOLS, because Steam is not initialized
+Cannot use 'linearVelocity' on a static body.
+Unable to retrieve achievement state for TUBES_FULL, because Steam is not initialized
+Unable to update achievement progress for TUBES_FULL, because Steam is not initialized
+Unable to update achievement progress for ALL_MAPS, because Steam is not initialized
+Cannot use 'linearVelocity' on a static body.
+Can't add component 'AudioLowPassFilter' to Audio Waterfall Large because such a component is already added to the game object!
+Unloading 1 Unused Serialized files (Serialized files now loaded: 625)
+Unloading 10398 unused Assets to reduce memory usage. Loaded Objects now: 139504.
+Total: 201.755900 ms (FindLiveObjects: 16.685800 ms CreateObjectMapping: 10.423500 ms MarkObjects: 102.741900 ms  DeleteObjects: 71.904300 ms)
 
-Unable to retrieve achievement state for EVA_FINAL_QUEST, because Steam is not initialized
-Unable to unlock achievement EVA_FINAL_QUEST, because Steam is not initialized
-Cannot set the parent of the GameObject 'Unalert Range' while activating or deactivating the parent GameObject 'Roof Crab'.
+Can't add component 'AudioLowPassFilter' to Audio Waterfall Large because such a component is already added to the game object!
 Can not play a disabled audio source
-Can not play a disabled audio source
-Cannot set the parent of the GameObject 'Unalert Range' while activating or deactivating the parent GameObject 'Roof Crab'.
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Unloading 1 Unused Serialized files (Serialized files now loaded: 574)
-Unloading 10170 unused Assets to reduce memory usage. Loaded Objects now: 144288.
-Total: 329.681100 ms (FindLiveObjects: 21.355200 ms CreateObjectMapping: 14.578200 ms MarkObjects: 161.714800 ms  DeleteObjects: 132.032500 ms)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 648)
+Unloading 5408 unused Assets to reduce memory usage. Loaded Objects now: 139663.
+Total: 168.788500 ms (FindLiveObjects: 14.085400 ms CreateObjectMapping: 10.036500 ms MarkObjects: 102.139300 ms  DeleteObjects: 42.526800 ms)
 
-Cannot set the parent of the GameObject 'Unalert Range' while activating or deactivating the parent GameObject 'Roof Crab'.
-Unloading 1 Unused Serialized files (Serialized files now loaded: 577)
-Unloading 7578 unused Assets to reduce memory usage. Loaded Objects now: 146654.
-Total: 169.017600 ms (FindLiveObjects: 15.719700 ms CreateObjectMapping: 10.719700 ms MarkObjects: 85.584300 ms  DeleteObjects: 56.993600 ms)
+Unable to retrieve achievement state for CITADEL_SONG, because Steam is not initialized
+Unable to update achievement progress for CITADEL_SONG, because Steam is not initialized
+Could Not Create Action: : Dialogue: Churchkeeper:  (Maybe the script was removed?)
+Cannot use 'linearVelocity' on a static body.
+Unable to retrieve achievement state for FIRST_TOOL, because Steam is not initialized
+Unable to update achievement progress for ALL_TOOLS, because Steam is not initialized
+Cannot use 'linearVelocity' on a static body.
+Could Not Create Action: : Dialogue: Churchkeeper:  (Maybe the script was removed?)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 655)
+Unloading 6060 unused Assets to reduce memory usage. Loaded Objects now: 148246.
+Total: 225.204400 ms (FindLiveObjects: 18.970600 ms CreateObjectMapping: 11.949400 ms MarkObjects: 122.895500 ms  DeleteObjects: 71.388600 ms)
 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 593)
-UnloadTime: 7.375400 ms
-Unloading 3069 unused Assets to reduce memory usage. Loaded Objects now: 140932.
-Total: 132.215700 ms (FindLiveObjects: 17.317100 ms CreateObjectMapping: 8.727900 ms MarkObjects: 99.194800 ms  DeleteObjects: 6.975600 ms)
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
+Coroutine couldn't be started because the the game object 'ParrySlash Hit' is inactive!
+Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
+Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
+Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
+Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
+NullReferenceException: Object reference not set to an instance of an object.
+  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at UnityEngine.GameObject.get_transform () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at SilkPossession.Update () [0x00041] in <4fe5dd4f18494607b9a77ec1844e0d5d>:0 
 
-Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for archive:/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1.resource
-Unloading 2 Unused Serialized files (Serialized files now loaded: 584)
-Unloading 57 unused Assets to reduce memory usage. Loaded Objects now: 150602.
-Total: 107.403100 ms (FindLiveObjects: 14.159000 ms CreateObjectMapping: 9.021000 ms MarkObjects: 83.526300 ms  DeleteObjects: 0.696500 ms)
+NullReferenceException: Object reference not set to an instance of an object.
+  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at UnityEngine.GameObject.get_transform () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at SilkPossession.Update () [0x00041] in <4fe5dd4f18494607b9a77ec1844e0d5d>:0 
+
+NullReferenceException: Object reference not set to an instance of an object.
+  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at UnityEngine.GameObject.get_transform () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at SilkPossession.Update () [0x00041] in <4fe5dd4f18494607b9a77ec1844e0d5d>:0 
+
+NullReferenceException: Object reference not set to an instance of an object.
+  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at UnityEngine.GameObject.get_transform () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at SilkPossession.Update () [0x00041] in <4fe5dd4f18494607b9a77ec1844e0d5d>:0 
+
+NullReferenceException: Object reference not set to an instance of an object.
+  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at UnityEngine.GameObject.get_transform () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at SilkPossession.Update () [0x00041] in <4fe5dd4f18494607b9a77ec1844e0d5d>:0 
+
+NullReferenceException: Object reference not set to an instance of an object.
+  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at UnityEngine.GameObject.get_transform () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at SilkPossession.Update () [0x00041] in <4fe5dd4f18494607b9a77ec1844e0d5d>:0 
+
+NullReferenceException: Object reference not set to an instance of an object.
+  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at UnityEngine.GameObject.get_transform () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at SilkPossession.Update () [0x00041] in <4fe5dd4f18494607b9a77ec1844e0d5d>:0 
+
+NullReferenceException: Object reference not set to an instance of an object.
+  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at UnityEngine.GameObject.get_transform () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at SilkPossession.Update () [0x00041] in <4fe5dd4f18494607b9a77ec1844e0d5d>:0 
+
+NullReferenceException: Object reference not set to an instance of an object.
+  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at UnityEngine.GameObject.get_transform () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at SilkPossession.Update () [0x00041] in <4fe5dd4f18494607b9a77ec1844e0d5d>:0 
+
+NullReferenceException: Object reference not set to an instance of an object.
+  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at UnityEngine.GameObject.get_transform () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at SilkPossession.Update () [0x00041] in <4fe5dd4f18494607b9a77ec1844e0d5d>:0 
+
+NullReferenceException: Object reference not set to an instance of an object.
+  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at UnityEngine.GameObject.get_transform () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at SilkPossession.Update () [0x00041] in <4fe5dd4f18494607b9a77ec1844e0d5d>:0 
+
+NullReferenceException: Object reference not set to an instance of an object.
+  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at UnityEngine.GameObject.get_transform () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at SilkPossession.Update () [0x00041] in <4fe5dd4f18494607b9a77ec1844e0d5d>:0 
+
+NullReferenceException: Object reference not set to an instance of an object.
+  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at UnityEngine.GameObject.get_transform () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at SilkPossession.Update () [0x00041] in <4fe5dd4f18494607b9a77ec1844e0d5d>:0 
+
+NullReferenceException: Object reference not set to an instance of an object.
+  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at UnityEngine.GameObject.get_transform () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at SilkPossession.Update () [0x00041] in <4fe5dd4f18494607b9a77ec1844e0d5d>:0 
+
+NullReferenceException: Object reference not set to an instance of an object.
+  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at UnityEngine.GameObject.get_transform () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at SilkPossession.Update () [0x00041] in <4fe5dd4f18494607b9a77ec1844e0d5d>:0 
+
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
+Could Not Create Action: : Dialogue: Churchkeeper:  (Maybe the script was removed?)
+Unable to retrieve achievement state for FIRST_WISH, because Steam is not initialized
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Unable to retrieve achievement state for FIRST_MASK, because Steam is not initialized
+Unable to update achievement progress for ALL_MASKS, because Steam is not initialized
+Unable to retrieve achievement state for FIRST_TOOL, because Steam is not initialized
+Unable to update achievement progress for ALL_TOOLS, because Steam is not initialized
+Can not play a disabled audio source
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Unloading 1 Unused Serialized files (Serialized files now loaded: 656)
+UnloadTime: 14.402000 ms
+First video frame not zero: 4 (0.066667s). Result may be out of sync. Please make sure tracks all start at 0 in archive:/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5.resource
+Unloading 13056 unused Assets to reduce memory usage. Loaded Objects now: 135160.
+Total: 231.313700 ms (FindLiveObjects: 16.181100 ms CreateObjectMapping: 12.199600 ms MarkObjects: 124.840400 ms  DeleteObjects: 78.092100 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 588)
+Unloading 65 unused Assets to reduce memory usage. Loaded Objects now: 139825.
+Total: 128.156700 ms (FindLiveObjects: 14.111400 ms CreateObjectMapping: 10.033700 ms MarkObjects: 103.355800 ms  DeleteObjects: 0.655400 ms)
+
+Unable to retrieve achievement state for FIRST_WISH, because Steam is not initialized
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Unable to update achievement progress for ALL_MAPS, because Steam is not initialized
+Hazard Respawn Trigger v2 does not have a Hazard Respawn Marker Set
+Hazard Respawn Trigger v2 (1) does not have a Hazard Respawn Marker Set
+Hazard Respawn Trigger v2 (2) does not have a Hazard Respawn Marker Set
+Unable to retrieve achievement state for FIRST_TOOL, because Steam is not initialized
+Unable to update achievement progress for ALL_TOOLS, because Steam is not initialized
+Cannot use 'linearVelocity' on a static body.
+Hazard Respawn Trigger v2 does not have a Hazard Respawn Marker Set
+Hazard Respawn Trigger v2 (1) does not have a Hazard Respawn Marker Set
+Hazard Respawn Trigger v2 (2) does not have a Hazard Respawn Marker Set
+Unloading 1 Unused Serialized files (Serialized files now loaded: 659)
+UnloadTime: 6.759600 ms
+First video frame not zero: 4 (0.066667s). Result may be out of sync. Please make sure tracks all start at 0 in archive:/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5.resource
+Unloading 9524 unused Assets to reduce memory usage. Loaded Objects now: 134321.
+Total: 173.270900 ms (FindLiveObjects: 21.010700 ms CreateObjectMapping: 18.035300 ms MarkObjects: 82.139900 ms  DeleteObjects: 52.084600 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 697)
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 147197.
+Total: 121.083700 ms (FindLiveObjects: 14.980200 ms CreateObjectMapping: 9.309200 ms MarkObjects: 96.332700 ms  DeleteObjects: 0.461400 ms)
 
 Can not play a disabled audio source
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Unable to update achievement progress for ALL_SILK_SPOOLS, because Steam is not initialized
+Unable to retrieve achievement state for FLEAS_HALF, because Steam is not initialized
+Unable to update achievement progress for FLEAS_HALF, because Steam is not initialized
+Unable to retrieve achievement state for FLEAS_HALF, because Steam is not initialized
+Unable to update achievement progress for FLEAS_HALF, because Steam is not initialized
+Cannot set the parent of the GameObject 'Home' while activating or deactivating the parent GameObject 'Bone Circler Vicious'.
 Can not play a disabled audio source
 Can not play a disabled audio source
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Cannot set the parent of the GameObject 'Home' while activating or deactivating the parent GameObject 'Bone Circler Vicious (2)'.
 Can not play a disabled audio source
 Can not play a disabled audio source
+Cannot set the parent of the GameObject 'Home' while activating or deactivating the parent GameObject 'Bone Circler Vicious (1)'.
 Can not play a disabled audio source
+Can not play a disabled audio source
+Cannot set the parent of the GameObject 'Home' while activating or deactivating the parent GameObject 'Bone Circler Vicious'.
+Can not play a disabled audio source
+Can not play a disabled audio source
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Cannot set the parent of the GameObject 'Home' while activating or deactivating the parent GameObject 'Bone Circler Vicious (2)'.
+Can not play a disabled audio source
+Can not play a disabled audio source
+Cannot set the parent of the GameObject 'Home' while activating or deactivating the parent GameObject 'Bone Circler Vicious (1)'.
+Can not play a disabled audio source
+Can not play a disabled audio source
+Cannot set the parent of the GameObject 'Home' while activating or deactivating the parent GameObject 'Bone Circler Vicious'.
+Can not play a disabled audio source
+Can not play a disabled audio source
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Cannot set the parent of the GameObject 'Home' while activating or deactivating the parent GameObject 'Bone Circler Vicious (2)'.
+Can not play a disabled audio source
+Can not play a disabled audio source
+Cannot set the parent of the GameObject 'Home' while activating or deactivating the parent GameObject 'Bone Circler Vicious (1)'.
+Can not play a disabled audio source
+Can not play a disabled audio source
+Cannot set the parent of the GameObject 'Home' while activating or deactivating the parent GameObject 'Bone Circler Vicious (2)'.
+Can not play a disabled audio source
+Can not play a disabled audio source
+Cannot set the parent of the GameObject 'Home' while activating or deactivating the parent GameObject 'Bone Circler Vicious (1)'.
+Can not play a disabled audio source
+Can not play a disabled audio source
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+Unloading 1 Unused Serialized files (Serialized files now loaded: 676)
+Unloading 4352 unused Assets to reduce memory usage. Loaded Objects now: 147500.
+Total: 156.345100 ms (FindLiveObjects: 14.954500 ms CreateObjectMapping: 10.609400 ms MarkObjects: 98.985200 ms  DeleteObjects: 31.795700 ms)
+
+Can not play a disabled audio source
+Cannot use 'linearVelocity' on a static body.
+Cannot set the parent of the GameObject 'Home' while activating or deactivating the parent GameObject 'Bone Circler Vicious'.
+Can not play a disabled audio source
+Can not play a disabled audio source
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Cannot set the parent of the GameObject 'Home' while activating or deactivating the parent GameObject 'Bone Circler Vicious (2)'.
+Can not play a disabled audio source
+Can not play a disabled audio source
+Cannot set the parent of the GameObject 'Home' while activating or deactivating the parent GameObject 'Bone Circler Vicious (1)'.
+Can not play a disabled audio source
+Can not play a disabled audio source
+Cannot set the parent of the GameObject 'Home' while activating or deactivating the parent GameObject 'Bone Circler Vicious'.
+Can not play a disabled audio source
+Can not play a disabled audio source
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Cannot set the parent of the GameObject 'Home' while activating or deactivating the parent GameObject 'Bone Circler Vicious'.
+Can not play a disabled audio source
+Can not play a disabled audio source
+Unable to retrieve achievement state for FIRST_TOOL, because Steam is not initialized
+Unable to update achievement progress for ALL_TOOLS, because Steam is not initialized
+Cannot use 'linearVelocity' on a static body.
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Cannot set the parent of the GameObject 'Home' while activating or deactivating the parent GameObject 'Bone Circler Vicious (2)'.
+Can not play a disabled audio source
+Can not play a disabled audio source
+Cannot set the parent of the GameObject 'Home' while activating or deactivating the parent GameObject 'Bone Circler Vicious (1)'.
 Can not play a disabled audio source
 Can not play a disabled audio source
 Cannot use 'linearVelocity' on a static body.
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+Unloading 1 Unused Serialized files (Serialized files now loaded: 676)
+Unloading 4322 unused Assets to reduce memory usage. Loaded Objects now: 147766.
+Total: 155.692900 ms (FindLiveObjects: 15.316600 ms CreateObjectMapping: 10.116600 ms MarkObjects: 99.650400 ms  DeleteObjects: 30.609000 ms)
+
+Cannot set the parent of the GameObject 'Home' while activating or deactivating the parent GameObject 'Bone Circler Vicious'.
+Can not play a disabled audio source
+Can not play a disabled audio source
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Cannot set the parent of the GameObject 'Home' while activating or deactivating the parent GameObject 'Bone Circler Vicious (2)'.
+Can not play a disabled audio source
+Can not play a disabled audio source
+Cannot set the parent of the GameObject 'Home' while activating or deactivating the parent GameObject 'Bone Circler Vicious (1)'.
+Can not play a disabled audio source
+Can not play a disabled audio source
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+Unloading 1 Unused Serialized files (Serialized files now loaded: 676)
+Unloading 3455 unused Assets to reduce memory usage. Loaded Objects now: 147976.
+Total: 154.678000 ms (FindLiveObjects: 15.357700 ms CreateObjectMapping: 10.087600 ms MarkObjects: 102.200100 ms  DeleteObjects: 27.032100 ms)
+
+Cannot set the parent of the GameObject 'Home' while activating or deactivating the parent GameObject 'Bone Circler Vicious'.
+Can not play a disabled audio source
+Can not play a disabled audio source
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Cannot set the parent of the GameObject 'Home' while activating or deactivating the parent GameObject 'Bone Circler Vicious (2)'.
+Can not play a disabled audio source
+Can not play a disabled audio source
+Cannot set the parent of the GameObject 'Home' while activating or deactivating the parent GameObject 'Bone Circler Vicious (1)'.
+Can not play a disabled audio source
+Can not play a disabled audio source
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+Cannot use 'linearVelocity' on a static body.
+Cannot use 'linearVelocity' on a static body.
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Unloading 1 Unused Serialized files (Serialized files now loaded: 645)
+Unloading 7196 unused Assets to reduce memory usage. Loaded Objects now: 137892.
+Total: 155.299400 ms (FindLiveObjects: 14.018700 ms CreateObjectMapping: 10.329300 ms MarkObjects: 91.846200 ms  DeleteObjects: 39.104800 ms)
+
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Cannot use 'linearVelocity' on a static body.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Unloading 1 Unused Serialized files (Serialized files now loaded: 651)
+UnloadTime: 7.927400 ms
+First video frame not zero: 4 (0.066667s). Result may be out of sync. Please make sure tracks all start at 0 in archive:/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5.resource
+Unloading 8230 unused Assets to reduce memory usage. Loaded Objects now: 135805.
+Total: 199.845000 ms (FindLiveObjects: 16.801800 ms CreateObjectMapping: 10.967900 ms MarkObjects: 132.343500 ms  DeleteObjects: 39.731500 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 636)
+Unloading 98 unused Assets to reduce memory usage. Loaded Objects now: 145018.
+Total: 133.766300 ms (FindLiveObjects: 16.583100 ms CreateObjectMapping: 9.146100 ms MarkObjects: 107.167800 ms  DeleteObjects: 0.868900 ms)
+
+Couldn't find transition point "door3", falling back to first available: "door5"
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+Cannot set the parent of the GameObject 'Water Point L' while activating or deactivating the parent GameObject 'Caravan Troupe Flea Swimmer'.
+Cannot set the parent of the GameObject 'Water Point R' while activating or deactivating the parent GameObject 'Caravan Troupe Flea Swimmer'.
+Cannot set the parent of the GameObject 'Dive Point' while activating or deactivating the parent GameObject 'Caravan Troupe Flea Swimmer'.
+Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Caravan Troupe Flea Swimmer'.
+Cannot set the parent of the GameObject 'Water Point L' while activating or deactivating the parent GameObject 'Caravan Troupe Flea Swimmer (1)'.
+Cannot set the parent of the GameObject 'Water Point R' while activating or deactivating the parent GameObject 'Caravan Troupe Flea Swimmer (1)'.
+Cannot set the parent of the GameObject 'Dive Point' while activating or deactivating the parent GameObject 'Caravan Troupe Flea Swimmer (1)'.
+Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Caravan Troupe Flea Swimmer (1)'.
+Can not play a disabled audio source
+Can not play a disabled audio source
+Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
+Cannot set the parent of the GameObject 'Corpse Roachfeeder Tall(Clone)' while activating or deactivating the parent GameObject 'Art'.
+Unable to retrieve achievement state for FIRST_TOOL, because Steam is not initialized
+Unable to update achievement progress for ALL_TOOLS, because Steam is not initialized
+Cannot use 'linearVelocity' on a static body.
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Roachkeeper Chef Tiny (2)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Roachkeeper Chef Tiny (2)).
+Unloading 1 Unused Serialized files (Serialized files now loaded: 674)
+Unloading 6918 unused Assets to reduce memory usage. Loaded Objects now: 157777.
+Total: 241.246500 ms (FindLiveObjects: 16.707600 ms CreateObjectMapping: 12.333400 ms MarkObjects: 113.532100 ms  DeleteObjects: 98.672900 ms)
+
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Roachkeeper Chef Tiny (2)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Roachkeeper Chef Tiny (2)).
+Unloading 1 Unused Serialized files (Serialized files now loaded: 674)
+Unloading 2018 unused Assets to reduce memory usage. Loaded Objects now: 157551.
+Total: 168.117500 ms (FindLiveObjects: 15.931000 ms CreateObjectMapping: 12.091000 ms MarkObjects: 119.819900 ms  DeleteObjects: 20.275000 ms)
+
+Cannot set the parent of the GameObject 'Corpse Dustroach(Clone)' while activating or deactivating the parent GameObject 'Art'.
+Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
+Can not play a disabled audio source
+Can not play a disabled audio source
+Unloading 1 Unused Serialized files (Serialized files now loaded: 679)
+UnloadTime: 11.033100 ms
+First video frame not zero: 4 (0.066667s). Result may be out of sync. Please make sure tracks all start at 0 in archive:/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5.resource
+Unloading 8671 unused Assets to reduce memory usage. Loaded Objects now: 136059.
+Total: 225.074600 ms (FindLiveObjects: 21.458100 ms CreateObjectMapping: 17.835100 ms MarkObjects: 125.284000 ms  DeleteObjects: 60.497100 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 660)
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 150846.
+Total: 135.769200 ms (FindLiveObjects: 15.383300 ms CreateObjectMapping: 10.744000 ms MarkObjects: 108.904900 ms  DeleteObjects: 0.736700 ms)
+
+Unable to retrieve achievement state for FIRST_TOOL, because Steam is not initialized
+Unable to update achievement progress for ALL_TOOLS, because Steam is not initialized
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Sprite not found attached to tk2dSpriteAnimator.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Sprite not found attached to tk2dSpriteAnimator.
+Cannot use 'linearVelocity' on a static body.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Sprite not found attached to tk2dSpriteAnimator.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 655)
+Unloading 9965 unused Assets to reduce memory usage. Loaded Objects now: 148260.
+Total: 212.855900 ms (FindLiveObjects: 16.386300 ms CreateObjectMapping: 14.869100 ms MarkObjects: 107.045100 ms  DeleteObjects: 74.554700 ms)
+
+Cannot use 'linearVelocity' on a static body.
+Unable to update achievement progress for BELLWAYS_FULL, because Steam is not initialized
+Unable to update achievement progress for ALL_MAPS, because Steam is not initialized
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Cannot use 'linearVelocity' on a static body.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 658)
+Unloading 7952 unused Assets to reduce memory usage. Loaded Objects now: 145534.
+Total: 179.419900 ms (FindLiveObjects: 18.622100 ms CreateObjectMapping: 10.793600 ms MarkObjects: 107.666800 ms  DeleteObjects: 42.337200 ms)
+
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Cannot use 'linearVelocity' on a static body.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 654)
+Unloading 4024 unused Assets to reduce memory usage. Loaded Objects now: 145578.
+Total: 158.122000 ms (FindLiveObjects: 15.087100 ms CreateObjectMapping: 10.842700 ms MarkObjects: 110.822000 ms  DeleteObjects: 21.369700 ms)
+
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Unable to retrieve achievement state for FIRST_TOOL, because Steam is not initialized
+Unable to update achievement progress for ALL_TOOLS, because Steam is not initialized
+Cannot use 'linearVelocity' on a static body.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+PD Variable SavedFlea_Bellway_Aqueduct does not exist! This is fine if we're just calling this to display quest updated after bool set.
+Unable to retrieve achievement state for FLEAS_HALF, because Steam is not initialized
+Unable to update achievement progress for FLEAS_HALF, because Steam is not initialized
+PD Variable SavedFlea_Bellway_Aqueduct does not exist! This is fine if we're just calling this to display quest updated after bool set.
+Unable to retrieve achievement state for FLEAS_HALF, because Steam is not initialized
+Unable to update achievement progress for FLEAS_HALF, because Steam is not initialized
+Unloading 1 Unused Serialized files (Serialized files now loaded: 666)
+Scene Manager missing from scene Bellway_Aqueduct
+UnloadTime: 9.288600 ms
+First video frame not zero: 4 (0.066667s). Result may be out of sync. Please make sure tracks all start at 0 in archive:/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5.resource
+Unloading 7385 unused Assets to reduce memory usage. Loaded Objects now: 136975.
+Total: 177.012300 ms (FindLiveObjects: 17.915400 ms CreateObjectMapping: 18.681300 ms MarkObjects: 109.601000 ms  DeleteObjects: 30.814200 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 658)
+Unloading 50 unused Assets to reduce memory usage. Loaded Objects now: 146309.
+Total: 129.361100 ms (FindLiveObjects: 16.045500 ms CreateObjectMapping: 10.850600 ms MarkObjects: 101.207800 ms  DeleteObjects: 1.257000 ms)
+
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Cannot use 'linearVelocity' on a static body.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 642)
+Unloading 4688 unused Assets to reduce memory usage. Loaded Objects now: 146199.
+Total: 172.455600 ms (FindLiveObjects: 16.486200 ms CreateObjectMapping: 15.782900 ms MarkObjects: 107.405100 ms  DeleteObjects: 32.781200 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 629)
+Scene Manager missing from scene Bellway_Aqueduct
+UnloadTime: 9.047600 ms
+First video frame not zero: 4 (0.066667s). Result may be out of sync. Please make sure tracks all start at 0 in archive:/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5.resource
+Unloading 4112 unused Assets to reduce memory usage. Loaded Objects now: 136898.
+Total: 143.908900 ms (FindLiveObjects: 18.842800 ms CreateObjectMapping: 11.697200 ms MarkObjects: 99.023800 ms  DeleteObjects: 14.344800 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 621)
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 146449.
+Total: 146.595200 ms (FindLiveObjects: 15.093200 ms CreateObjectMapping: 9.177500 ms MarkObjects: 122.035000 ms  DeleteObjects: 0.289200 ms)
+
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Unable to update achievement progress for ALL_MASKS, because Steam is not initialized
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Cannot use 'linearVelocity' on a static body.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 637)
+Unloading 8395 unused Assets to reduce memory usage. Loaded Objects now: 143893.
+Total: 177.927100 ms (FindLiveObjects: 15.477300 ms CreateObjectMapping: 11.795200 ms MarkObjects: 104.899700 ms  DeleteObjects: 45.754300 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 637)
+Unloading 2622 unused Assets to reduce memory usage. Loaded Objects now: 143916.
+Total: 147.845100 ms (FindLiveObjects: 15.790500 ms CreateObjectMapping: 9.158900 ms MarkObjects: 113.735600 ms  DeleteObjects: 9.159800 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 637)
+Unloading 2622 unused Assets to reduce memory usage. Loaded Objects now: 143939.
+Total: 136.293300 ms (FindLiveObjects: 16.209900 ms CreateObjectMapping: 10.138900 ms MarkObjects: 101.483000 ms  DeleteObjects: 8.461100 ms)
+
+Unable to retrieve achievement state for DEFEATED_FIRST_SINNER, because Steam is not initialized
+Unable to retrieve achievement state for FIRST_SILK_SKILL, because Steam is not initialized
+Unable to update achievement progress for ALL_SILK_SKILLS, because Steam is not initialized
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Cannot use 'linearVelocity' on a static body.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 636)
+UnloadTime: 11.097300 ms
+First video frame not zero: 4 (0.066667s). Result may be out of sync. Please make sure tracks all start at 0 in archive:/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5.resource
+Unloading 10408 unused Assets to reduce memory usage. Loaded Objects now: 137890.
+Total: 208.053900 ms (FindLiveObjects: 24.710300 ms CreateObjectMapping: 15.721100 ms MarkObjects: 113.536000 ms  DeleteObjects: 54.086300 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 605)
+Unloading 60 unused Assets to reduce memory usage. Loaded Objects now: 142906.
+Total: 130.212500 ms (FindLiveObjects: 15.123300 ms CreateObjectMapping: 10.156700 ms MarkObjects: 104.127900 ms  DeleteObjects: 0.804200 ms)
+
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 674)
+UnloadTime: 9.609000 ms
+First video frame not zero: 4 (0.066667s). Result may be out of sync. Please make sure tracks all start at 0 in archive:/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5.resource
+Unloading 9584 unused Assets to reduce memory usage. Loaded Objects now: 137278.
+Total: 273.407200 ms (FindLiveObjects: 19.405000 ms CreateObjectMapping: 12.800100 ms MarkObjects: 127.008000 ms  DeleteObjects: 114.193600 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 661)
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 144345.
+Total: 122.862400 ms (FindLiveObjects: 17.341200 ms CreateObjectMapping: 10.339900 ms MarkObjects: 94.692500 ms  DeleteObjects: 0.488500 ms)
+
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Cannot set the parent of the GameObject 'Pt Emerge' while activating or deactivating the parent GameObject 'Gilly'.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 635)
+UnloadTime: 7.236500 ms
+First video frame not zero: 4 (0.066667s). Result may be out of sync. Please make sure tracks all start at 0 in archive:/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5.resource
+Unloading 8250 unused Assets to reduce memory usage. Loaded Objects now: 137379.
+Total: 196.715200 ms (FindLiveObjects: 18.029600 ms CreateObjectMapping: 17.685700 ms MarkObjects: 115.832900 ms  DeleteObjects: 45.166800 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 628)
+Unloading 47 unused Assets to reduce memory usage. Loaded Objects now: 145108.
+Total: 129.938400 ms (FindLiveObjects: 14.799900 ms CreateObjectMapping: 10.945600 ms MarkObjects: 103.273900 ms  DeleteObjects: 0.918700 ms)
+
+Can not play a disabled audio source
+Can not play a disabled audio source
+Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 660)
+Unloading 5588 unused Assets to reduce memory usage. Loaded Objects now: 142896.
+Total: 219.657500 ms (FindLiveObjects: 27.021800 ms CreateObjectMapping: 16.883500 ms MarkObjects: 120.742800 ms  DeleteObjects: 55.008900 ms)
+
+Cannot set the parent of the GameObject 'Corpse Dustroach(Clone)' while activating or deactivating the parent GameObject 'Art'.
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Roachkeeper Chef Tiny (2)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Roachkeeper Chef Tiny (2)).
+Unloading 1 Unused Serialized files (Serialized files now loaded: 674)
+Unloading 3856 unused Assets to reduce memory usage. Loaded Objects now: 159517.
+Total: 310.681500 ms (FindLiveObjects: 53.529400 ms CreateObjectMapping: 10.795600 ms MarkObjects: 201.296000 ms  DeleteObjects: 45.059800 ms)
+
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Roachkeeper Chef Tiny (2)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Roachkeeper Chef Tiny (2)).
+Unloading 1 Unused Serialized files (Serialized files now loaded: 674)
+Unloading 2024 unused Assets to reduce memory usage. Loaded Objects now: 159344.
+Total: 213.934700 ms (FindLiveObjects: 18.338800 ms CreateObjectMapping: 11.550800 ms MarkObjects: 164.820200 ms  DeleteObjects: 19.224200 ms)
+
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Roachkeeper Chef Tiny (2)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Roachkeeper Chef Tiny (2)).
+Unloading 1 Unused Serialized files (Serialized files now loaded: 674)
+Unloading 2031 unused Assets to reduce memory usage. Loaded Objects now: 159624.
+Total: 147.010200 ms (FindLiveObjects: 16.200900 ms CreateObjectMapping: 10.770300 ms MarkObjects: 100.233600 ms  DeleteObjects: 19.805200 ms)
+
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Roachkeeper Chef Tiny (2)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Roachkeeper Chef Tiny (2)).
+Cannot use 'linearVelocity' on a static body.
+Cannot use 'linearVelocity' on a static body.
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Unable to retrieve achievement state for FIRST_WISH, because Steam is not initialized
+Unable to retrieve achievement state for FIRST_TOOL, because Steam is not initialized
+Unable to update achievement progress for ALL_TOOLS, because Steam is not initialized
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 670)
+Unloading 2645 unused Assets to reduce memory usage. Loaded Objects now: 155282.
+Total: 188.356700 ms (FindLiveObjects: 20.782200 ms CreateObjectMapping: 12.678100 ms MarkObjects: 120.138600 ms  DeleteObjects: 34.757500 ms)
+
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Cannot use 'linearVelocity' on a static body.
+Cannot use 'linearVelocity' on a static body.
+Cannot use 'linearVelocity' on a static body.
+Cannot use 'linearVelocity' on a static body.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Unable to retrieve achievement state for FLEAS_HALF, because Steam is not initialized
+Unable to update achievement progress for FLEAS_HALF, because Steam is not initialized
+Unable to retrieve achievement state for FLEAS_HALF, because Steam is not initialized
+Unable to update achievement progress for FLEAS_HALF, because Steam is not initialized
+Unloading 1 Unused Serialized files (Serialized files now loaded: 653)
+Unloading 4424 unused Assets to reduce memory usage. Loaded Objects now: 154404.
+Total: 169.043300 ms (FindLiveObjects: 15.675100 ms CreateObjectMapping: 9.889100 ms MarkObjects: 107.518100 ms  DeleteObjects: 35.960600 ms)
+
+Cannot use 'linearVelocity' on a static body.
+Cannot use 'linearVelocity' on a static body.
+Cannot use 'linearVelocity' on a static body.
+Unable to retrieve achievement state for FLEAS_HALF, because Steam is not initialized
+Unable to update achievement progress for FLEAS_HALF, because Steam is not initialized
+Unable to retrieve achievement state for FLEAS_HALF, because Steam is not initialized
+Unable to update achievement progress for FLEAS_HALF, because Steam is not initialized
+Unable to retrieve achievement state for BELLWAYS_FULL, because Steam is not initialized
+Unable to update achievement progress for BELLWAYS_FULL, because Steam is not initialized
+Unable to update achievement progress for ALL_MAPS, because Steam is not initialized
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Can not play a disabled audio source
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Cannot use 'linearVelocity' on a static body.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Unable to retrieve achievement state for FIRST_TOOL, because Steam is not initialized
+Unable to update achievement progress for ALL_TOOLS, because Steam is not initialized
+Cannot use 'linearVelocity' on a static body.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Unloading 1 Unused Serialized files (Serialized files now loaded: 663)
+Unloading 5726 unused Assets to reduce memory usage. Loaded Objects now: 145786.
+Total: 172.199100 ms (FindLiveObjects: 15.960800 ms CreateObjectMapping: 10.986800 ms MarkObjects: 105.746500 ms  DeleteObjects: 39.504700 ms)
+
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Coroutine couldn't be started because the the game object 'Pollywog BG (1)' is inactive!
+Coroutine couldn't be started because the the game object 'Pollywog BG (2)' is inactive!
+Coroutine couldn't be started because the the game object 'Pollywog BG (3)' is inactive!
+Coroutine couldn't be started because the the game object 'Pollywog BG (6)' is inactive!
+Coroutine couldn't be started because the the game object 'Pollywog BG (7)' is inactive!
+Coroutine couldn't be started because the the game object 'Pollywog BG (5)' is inactive!
+Coroutine couldn't be started because the the game object 'Pollywog BG (6)' is inactive!
+Coroutine couldn't be started because the the game object 'Pollywog BG (1)' is inactive!
+Coroutine couldn't be started because the the game object 'Pollywog BG (4)' is inactive!
+Coroutine couldn't be started because the the game object 'Pollywog BG (4)' is inactive!
+Coroutine couldn't be started because the the game object 'Pollywog BG (3)' is inactive!
+Coroutine couldn't be started because the the game object 'Pollywog BG (5)' is inactive!
+Coroutine couldn't be started because the the game object 'Pollywog BG (1)' is inactive!
+Coroutine couldn't be started because the the game object 'Pollywog BG (2)' is inactive!
+Coroutine couldn't be started because the the game object 'Pollywog BG (5)' is inactive!
+Coroutine couldn't be started because the the game object 'Pollywog BG (2)' is inactive!
+Coroutine couldn't be started because the the game object 'Pollywog BG (1)' is inactive!
+Coroutine couldn't be started because the the game object 'Pollywog BG (3)' is inactive!
+Unloading 1 Unused Serialized files (Serialized files now loaded: 665)
+Unloading 2822 unused Assets to reduce memory usage. Loaded Objects now: 145802.
+Total: 128.894200 ms (FindLiveObjects: 15.913200 ms CreateObjectMapping: 9.668300 ms MarkObjects: 89.327900 ms  DeleteObjects: 13.984600 ms)
+
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Unable to update achievement progress for ALL_MASKS, because Steam is not initialized
+Coroutine couldn't be started because the the game object 'Pollywog BG (6)' is inactive!
+Coroutine couldn't be started because the the game object 'Pollywog BG (5)' is inactive!
+Coroutine couldn't be started because the the game object 'Pollywog BG (6)' is inactive!
+Coroutine couldn't be started because the the game object 'Pollywog BG (4)' is inactive!
+Coroutine couldn't be started because the the game object 'Pollywog BG (3)' is inactive!
+Coroutine couldn't be started because the the game object 'Pollywog BG (1)' is inactive!
+Coroutine couldn't be started because the the game object 'Pollywog BG (2)' is inactive!
+Coroutine couldn't be started because the the game object 'Pollywog BG (1)' is inactive!
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Can not play a disabled audio source
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Cannot use 'linearVelocity' on a static body.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 659)
+Unloading 4530 unused Assets to reduce memory usage. Loaded Objects now: 147645.
+Total: 145.650900 ms (FindLiveObjects: 15.449900 ms CreateObjectMapping: 10.383000 ms MarkObjects: 90.920500 ms  DeleteObjects: 28.897300 ms)
+
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Cannot use 'linearVelocity' on a static body.
+Cannot use 'linearVelocity' on a static body.
+Cannot use 'angularVelocity' on a static body.
+Cannot use 'linearVelocity' on a static body.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Unloading 1 Unused Serialized files (Serialized files now loaded: 688)
+Scene Manager missing from scene Bellway_Aqueduct
+UnloadTime: 9.056200 ms
+First video frame not zero: 4 (0.066667s). Result may be out of sync. Please make sure tracks all start at 0 in archive:/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5.resource
+Unloading 8941 unused Assets to reduce memory usage. Loaded Objects now: 141591.
+Total: 192.628600 ms (FindLiveObjects: 16.863900 ms CreateObjectMapping: 12.808400 ms MarkObjects: 112.431100 ms  DeleteObjects: 50.525000 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 636)
+Unloading 131 unused Assets to reduce memory usage. Loaded Objects now: 149351.
+Total: 130.769000 ms (FindLiveObjects: 17.130400 ms CreateObjectMapping: 10.137700 ms MarkObjects: 101.934700 ms  DeleteObjects: 1.565900 ms)
+
+Started loading clips for Bone Record Bone_East_14
+Started loading clips for Bone Record Greymoor_flooded_corridor
+Started loading clips for Bone Record Understore_Map_Room
+Started loading clips for Bone Record Wisp Top
+Started loading clips for Weaver Totem Bonetown_upper_room
+Started loading clips for Weaver Totem Witch
+Started loading clips for Weaver Totem Slab_Bottom
+Started loading clips for Seal Chit Aspid_01
+Started loading clips for Seal Chit Ward Corpse
+Started loading clips for Seal Chit City Merchant
+Started loading clips for Seal Chit Silk Siphon
+Started loading clips for Weaver Record Weave_08
+Started loading clips for Weaver Record Sprint_Challenge
+Started loading clips for Weaver Record Conductor
+Started loading clips for Ancient Egg Abyss Middle
+Started loading clips for Psalm Cylinder Librarian
+Started loading clips for Psalm Cylinder Ward
+Started loading clips for Psalm Cylinder Hang
+Started loading clips for Psalm Cylinder Grindle
+Started loading clips for Psalm Cylinder Library Roof
+Started loading clips for Librarian Melody Cylinder
+Finished loading gramaphone clip for Psalm Cylinder Librarian
+Finished loading gramaphone clip for Psalm Cylinder Ward
+Finished loading gramaphone clip for Psalm Cylinder Hang
+Finished loading gramaphone clip for Psalm Cylinder Grindle
+Finished loading gramaphone clip for Psalm Cylinder Library Roof
+Finished loading gramaphone clip for Librarian Melody Cylinder
+Finished loading needolin clip for Librarian Melody Cylinder
+Freed clips for Bone Record Bone_East_14
+Freed clips for Bone Record Greymoor_flooded_corridor
+Freed clips for Bone Record Understore_Map_Room
+Freed clips for Bone Record Wisp Top
+Freed clips for Weaver Totem Bonetown_upper_room
+Freed clips for Weaver Totem Witch
+Freed clips for Weaver Totem Slab_Bottom
+Freed clips for Seal Chit Aspid_01
+Freed clips for Seal Chit Ward Corpse
+Freed clips for Seal Chit City Merchant
+Freed clips for Seal Chit Silk Siphon
+Freed clips for Weaver Record Weave_08
+Freed clips for Weaver Record Sprint_Challenge
+Freed clips for Weaver Record Conductor
+Freed clips for Ancient Egg Abyss Middle
+Freed clips for Psalm Cylinder Librarian
+Freed clips for Psalm Cylinder Ward
+Freed clips for Psalm Cylinder Hang
+Freed clips for Psalm Cylinder Grindle
+Freed clips for Psalm Cylinder Library Roof
+Freed clips for Librarian Melody Cylinder
+Couldn't find transition point "door4", falling back to first available: "door5"
 Started loading clips for Bone Record Bone_East_14
 Started loading clips for Bone Record Greymoor_flooded_corridor
 Started loading clips for Bone Record Understore_Map_Room
@@ -232,14 +1484,6 @@ Finished loading gramaphone clip for Psalm Cylinder Library Roof
 Finished loading gramaphone clip for Librarian Melody Cylinder
 Finished loading needolin clip for Librarian Melody Cylinder
 Unable to retrieve achievement state for BELLHOME, because Steam is not initialized
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Attempting to get `timeSamples` on an audio source that has a resource assigned that is not a clip is ignored!
-Attempting to set `timeSamples` on an audio source that has a resource assigned that is not a clip is ignored!
-Attempting to get `timeSamples` on an audio source that has a resource assigned that is not a clip is ignored!
-Attempting to set `timeSamples` on an audio source that has a resource assigned that is not a clip is ignored!
 Freed clips for Bone Record Bone_East_14
 Freed clips for Bone Record Greymoor_flooded_corridor
 Freed clips for Bone Record Understore_Map_Room
@@ -261,68 +1505,174 @@ Freed clips for Psalm Cylinder Hang
 Freed clips for Psalm Cylinder Grindle
 Freed clips for Psalm Cylinder Library Roof
 Freed clips for Librarian Melody Cylinder
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Unloading 1 Unused Serialized files (Serialized files now loaded: 643)
-UnloadTime: 10.098500 ms
-Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for archive:/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1.resource
-Unloading 6910 unused Assets to reduce memory usage. Loaded Objects now: 141105.
-Total: 166.742500 ms (FindLiveObjects: 16.598700 ms CreateObjectMapping: 11.673100 ms MarkObjects: 109.084700 ms  DeleteObjects: 29.385700 ms)
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Unloading 1 Unused Serialized files (Serialized files now loaded: 654)
+UnloadTime: 10.486300 ms
+First video frame not zero: 4 (0.066667s). Result may be out of sync. Please make sure tracks all start at 0 in archive:/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5.resource
+Unloading 7771 unused Assets to reduce memory usage. Loaded Objects now: 140113.
+Total: 178.119300 ms (FindLiveObjects: 19.869600 ms CreateObjectMapping: 18.043400 ms MarkObjects: 102.520200 ms  DeleteObjects: 37.685700 ms)
 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 591)
-Unloading 69 unused Assets to reduce memory usage. Loaded Objects now: 152308.
-Total: 118.721600 ms (FindLiveObjects: 14.940000 ms CreateObjectMapping: 8.813600 ms MarkObjects: 93.535400 ms  DeleteObjects: 1.432200 ms)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 595)
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 145843.
+Total: 119.812600 ms (FindLiveObjects: 14.673600 ms CreateObjectMapping: 9.600600 ms MarkObjects: 95.116000 ms  DeleteObjects: 0.422200 ms)
 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 592)
-Scene Manager missing from scene Bone_05
-Scene Manager missing from scene Bone_05
-UnloadTime: 11.659000 ms
-Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for archive:/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1.resource
-Unloading 3376 unused Assets to reduce memory usage. Loaded Objects now: 142824.
-Total: 143.388900 ms (FindLiveObjects: 16.918900 ms CreateObjectMapping: 12.759000 ms MarkObjects: 106.865800 ms  DeleteObjects: 6.844800 ms)
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Cannot set the parent of the GameObject 'Unalert Range' while activating or deactivating the parent GameObject 'Roof Crab'.
+Started loading clips for Bone Record Bone_East_14
+Started loading clips for Bone Record Greymoor_flooded_corridor
+Started loading clips for Bone Record Understore_Map_Room
+Started loading clips for Bone Record Wisp Top
+Started loading clips for Weaver Totem Bonetown_upper_room
+Started loading clips for Weaver Totem Witch
+Started loading clips for Weaver Totem Slab_Bottom
+Started loading clips for Seal Chit Aspid_01
+Started loading clips for Seal Chit Ward Corpse
+Started loading clips for Seal Chit City Merchant
+Started loading clips for Seal Chit Silk Siphon
+Started loading clips for Weaver Record Weave_08
+Started loading clips for Weaver Record Sprint_Challenge
+Started loading clips for Weaver Record Conductor
+Started loading clips for Ancient Egg Abyss Middle
+Started loading clips for Psalm Cylinder Librarian
+Started loading clips for Psalm Cylinder Ward
+Started loading clips for Psalm Cylinder Hang
+Started loading clips for Psalm Cylinder Grindle
+Started loading clips for Psalm Cylinder Library Roof
+Started loading clips for Librarian Melody Cylinder
+Unloading 1 Unused Serialized files (Serialized files now loaded: 636)
+Finished loading gramaphone clip for Psalm Cylinder Librarian
+Finished loading gramaphone clip for Psalm Cylinder Ward
+Finished loading gramaphone clip for Psalm Cylinder Hang
+Finished loading gramaphone clip for Psalm Cylinder Grindle
+Finished loading gramaphone clip for Psalm Cylinder Library Roof
+Finished loading gramaphone clip for Librarian Melody Cylinder
+Finished loading needolin clip for Librarian Melody Cylinder
+Unloading 9995 unused Assets to reduce memory usage. Loaded Objects now: 144331.
+Total: 195.562000 ms (FindLiveObjects: 15.265800 ms CreateObjectMapping: 11.256300 ms MarkObjects: 107.155800 ms  DeleteObjects: 61.883800 ms)
 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 574)
-Unloading 60 unused Assets to reduce memory usage. Loaded Objects now: 148558.
-Total: 130.047000 ms (FindLiveObjects: 14.385700 ms CreateObjectMapping: 9.294900 ms MarkObjects: 104.295200 ms  DeleteObjects: 2.070500 ms)
+Freed clips for Bone Record Bone_East_14
+Freed clips for Bone Record Greymoor_flooded_corridor
+Freed clips for Bone Record Understore_Map_Room
+Freed clips for Bone Record Wisp Top
+Freed clips for Weaver Totem Bonetown_upper_room
+Freed clips for Weaver Totem Witch
+Freed clips for Weaver Totem Slab_Bottom
+Freed clips for Seal Chit Aspid_01
+Freed clips for Seal Chit Ward Corpse
+Freed clips for Seal Chit City Merchant
+Freed clips for Seal Chit Silk Siphon
+Freed clips for Weaver Record Weave_08
+Freed clips for Weaver Record Sprint_Challenge
+Freed clips for Weaver Record Conductor
+Freed clips for Ancient Egg Abyss Middle
+Freed clips for Psalm Cylinder Librarian
+Freed clips for Psalm Cylinder Ward
+Freed clips for Psalm Cylinder Hang
+Freed clips for Psalm Cylinder Grindle
+Freed clips for Psalm Cylinder Library Roof
+Freed clips for Librarian Melody Cylinder
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 665)
+UnloadTime: 9.223800 ms
+First video frame not zero: 4 (0.066667s). Result may be out of sync. Please make sure tracks all start at 0 in archive:/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5.resource
+Unloading 7057 unused Assets to reduce memory usage. Loaded Objects now: 140309.
+Total: 163.207100 ms (FindLiveObjects: 18.280700 ms CreateObjectMapping: 17.221500 ms MarkObjects: 89.548000 ms  DeleteObjects: 38.156700 ms)
 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 592)
-Scene Manager missing from scene Bellway_01
-UnloadTime: 7.506200 ms
-Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for archive:/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1.resource
-Unloading 3018 unused Assets to reduce memory usage. Loaded Objects now: 142874.
-Total: 123.899000 ms (FindLiveObjects: 17.721300 ms CreateObjectMapping: 11.598100 ms MarkObjects: 88.185500 ms  DeleteObjects: 6.393800 ms)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 602)
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 145960.
+Total: 128.793800 ms (FindLiveObjects: 16.191400 ms CreateObjectMapping: 9.787400 ms MarkObjects: 102.384200 ms  DeleteObjects: 0.430600 ms)
 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 604)
-Unloading 44 unused Assets to reduce memory usage. Loaded Objects now: 151534.
-Total: 124.735600 ms (FindLiveObjects: 14.518900 ms CreateObjectMapping: 9.195500 ms MarkObjects: 100.705600 ms  DeleteObjects: 0.315100 ms)
+Cannot set the parent of the GameObject 'Unalert Range' while activating or deactivating the parent GameObject 'Roof Crab'.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Unable to retrieve achievement state for FIRST_SILK_SKILL, because Steam is not initialized
+Unable to update achievement progress for ALL_SILK_SKILLS, because Steam is not initialized
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Unable to retrieve achievement state for FIRST_TOOL, because Steam is not initialized
+Unable to update achievement progress for ALL_TOOLS, because Steam is not initialized
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Cannot set the parent of the GameObject 'Corpse Pilgrim BellThrower Fly(Clone)' while activating or deactivating the parent GameObject 'Corpse Catcher'.
+Cannot set the parent of the GameObject 'Corpse Pilgrim Fly(Clone)' while activating or deactivating the parent GameObject 'Corpse Catcher'.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
+Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
+Cannot use 'linearVelocity' on a static body.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
+Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
+Unable to retrieve achievement state for FIRST_WISH, because Steam is not initialized
+Unable to retrieve achievement state for FIRST_TOOL, because Steam is not initialized
+Unable to update achievement progress for ALL_TOOLS, because Steam is not initialized
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Cannot set the parent of the GameObject 'Unalert Range' while activating or deactivating the parent GameObject 'Roof Crab'.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 697)
+UnloadTime: 9.093000 ms
+First video frame not zero: 4 (0.066667s). Result may be out of sync. Please make sure tracks all start at 0 in archive:/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5.resource
+Unloading 14284 unused Assets to reduce memory usage. Loaded Objects now: 140994.
+Total: 237.759100 ms (FindLiveObjects: 18.057700 ms CreateObjectMapping: 19.067500 ms MarkObjects: 109.989900 ms  DeleteObjects: 90.643500 ms)
 
-Coroutine couldn't be started because the the game object 'Camera Wind Region' is inactive!
-Coroutine couldn't be started because the the game object 'Camera Wind Region' is inactive!
-Unloading 1 Unused Serialized files (Serialized files now loaded: 606)
-Scene Manager missing from scene Bellway_08
-Scene Manager missing from scene Bellway_08
-Scene Manager missing from scene Bellway_08
-UnloadTime: 7.447600 ms
-Unloading 6000 unused Assets to reduce memory usage. Loaded Objects now: 142253.
-Total: 128.467500 ms (FindLiveObjects: 14.337900 ms CreateObjectMapping: 9.659600 ms MarkObjects: 80.140800 ms  DeleteObjects: 24.328800 ms)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 636)
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 155632.
+Total: 225.710600 ms (FindLiveObjects: 24.768100 ms CreateObjectMapping: 14.914100 ms MarkObjects: 185.558400 ms  DeleteObjects: 0.469500 ms)
 
-Inactive coroutines were cleared: 1
-Unloading 0 Unused Serialized files (Serialized files now loaded: 549)
-Unloading 6891 unused Assets to reduce memory usage. Loaded Objects now: 27275.
-Total: 79.518700 ms (FindLiveObjects: 2.988000 ms CreateObjectMapping: 4.363300 ms MarkObjects: 58.302300 ms  DeleteObjects: 13.864700 ms)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 614)
+UnloadTime: 14.293600 ms
+Unloading 4764 unused Assets to reduce memory usage. Loaded Objects now: 140530.
+Total: 145.424800 ms (FindLiveObjects: 15.600600 ms CreateObjectMapping: 9.739700 ms MarkObjects: 108.190700 ms  DeleteObjects: 11.893500 ms)
 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 596)
-UnloadTime: 0.490700 ms
+Unloading 0 Unused Serialized files (Serialized files now loaded: 555)
+Unloading 7226 unused Assets to reduce memory usage. Loaded Objects now: 31860.
+Total: 85.347600 ms (FindLiveObjects: 2.882400 ms CreateObjectMapping: 4.093800 ms MarkObjects: 61.663300 ms  DeleteObjects: 16.707700 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 602)
+UnloadTime: 0.542100 ms
 Loaded saved language code 'EN'
 Restored language code 'EN'
-Unloading 96 unused Assets to reduce memory usage. Loaded Objects now: 72457.
-Total: 70.003100 ms (FindLiveObjects: 6.525300 ms CreateObjectMapping: 6.353300 ms MarkObjects: 56.025100 ms  DeleteObjects: 1.099100 ms)
+Unloading 57 unused Assets to reduce memory usage. Loaded Objects now: 77368.
+Total: 90.839200 ms (FindLiveObjects: 7.726400 ms CreateObjectMapping: 7.882200 ms MarkObjects: 75.003600 ms  DeleteObjects: 0.226700 ms)
 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 594)
-Unloading 5611 unused Assets to reduce memory usage. Loaded Objects now: 66830.
-Total: 69.015300 ms (FindLiveObjects: 6.122200 ms CreateObjectMapping: 6.219800 ms MarkObjects: 43.433900 ms  DeleteObjects: 13.238900 ms)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 600)
+Unloading 5628 unused Assets to reduce memory usage. Loaded Objects now: 71724.
+Total: 76.480500 ms (FindLiveObjects: 6.629600 ms CreateObjectMapping: 8.428400 ms MarkObjects: 46.069900 ms  DeleteObjects: 15.352200 ms)
 
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
 [Physics::Module] Cleanup current backned.
 [Physics::Module] Id: 0xf2b8ea05
 Input System module state changed to: ShutdownInProgress.
