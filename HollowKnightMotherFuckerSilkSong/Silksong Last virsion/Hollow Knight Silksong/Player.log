@@ -13,8 +13,8 @@ Direct3D:
     VRAM:     1999 MB
     Driver:   32.0.15.6094
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  2.596 seconds
-- Finished resetting the current domain, in  0.048 seconds
+- Loaded All Assemblies, in  0.367 seconds
+- Finished resetting the current domain, in  0.004 seconds
 [Physics::Module] Selected backend.
 [Physics::Module] Name: PhysX
 [Physics::Module] Id: 0xf2b8ea05
@@ -24,1284 +24,716 @@ Begin MonoManager ReloadAssembly
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 13.374100 ms
+UnloadTime: 0.621300 ms
 Steam initializing
 Steam failed to initialize
 Selected online subsystem SteamOnlineSubsystem
 Direct3D: detected that using refresh rate causes time drift. Will stop trusting refresh rate until the game window is moved.
 Direct3D: detected that vsync is broken (it does not limit frame rate properly). Delta time will now be calculated using cpu-side time stampling until the game window is moved.
 Unloading 5 Unused Serialized files (Serialized files now loaded: 527)
-UnloadTime: 1.617500 ms
+UnloadTime: 1.526700 ms
 Discovered supported languages: DE, EN, ES, FR, IT, JA, KO, PT, RU, ZH
 Loaded saved language code 'EN'
 Restored language code 'EN'
 Couldn't find a Game Manager, make sure one exists in the scene.
 Couldn't find GameCameras, make sure one exists in the scene.
 Unloading 53 unused Assets to reduce memory usage. Loaded Objects now: 6115.
-Total: 3.990600 ms (FindLiveObjects: 0.369100 ms CreateObjectMapping: 0.179700 ms MarkObjects: 3.381800 ms  DeleteObjects: 0.059700 ms)
+Total: 5.394800 ms (FindLiveObjects: 0.396500 ms CreateObjectMapping: 0.364400 ms MarkObjects: 4.585400 ms  DeleteObjects: 0.048400 ms)
 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 527)
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 6115.
-Total: 4.149500 ms (FindLiveObjects: 0.478200 ms CreateObjectMapping: 0.245500 ms MarkObjects: 3.390400 ms  DeleteObjects: 0.035100 ms)
+Unloading 2 Unused Serialized files (Serialized files now loaded: 527)
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 13333.
+Total: 18.289200 ms (FindLiveObjects: 1.093700 ms CreateObjectMapping: 1.961500 ms MarkObjects: 15.145100 ms  DeleteObjects: 0.088200 ms)
 
-Couldn't find GameCameras, make sure one exists in the scene.
 Unloading 1 Unused Serialized files (Serialized files now loaded: 579)
+Couldn't find GameCameras, make sure one exists in the scene.
 Couldn't find a Game Manager, make sure one exists in the scene.
-UnloadTime: 51.759000 ms
+UnloadTime: 10.299300 ms
 Loaded saved language code 'EN'
 Restored language code 'EN'
 Unloading 73 unused Assets to reduce memory usage. Loaded Objects now: 66314.
-Total: 48.702600 ms (FindLiveObjects: 5.345500 ms CreateObjectMapping: 5.781600 ms MarkObjects: 37.234200 ms  DeleteObjects: 0.341000 ms)
+Total: 51.638600 ms (FindLiveObjects: 6.618300 ms CreateObjectMapping: 5.965400 ms MarkObjects: 38.723300 ms  DeleteObjects: 0.331400 ms)
 
 MenuButton missing flashEffect!
 Making UI menu lean.
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Unloading 3 Unused Serialized files (Serialized files now loaded: 588)
-Unloading 112 unused Assets to reduce memory usage. Loaded Objects now: 119745.
-Total: 110.766000 ms (FindLiveObjects: 11.846000 ms CreateObjectMapping: 13.684000 ms MarkObjects: 84.406800 ms  DeleteObjects: 0.829000 ms)
+Unloading 3 Unused Serialized files (Serialized files now loaded: 606)
+Unloading 653 unused Assets to reduce memory usage. Loaded Objects now: 121795.
+Total: 108.900300 ms (FindLiveObjects: 11.873400 ms CreateObjectMapping: 12.489000 ms MarkObjects: 82.653100 ms  DeleteObjects: 1.884400 ms)
 
 Converting Vertex Colors from Color32 to Color.
 Converting Vertex Colors from Color32 to Color.
 Converting Vertex Colors from Color32 to Color.
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
-Cannot use 'linearVelocity' on a static body.
-Cannot use 'linearVelocity' on a static body.
-Cannot use 'linearVelocity' on a static body.
-Cannot use 'linearVelocity' on a static body.
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Cannot use 'linearVelocity' on a static body.
-Cannot use 'linearVelocity' on a static body.
-Cannot use 'linearVelocity' on a static body.
-Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Cannot use 'linearVelocity' on a static body.
-Cannot use 'linearVelocity' on a static body.
-Cannot use 'linearVelocity' on a static body.
-Cannot use 'linearVelocity' on a static body.
-Unable to retrieve achievement state for FIRST_WISH, because Steam is not initialized
-Unable to retrieve achievement state for FIRST_SILK_SPOOL, because Steam is not initialized
-Unable to update achievement progress for ALL_SILK_SPOOLS, because Steam is not initialized
-Couldn't find transition point "door1", falling back to first available: "bot1"
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Cannot use 'linearVelocity' on a static body.
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
-Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
-Reloading same scene! Destroying GuidComponents to prevent collisions...
-Unable to retrieve achievement state for FIRST_CREST, because Steam is not initialized
-Unable to update achievement progress for ALL_CRESTS, because Steam is not initialized
-Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
-Hazard Respawn Trigger v2 (3) does not have a Hazard Respawn Marker Set
-Hazard Respawn Trigger v2 (2) does not have a Hazard Respawn Marker Set
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Unloading 1 Unused Serialized files (Serialized files now loaded: 642)
-UnloadTime: 14.980800 ms
-Unloading 16759 unused Assets to reduce memory usage. Loaded Objects now: 134690.
-Total: 190.692500 ms (FindLiveObjects: 17.713800 ms CreateObjectMapping: 12.056400 ms MarkObjects: 87.204500 ms  DeleteObjects: 73.717600 ms)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 631)
+Unloading 4005 unused Assets to reduce memory usage. Loaded Objects now: 150637.
+Total: 114.833400 ms (FindLiveObjects: 14.741900 ms CreateObjectMapping: 10.416200 ms MarkObjects: 77.758200 ms  DeleteObjects: 11.916900 ms)
 
-First video frame not zero: 4 (0.066667s). Result may be out of sync. Please make sure tracks all start at 0 in archive:/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5.resource
-Unloading 2 Unused Serialized files (Serialized files now loaded: 596)
-Unloading 76 unused Assets to reduce memory usage. Loaded Objects now: 145119.
-Total: 101.979400 ms (FindLiveObjects: 13.961500 ms CreateObjectMapping: 11.135700 ms MarkObjects: 76.081400 ms  DeleteObjects: 0.800400 ms)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 631)
+Unloading 1759 unused Assets to reduce memory usage. Loaded Objects now: 150694.
+Total: 126.191800 ms (FindLiveObjects: 15.033800 ms CreateObjectMapping: 12.244000 ms MarkObjects: 90.439800 ms  DeleteObjects: 8.473900 ms)
 
-Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
-Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
-Cannot set the parent of the GameObject 'Water Point L' while activating or deactivating the parent GameObject 'Caravan Troupe Flea Swimmer'.
-Cannot set the parent of the GameObject 'Water Point R' while activating or deactivating the parent GameObject 'Caravan Troupe Flea Swimmer'.
-Cannot set the parent of the GameObject 'Dive Point' while activating or deactivating the parent GameObject 'Caravan Troupe Flea Swimmer'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Caravan Troupe Flea Swimmer'.
-Cannot set the parent of the GameObject 'Water Point L' while activating or deactivating the parent GameObject 'Caravan Troupe Flea Swimmer (1)'.
-Cannot set the parent of the GameObject 'Water Point R' while activating or deactivating the parent GameObject 'Caravan Troupe Flea Swimmer (1)'.
-Cannot set the parent of the GameObject 'Dive Point' while activating or deactivating the parent GameObject 'Caravan Troupe Flea Swimmer (1)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Caravan Troupe Flea Swimmer (1)'.
-Can not play a disabled audio source
-Can not play a disabled audio source
-Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
-Cannot use 'linearVelocity' on a static body.
-Unloading 1 Unused Serialized files (Serialized files now loaded: 668)
-Unloading 6965 unused Assets to reduce memory usage. Loaded Objects now: 151049.
-Total: 213.331300 ms (FindLiveObjects: 16.117500 ms CreateObjectMapping: 10.125400 ms MarkObjects: 116.220700 ms  DeleteObjects: 70.867300 ms)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 631)
+Unloading 1759 unused Assets to reduce memory usage. Loaded Objects now: 150739.
+Total: 113.959700 ms (FindLiveObjects: 15.097200 ms CreateObjectMapping: 9.199700 ms MarkObjects: 80.432100 ms  DeleteObjects: 9.230300 ms)
 
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
-Unloading 1 Unused Serialized files (Serialized files now loaded: 639)
-Unloading 6023 unused Assets to reduce memory usage. Loaded Objects now: 156261.
-Total: 201.684200 ms (FindLiveObjects: 15.203100 ms CreateObjectMapping: 10.346800 ms MarkObjects: 100.303800 ms  DeleteObjects: 75.830200 ms)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 631)
+Unloading 1759 unused Assets to reduce memory usage. Loaded Objects now: 150784.
+Total: 123.499100 ms (FindLiveObjects: 14.512000 ms CreateObjectMapping: 10.168500 ms MarkObjects: 89.692800 ms  DeleteObjects: 9.125400 ms)
 
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Unable to retrieve achievement state for DEFEATED_PHANTOM_1, because Steam is not initialized
-Unable to retrieve achievement state for FIRST_SILK_SKILL, because Steam is not initialized
-Unable to update achievement progress for ALL_SILK_SKILLS, because Steam is not initialized
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Cannot use 'linearVelocity' on a static body.
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 631)
+Unloading 1759 unused Assets to reduce memory usage. Loaded Objects now: 150829.
+Total: 111.089700 ms (FindLiveObjects: 14.678300 ms CreateObjectMapping: 9.901900 ms MarkObjects: 77.926800 ms  DeleteObjects: 8.582400 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 631)
+Unloading 1759 unused Assets to reduce memory usage. Loaded Objects now: 150874.
+Total: 112.405500 ms (FindLiveObjects: 14.576100 ms CreateObjectMapping: 9.960400 ms MarkObjects: 79.174500 ms  DeleteObjects: 8.694100 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 631)
+Unloading 1759 unused Assets to reduce memory usage. Loaded Objects now: 150925.
+Total: 111.191300 ms (FindLiveObjects: 15.380400 ms CreateObjectMapping: 9.806500 ms MarkObjects: 76.871600 ms  DeleteObjects: 9.132500 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 631)
+Unloading 1759 unused Assets to reduce memory usage. Loaded Objects now: 150970.
+Total: 193.744900 ms (FindLiveObjects: 20.084000 ms CreateObjectMapping: 15.607200 ms MarkObjects: 148.162400 ms  DeleteObjects: 9.890900 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 631)
+Unloading 1759 unused Assets to reduce memory usage. Loaded Objects now: 151015.
+Total: 118.190400 ms (FindLiveObjects: 15.726400 ms CreateObjectMapping: 10.973100 ms MarkObjects: 82.639900 ms  DeleteObjects: 8.850700 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 631)
+Unloading 1759 unused Assets to reduce memory usage. Loaded Objects now: 151061.
+Total: 191.672700 ms (FindLiveObjects: 17.544700 ms CreateObjectMapping: 10.620800 ms MarkObjects: 153.819300 ms  DeleteObjects: 9.687600 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 631)
+Unloading 1759 unused Assets to reduce memory usage. Loaded Objects now: 151107.
+Total: 116.550300 ms (FindLiveObjects: 15.374500 ms CreateObjectMapping: 10.783100 ms MarkObjects: 81.519100 ms  DeleteObjects: 8.873300 ms)
+
 Unloading 1 Unused Serialized files (Serialized files now loaded: 641)
-Unloading 3520 unused Assets to reduce memory usage. Loaded Objects now: 161763.
-Total: 158.522800 ms (FindLiveObjects: 15.477300 ms CreateObjectMapping: 10.094100 ms MarkObjects: 100.253400 ms  DeleteObjects: 32.697800 ms)
+Scene Manager missing from scene Cradle_03
+UnloadTime: 15.489000 ms
+Unloading 6302 unused Assets to reduce memory usage. Loaded Objects now: 136657.
+Total: 133.017800 ms (FindLiveObjects: 14.421400 ms CreateObjectMapping: 11.142500 ms MarkObjects: 88.369200 ms  DeleteObjects: 19.084400 ms)
 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 643)
-UnloadTime: 17.180000 ms
+Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for archive:/CAB-c98d4cf50f475bcc81c49643e6c624be/CAB-c98d4cf50f475bcc81c49643e6c624be.resource
+Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
+Unloading 2 Unused Serialized files (Serialized files now loaded: 594)
+UnloadTime: 3.346800 ms
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 137816.
+Total: 106.330000 ms (FindLiveObjects: 15.639200 ms CreateObjectMapping: 8.816300 ms MarkObjects: 81.448100 ms  DeleteObjects: 0.426200 ms)
+
+Unable to retrieve achievement state for ENDING_D, because Steam is not initialized
+Unable to unlock achievement ENDING_D, because Steam is not initialized
+Unloading 1 Unused Serialized files (Serialized files now loaded: 576)
+UnloadTime: 2.721500 ms
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 137475.
+Total: 95.934900 ms (FindLiveObjects: 13.403100 ms CreateObjectMapping: 9.205900 ms MarkObjects: 72.755300 ms  DeleteObjects: 0.570400 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 575)
+UnloadTime: 2.387800 ms
+Unloading 385 unused Assets to reduce memory usage. Loaded Objects now: 136378.
+Total: 95.284300 ms (FindLiveObjects: 12.962300 ms CreateObjectMapping: 8.789400 ms MarkObjects: 72.386600 ms  DeleteObjects: 1.145500 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 525)
+Unloading 7162 unused Assets to reduce memory usage. Loaded Objects now: 26911.
+Total: 80.215100 ms (FindLiveObjects: 2.488800 ms CreateObjectMapping: 4.385100 ms MarkObjects: 53.556200 ms  DeleteObjects: 19.784800 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 577)
+UnloadTime: 1.042800 ms
+Loaded saved language code 'EN'
+Restored language code 'EN'
+Unloading 5670 unused Assets to reduce memory usage. Loaded Objects now: 66546.
+Total: 66.280400 ms (FindLiveObjects: 5.741400 ms CreateObjectMapping: 6.582700 ms MarkObjects: 40.619900 ms  DeleteObjects: 13.336200 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 575)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 66547.
+Total: 55.055400 ms (FindLiveObjects: 5.755500 ms CreateObjectMapping: 6.139100 ms MarkObjects: 42.947100 ms  DeleteObjects: 0.213300 ms)
+
+MenuButton missing flashEffect!
+Making UI menu lean.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Unloading 1 Unused Serialized files (Serialized files now loaded: 606)
+Unloading 654 unused Assets to reduce memory usage. Loaded Objects now: 121071.
+Total: 90.397500 ms (FindLiveObjects: 11.745600 ms CreateObjectMapping: 9.765700 ms MarkObjects: 67.056200 ms  DeleteObjects: 1.829700 ms)
+
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 594)
+UnloadTime: 15.935900 ms
 First video frame not zero: 4 (0.066667s). Result may be out of sync. Please make sure tracks all start at 0 in archive:/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5.resource
-Unloading 9102 unused Assets to reduce memory usage. Loaded Objects now: 134602.
-Total: 148.833400 ms (FindLiveObjects: 16.834500 ms CreateObjectMapping: 13.308500 ms MarkObjects: 89.763800 ms  DeleteObjects: 28.926300 ms)
+Unloading 7585 unused Assets to reduce memory usage. Loaded Objects now: 133997.
+Total: 128.814000 ms (FindLiveObjects: 15.713600 ms CreateObjectMapping: 12.059500 ms MarkObjects: 83.698300 ms  DeleteObjects: 17.342400 ms)
 
 Unloading 1 Unused Serialized files (Serialized files now loaded: 605)
-Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 143674.
-Total: 119.652800 ms (FindLiveObjects: 14.134000 ms CreateObjectMapping: 9.176300 ms MarkObjects: 95.585700 ms  DeleteObjects: 0.756600 ms)
+Unloading 69 unused Assets to reduce memory usage. Loaded Objects now: 141657.
+Total: 119.921100 ms (FindLiveObjects: 13.689700 ms CreateObjectMapping: 9.414100 ms MarkObjects: 95.799800 ms  DeleteObjects: 1.017100 ms)
+
+Can not play a disabled audio source
+Can not play a disabled audio source
+Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
+Can not play a disabled audio source
+Can not play a disabled audio source
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
+Cannot set the parent of the GameObject 'Pin' while activating or deactivating the parent GameObject 'Art'.
+Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
+Unable to retrieve achievement state for FIRST_WISH, because Steam is not initialized
+Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for archive:/CAB-74414972cb415d866e51ce80a0999ed7/CAB-74414972cb415d866e51ce80a0999ed7.resource
+Coroutine couldn't be started because the the game object 'CutsceneScreen' is inactive!
+Unable to retrieve achievement state for FIRST_CREST, because Steam is not initialized
+Unable to update achievement progress for ALL_CRESTS, because Steam is not initialized
+Cannot use 'linearVelocity' on a static body.
+Unable to retrieve achievement state for FIRST_TOOL, because Steam is not initialized
+Unable to update achievement progress for ALL_TOOLS, because Steam is not initialized
+Unloading 1 Unused Serialized files (Serialized files now loaded: 643)
+UnloadTime: 9.320300 ms
+First video frame not zero: 4 (0.066667s). Result may be out of sync. Please make sure tracks all start at 0 in archive:/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5.resource
+Unloading 10555 unused Assets to reduce memory usage. Loaded Objects now: 135229.
+Total: 207.223000 ms (FindLiveObjects: 18.869800 ms CreateObjectMapping: 15.131100 ms MarkObjects: 91.994200 ms  DeleteObjects: 81.227300 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 581)
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 140763.
+Total: 105.924400 ms (FindLiveObjects: 16.428900 ms CreateObjectMapping: 9.453900 ms MarkObjects: 79.735400 ms  DeleteObjects: 0.305800 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 659)
+UnloadTime: 7.038100 ms
+First video frame not zero: 4 (0.066667s). Result may be out of sync. Please make sure tracks all start at 0 in archive:/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5.resource
+Unloading 8960 unused Assets to reduce memory usage. Loaded Objects now: 135170.
+Total: 170.011400 ms (FindLiveObjects: 16.675800 ms CreateObjectMapping: 14.611900 ms MarkObjects: 90.314000 ms  DeleteObjects: 48.409200 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 674)
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 150329.
+Total: 126.439500 ms (FindLiveObjects: 15.515900 ms CreateObjectMapping: 10.236700 ms MarkObjects: 100.221700 ms  DeleteObjects: 0.464600 ms)
+
+Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
+Coroutine couldn't be started because the the game object 'ParrySlash Hit' is inactive!
+Can not play a disabled audio source
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Could Not Create Action: : Dialogue: Churchkeeper:  (Maybe the script was removed?)
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Started loading clips for Psalm Cylinder Librarian
+Started loading clips for Psalm Cylinder Ward
+Started loading clips for Psalm Cylinder Hang
+Started loading clips for Psalm Cylinder Grindle
+Started loading clips for Psalm Cylinder Library Roof
+Started loading clips for Librarian Melody Cylinder
+Finished loading gramaphone clip for Psalm Cylinder Librarian
+Finished loading gramaphone clip for Psalm Cylinder Ward
+Finished loading gramaphone clip for Psalm Cylinder Hang
+Finished loading gramaphone clip for Psalm Cylinder Grindle
+Finished loading gramaphone clip for Psalm Cylinder Library Roof
+Finished loading gramaphone clip for Librarian Melody Cylinder
+Finished loading needolin clip for Librarian Melody Cylinder
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Freed clips for Psalm Cylinder Librarian
+Freed clips for Psalm Cylinder Ward
+Freed clips for Psalm Cylinder Hang
+Freed clips for Psalm Cylinder Grindle
+Freed clips for Psalm Cylinder Library Roof
+Freed clips for Librarian Melody Cylinder
+Could Not Create Action: : Dialogue: Churchkeeper:  (Maybe the script was removed?)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 638)
+UnloadTime: 14.650200 ms
+First video frame not zero: 4 (0.066667s). Result may be out of sync. Please make sure tracks all start at 0 in archive:/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5.resource
+Unloading 12148 unused Assets to reduce memory usage. Loaded Objects now: 137500.
+Total: 227.884100 ms (FindLiveObjects: 18.665800 ms CreateObjectMapping: 13.076800 ms MarkObjects: 114.972200 ms  DeleteObjects: 81.168900 ms)
 
 Unloading 1 Unused Serialized files (Serialized files now loaded: 636)
-Scene Manager missing from scene Bellway_Aqueduct
-UnloadTime: 8.317000 ms
-First video frame not zero: 4 (0.066667s). Result may be out of sync. Please make sure tracks all start at 0 in archive:/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5.resource
-Unloading 5215 unused Assets to reduce memory usage. Loaded Objects now: 134559.
-Total: 143.910500 ms (FindLiveObjects: 15.507700 ms CreateObjectMapping: 12.163700 ms MarkObjects: 101.468000 ms  DeleteObjects: 14.770800 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 597)
-Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 142026.
-Total: 122.624300 ms (FindLiveObjects: 13.441700 ms CreateObjectMapping: 8.993800 ms MarkObjects: 99.763200 ms  DeleteObjects: 0.425300 ms)
-
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Unloading 1 Unused Serialized files (Serialized files now loaded: 621)
-Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
-Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
-Scene Manager missing from scene Bellway_Shadow
-UnloadTime: 6.568400 ms
-Unloading 5722 unused Assets to reduce memory usage. Loaded Objects now: 134465.
-Total: 112.383500 ms (FindLiveObjects: 13.206100 ms CreateObjectMapping: 9.271500 ms MarkObjects: 74.611100 ms  DeleteObjects: 15.294500 ms)
-
-Unloading 0 Unused Serialized files (Serialized files now loaded: 525)
-Unloading 7199 unused Assets to reduce memory usage. Loaded Objects now: 26386.
-Total: 76.534300 ms (FindLiveObjects: 2.751800 ms CreateObjectMapping: 4.142800 ms MarkObjects: 55.255500 ms  DeleteObjects: 14.383800 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 577)
-UnloadTime: 1.252500 ms
-Loaded saved language code 'EN'
-Restored language code 'EN'
-Unloading 57 unused Assets to reduce memory usage. Loaded Objects now: 71896.
-Total: 65.590400 ms (FindLiveObjects: 5.815900 ms CreateObjectMapping: 6.451900 ms MarkObjects: 53.110000 ms  DeleteObjects: 0.212200 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 575)
-Unloading 5611 unused Assets to reduce memory usage. Loaded Objects now: 66269.
-Total: 63.786000 ms (FindLiveObjects: 5.689300 ms CreateObjectMapping: 5.938300 ms MarkObjects: 39.302800 ms  DeleteObjects: 12.855000 ms)
-
-MenuButton missing flashEffect!
-Making UI menu lean.
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Unloading 1 Unused Serialized files (Serialized files now loaded: 576)
-Unloading 241 unused Assets to reduce memory usage. Loaded Objects now: 113711.
-Total: 105.332700 ms (FindLiveObjects: 10.346700 ms CreateObjectMapping: 9.187200 ms MarkObjects: 84.796200 ms  DeleteObjects: 1.002300 ms)
-
-Converting Vertex Colors from Color32 to Color.
-Converting Vertex Colors from Color32 to Color.
-Converting Vertex Colors from Color32 to Color.
-Unloading 1 Unused Serialized files (Serialized files now loaded: 578)
-UnloadTime: 6.677200 ms
-Unloading 4773 unused Assets to reduce memory usage. Loaded Objects now: 139550.
-Total: 110.510600 ms (FindLiveObjects: 12.996600 ms CreateObjectMapping: 8.962300 ms MarkObjects: 74.559500 ms  DeleteObjects: 13.991700 ms)
-
-Unloading 0 Unused Serialized files (Serialized files now loaded: 525)
-Unloading 6881 unused Assets to reduce memory usage. Loaded Objects now: 26843.
-Total: 71.829200 ms (FindLiveObjects: 2.845800 ms CreateObjectMapping: 3.252600 ms MarkObjects: 52.886800 ms  DeleteObjects: 12.843700 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 577)
-UnloadTime: 0.474100 ms
-Loaded saved language code 'EN'
-Restored language code 'EN'
-Unloading 55 unused Assets to reduce memory usage. Loaded Objects now: 72084.
-Total: 76.731000 ms (FindLiveObjects: 6.695500 ms CreateObjectMapping: 6.605300 ms MarkObjects: 63.225600 ms  DeleteObjects: 0.204300 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 575)
-Unloading 5609 unused Assets to reduce memory usage. Loaded Objects now: 66459.
-Total: 76.368900 ms (FindLiveObjects: 6.210200 ms CreateObjectMapping: 6.782600 ms MarkObjects: 50.375100 ms  DeleteObjects: 13.000600 ms)
-
-MenuButton missing flashEffect!
-Making UI menu lean.
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Unloading 1 Unused Serialized files (Serialized files now loaded: 590)
-Unloading 281 unused Assets to reduce memory usage. Loaded Objects now: 111615.
-Total: 90.179800 ms (FindLiveObjects: 9.771600 ms CreateObjectMapping: 8.876900 ms MarkObjects: 70.309600 ms  DeleteObjects: 1.221400 ms)
-
-Converting Vertex Colors from Color32 to Color.
-Converting Vertex Colors from Color32 to Color.
-Converting Vertex Colors from Color32 to Color.
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Unloading 1 Unused Serialized files (Serialized files now loaded: 596)
-UnloadTime: 6.770000 ms
-First video frame not zero: 4 (0.066667s). Result may be out of sync. Please make sure tracks all start at 0 in archive:/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5.resource
-Unloading 4600 unused Assets to reduce memory usage. Loaded Objects now: 133767.
-Total: 147.735100 ms (FindLiveObjects: 13.345600 ms CreateObjectMapping: 10.547000 ms MarkObjects: 113.125300 ms  DeleteObjects: 10.716800 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 610)
-Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 148728.
-Total: 118.651700 ms (FindLiveObjects: 13.432300 ms CreateObjectMapping: 8.931600 ms MarkObjects: 94.842400 ms  DeleteObjects: 1.445200 ms)
-
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Started loading clips for Psalm Cylinder Librarian
-Started loading clips for Psalm Cylinder Ward
-Started loading clips for Psalm Cylinder Hang
-Started loading clips for Psalm Cylinder Grindle
-Started loading clips for Psalm Cylinder Library Roof
-Started loading clips for Librarian Melody Cylinder
-Finished loading gramaphone clip for Psalm Cylinder Librarian
-Finished loading gramaphone clip for Psalm Cylinder Ward
-Finished loading gramaphone clip for Psalm Cylinder Hang
-Finished loading gramaphone clip for Psalm Cylinder Grindle
-Finished loading gramaphone clip for Psalm Cylinder Library Roof
-Finished loading gramaphone clip for Librarian Melody Cylinder
-Finished loading needolin clip for Librarian Melody Cylinder
-Freed clips for Psalm Cylinder Librarian
-Freed clips for Psalm Cylinder Ward
-Freed clips for Psalm Cylinder Hang
-Freed clips for Psalm Cylinder Grindle
-Freed clips for Psalm Cylinder Library Roof
-Freed clips for Librarian Melody Cylinder
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Started loading clips for Psalm Cylinder Librarian
-Started loading clips for Psalm Cylinder Ward
-Started loading clips for Psalm Cylinder Hang
-Started loading clips for Psalm Cylinder Grindle
-Started loading clips for Psalm Cylinder Library Roof
-Started loading clips for Librarian Melody Cylinder
-Finished loading gramaphone clip for Psalm Cylinder Librarian
-Finished loading gramaphone clip for Psalm Cylinder Ward
-Finished loading gramaphone clip for Psalm Cylinder Hang
-Finished loading gramaphone clip for Psalm Cylinder Grindle
-Finished loading gramaphone clip for Psalm Cylinder Library Roof
-Finished loading gramaphone clip for Librarian Melody Cylinder
-Finished loading needolin clip for Librarian Melody Cylinder
-Cannot use 'linearVelocity' on a static body.
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Freed clips for Psalm Cylinder Librarian
-Freed clips for Psalm Cylinder Ward
-Freed clips for Psalm Cylinder Hang
-Freed clips for Psalm Cylinder Grindle
-Freed clips for Psalm Cylinder Library Roof
-Freed clips for Librarian Melody Cylinder
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-HutongGames.PlayMaker.VibrationRegionPlayOneShot in understore propeller (UnityEngine.GameObject) is missing Hero Vibration Region object
-HutongGames.PlayMaker.VibrationRegionPlayOneShot in understore propeller (UnityEngine.GameObject) is missing Hero Vibration Region object
-HutongGames.PlayMaker.VibrationRegionPlayOneShot in understore propeller (UnityEngine.GameObject) is missing Hero Vibration Region object
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Cannot use 'linearVelocity' on a static body.
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Unloading 1 Unused Serialized files (Serialized files now loaded: 598)
-Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
-Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
-UnloadTime: 23.500000 ms
-Unloading 9708 unused Assets to reduce memory usage. Loaded Objects now: 135079.
-Total: 162.349700 ms (FindLiveObjects: 13.702400 ms CreateObjectMapping: 9.933000 ms MarkObjects: 75.114100 ms  DeleteObjects: 63.599900 ms)
-
-Unloading 0 Unused Serialized files (Serialized files now loaded: 525)
-Unloading 7139 unused Assets to reduce memory usage. Loaded Objects now: 26837.
-Total: 75.416600 ms (FindLiveObjects: 2.358700 ms CreateObjectMapping: 3.411100 ms MarkObjects: 55.944500 ms  DeleteObjects: 13.701900 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 577)
-UnloadTime: 0.483600 ms
-Loaded saved language code 'EN'
-Restored language code 'EN'
-Unloading 57 unused Assets to reduce memory usage. Loaded Objects now: 72345.
-Total: 67.277400 ms (FindLiveObjects: 6.279000 ms CreateObjectMapping: 6.987600 ms MarkObjects: 53.767500 ms  DeleteObjects: 0.243000 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 575)
-Unloading 5613 unused Assets to reduce memory usage. Loaded Objects now: 66716.
-Total: 64.213300 ms (FindLiveObjects: 5.850400 ms CreateObjectMapping: 6.717800 ms MarkObjects: 38.678300 ms  DeleteObjects: 12.966500 ms)
-
-MenuButton missing flashEffect!
-Making UI menu lean.
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Started loading clips for Psalm Cylinder Librarian
-Started loading clips for Psalm Cylinder Ward
-Started loading clips for Psalm Cylinder Hang
-Started loading clips for Psalm Cylinder Grindle
-Started loading clips for Psalm Cylinder Library Roof
-Started loading clips for Librarian Melody Cylinder
-Finished loading gramaphone clip for Psalm Cylinder Librarian
-Finished loading gramaphone clip for Psalm Cylinder Ward
-Finished loading gramaphone clip for Psalm Cylinder Hang
-Finished loading gramaphone clip for Psalm Cylinder Grindle
-Finished loading gramaphone clip for Psalm Cylinder Library Roof
-Finished loading gramaphone clip for Librarian Melody Cylinder
-Finished loading needolin clip for Librarian Melody Cylinder
-Unloading 1 Unused Serialized files (Serialized files now loaded: 572)
-Unloading 286 unused Assets to reduce memory usage. Loaded Objects now: 117475.
-Total: 88.152300 ms (FindLiveObjects: 10.508600 ms CreateObjectMapping: 9.270400 ms MarkObjects: 67.048500 ms  DeleteObjects: 1.324600 ms)
-
-Converting Vertex Colors from Color32 to Color.
-Converting Vertex Colors from Color32 to Color.
-Converting Vertex Colors from Color32 to Color.
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Freed clips for Psalm Cylinder Librarian
-Freed clips for Psalm Cylinder Ward
-Freed clips for Psalm Cylinder Hang
-Freed clips for Psalm Cylinder Grindle
-Freed clips for Psalm Cylinder Library Roof
-Freed clips for Librarian Melody Cylinder
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Unable to retrieve achievement state for FLEAS_HALF, because Steam is not initialized
-Unable to update achievement progress for FLEAS_HALF, because Steam is not initialized
-Unable to retrieve achievement state for FLEAS_HALF, because Steam is not initialized
-Unable to update achievement progress for FLEAS_HALF, because Steam is not initialized
-Cannot use 'linearVelocity' on a static body.
-Cannot use 'linearVelocity' on a static body.
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Cannot use 'linearVelocity' on a static body.
-Could Not Create Action: : Dialogue: Churchkeeper:  (Maybe the script was removed?)
-Unable to retrieve achievement state for FIRST_WISH, because Steam is not initialized
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Unloading 1 Unused Serialized files (Serialized files now loaded: 627)
-UnloadTime: 15.238500 ms
-First video frame not zero: 4 (0.066667s). Result may be out of sync. Please make sure tracks all start at 0 in archive:/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5.resource
-Unloading 11656 unused Assets to reduce memory usage. Loaded Objects now: 136044.
-Total: 201.950900 ms (FindLiveObjects: 17.022000 ms CreateObjectMapping: 14.753900 ms MarkObjects: 107.546900 ms  DeleteObjects: 62.627800 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 614)
-Unloading 37 unused Assets to reduce memory usage. Loaded Objects now: 143071.
-Total: 118.297400 ms (FindLiveObjects: 13.880300 ms CreateObjectMapping: 8.967200 ms MarkObjects: 94.403400 ms  DeleteObjects: 1.046200 ms)
-
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Can not play a disabled audio source
-Can not play a disabled audio source
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Cannot use 'linearVelocity' on a static body.
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Can not play a disabled audio source
-Can not play a disabled audio source
-Coroutine couldn't be started because the the game object 'Camera Wind Region (1)' is inactive!
-Unable to update achievement progress for ALL_MAPS, because Steam is not initialized
-Unloading 1 Unused Serialized files (Serialized files now loaded: 608)
-Unloading 7840 unused Assets to reduce memory usage. Loaded Objects now: 136573.
-Total: 150.837000 ms (FindLiveObjects: 15.355600 ms CreateObjectMapping: 10.114700 ms MarkObjects: 94.424800 ms  DeleteObjects: 30.941400 ms)
-
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Coroutine couldn't be started because the the game object 'Camera Wind Region (1)' is inactive!
-Coroutine couldn't be started because the the game object 'Camera Wind Region' is inactive!
-Coroutine couldn't be started because the the game object 'Camera Wind Region (1)' is inactive!
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Unable to retrieve achievement state for FLEAS_HALF, because Steam is not initialized
-Unable to update achievement progress for FLEAS_HALF, because Steam is not initialized
-Unable to retrieve achievement state for FLEAS_HALF, because Steam is not initialized
-Unable to update achievement progress for FLEAS_HALF, because Steam is not initialized
-Unable to retrieve achievement state for FLEAS_HALF, because Steam is not initialized
-Unable to update achievement progress for FLEAS_HALF, because Steam is not initialized
-Can not play a disabled audio source
-Can not play a disabled audio source
-Cannot use 'linearVelocity' on a static body.
-Cannot use 'linearVelocity' on a static body.
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Can not play a disabled audio source
-Coroutine couldn't be started because the the game object 'Camera Wind Region (1)' is inactive!
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Cannot use 'linearVelocity' on a static body.
-Can not play a disabled audio source
-Can not play a disabled audio source
-Coroutine couldn't be started because the the game object 'Camera Wind Region (1)' is inactive!
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Unloading 1 Unused Serialized files (Serialized files now loaded: 604)
-Unloading 3775 unused Assets to reduce memory usage. Loaded Objects now: 139567.
-Total: 156.624100 ms (FindLiveObjects: 13.716600 ms CreateObjectMapping: 10.150400 ms MarkObjects: 106.716800 ms  DeleteObjects: 26.040100 ms)
-
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Coroutine couldn't be started because the the game object 'Camera Wind Region (1)' is inactive!
-Coroutine couldn't be started because the the game object 'Camera Wind Region' is inactive!
-Coroutine couldn't be started because the the game object 'Camera Wind Region' is inactive!
-Coroutine couldn't be started because the the game object 'Camera Wind Region (1)' is inactive!
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Unloading 1 Unused Serialized files (Serialized files now loaded: 599)
-Unloading 2455 unused Assets to reduce memory usage. Loaded Objects now: 143516.
-Total: 135.799700 ms (FindLiveObjects: 13.771800 ms CreateObjectMapping: 9.653700 ms MarkObjects: 99.942800 ms  DeleteObjects: 12.431200 ms)
-
-Coroutine couldn't be started because the the game object 'Camera Wind Region' is inactive!
-Coroutine couldn't be started because the the game object 'Camera Wind Region (1)' is inactive!
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-The referenced script on this Behaviour (Game Object 'Collider') is missing!
-The referenced script on this Behaviour (Game Object 'Collider') is missing!
-Can not play a disabled audio source
-Unable to retrieve achievement state for FIRST_TOOL, because Steam is not initialized
-Unable to update achievement progress for ALL_TOOLS, because Steam is not initialized
-Cannot use 'linearVelocity' on a static body.
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-The referenced script on this Behaviour (Game Object 'Collider') is missing!
-The referenced script on this Behaviour (Game Object 'Collider') is missing!
-Can not play a disabled audio source
-Can not play a disabled audio source
-Coroutine couldn't be started because the the game object 'Camera Wind Region (1)' is inactive!
-Coroutine couldn't be started because the the game object 'Camera Wind Region' is inactive!
-Unloading 1 Unused Serialized files (Serialized files now loaded: 603)
-Scene Manager missing from scene Bellway_08
-UnloadTime: 7.986800 ms
-First video frame not zero: 4 (0.066667s). Result may be out of sync. Please make sure tracks all start at 0 in archive:/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5.resource
-Unloading 6191 unused Assets to reduce memory usage. Loaded Objects now: 135479.
-Total: 140.147400 ms (FindLiveObjects: 16.048700 ms CreateObjectMapping: 13.770700 ms MarkObjects: 87.481900 ms  DeleteObjects: 22.845700 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 597)
-Unloading 59 unused Assets to reduce memory usage. Loaded Objects now: 140890.
-Total: 105.462200 ms (FindLiveObjects: 14.962600 ms CreateObjectMapping: 10.111900 ms MarkObjects: 79.732700 ms  DeleteObjects: 0.654500 ms)
-
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Unloading 1 Unused Serialized files (Serialized files now loaded: 659)
-UnloadTime: 7.829100 ms
-First video frame not zero: 4 (0.066667s). Result may be out of sync. Please make sure tracks all start at 0 in archive:/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5.resource
-Unloading 8935 unused Assets to reduce memory usage. Loaded Objects now: 135286.
-Total: 185.921300 ms (FindLiveObjects: 16.701000 ms CreateObjectMapping: 16.556700 ms MarkObjects: 104.942500 ms  DeleteObjects: 47.720900 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 661)
-Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 144888.
-Total: 127.393300 ms (FindLiveObjects: 17.001300 ms CreateObjectMapping: 10.371700 ms MarkObjects: 99.483600 ms  DeleteObjects: 0.536000 ms)
-
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Unloading 1 Unused Serialized files (Serialized files now loaded: 643)
-UnloadTime: 9.434200 ms
-First video frame not zero: 4 (0.066667s). Result may be out of sync. Please make sure tracks all start at 0 in archive:/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5.resource
-Unloading 6449 unused Assets to reduce memory usage. Loaded Objects now: 135421.
-Total: 140.221200 ms (FindLiveObjects: 17.298500 ms CreateObjectMapping: 12.953800 ms MarkObjects: 80.372300 ms  DeleteObjects: 29.596300 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 607)
-Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 150539.
-Total: 126.729100 ms (FindLiveObjects: 15.839300 ms CreateObjectMapping: 9.270900 ms MarkObjects: 101.331500 ms  DeleteObjects: 0.287000 ms)
-
-Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
-Cannot use 'linearVelocity' on a static body.
-Cannot use 'linearVelocity' on a static body.
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
-Cannot use 'linearVelocity' on a static body.
-Cannot use 'linearVelocity' on a static body.
-Cannot use 'linearVelocity' on a static body.
-Cannot use 'linearVelocity' on a static body.
-Cannot use 'linearVelocity' on a static body.
-Cannot use 'linearVelocity' on a static body.
-Cannot use 'linearVelocity' on a static body.
-Cannot use 'linearVelocity' on a static body.
-Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
-Cannot use 'linearVelocity' on a static body.
-Cannot use 'linearVelocity' on a static body.
-Cannot use 'linearVelocity' on a static body.
-Cannot use 'linearVelocity' on a static body.
-Cannot use 'linearVelocity' on a static body.
-Cannot use 'linearVelocity' on a static body.
-Cannot use 'linearVelocity' on a static body.
-Cannot use 'linearVelocity' on a static body.
-Cannot use 'linearVelocity' on a static body.
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Cannot use 'linearVelocity' on a static body.
-Cannot use 'linearVelocity' on a static body.
-Cannot use 'linearVelocity' on a static body.
-Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
-Cannot use 'linearVelocity' on a static body.
-Cannot use 'linearVelocity' on a static body.
-Cannot use 'linearVelocity' on a static body.
-Cannot use 'linearVelocity' on a static body.
-Cannot use 'linearVelocity' on a static body.
-Cannot use 'linearVelocity' on a static body.
-NullReferenceException: Object reference not set to an instance of an object.
-  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at UnityEngine.GameObject.get_transform () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at SilkPossession.Update () [0x00041] in <4fe5dd4f18494607b9a77ec1844e0d5d>:0 
-
-NullReferenceException: Object reference not set to an instance of an object.
-  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at UnityEngine.GameObject.get_transform () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at SilkPossession.Update () [0x00041] in <4fe5dd4f18494607b9a77ec1844e0d5d>:0 
-
-NullReferenceException: Object reference not set to an instance of an object.
-  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at UnityEngine.GameObject.get_transform () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at SilkPossession.Update () [0x00041] in <4fe5dd4f18494607b9a77ec1844e0d5d>:0 
-
-NullReferenceException: Object reference not set to an instance of an object.
-  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at UnityEngine.GameObject.get_transform () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at SilkPossession.Update () [0x00041] in <4fe5dd4f18494607b9a77ec1844e0d5d>:0 
-
-NullReferenceException: Object reference not set to an instance of an object.
-  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at UnityEngine.GameObject.get_transform () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at SilkPossession.Update () [0x00041] in <4fe5dd4f18494607b9a77ec1844e0d5d>:0 
-
-NullReferenceException: Object reference not set to an instance of an object.
-  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at UnityEngine.GameObject.get_transform () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at SilkPossession.Update () [0x00041] in <4fe5dd4f18494607b9a77ec1844e0d5d>:0 
-
-NullReferenceException: Object reference not set to an instance of an object.
-  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at UnityEngine.GameObject.get_transform () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at SilkPossession.Update () [0x00041] in <4fe5dd4f18494607b9a77ec1844e0d5d>:0 
-
-NullReferenceException: Object reference not set to an instance of an object.
-  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at UnityEngine.GameObject.get_transform () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at SilkPossession.Update () [0x00041] in <4fe5dd4f18494607b9a77ec1844e0d5d>:0 
-
-NullReferenceException: Object reference not set to an instance of an object.
-  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at UnityEngine.GameObject.get_transform () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at SilkPossession.Update () [0x00041] in <4fe5dd4f18494607b9a77ec1844e0d5d>:0 
-
-NullReferenceException: Object reference not set to an instance of an object.
-  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at UnityEngine.GameObject.get_transform () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at SilkPossession.Update () [0x00041] in <4fe5dd4f18494607b9a77ec1844e0d5d>:0 
-
-NullReferenceException: Object reference not set to an instance of an object.
-  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at UnityEngine.GameObject.get_transform () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at SilkPossession.Update () [0x00041] in <4fe5dd4f18494607b9a77ec1844e0d5d>:0 
-
-NullReferenceException: Object reference not set to an instance of an object.
-  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at UnityEngine.GameObject.get_transform () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at SilkPossession.Update () [0x00041] in <4fe5dd4f18494607b9a77ec1844e0d5d>:0 
-
-NullReferenceException: Object reference not set to an instance of an object.
-  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at UnityEngine.GameObject.get_transform () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at SilkPossession.Update () [0x00041] in <4fe5dd4f18494607b9a77ec1844e0d5d>:0 
-
-NullReferenceException: Object reference not set to an instance of an object.
-  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at UnityEngine.GameObject.get_transform () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at SilkPossession.Update () [0x00041] in <4fe5dd4f18494607b9a77ec1844e0d5d>:0 
-
-NullReferenceException: Object reference not set to an instance of an object.
-  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at UnityEngine.GameObject.get_transform () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at SilkPossession.Update () [0x00041] in <4fe5dd4f18494607b9a77ec1844e0d5d>:0 
-
-NullReferenceException: Object reference not set to an instance of an object.
-  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at UnityEngine.GameObject.get_transform () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at SilkPossession.Update () [0x00041] in <4fe5dd4f18494607b9a77ec1844e0d5d>:0 
-
-NullReferenceException: Object reference not set to an instance of an object.
-  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at UnityEngine.GameObject.get_transform () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at SilkPossession.Update () [0x00041] in <4fe5dd4f18494607b9a77ec1844e0d5d>:0 
-
-Cannot use 'linearVelocity' on a static body.
-Cannot use 'linearVelocity' on a static body.
-Cannot use 'linearVelocity' on a static body.
-Cannot set the parent of the GameObject 'Corpse Pilgrim 03 Song(Clone)' while activating or deactivating the parent GameObject 'Art'.
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
-Cannot use 'linearVelocity' on a static body.
-Cannot use 'linearVelocity' on a static body.
-Cannot use 'linearVelocity' on a static body.
-Cannot use 'linearVelocity' on a static body.
-Cannot use 'linearVelocity' on a static body.
-Cannot use 'linearVelocity' on a static body.
-Cannot use 'linearVelocity' on a static body.
-Cannot use 'linearVelocity' on a static body.
-Cannot use 'linearVelocity' on a static body.
-Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
-Unloading 1 Unused Serialized files (Serialized files now loaded: 627)
-UnloadTime: 17.248800 ms
-First video frame not zero: 4 (0.066667s). Result may be out of sync. Please make sure tracks all start at 0 in archive:/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5.resource
-Unloading 8087 unused Assets to reduce memory usage. Loaded Objects now: 136487.
-Total: 228.653300 ms (FindLiveObjects: 18.698200 ms CreateObjectMapping: 23.013600 ms MarkObjects: 116.592800 ms  DeleteObjects: 70.348200 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 617)
-Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 145306.
-Total: 162.928200 ms (FindLiveObjects: 22.711300 ms CreateObjectMapping: 12.471700 ms MarkObjects: 127.144800 ms  DeleteObjects: 0.600100 ms)
-
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Unable to retrieve achievement state for FIRST_WISH, because Steam is not initialized
-Unable to retrieve achievement state for FIRST_TOOL, because Steam is not initialized
-Unable to update achievement progress for ALL_TOOLS, because Steam is not initialized
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Unloading 1 Unused Serialized files (Serialized files now loaded: 648)
-Scene Manager missing from scene Bellway_Aqueduct
-UnloadTime: 8.942800 ms
-First video frame not zero: 4 (0.066667s). Result may be out of sync. Please make sure tracks all start at 0 in archive:/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5.resource
-Unloading 7699 unused Assets to reduce memory usage. Loaded Objects now: 136364.
-Total: 166.350700 ms (FindLiveObjects: 15.215000 ms CreateObjectMapping: 12.429800 ms MarkObjects: 108.246200 ms  DeleteObjects: 30.459400 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 604)
-Unloading 83 unused Assets to reduce memory usage. Loaded Objects now: 145593.
-Total: 123.614900 ms (FindLiveObjects: 15.744000 ms CreateObjectMapping: 9.638800 ms MarkObjects: 97.534700 ms  DeleteObjects: 0.696900 ms)
-
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Unloading 1 Unused Serialized files (Serialized files now loaded: 629)
-UnloadTime: 11.544100 ms
-First video frame not zero: 4 (0.066667s). Result may be out of sync. Please make sure tracks all start at 0 in archive:/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5.resource
-Unloading 7177 unused Assets to reduce memory usage. Loaded Objects now: 136135.
-Total: 168.305800 ms (FindLiveObjects: 17.452500 ms CreateObjectMapping: 19.944400 ms MarkObjects: 103.037700 ms  DeleteObjects: 27.870900 ms)
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 144084.
+Total: 115.656400 ms (FindLiveObjects: 15.264400 ms CreateObjectMapping: 9.265000 ms MarkObjects: 90.342700 ms  DeleteObjects: 0.784100 ms)
 
 Unloading 1 Unused Serialized files (Serialized files now loaded: 608)
-Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 143942.
-Total: 124.350900 ms (FindLiveObjects: 15.572100 ms CreateObjectMapping: 9.370000 ms MarkObjects: 98.904100 ms  DeleteObjects: 0.504300 ms)
+UnloadTime: 6.502500 ms
+First video frame not zero: 4 (0.066667s). Result may be out of sync. Please make sure tracks all start at 0 in archive:/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5.resource
+Unloading 3531 unused Assets to reduce memory usage. Loaded Objects now: 136356.
+Total: 147.945700 ms (FindLiveObjects: 17.857900 ms CreateObjectMapping: 12.790200 ms MarkObjects: 108.017300 ms  DeleteObjects: 9.280100 ms)
 
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Unloading 1 Unused Serialized files (Serialized files now loaded: 629)
-Unloading 3163 unused Assets to reduce memory usage. Loaded Objects now: 144158.
-Total: 282.191900 ms (FindLiveObjects: 17.457300 ms CreateObjectMapping: 11.392500 ms MarkObjects: 237.810700 ms  DeleteObjects: 15.531100 ms)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 619)
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 146052.
+Total: 123.627400 ms (FindLiveObjects: 18.654300 ms CreateObjectMapping: 10.818200 ms MarkObjects: 93.133500 ms  DeleteObjects: 1.021000 ms)
 
+Can not play a disabled audio source
+Can not play a disabled audio source
+Unloading 1 Unused Serialized files (Serialized files now loaded: 628)
+Unloading 4474 unused Assets to reduce memory usage. Loaded Objects now: 157846.
+Total: 161.127000 ms (FindLiveObjects: 15.895800 ms CreateObjectMapping: 10.574900 ms MarkObjects: 107.263600 ms  DeleteObjects: 27.392300 ms)
+
+Can not play a disabled audio source
+Unloading 1 Unused Serialized files (Serialized files now loaded: 628)
+Unloading 399 unused Assets to reduce memory usage. Loaded Objects now: 158974.
+Total: 153.416600 ms (FindLiveObjects: 15.219200 ms CreateObjectMapping: 8.893800 ms MarkObjects: 122.120300 ms  DeleteObjects: 7.183100 ms)
+
+Cannot use 'linearVelocity' on a static body.
+Couldn't find transition point "door1", falling back to first available: "bot1"
+Can not play a disabled audio source
 Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
 Unloading 1 Unused Serialized files (Serialized files now loaded: 627)
-Unloading 2271 unused Assets to reduce memory usage. Loaded Objects now: 144129.
-Total: 139.201600 ms (FindLiveObjects: 15.167900 ms CreateObjectMapping: 10.303200 ms MarkObjects: 102.692300 ms  DeleteObjects: 11.038000 ms)
+UnloadTime: 9.762600 ms
+First video frame not zero: 4 (0.066667s). Result may be out of sync. Please make sure tracks all start at 0 in archive:/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5.resource
+Unloading 8869 unused Assets to reduce memory usage. Loaded Objects now: 143415.
+Total: 172.038200 ms (FindLiveObjects: 19.943700 ms CreateObjectMapping: 17.330700 ms MarkObjects: 91.756700 ms  DeleteObjects: 43.006700 ms)
 
+Unloading 1 Unused Serialized files (Serialized files now loaded: 619)
+Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 151794.
+Total: 121.180600 ms (FindLiveObjects: 18.097600 ms CreateObjectMapping: 11.868100 ms MarkObjects: 90.393300 ms  DeleteObjects: 0.821000 ms)
+
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Sprite not found attached to tk2dSpriteAnimator.
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Unloading 1 Unused Serialized files (Serialized files now loaded: 632)
-Unloading 3236 unused Assets to reduce memory usage. Loaded Objects now: 144678.
-Total: 151.527500 ms (FindLiveObjects: 16.355600 ms CreateObjectMapping: 10.866100 ms MarkObjects: 106.824100 ms  DeleteObjects: 17.481400 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 627)
-Unloading 2263 unused Assets to reduce memory usage. Loaded Objects now: 144488.
-Total: 137.481500 ms (FindLiveObjects: 16.084400 ms CreateObjectMapping: 10.581000 ms MarkObjects: 100.057600 ms  DeleteObjects: 10.758100 ms)
-
 Unable to retrieve achievement state for FIRST_WISH, because Steam is not initialized
-Unable to retrieve achievement state for SHAKRA_FINAL_QUEST, because Steam is not initialized
-Unable to retrieve achievement state for FIRST_TOOL, because Steam is not initialized
-Unable to update achievement progress for ALL_TOOLS, because Steam is not initialized
-Unloading 1 Unused Serialized files (Serialized files now loaded: 635)
-Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
-Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
-Scene Manager missing from scene Shadow_24
-UnloadTime: 10.772400 ms
-Unloading 6872 unused Assets to reduce memory usage. Loaded Objects now: 137828.
-Total: 147.856300 ms (FindLiveObjects: 15.465200 ms CreateObjectMapping: 10.649600 ms MarkObjects: 96.074900 ms  DeleteObjects: 25.666400 ms)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 629)
+UnloadTime: 10.573500 ms
+Unloading 9691 unused Assets to reduce memory usage. Loaded Objects now: 138393.
+Total: 162.619600 ms (FindLiveObjects: 15.295800 ms CreateObjectMapping: 10.567000 ms MarkObjects: 103.259200 ms  DeleteObjects: 33.497300 ms)
 
 Unloading 0 Unused Serialized files (Serialized files now loaded: 539)
-Unloading 7226 unused Assets to reduce memory usage. Loaded Objects now: 28326.
-Total: 86.534200 ms (FindLiveObjects: 2.447900 ms CreateObjectMapping: 3.725500 ms MarkObjects: 62.368800 ms  DeleteObjects: 17.991800 ms)
+Unloading 7232 unused Assets to reduce memory usage. Loaded Objects now: 28373.
+Total: 82.067700 ms (FindLiveObjects: 2.755300 ms CreateObjectMapping: 4.559200 ms MarkObjects: 58.095600 ms  DeleteObjects: 16.657200 ms)
 
 Unloading 1 Unused Serialized files (Serialized files now loaded: 586)
-UnloadTime: 0.499300 ms
+UnloadTime: 0.487500 ms
 Loaded saved language code 'EN'
 Restored language code 'EN'
-Unloading 57 unused Assets to reduce memory usage. Loaded Objects now: 73823.
-Total: 109.276700 ms (FindLiveObjects: 6.834100 ms CreateObjectMapping: 10.409800 ms MarkObjects: 91.794500 ms  DeleteObjects: 0.237800 ms)
+Unloading 915 unused Assets to reduce memory usage. Loaded Objects now: 72921.
+Total: 89.627500 ms (FindLiveObjects: 7.019300 ms CreateObjectMapping: 6.542800 ms MarkObjects: 71.815800 ms  DeleteObjects: 4.249300 ms)
 
 Unloading 1 Unused Serialized files (Serialized files now loaded: 584)
-Unloading 5593 unused Assets to reduce memory usage. Loaded Objects now: 68214.
-Total: 95.575200 ms (FindLiveObjects: 6.970200 ms CreateObjectMapping: 8.286200 ms MarkObjects: 65.716800 ms  DeleteObjects: 14.601600 ms)
+Unloading 5618 unused Assets to reduce memory usage. Loaded Objects now: 67287.
+Total: 70.546800 ms (FindLiveObjects: 6.224700 ms CreateObjectMapping: 6.885300 ms MarkObjects: 44.354100 ms  DeleteObjects: 13.082400 ms)
+
+MenuButton missing flashEffect!
+Making UI menu lean.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Sprite not found attached to tk2dSpriteAnimator.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 587)
+Unloading 294 unused Assets to reduce memory usage. Loaded Objects now: 117348.
+Total: 164.962700 ms (FindLiveObjects: 14.531000 ms CreateObjectMapping: 14.265700 ms MarkObjects: 133.260800 ms  DeleteObjects: 2.905000 ms)
+
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Could Not Create Action: : Dialogue: Churchkeeper:  (Maybe the script was removed?)
+Unable to retrieve achievement state for FIRST_WISH, because Steam is not initialized
+Unable to update achievement progress for ALL_SILK_SPOOLS, because Steam is not initialized
+Could Not Create Action: : Dialogue: Churchkeeper:  (Maybe the script was removed?)
+Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
+Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
+Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Could Not Create Action: : Dialogue: Churchkeeper:  (Maybe the script was removed?)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 656)
+UnloadTime: 15.960200 ms
+First video frame not zero: 4 (0.066667s). Result may be out of sync. Please make sure tracks all start at 0 in archive:/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5.resource
+Unloading 15500 unused Assets to reduce memory usage. Loaded Objects now: 136879.
+Total: 219.547000 ms (FindLiveObjects: 19.302900 ms CreateObjectMapping: 21.372700 ms MarkObjects: 97.006400 ms  DeleteObjects: 81.864400 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 608)
+Unloading 84 unused Assets to reduce memory usage. Loaded Objects now: 147140.
+Total: 139.241100 ms (FindLiveObjects: 15.622500 ms CreateObjectMapping: 10.619500 ms MarkObjects: 112.312200 ms  DeleteObjects: 0.686600 ms)
+
+Started loading clips for Bone Record Bone_East_14
+Started loading clips for Bone Record Greymoor_flooded_corridor
+Started loading clips for Bone Record Understore_Map_Room
+Started loading clips for Bone Record Wisp Top
+Started loading clips for Weaver Totem Bonetown_upper_room
+Started loading clips for Weaver Totem Witch
+Started loading clips for Weaver Totem Slab_Bottom
+Started loading clips for Seal Chit Aspid_01
+Started loading clips for Seal Chit Ward Corpse
+Started loading clips for Seal Chit City Merchant
+Started loading clips for Seal Chit Silk Siphon
+Started loading clips for Weaver Record Weave_08
+Started loading clips for Weaver Record Sprint_Challenge
+Started loading clips for Weaver Record Conductor
+Started loading clips for Ancient Egg Abyss Middle
+Started loading clips for Psalm Cylinder Librarian
+Started loading clips for Psalm Cylinder Ward
+Started loading clips for Psalm Cylinder Hang
+Started loading clips for Psalm Cylinder Grindle
+Started loading clips for Psalm Cylinder Library Roof
+Started loading clips for Librarian Melody Cylinder
+Finished loading gramaphone clip for Psalm Cylinder Librarian
+Finished loading gramaphone clip for Psalm Cylinder Ward
+Finished loading gramaphone clip for Psalm Cylinder Hang
+Finished loading gramaphone clip for Psalm Cylinder Grindle
+Finished loading gramaphone clip for Psalm Cylinder Library Roof
+Finished loading gramaphone clip for Librarian Melody Cylinder
+Finished loading needolin clip for Librarian Melody Cylinder
+Freed clips for Bone Record Bone_East_14
+Freed clips for Bone Record Greymoor_flooded_corridor
+Freed clips for Bone Record Understore_Map_Room
+Freed clips for Bone Record Wisp Top
+Freed clips for Weaver Totem Bonetown_upper_room
+Freed clips for Weaver Totem Witch
+Freed clips for Weaver Totem Slab_Bottom
+Freed clips for Seal Chit Aspid_01
+Freed clips for Seal Chit Ward Corpse
+Freed clips for Seal Chit City Merchant
+Freed clips for Seal Chit Silk Siphon
+Freed clips for Weaver Record Weave_08
+Freed clips for Weaver Record Sprint_Challenge
+Freed clips for Weaver Record Conductor
+Freed clips for Ancient Egg Abyss Middle
+Freed clips for Psalm Cylinder Librarian
+Freed clips for Psalm Cylinder Ward
+Freed clips for Psalm Cylinder Hang
+Freed clips for Psalm Cylinder Grindle
+Freed clips for Psalm Cylinder Library Roof
+Freed clips for Librarian Melody Cylinder
+Couldn't find transition point "door4", falling back to first available: "door5"
+Unloading 1 Unused Serialized files (Serialized files now loaded: 643)
+UnloadTime: 10.176600 ms
+First video frame not zero: 4 (0.066667s). Result may be out of sync. Please make sure tracks all start at 0 in archive:/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5.resource
+Unloading 7215 unused Assets to reduce memory usage. Loaded Objects now: 137588.
+Total: 287.052200 ms (FindLiveObjects: 37.867900 ms CreateObjectMapping: 29.356100 ms MarkObjects: 183.584100 ms  DeleteObjects: 36.243700 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 602)
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 146024.
+Total: 115.795600 ms (FindLiveObjects: 16.212000 ms CreateObjectMapping: 10.296100 ms MarkObjects: 89.012800 ms  DeleteObjects: 0.274400 ms)
+
+The referenced script (Unknown) on this Behaviour is missing!
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+The referenced script on this Behaviour (Game Object 'Gate NPC') is missing!
+Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for archive:/CAB-ceb42d51c62f5a2363e3a1def0c3288b/CAB-ceb42d51c62f5a2363e3a1def0c3288b.resource
+Coroutine couldn't be started because the the game object 'censer ball' is inactive!
+Coroutine couldn't be started because the the game object 'censer ball' is inactive!
+Coroutine couldn't be started because the the game object 'censer ball' is inactive!
+Coroutine couldn't be started because the the game object 'censer ball' is inactive!
+Coroutine couldn't be started because the the game object 'censer ball' is inactive!
+Coroutine couldn't be started because the the game object 'censer ball' is inactive!
+Coroutine couldn't be started because the the game object 'censer ball' is inactive!
+Coroutine couldn't be started because the the game object 'censer ball' is inactive!
+Unable to retrieve achievement state for FIRST_SILK_SPOOL, because Steam is not initialized
+Unable to update achievement progress for ALL_SILK_SPOOLS, because Steam is not initialized
+Transitioning from ItemList to Confirm
+Transitioning from Confirm to ItemList
+Transitioning from ItemList to Confirm
+Transitioning from Confirm to ItemList
+Unloading 1 Unused Serialized files (Serialized files now loaded: 631)
+UnloadTime: 8.681200 ms
+First video frame not zero: 4 (0.066667s). Result may be out of sync. Please make sure tracks all start at 0 in archive:/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5.resource
+Unloading 8350 unused Assets to reduce memory usage. Loaded Objects now: 137728.
+Total: 166.154500 ms (FindLiveObjects: 24.587600 ms CreateObjectMapping: 14.706300 ms MarkObjects: 86.535200 ms  DeleteObjects: 40.324900 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 602)
+Unloading 72 unused Assets to reduce memory usage. Loaded Objects now: 147164.
+Total: 123.631300 ms (FindLiveObjects: 16.177800 ms CreateObjectMapping: 9.973500 ms MarkObjects: 96.753300 ms  DeleteObjects: 0.726400 ms)
+
+Can not play a disabled audio source
+Can not play a disabled audio source
+Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
+Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
+Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
+Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 647)
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+UnloadTime: 25.462700 ms
+Unloading 15797 unused Assets to reduce memory usage. Loaded Objects now: 138423.
+Total: 257.642500 ms (FindLiveObjects: 18.322500 ms CreateObjectMapping: 13.224600 ms MarkObjects: 88.774900 ms  DeleteObjects: 137.320300 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 539)
+Unloading 6972 unused Assets to reduce memory usage. Loaded Objects now: 28220.
+Total: 82.050200 ms (FindLiveObjects: 2.551500 ms CreateObjectMapping: 5.439700 ms MarkObjects: 58.369300 ms  DeleteObjects: 15.689400 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 586)
+UnloadTime: 0.492400 ms
+Loaded saved language code 'EN'
+Restored language code 'EN'
+Unloading 56 unused Assets to reduce memory usage. Loaded Objects now: 73518.
+Total: 93.098800 ms (FindLiveObjects: 7.431800 ms CreateObjectMapping: 7.201200 ms MarkObjects: 78.266200 ms  DeleteObjects: 0.199100 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 584)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 73502.
+Total: 89.672600 ms (FindLiveObjects: 6.940600 ms CreateObjectMapping: 8.104700 ms MarkObjects: 74.465200 ms  DeleteObjects: 0.161600 ms)
+
+MenuButton missing flashEffect!
+Making UI menu lean.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Unloading 1 Unused Serialized files (Serialized files now loaded: 625)
+Unloading 118 unused Assets to reduce memory usage. Loaded Objects now: 120941.
+Total: 107.874700 ms (FindLiveObjects: 13.246700 ms CreateObjectMapping: 9.827400 ms MarkObjects: 83.448500 ms  DeleteObjects: 1.351600 ms)
+
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
+Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
+Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Cannot set the parent of the GameObject 'Piece Barrel' while activating or deactivating the parent GameObject 'Corpse Catcher'.
+Cannot set the parent of the GameObject 'Piece Barrel (1)' while activating or deactivating the parent GameObject 'Corpse Catcher'.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+The referenced script (Unknown) on this Behaviour is missing!
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+The referenced script on this Behaviour (Game Object 'Gate NPC') is missing!
+Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for archive:/CAB-ceb42d51c62f5a2363e3a1def0c3288b/CAB-ceb42d51c62f5a2363e3a1def0c3288b.resource
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 600)
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+UnloadTime: 6.473300 ms
+Unloading 11814 unused Assets to reduce memory usage. Loaded Objects now: 136662.
+Total: 209.659900 ms (FindLiveObjects: 17.065300 ms CreateObjectMapping: 11.720100 ms MarkObjects: 92.174500 ms  DeleteObjects: 88.699600 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 539)
+Unloading 7072 unused Assets to reduce memory usage. Loaded Objects now: 28379.
+Total: 74.569400 ms (FindLiveObjects: 2.385900 ms CreateObjectMapping: 3.200200 ms MarkObjects: 53.719200 ms  DeleteObjects: 15.263800 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 586)
+UnloadTime: 0.572400 ms
+Loaded saved language code 'EN'
+Restored language code 'EN'
+Unloading 56 unused Assets to reduce memory usage. Loaded Objects now: 73791.
+Total: 78.212300 ms (FindLiveObjects: 6.674600 ms CreateObjectMapping: 7.085600 ms MarkObjects: 64.123100 ms  DeleteObjects: 0.328500 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 584)
+Unloading 5603 unused Assets to reduce memory usage. Loaded Objects now: 68172.
+Total: 72.476300 ms (FindLiveObjects: 7.242400 ms CreateObjectMapping: 7.733300 ms MarkObjects: 43.659300 ms  DeleteObjects: 13.840900 ms)
+
+MenuButton missing flashEffect!
+Making UI menu lean.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Unloading 1 Unused Serialized files (Serialized files now loaded: 625)
+Unloading 117 unused Assets to reduce memory usage. Loaded Objects now: 121897.
+Total: 112.318200 ms (FindLiveObjects: 11.846500 ms CreateObjectMapping: 9.758800 ms MarkObjects: 89.786600 ms  DeleteObjects: 0.925800 ms)
+
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 653)
+UnloadTime: 9.786200 ms
+First video frame not zero: 4 (0.066667s). Result may be out of sync. Please make sure tracks all start at 0 in archive:/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5.resource
+Unloading 8771 unused Assets to reduce memory usage. Loaded Objects now: 135977.
+Total: 190.835900 ms (FindLiveObjects: 17.398000 ms CreateObjectMapping: 17.791500 ms MarkObjects: 104.772300 ms  DeleteObjects: 50.873800 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 617)
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 151097.
+Total: 124.196700 ms (FindLiveObjects: 15.269400 ms CreateObjectMapping: 9.834600 ms MarkObjects: 98.831500 ms  DeleteObjects: 0.260500 ms)
+
+Could Not Create Action: : Dialogue: Churchkeeper:  (Maybe the script was removed?)
+Could Not Create Action: : Dialogue: Churchkeeper:  (Maybe the script was removed?)
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 638)
+UnloadTime: 14.731900 ms
+First video frame not zero: 4 (0.066667s). Result may be out of sync. Please make sure tracks all start at 0 in archive:/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5.resource
+Unloading 7425 unused Assets to reduce memory usage. Loaded Objects now: 136684.
+Total: 172.866300 ms (FindLiveObjects: 17.693400 ms CreateObjectMapping: 18.871400 ms MarkObjects: 108.460600 ms  DeleteObjects: 27.840700 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 621)
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 144304.
+Total: 122.325000 ms (FindLiveObjects: 15.511500 ms CreateObjectMapping: 10.290100 ms MarkObjects: 96.043200 ms  DeleteObjects: 0.480000 ms)
+
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Unable to retrieve achievement state for FLEAS_HALF, because Steam is not initialized
+Unable to update achievement progress for FLEAS_HALF, because Steam is not initialized
+Unable to retrieve achievement state for FLEAS_HALF, because Steam is not initialized
+Unable to update achievement progress for FLEAS_HALF, because Steam is not initialized
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Can not play a disabled audio source
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Unable to retrieve achievement state for FLEAS_HALF, because Steam is not initialized
+Unable to update achievement progress for FLEAS_HALF, because Steam is not initialized
+Unable to retrieve achievement state for FLEAS_HALF, because Steam is not initialized
+Unable to update achievement progress for FLEAS_HALF, because Steam is not initialized
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 636)
+UnloadTime: 7.722000 ms
+First video frame not zero: 4 (0.066667s). Result may be out of sync. Please make sure tracks all start at 0 in archive:/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5.resource
+Unloading 9008 unused Assets to reduce memory usage. Loaded Objects now: 138256.
+Total: 177.489200 ms (FindLiveObjects: 19.091300 ms CreateObjectMapping: 16.297000 ms MarkObjects: 103.354300 ms  DeleteObjects: 38.746300 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 635)
+Unloading 92 unused Assets to reduce memory usage. Loaded Objects now: 146849.
+Total: 121.552700 ms (FindLiveObjects: 13.864300 ms CreateObjectMapping: 9.384800 ms MarkObjects: 97.106900 ms  DeleteObjects: 1.196400 ms)
+
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Unable to retrieve achievement state for FLEAS_HALF, because Steam is not initialized
+Unable to update achievement progress for FLEAS_HALF, because Steam is not initialized
+Unable to retrieve achievement state for FLEAS_HALF, because Steam is not initialized
+Unable to update achievement progress for FLEAS_HALF, because Steam is not initialized
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 643)
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+UnloadTime: 17.328200 ms
+Unloading 9954 unused Assets to reduce memory usage. Loaded Objects now: 137749.
+Total: 173.289400 ms (FindLiveObjects: 16.901100 ms CreateObjectMapping: 12.109400 ms MarkObjects: 98.258100 ms  DeleteObjects: 46.020500 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 539)
+Unloading 7081 unused Assets to reduce memory usage. Loaded Objects now: 29414.
+Total: 87.188400 ms (FindLiveObjects: 2.888800 ms CreateObjectMapping: 5.486400 ms MarkObjects: 61.717700 ms  DeleteObjects: 17.095200 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 586)
+UnloadTime: 0.631200 ms
+Loaded saved language code 'EN'
+Restored language code 'EN'
+Unloading 57 unused Assets to reduce memory usage. Loaded Objects now: 74828.
+Total: 94.131100 ms (FindLiveObjects: 6.926200 ms CreateObjectMapping: 10.834500 ms MarkObjects: 76.138500 ms  DeleteObjects: 0.231600 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 584)
+Unloading 5593 unused Assets to reduce memory usage. Loaded Objects now: 69219.
+Total: 113.564000 ms (FindLiveObjects: 8.429400 ms CreateObjectMapping: 11.175100 ms MarkObjects: 73.844600 ms  DeleteObjects: 20.114300 ms)
+
+MenuButton missing flashEffect!
+Making UI menu lean.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Unloading 1 Unused Serialized files (Serialized files now loaded: 602)
+Unloading 282 unused Assets to reduce memory usage. Loaded Objects now: 114392.
+Total: 99.010000 ms (FindLiveObjects: 12.048000 ms CreateObjectMapping: 10.403500 ms MarkObjects: 75.299600 ms  DeleteObjects: 1.258500 ms)
+
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 608)
+UnloadTime: 7.569200 ms
+First video frame not zero: 4 (0.066667s). Result may be out of sync. Please make sure tracks all start at 0 in archive:/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5.resource
+Unloading 4600 unused Assets to reduce memory usage. Loaded Objects now: 136656.
+Total: 149.454300 ms (FindLiveObjects: 15.875100 ms CreateObjectMapping: 12.029000 ms MarkObjects: 110.183400 ms  DeleteObjects: 11.366400 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 607)
+Unloading 81 unused Assets to reduce memory usage. Loaded Objects now: 146113.
+Total: 151.119400 ms (FindLiveObjects: 16.594900 ms CreateObjectMapping: 15.796000 ms MarkObjects: 117.487100 ms  DeleteObjects: 1.241200 ms)
+
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 643)
+UnloadTime: 9.899800 ms
+First video frame not zero: 4 (0.066667s). Result may be out of sync. Please make sure tracks all start at 0 in archive:/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5.resource
+Unloading 6449 unused Assets to reduce memory usage. Loaded Objects now: 136910.
+Total: 187.839100 ms (FindLiveObjects: 18.261000 ms CreateObjectMapping: 14.154500 ms MarkObjects: 125.039300 ms  DeleteObjects: 30.384000 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 602)
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 145345.
+Total: 124.180500 ms (FindLiveObjects: 17.801300 ms CreateObjectMapping: 11.168700 ms MarkObjects: 94.899400 ms  DeleteObjects: 0.310700 ms)
+
+The referenced script (Unknown) on this Behaviour is missing!
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+The referenced script on this Behaviour (Game Object 'Gate NPC') is missing!
+Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for archive:/CAB-ceb42d51c62f5a2363e3a1def0c3288b/CAB-ceb42d51c62f5a2363e3a1def0c3288b.resource
+Unloading 1 Unused Serialized files (Serialized files now loaded: 631)
+Scene Manager missing from scene Bellway_08
+UnloadTime: 8.486900 ms
+First video frame not zero: 4 (0.066667s). Result may be out of sync. Please make sure tracks all start at 0 in archive:/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5.resource
+Unloading 8350 unused Assets to reduce memory usage. Loaded Objects now: 137085.
+Total: 185.190800 ms (FindLiveObjects: 19.305700 ms CreateObjectMapping: 15.805000 ms MarkObjects: 109.922500 ms  DeleteObjects: 40.157300 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 611)
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 146342.
+Total: 126.798100 ms (FindLiveObjects: 15.689100 ms CreateObjectMapping: 9.830500 ms MarkObjects: 100.704600 ms  DeleteObjects: 0.573300 ms)
+
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+Couldn't find transition point "door2", falling back to first available: "left1"
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 655)
+UnloadTime: 16.592500 ms
+Unloading 8498 unused Assets to reduce memory usage. Loaded Objects now: 137178.
+Total: 147.660000 ms (FindLiveObjects: 15.407300 ms CreateObjectMapping: 10.704200 ms MarkObjects: 85.964200 ms  DeleteObjects: 35.583900 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 539)
+Unloading 7062 unused Assets to reduce memory usage. Loaded Objects now: 29647.
+Total: 74.737000 ms (FindLiveObjects: 2.805600 ms CreateObjectMapping: 3.779200 ms MarkObjects: 54.510500 ms  DeleteObjects: 13.641400 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 586)
+UnloadTime: 0.616600 ms
+Loaded saved language code 'EN'
+Restored language code 'EN'
+Unloading 57 unused Assets to reduce memory usage. Loaded Objects now: 75061.
+Total: 84.257500 ms (FindLiveObjects: 6.999600 ms CreateObjectMapping: 7.502200 ms MarkObjects: 69.517300 ms  DeleteObjects: 0.237900 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 584)
+Unloading 5592 unused Assets to reduce memory usage. Loaded Objects now: 69453.
+Total: 78.235300 ms (FindLiveObjects: 6.532100 ms CreateObjectMapping: 7.919800 ms MarkObjects: 50.052700 ms  DeleteObjects: 13.730300 ms)
 
 [Physics::Module] Cleanup current backned.
 [Physics::Module] Id: 0xf2b8ea05
