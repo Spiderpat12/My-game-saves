@@ -10,7 +10,7 @@ Direct3D:
     VRAM:     1999 MB
     Driver:   32.0.15.6094
 Begin MonoManager ReloadAssembly
-- Completed reload, in  1.513 seconds
+- Completed reload, in  1.499 seconds
 OnLevelWasLoaded was found on GameMap
 This message has been deprecated and will be removed in a later version of Unity.
 Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
@@ -25,7 +25,7 @@ D3D11 device created for Microsoft Media Foundation video decoding.
 <RI> Initialized touch support.
 The class named 'ConfigManager' is abstract. The script class can't be abstract!
 
-UnloadTime: 26.119400 ms
+UnloadTime: 34.254800 ms
 Graphics tier changed to High
 
 Steam initializing
@@ -43,7 +43,7 @@ Restored language code 'EN'
 
 
 Unloading 362 unused Assets to reduce memory usage. Loaded Objects now: 3824.
-Total: 2.184600 ms (FindLiveObjects: 0.209400 ms CreateObjectMapping: 0.108800 ms MarkObjects: 1.714200 ms  DeleteObjects: 0.151500 ms)
+Total: 1.922000 ms (FindLiveObjects: 0.214600 ms CreateObjectMapping: 0.129500 ms MarkObjects: 1.476200 ms  DeleteObjects: 0.101300 ms)
 
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
 Steam stats received.
@@ -52,7 +52,7 @@ Direct3D: detected that using refresh rate causes time drift. Will stop trusting
 Direct3D: detected that vsync is broken (it does not limit frame rate properly). Delta time will now be calculated using cpu-side time stampling until the game window is moved.
 Didn't need to wait for PlayerPrefs load.
 
-UnloadTime: 5.300200 ms
+UnloadTime: 5.918400 ms
 DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
 
 Performing automatic level start.
@@ -67,11 +67,7 @@ Failed to retrieve achievement state for STEELSOUL
 
 Game controller set to None.
 
-Failed to retrieve achievement state for PROTECTED
-
 Failed to retrieve achievement state for MASKED
-
-Failed to retrieve achievement state for CHARMED
 
 Failed to retrieve achievement state for ENCHANTED
 
@@ -81,11 +77,7 @@ Failed to retrieve achievement state for SOULFUL
 
 Failed to retrieve achievement state for WORLDSOUL
 
-Failed to retrieve achievement state for FK_DEFEAT
-
 Failed to retrieve achievement state for DREAM_FK
-
-Failed to retrieve achievement state for HORNET_1
 
 Failed to retrieve achievement state for HORNET_2
 
@@ -98,8 +90,6 @@ Failed to retrieve achievement state for BROKEN_VESSEL
 Failed to retrieve achievement state for DREAM_BROKEN_VESSEL
 
 Failed to retrieve achievement state for DUNG_DEFENDER
-
-Failed to retrieve achievement state for MANTIS_LORDS
 
 Failed to retrieve achievement state for COLLECTOR
 
@@ -126,8 +116,6 @@ Failed to retrieve achievement state for QUIRREL_EPILOGUE
 Failed to retrieve achievement state for MOURNER
 
 Failed to retrieve achievement state for TRAITOR_LORD
-
-Failed to retrieve achievement state for STAG_STATION_HALF
 
 Failed to retrieve achievement state for STAG_STATION_ALL
 
@@ -187,12 +175,14 @@ Failed to retrieve achievement state for PANTHEON3
 
 Failed to retrieve achievement state for PANTHEON4
 
+pd.maxHealth: 6 pd.maxHealthBase: 6
+
 
 Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 46223.
-Total: 137.643600 ms (FindLiveObjects: 3.537300 ms CreateObjectMapping: 1.993900 ms MarkObjects: 131.787800 ms  DeleteObjects: 0.323500 ms)
+Total: 144.541300 ms (FindLiveObjects: 3.041900 ms CreateObjectMapping: 1.948300 ms MarkObjects: 139.266500 ms  DeleteObjects: 0.284000 ms)
 
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 1c90 -> priority: 1 
-  Thread -> id: 1a44 -> priority: 1 
+  Thread -> id: 1d4 -> priority: 1 
+  Thread -> id: 484 -> priority: 1 
 Shutting down Steam API.
 
