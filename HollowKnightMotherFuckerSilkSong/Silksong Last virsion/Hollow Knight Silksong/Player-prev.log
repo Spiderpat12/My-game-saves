@@ -13,8 +13,8 @@ Direct3D:
     VRAM:     1999 MB
     Driver:   32.0.15.6094
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  2.130 seconds
-- Finished resetting the current domain, in  0.049 seconds
+- Loaded All Assemblies, in  9.447 seconds
+- Finished resetting the current domain, in  0.003 seconds
 [Physics::Module] Selected backend.
 [Physics::Module] Name: PhysX
 [Physics::Module] Id: 0xf2b8ea05
@@ -24,35 +24,96 @@ Begin MonoManager ReloadAssembly
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 10.277000 ms
-Steam initializing
-Steam failed to initialize
-Selected online subsystem SteamOnlineSubsystem
+UnloadTime: 0.490800 ms
+No online subsystems packaged.
 Direct3D: detected that using refresh rate causes time drift. Will stop trusting refresh rate until the game window is moved.
 Direct3D: detected that vsync is broken (it does not limit frame rate properly). Delta time will now be calculated using cpu-side time stampling until the game window is moved.
-Unloading 5 Unused Serialized files (Serialized files now loaded: 527)
-UnloadTime: 1.518400 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 526)
+UnloadTime: 1.470700 ms
 Discovered supported languages: DE, EN, ES, FR, IT, JA, KO, PT, RU, ZH
 Loaded saved language code 'EN'
 Restored language code 'EN'
 Couldn't find a Game Manager, make sure one exists in the scene.
 Couldn't find GameCameras, make sure one exists in the scene.
-Unloading 53 unused Assets to reduce memory usage. Loaded Objects now: 6115.
-Total: 4.464600 ms (FindLiveObjects: 0.640700 ms CreateObjectMapping: 0.353200 ms MarkObjects: 3.401000 ms  DeleteObjects: 0.069400 ms)
+Unloading 53 unused Assets to reduce memory usage. Loaded Objects now: 6114.
+Total: 5.227700 ms (FindLiveObjects: 0.505700 ms CreateObjectMapping: 0.323800 ms MarkObjects: 4.318200 ms  DeleteObjects: 0.079800 ms)
 
-Unloading 2 Unused Serialized files (Serialized files now loaded: 527)
-Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 13333.
-Total: 7.205200 ms (FindLiveObjects: 0.797600 ms CreateObjectMapping: 0.534900 ms MarkObjects: 5.835700 ms  DeleteObjects: 0.036800 ms)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 527)
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 6115.
+Total: 4.749300 ms (FindLiveObjects: 0.469000 ms CreateObjectMapping: 0.253500 ms MarkObjects: 3.990700 ms  DeleteObjects: 0.035900 ms)
 
+Unloading 2 Unused Serialized files (Serialized files now loaded: 579)
 Couldn't find GameCameras, make sure one exists in the scene.
-Unloading 1 Unused Serialized files (Serialized files now loaded: 579)
 Couldn't find a Game Manager, make sure one exists in the scene.
-UnloadTime: 15.269700 ms
+UnloadTime: 9.522800 ms
 Loaded saved language code 'EN'
 Restored language code 'EN'
-Unloading 73 unused Assets to reduce memory usage. Loaded Objects now: 66314.
-Total: 78.838400 ms (FindLiveObjects: 8.530900 ms CreateObjectMapping: 6.732500 ms MarkObjects: 63.217800 ms  DeleteObjects: 0.356800 ms)
+Unloading 73 unused Assets to reduce memory usage. Loaded Objects now: 66602.
+Total: 55.253600 ms (FindLiveObjects: 6.451800 ms CreateObjectMapping: 7.944400 ms MarkObjects: 40.551200 ms  DeleteObjects: 0.305900 ms)
 
+MenuButton missing flashEffect!
+Making UI menu lean.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Unloading 3 Unused Serialized files (Serialized files now loaded: 564)
+Unloading 296 unused Assets to reduce memory usage. Loaded Objects now: 115441.
+Total: 93.058500 ms (FindLiveObjects: 10.462200 ms CreateObjectMapping: 11.448000 ms MarkObjects: 69.905400 ms  DeleteObjects: 1.242700 ms)
+
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
+Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
+Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
+Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
+Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
+Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
+Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 622)
+Unloading 9539 unused Assets to reduce memory usage. Loaded Objects now: 133314.
+Total: 210.102200 ms (FindLiveObjects: 16.116700 ms CreateObjectMapping: 11.786200 ms MarkObjects: 109.557400 ms  DeleteObjects: 72.641600 ms)
+
+Can not play a disabled audio source
+Unloading 1 Unused Serialized files (Serialized files now loaded: 640)
+Scene Manager missing from scene Hang_04
+UnloadTime: 11.785400 ms
+Unloading 8799 unused Assets to reduce memory usage. Loaded Objects now: 125699.
+Total: 151.053500 ms (FindLiveObjects: 14.100000 ms CreateObjectMapping: 11.454100 ms MarkObjects: 78.325600 ms  DeleteObjects: 47.173500 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 525)
+Unloading 3308 unused Assets to reduce memory usage. Loaded Objects now: 30586.
+Total: 64.137000 ms (FindLiveObjects: 2.660700 ms CreateObjectMapping: 3.885600 ms MarkObjects: 47.144300 ms  DeleteObjects: 10.445700 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 577)
+UnloadTime: 1.017200 ms
+Loaded saved language code 'EN'
+Restored language code 'EN'
+Unloading 4409 unused Assets to reduce memory usage. Loaded Objects now: 72511.
+Total: 84.797400 ms (FindLiveObjects: 6.583100 ms CreateObjectMapping: 8.264200 ms MarkObjects: 63.571000 ms  DeleteObjects: 6.378800 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 575)
+Unloading 5610 unused Assets to reduce memory usage. Loaded Objects now: 66885.
+Total: 83.854300 ms (FindLiveObjects: 6.485300 ms CreateObjectMapping: 6.335000 ms MarkObjects: 57.227600 ms  DeleteObjects: 13.806100 ms)
+
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
 [Physics::Module] Cleanup current backned.
 [Physics::Module] Id: 0xf2b8ea05
 Input System module state changed to: ShutdownInProgress.
