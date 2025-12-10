@@ -1,10 +1,10 @@
-Mono path[0] = 'D:/Games/AdventureGames/Hollow-Knight-Silksong/Hollow Knight Silksong/Hollow Knight Silksong_Data/Managed'
-Mono config path = 'D:/Games/AdventureGames/Hollow-Knight-Silksong/Hollow Knight Silksong/MonoBleedingEdge/etc'
+Mono path[0] = 'E:/Setup/Setup/Silksdog/Hollow-Knight-Silksong-SteamRIP.com/Hollow Knight Silksong/Hollow Knight Silksong_Data/Managed'
+Mono config path = 'E:/Setup/Setup/Silksdog/Hollow-Knight-Silksong-SteamRIP.com/Hollow Knight Silksong/MonoBleedingEdge/etc'
 Input System module state changed to: Initialized.
 [Physics::Module] Initialized fallback backend.
 [Physics::Module] Id: 0xdecafbad
-Initialize engine version: 6000.0.50f1-uum-100966-branch1 (359a00488d30)
-[Subsystems] Discovering subsystems at path D:/Games/AdventureGames/Hollow-Knight-Silksong/Hollow Knight Silksong/Hollow Knight Silksong_Data/UnitySubsystems
+Initialize engine version: 6000.0.50f1-uum-100966-branch1 (16f07294548e)
+[Subsystems] Discovering subsystems at path E:/Setup/Setup/Silksdog/Hollow-Knight-Silksong-SteamRIP.com/Hollow Knight Silksong/Hollow Knight Silksong_Data/UnitySubsystems
 GfxDevice: creating device client; kGfxThreadingModeThreaded
 Direct3D:
     Version:  Direct3D 11.0 [level 11.0]
@@ -13,7 +13,7 @@ Direct3D:
     VRAM:     1999 MB
     Driver:   32.0.15.6094
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.334 seconds
+- Loaded All Assemblies, in  0.194 seconds
 - Finished resetting the current domain, in  0.003 seconds
 [Physics::Module] Selected backend.
 [Physics::Module] Name: PhysX
@@ -22,327 +22,221 @@ Begin MonoManager ReloadAssembly
 [Physics::Module] Integration Version: 1.0.0
 [Physics::Module] Threading Mode: Multi-Threaded
 <RI> Initializing input.
+Using Windows.Gaming.Input
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.572100 ms
-No online subsystems packaged.
-Direct3D: detected that using refresh rate causes time drift. Will stop trusting refresh rate until the game window is moved.
-Direct3D: detected that vsync is broken (it does not limit frame rate properly). Delta time will now be calculated using cpu-side time stampling until the game window is moved.
-Unloading 5 Unused Serialized files (Serialized files now loaded: 527)
-UnloadTime: 1.585700 ms
+UnloadTime: 0.518600 ms
+Steam initializing
+Steam failed to initialize
+Selected online subsystem SteamOnlineSubsystem
+Unloading 5 Unused Serialized files (Serialized files now loaded: 528)
+UnloadTime: 1.481500 ms
 Discovered supported languages: DE, EN, ES, FR, IT, JA, KO, PT, RU, ZH
 Loaded saved language code 'EN'
 Restored language code 'EN'
 Couldn't find a Game Manager, make sure one exists in the scene.
 Couldn't find GameCameras, make sure one exists in the scene.
-Unloading 53 unused Assets to reduce memory usage. Loaded Objects now: 6115.
-Total: 6.494400 ms (FindLiveObjects: 0.386000 ms CreateObjectMapping: 0.209100 ms MarkObjects: 5.836400 ms  DeleteObjects: 0.062800 ms)
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 6501.
+Total: 5.114700 ms (FindLiveObjects: 0.428200 ms CreateObjectMapping: 0.404400 ms MarkObjects: 4.227000 ms  DeleteObjects: 0.048100 ms)
 
-Unloading 2 Unused Serialized files (Serialized files now loaded: 527)
-Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 13333.
-Total: 8.076400 ms (FindLiveObjects: 0.888900 ms CreateObjectMapping: 1.289600 ms MarkObjects: 5.867000 ms  DeleteObjects: 0.030600 ms)
+Unloading 2 Unused Serialized files (Serialized files now loaded: 528)
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 13733.
+Total: 7.315400 ms (FindLiveObjects: 0.829500 ms CreateObjectMapping: 0.625400 ms MarkObjects: 5.804400 ms  DeleteObjects: 0.055600 ms)
 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 579)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 582)
 Couldn't find GameCameras, make sure one exists in the scene.
 Couldn't find a Game Manager, make sure one exists in the scene.
-UnloadTime: 10.158900 ms
+UnloadTime: 8.138800 ms
 Loaded saved language code 'EN'
 Restored language code 'EN'
-Unloading 73 unused Assets to reduce memory usage. Loaded Objects now: 66602.
-Total: 48.974500 ms (FindLiveObjects: 6.499400 ms CreateObjectMapping: 5.779400 ms MarkObjects: 36.196000 ms  DeleteObjects: 0.499400 ms)
+Unloading 73 unused Assets to reduce memory usage. Loaded Objects now: 67141.
+Total: 53.210200 ms (FindLiveObjects: 6.939600 ms CreateObjectMapping: 6.468700 ms MarkObjects: 39.361400 ms  DeleteObjects: 0.440100 ms)
 
 MenuButton missing flashEffect!
 Making UI menu lean.
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Unloading 3 Unused Serialized files (Serialized files now loaded: 570)
-Unloading 279 unused Assets to reduce memory usage. Loaded Objects now: 111009.
-Total: 90.615400 ms (FindLiveObjects: 9.938000 ms CreateObjectMapping: 10.463100 ms MarkObjects: 69.064300 ms  DeleteObjects: 1.149600 ms)
+Unloading 3 Unused Serialized files (Serialized files now loaded: 572)
+Unloading 280 unused Assets to reduce memory usage. Loaded Objects now: 110579.
+Total: 206.919900 ms (FindLiveObjects: 17.782700 ms CreateObjectMapping: 45.687800 ms MarkObjects: 142.029300 ms  DeleteObjects: 1.419800 ms)
 
 Converting Vertex Colors from Color32 to Color.
 Converting Vertex Colors from Color32 to Color.
 Converting Vertex Colors from Color32 to Color.
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Unloading 1 Unused Serialized files (Serialized files now loaded: 614)
-Unloading 7421 unused Assets to reduce memory usage. Loaded Objects now: 131662.
-Total: 134.320300 ms (FindLiveObjects: 12.429000 ms CreateObjectMapping: 11.640000 ms MarkObjects: 73.246600 ms  DeleteObjects: 37.004400 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 614)
-Unloading 4871 unused Assets to reduce memory usage. Loaded Objects now: 131777.
-Total: 147.019600 ms (FindLiveObjects: 13.144100 ms CreateObjectMapping: 9.871200 ms MarkObjects: 89.769500 ms  DeleteObjects: 34.234500 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 614)
-Unloading 4871 unused Assets to reduce memory usage. Loaded Objects now: 132127.
-Total: 145.942500 ms (FindLiveObjects: 13.239800 ms CreateObjectMapping: 9.667300 ms MarkObjects: 89.034300 ms  DeleteObjects: 34.000700 ms)
-
-Cannot use 'linearVelocity' on a static body.
-Unloading 1 Unused Serialized files (Serialized files now loaded: 636)
-Unloading 5361 unused Assets to reduce memory usage. Loaded Objects now: 132255.
-Total: 149.689300 ms (FindLiveObjects: 15.072500 ms CreateObjectMapping: 9.629300 ms MarkObjects: 86.714900 ms  DeleteObjects: 38.272300 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 636)
-Unloading 4975 unused Assets to reduce memory usage. Loaded Objects now: 132348.
-Total: 156.446500 ms (FindLiveObjects: 14.518400 ms CreateObjectMapping: 10.632000 ms MarkObjects: 96.408400 ms  DeleteObjects: 34.887300 ms)
-
-Coroutine couldn't be started because the the game object 'ParrySlash Hit' is inactive!
-Unloading 1 Unused Serialized files (Serialized files now loaded: 636)
-Unloading 4964 unused Assets to reduce memory usage. Loaded Objects now: 132428.
-Total: 145.069300 ms (FindLiveObjects: 13.318200 ms CreateObjectMapping: 10.632600 ms MarkObjects: 86.988600 ms  DeleteObjects: 34.129500 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 636)
-Unloading 4975 unused Assets to reduce memory usage. Loaded Objects now: 132521.
-Total: 153.793100 ms (FindLiveObjects: 13.692900 ms CreateObjectMapping: 10.435700 ms MarkObjects: 95.091300 ms  DeleteObjects: 34.572800 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 636)
-Unloading 4967 unused Assets to reduce memory usage. Loaded Objects now: 132607.
-Total: 185.056900 ms (FindLiveObjects: 14.619400 ms CreateObjectMapping: 11.790900 ms MarkObjects: 122.415000 ms  DeleteObjects: 36.231000 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 636)
-Unloading 4975 unused Assets to reduce memory usage. Loaded Objects now: 132694.
-Total: 147.081700 ms (FindLiveObjects: 12.878100 ms CreateObjectMapping: 10.293300 ms MarkObjects: 88.940900 ms  DeleteObjects: 34.969000 ms)
-
-Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
-Unloading 1 Unused Serialized files (Serialized files now loaded: 633)
-UnloadTime: 15.218500 ms
-Unloading 9314 unused Assets to reduce memory usage. Loaded Objects now: 126404.
-Total: 151.094600 ms (FindLiveObjects: 14.722700 ms CreateObjectMapping: 11.405600 ms MarkObjects: 76.228300 ms  DeleteObjects: 48.737500 ms)
-
-Unloading 2 Unused Serialized files (Serialized files now loaded: 597)
-Unloading 72 unused Assets to reduce memory usage. Loaded Objects now: 135768.
-Total: 129.182600 ms (FindLiveObjects: 13.133400 ms CreateObjectMapping: 9.842000 ms MarkObjects: 105.545300 ms  DeleteObjects: 0.661600 ms)
-
-Started loading clips for Bone Record Bone_East_14
-Started loading clips for Bone Record Greymoor_flooded_corridor
-Started loading clips for Bone Record Understore_Map_Room
-Started loading clips for Bone Record Wisp Top
-Started loading clips for Weaver Totem Bonetown_upper_room
-Started loading clips for Weaver Totem Witch
-Started loading clips for Weaver Totem Slab_Bottom
-Started loading clips for Seal Chit Aspid_01
-Started loading clips for Seal Chit Ward Corpse
-Started loading clips for Seal Chit City Merchant
-Started loading clips for Seal Chit Silk Siphon
-Started loading clips for Weaver Record Weave_08
-Started loading clips for Weaver Record Sprint_Challenge
-Started loading clips for Weaver Record Conductor
-Started loading clips for Ancient Egg Abyss Middle
-Started loading clips for Psalm Cylinder Librarian
-Started loading clips for Psalm Cylinder Ward
-Started loading clips for Psalm Cylinder Hang
-Started loading clips for Psalm Cylinder Grindle
-Started loading clips for Psalm Cylinder Library Roof
-Started loading clips for Librarian Melody Cylinder
-Finished loading gramaphone clip for Psalm Cylinder Librarian
-Finished loading gramaphone clip for Psalm Cylinder Ward
-Finished loading gramaphone clip for Psalm Cylinder Hang
-Finished loading gramaphone clip for Psalm Cylinder Grindle
-Finished loading gramaphone clip for Psalm Cylinder Library Roof
-Finished loading gramaphone clip for Librarian Melody Cylinder
-Finished loading needolin clip for Librarian Melody Cylinder
-Freed clips for Bone Record Bone_East_14
-Freed clips for Bone Record Greymoor_flooded_corridor
-Freed clips for Bone Record Understore_Map_Room
-Freed clips for Bone Record Wisp Top
-Freed clips for Weaver Totem Bonetown_upper_room
-Freed clips for Weaver Totem Witch
-Freed clips for Weaver Totem Slab_Bottom
-Freed clips for Seal Chit Aspid_01
-Freed clips for Seal Chit Ward Corpse
-Freed clips for Seal Chit City Merchant
-Freed clips for Seal Chit Silk Siphon
-Freed clips for Weaver Record Weave_08
-Freed clips for Weaver Record Sprint_Challenge
-Freed clips for Weaver Record Conductor
-Freed clips for Ancient Egg Abyss Middle
-Freed clips for Psalm Cylinder Librarian
-Freed clips for Psalm Cylinder Ward
-Freed clips for Psalm Cylinder Hang
-Freed clips for Psalm Cylinder Grindle
-Freed clips for Psalm Cylinder Library Roof
-Freed clips for Librarian Melody Cylinder
-Couldn't find transition point "door4", falling back to first available: "door5"
-Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for archive:/CAB-4c86b47ae5500a27be89ac060e3ea2b6/CAB-4c86b47ae5500a27be89ac060e3ea2b6.resource
-Coroutine couldn't be started because the the game object 'CutsceneScreen' is inactive!
-Couldn't find transition point "door3", falling back to first available: "door5"
-Unloading 1 Unused Serialized files (Serialized files now loaded: 633)
-UnloadTime: 8.274100 ms
-Unloading 7255 unused Assets to reduce memory usage. Loaded Objects now: 126245.
-Total: 193.948800 ms (FindLiveObjects: 13.959600 ms CreateObjectMapping: 10.943100 ms MarkObjects: 134.090000 ms  DeleteObjects: 34.955700 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 596)
-Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 141363.
-Total: 122.513600 ms (FindLiveObjects: 13.891100 ms CreateObjectMapping: 10.506400 ms MarkObjects: 97.829000 ms  DeleteObjects: 0.286800 ms)
-
-Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
-Unloading 1 Unused Serialized files (Serialized files now loaded: 614)
-UnloadTime: 6.046800 ms
-Unloading 8412 unused Assets to reduce memory usage. Loaded Objects now: 126552.
-Total: 139.875400 ms (FindLiveObjects: 14.540600 ms CreateObjectMapping: 9.839900 ms MarkObjects: 73.824500 ms  DeleteObjects: 41.670100 ms)
-
-Unloading 0 Unused Serialized files (Serialized files now loaded: 525)
-Unloading 7655 unused Assets to reduce memory usage. Loaded Objects now: 26555.
-Total: 69.499600 ms (FindLiveObjects: 2.512600 ms CreateObjectMapping: 4.181800 ms MarkObjects: 47.536800 ms  DeleteObjects: 15.268200 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 577)
-UnloadTime: 1.062600 ms
-Loaded saved language code 'EN'
-Restored language code 'EN'
-Unloading 58 unused Assets to reduce memory usage. Loaded Objects now: 72845.
-Total: 89.958300 ms (FindLiveObjects: 6.230600 ms CreateObjectMapping: 7.579700 ms MarkObjects: 75.936300 ms  DeleteObjects: 0.211400 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 575)
-Unloading 5611 unused Assets to reduce memory usage. Loaded Objects now: 67218.
-Total: 65.832100 ms (FindLiveObjects: 6.184800 ms CreateObjectMapping: 6.617500 ms MarkObjects: 40.153400 ms  DeleteObjects: 12.876000 ms)
-
-MenuButton missing flashEffect!
-Making UI menu lean.
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Unloading 1 Unused Serialized files (Serialized files now loaded: 570)
-Unloading 280 unused Assets to reduce memory usage. Loaded Objects now: 110664.
-Total: 87.294800 ms (FindLiveObjects: 9.713300 ms CreateObjectMapping: 9.560500 ms MarkObjects: 66.828200 ms  DeleteObjects: 1.192300 ms)
-
-Converting Vertex Colors from Color32 to Color.
-Converting Vertex Colors from Color32 to Color.
-Converting Vertex Colors from Color32 to Color.
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Unloading 1 Unused Serialized files (Serialized files now loaded: 614)
-Unloading 5958 unused Assets to reduce memory usage. Loaded Objects now: 132645.
-Total: 162.742400 ms (FindLiveObjects: 14.265000 ms CreateObjectMapping: 10.934400 ms MarkObjects: 100.086500 ms  DeleteObjects: 37.456200 ms)
-
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
 Coroutine couldn't be started because the the game object 'CutsceneScreen' is inactive!
+Unable to update achievement progress for BELLWAYS_FULL, because Steam is not initialized
+Unloading 2 Unused Serialized files (Serialized files now loaded: 645)
+UnloadTime: 9.995700 ms
+Unloading 10499 unused Assets to reduce memory usage. Loaded Objects now: 124831.
+Total: 211.867600 ms (FindLiveObjects: 14.969500 ms CreateObjectMapping: 12.645300 ms MarkObjects: 99.834500 ms  DeleteObjects: 84.418100 ms)
+
 Unloading 1 Unused Serialized files (Serialized files now loaded: 583)
-Unloading 7238 unused Assets to reduce memory usage. Loaded Objects now: 132438.
-Total: 156.303400 ms (FindLiveObjects: 12.982500 ms CreateObjectMapping: 10.040000 ms MarkObjects: 76.465200 ms  DeleteObjects: 56.815500 ms)
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 129879.
+Total: 110.149800 ms (FindLiveObjects: 13.527600 ms CreateObjectMapping: 11.867700 ms MarkObjects: 84.116000 ms  DeleteObjects: 0.638300 ms)
 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 602)
-UnloadTime: 7.795700 ms
-Unloading 3961 unused Assets to reduce memory usage. Loaded Objects now: 126064.
-Total: 128.235600 ms (FindLiveObjects: 14.341500 ms CreateObjectMapping: 11.248600 ms MarkObjects: 89.823400 ms  DeleteObjects: 12.821700 ms)
+Unable to retrieve achievement state for FIRST_TOOL, because Steam is not initialized
+Unable to update achievement progress for ALL_TOOLS, because Steam is not initialized
+Unable to retrieve achievement state for FIRST_WISH, because Steam is not initialized
+Unable to update achievement progress for ALL_MAPS, because Steam is not initialized
+Unable to update achievement progress for ALL_MAPS, because Steam is not initialized
+Cannot use 'linearVelocity' on a static body.
+Unable to retrieve achievement state for FIRST_WISH, because Steam is not initialized
+Unable to retrieve achievement state for FIRST_TOOL, because Steam is not initialized
+Unable to update achievement progress for ALL_TOOLS, because Steam is not initialized
+Unable to retrieve achievement state for FIRST_SILK_SPOOL, because Steam is not initialized
+Unable to update achievement progress for ALL_SILK_SPOOLS, because Steam is not initialized
+Unloading 1 Unused Serialized files (Serialized files now loaded: 653)
+UnloadTime: 31.245400 ms
+Unloading 10710 unused Assets to reduce memory usage. Loaded Objects now: 125135.
+Total: 202.168000 ms (FindLiveObjects: 18.928400 ms CreateObjectMapping: 14.207200 ms MarkObjects: 87.569900 ms  DeleteObjects: 81.461900 ms)
 
-Unloading 0 Unused Serialized files (Serialized files now loaded: 525)
-Unloading 7614 unused Assets to reduce memory usage. Loaded Objects now: 26931.
-Total: 72.439200 ms (FindLiveObjects: 2.337000 ms CreateObjectMapping: 3.687600 ms MarkObjects: 51.793500 ms  DeleteObjects: 14.620800 ms)
+Unloading 0 Unused Serialized files (Serialized files now loaded: 526)
+Unloading 7825 unused Assets to reduce memory usage. Loaded Objects now: 25991.
+Total: 77.811700 ms (FindLiveObjects: 2.390500 ms CreateObjectMapping: 5.008200 ms MarkObjects: 51.441600 ms  DeleteObjects: 18.970900 ms)
 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 577)
-UnloadTime: 0.591000 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
+UnloadTime: 1.102100 ms
 Loaded saved language code 'EN'
 Restored language code 'EN'
-Unloading 57 unused Assets to reduce memory usage. Loaded Objects now: 73230.
-Total: 80.670800 ms (FindLiveObjects: 5.975700 ms CreateObjectMapping: 6.948800 ms MarkObjects: 67.530500 ms  DeleteObjects: 0.215400 ms)
+Unloading 89 unused Assets to reduce memory usage. Loaded Objects now: 72540.
+Total: 74.036200 ms (FindLiveObjects: 6.458700 ms CreateObjectMapping: 7.373100 ms MarkObjects: 58.647500 ms  DeleteObjects: 1.556600 ms)
 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 575)
-Unloading 5611 unused Assets to reduce memory usage. Loaded Objects now: 67603.
-Total: 96.888500 ms (FindLiveObjects: 6.059500 ms CreateObjectMapping: 8.124000 ms MarkObjects: 69.620900 ms  DeleteObjects: 13.083900 ms)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 578)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 72541.
+Total: 70.398700 ms (FindLiveObjects: 6.164100 ms CreateObjectMapping: 7.961300 ms MarkObjects: 56.107700 ms  DeleteObjects: 0.165000 ms)
 
-MenuButton missing flashEffect!
-Making UI menu lean.
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Unloading 1 Unused Serialized files (Serialized files now loaded: 570)
-Unloading 280 unused Assets to reduce memory usage. Loaded Objects now: 111049.
-Total: 89.806000 ms (FindLiveObjects: 11.058400 ms CreateObjectMapping: 8.963300 ms MarkObjects: 68.588000 ms  DeleteObjects: 1.196000 ms)
-
-Converting Vertex Colors from Color32 to Color.
-Converting Vertex Colors from Color32 to Color.
-Converting Vertex Colors from Color32 to Color.
-Unloading 1 Unused Serialized files (Serialized files now loaded: 579)
-Unloading 5365 unused Assets to reduce memory usage. Loaded Objects now: 131932.
-Total: 150.589700 ms (FindLiveObjects: 12.841300 ms CreateObjectMapping: 10.022900 ms MarkObjects: 97.332000 ms  DeleteObjects: 30.393200 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 579)
-Unloading 2400 unused Assets to reduce memory usage. Loaded Objects now: 131968.
-Total: 127.279100 ms (FindLiveObjects: 13.984000 ms CreateObjectMapping: 9.863000 ms MarkObjects: 88.545400 ms  DeleteObjects: 14.886400 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 579)
-Unloading 2400 unused Assets to reduce memory usage. Loaded Objects now: 131999.
-Total: 136.686200 ms (FindLiveObjects: 13.229700 ms CreateObjectMapping: 9.635900 ms MarkObjects: 99.337800 ms  DeleteObjects: 14.482300 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 579)
-Unloading 2400 unused Assets to reduce memory usage. Loaded Objects now: 132027.
-Total: 125.752700 ms (FindLiveObjects: 12.743600 ms CreateObjectMapping: 9.413700 ms MarkObjects: 89.245800 ms  DeleteObjects: 14.349200 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 579)
-Unloading 2400 unused Assets to reduce memory usage. Loaded Objects now: 132055.
-Total: 127.030300 ms (FindLiveObjects: 12.595400 ms CreateObjectMapping: 9.560300 ms MarkObjects: 89.832200 ms  DeleteObjects: 15.042100 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 631)
-UnloadTime: 15.469200 ms
-Unloading 7858 unused Assets to reduce memory usage. Loaded Objects now: 126806.
-Total: 133.579000 ms (FindLiveObjects: 13.450300 ms CreateObjectMapping: 10.186600 ms MarkObjects: 82.195200 ms  DeleteObjects: 27.746300 ms)
-
-Unloading 0 Unused Serialized files (Serialized files now loaded: 525)
-Unloading 7664 unused Assets to reduce memory usage. Loaded Objects now: 27321.
-Total: 71.116000 ms (FindLiveObjects: 2.529800 ms CreateObjectMapping: 4.256200 ms MarkObjects: 47.338600 ms  DeleteObjects: 16.990800 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 577)
-UnloadTime: 0.570400 ms
-Loaded saved language code 'EN'
-Restored language code 'EN'
-Unloading 58 unused Assets to reduce memory usage. Loaded Objects now: 73619.
-Total: 85.002700 ms (FindLiveObjects: 7.407300 ms CreateObjectMapping: 7.621400 ms MarkObjects: 69.772000 ms  DeleteObjects: 0.201800 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 575)
-Unloading 5610 unused Assets to reduce memory usage. Loaded Objects now: 67993.
-Total: 79.929700 ms (FindLiveObjects: 6.842100 ms CreateObjectMapping: 6.447700 ms MarkObjects: 52.950800 ms  DeleteObjects: 13.688800 ms)
-
-MenuButton missing flashEffect!
-Making UI menu lean.
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Unloading 1 Unused Serialized files (Serialized files now loaded: 606)
-Unloading 652 unused Assets to reduce memory usage. Loaded Objects now: 122227.
-Total: 91.646000 ms (FindLiveObjects: 11.158500 ms CreateObjectMapping: 9.670000 ms MarkObjects: 68.771200 ms  DeleteObjects: 2.046000 ms)
-
-Converting Vertex Colors from Color32 to Color.
-Converting Vertex Colors from Color32 to Color.
-Converting Vertex Colors from Color32 to Color.
-Unloading 1 Unused Serialized files (Serialized files now loaded: 640)
-Scene Manager missing from scene Cradle_03
-UnloadTime: 14.493100 ms
-Unloading 7559 unused Assets to reduce memory usage. Loaded Objects now: 138178.
-Total: 136.972000 ms (FindLiveObjects: 15.664600 ms CreateObjectMapping: 10.926500 ms MarkObjects: 90.655000 ms  DeleteObjects: 19.725500 ms)
-
-Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for archive:/CAB-3db60a30d7dbe26745145d445ccf20a1/CAB-3db60a30d7dbe26745145d445ccf20a1.resource
-Unloading 1 Unused Serialized files (Serialized files now loaded: 594)
-UnloadTime: 2.120700 ms
-Unloading 141 unused Assets to reduce memory usage. Loaded Objects now: 139210.
-Total: 145.653900 ms (FindLiveObjects: 16.563800 ms CreateObjectMapping: 10.082200 ms MarkObjects: 116.777800 ms  DeleteObjects: 2.229800 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 576)
-UnloadTime: 2.974600 ms
-Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 138868.
-Total: 131.934800 ms (FindLiveObjects: 14.807400 ms CreateObjectMapping: 9.721100 ms MarkObjects: 106.948900 ms  DeleteObjects: 0.457100 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 575)
-UnloadTime: 2.272500 ms
-Unloading 385 unused Assets to reduce memory usage. Loaded Objects now: 137734.
-Total: 114.792600 ms (FindLiveObjects: 13.044700 ms CreateObjectMapping: 9.605100 ms MarkObjects: 90.934900 ms  DeleteObjects: 1.207600 ms)
-
-Unloading 0 Unused Serialized files (Serialized files now loaded: 525)
-Unloading 7740 unused Assets to reduce memory usage. Loaded Objects now: 27769.
-Total: 76.080800 ms (FindLiveObjects: 2.407600 ms CreateObjectMapping: 4.144900 ms MarkObjects: 47.547600 ms  DeleteObjects: 21.980300 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 577)
-UnloadTime: 0.461800 ms
-Loaded saved language code 'EN'
-Restored language code 'EN'
-Unloading 5674 unused Assets to reduce memory usage. Loaded Objects now: 68272.
-Total: 78.819300 ms (FindLiveObjects: 6.367500 ms CreateObjectMapping: 6.473600 ms MarkObjects: 52.324100 ms  DeleteObjects: 13.653800 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 575)
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 68273.
-Total: 66.817500 ms (FindLiveObjects: 5.889300 ms CreateObjectMapping: 6.317600 ms MarkObjects: 54.465900 ms  DeleteObjects: 0.144400 ms)
-
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
 [Physics::Module] Cleanup current backned.
 [Physics::Module] Id: 0xf2b8ea05
 Input System module state changed to: ShutdownInProgress.
