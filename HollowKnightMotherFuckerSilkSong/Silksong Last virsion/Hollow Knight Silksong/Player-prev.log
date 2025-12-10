@@ -13,7 +13,7 @@ Direct3D:
     VRAM:     1999 MB
     Driver:   32.0.15.6094
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.202 seconds
+- Loaded All Assemblies, in  0.157 seconds
 - Finished resetting the current domain, in  0.003 seconds
 [Physics::Module] Selected backend.
 [Physics::Module] Name: PhysX
@@ -25,75 +25,642 @@ Begin MonoManager ReloadAssembly
 Using Windows.Gaming.Input
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.554100 ms
+UnloadTime: 0.468000 ms
 Steam initializing
 Steam failed to initialize
 Selected online subsystem SteamOnlineSubsystem
 Unloading 5 Unused Serialized files (Serialized files now loaded: 528)
-UnloadTime: 2.336800 ms
+UnloadTime: 1.395600 ms
 Discovered supported languages: DE, EN, ES, FR, IT, JA, KO, PT, RU, ZH
 Loaded saved language code 'EN'
 Restored language code 'EN'
 Couldn't find a Game Manager, make sure one exists in the scene.
 Couldn't find GameCameras, make sure one exists in the scene.
 Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 6501.
-Total: 4.371000 ms (FindLiveObjects: 0.458600 ms CreateObjectMapping: 0.455000 ms MarkObjects: 3.395600 ms  DeleteObjects: 0.056300 ms)
+Total: 4.867200 ms (FindLiveObjects: 0.507300 ms CreateObjectMapping: 0.552000 ms MarkObjects: 3.750000 ms  DeleteObjects: 0.051500 ms)
 
 Unloading 2 Unused Serialized files (Serialized files now loaded: 528)
 Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 13733.
-Total: 8.972900 ms (FindLiveObjects: 0.999500 ms CreateObjectMapping: 1.440600 ms MarkObjects: 6.461900 ms  DeleteObjects: 0.070400 ms)
+Total: 8.371800 ms (FindLiveObjects: 0.873000 ms CreateObjectMapping: 1.126400 ms MarkObjects: 6.324800 ms  DeleteObjects: 0.047000 ms)
 
 Unloading 1 Unused Serialized files (Serialized files now loaded: 582)
 Couldn't find GameCameras, make sure one exists in the scene.
 Couldn't find a Game Manager, make sure one exists in the scene.
-UnloadTime: 8.410400 ms
+UnloadTime: 9.172700 ms
 Loaded saved language code 'EN'
 Restored language code 'EN'
 Unloading 73 unused Assets to reduce memory usage. Loaded Objects now: 67141.
-Total: 55.677600 ms (FindLiveObjects: 7.769300 ms CreateObjectMapping: 5.996100 ms MarkObjects: 41.441400 ms  DeleteObjects: 0.470400 ms)
+Total: 46.971900 ms (FindLiveObjects: 5.936600 ms CreateObjectMapping: 5.643200 ms MarkObjects: 35.008400 ms  DeleteObjects: 0.383400 ms)
 
 MenuButton missing flashEffect!
 Making UI menu lean.
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Unloading 3 Unused Serialized files (Serialized files now loaded: 584)
-Unloading 280 unused Assets to reduce memory usage. Loaded Objects now: 111011.
-Total: 105.106500 ms (FindLiveObjects: 10.965000 ms CreateObjectMapping: 13.689300 ms MarkObjects: 78.658300 ms  DeleteObjects: 1.793500 ms)
+Unloading 3 Unused Serialized files (Serialized files now loaded: 642)
+Unloading 115 unused Assets to reduce memory usage. Loaded Objects now: 134304.
+Total: 101.236000 ms (FindLiveObjects: 12.039100 ms CreateObjectMapping: 10.334400 ms MarkObjects: 77.855000 ms  DeleteObjects: 1.007100 ms)
 
 Converting Vertex Colors from Color32 to Color.
 Converting Vertex Colors from Color32 to Color.
 Converting Vertex Colors from Color32 to Color.
-Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
+Unable to retrieve achievement state for FIRST_WISH, because Steam is not initialized
 Can not play a disabled audio source
 Can not play a disabled audio source
 Can not play a disabled audio source
 Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Cannot use 'linearVelocity' on a static body.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 668)
+UnloadTime: 6.276100 ms
+Unloading 9571 unused Assets to reduce memory usage. Loaded Objects now: 125273.
+Total: 131.011000 ms (FindLiveObjects: 12.682500 ms CreateObjectMapping: 10.727900 ms MarkObjects: 70.866000 ms  DeleteObjects: 36.734100 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 526)
+Unloading 3715 unused Assets to reduce memory usage. Loaded Objects now: 30285.
+Total: 66.074500 ms (FindLiveObjects: 2.240800 ms CreateObjectMapping: 3.688300 ms MarkObjects: 47.057300 ms  DeleteObjects: 13.087800 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
+UnloadTime: 1.176400 ms
+Loaded saved language code 'EN'
+Restored language code 'EN'
+Unloading 4416 unused Assets to reduce memory usage. Loaded Objects now: 72483.
+Total: 76.990900 ms (FindLiveObjects: 6.090400 ms CreateObjectMapping: 6.937600 ms MarkObjects: 57.754500 ms  DeleteObjects: 6.207700 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 578)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 72484.
+Total: 70.850300 ms (FindLiveObjects: 6.047000 ms CreateObjectMapping: 6.974500 ms MarkObjects: 57.686200 ms  DeleteObjects: 0.142400 ms)
+
+MenuButton missing flashEffect!
+Making UI menu lean.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Unloading 1 Unused Serialized files (Serialized files now loaded: 642)
+Unloading 115 unused Assets to reduce memory usage. Loaded Objects now: 131826.
+Total: 99.206900 ms (FindLiveObjects: 12.343400 ms CreateObjectMapping: 9.531900 ms MarkObjects: 76.262500 ms  DeleteObjects: 1.068700 ms)
+
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Unable to retrieve achievement state for FIRST_WISH, because Steam is not initialized
+Can not play a disabled audio source
+Unable to update achievement progress for FIRST_MASK, because Steam is not initialized
+Unable to update achievement progress for ALL_MASKS, because Steam is not initialized
+Cannot set the parent of the GameObject 'Unalert Range' while activating or deactivating the parent GameObject 'Roof Crab'.
+Unable to update achievement progress for FIRST_MASK, because Steam is not initialized
+Unable to update achievement progress for ALL_MASKS, because Steam is not initialized
+Cannot set the parent of the GameObject 'Unalert Range' while activating or deactivating the parent GameObject 'Roof Crab'.
+Cannot use 'linearVelocity' on a static body.
+Can not play a disabled audio source
+Unloading 1 Unused Serialized files (Serialized files now loaded: 685)
+UnloadTime: 7.588500 ms
+Unloading 11041 unused Assets to reduce memory usage. Loaded Objects now: 125516.
+Total: 166.711600 ms (FindLiveObjects: 13.216100 ms CreateObjectMapping: 11.515800 ms MarkObjects: 88.889600 ms  DeleteObjects: 53.089700 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 605)
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 134902.
+Total: 115.337000 ms (FindLiveObjects: 13.072400 ms CreateObjectMapping: 10.155900 ms MarkObjects: 91.618000 ms  DeleteObjects: 0.490300 ms)
+
+Can not play a disabled audio source
+Can not play a disabled audio source
+Unloading 1 Unused Serialized files (Serialized files now loaded: 616)
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+UnloadTime: 12.010100 ms
+Unloading 8051 unused Assets to reduce memory usage. Loaded Objects now: 125488.
+Total: 222.408600 ms (FindLiveObjects: 13.578500 ms CreateObjectMapping: 12.107500 ms MarkObjects: 141.819000 ms  DeleteObjects: 54.903300 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 526)
+Unloading 7775 unused Assets to reduce memory usage. Loaded Objects now: 26171.
+Total: 71.081300 ms (FindLiveObjects: 2.824000 ms CreateObjectMapping: 4.703500 ms MarkObjects: 48.638600 ms  DeleteObjects: 14.915000 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
+UnloadTime: 0.582000 ms
+Loaded saved language code 'EN'
+Restored language code 'EN'
+Unloading 58 unused Assets to reduce memory usage. Loaded Objects now: 72736.
+Total: 84.457500 ms (FindLiveObjects: 6.870100 ms CreateObjectMapping: 7.954700 ms MarkObjects: 69.429800 ms  DeleteObjects: 0.202600 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 578)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 72737.
+Total: 81.708800 ms (FindLiveObjects: 6.908200 ms CreateObjectMapping: 7.426700 ms MarkObjects: 67.230200 ms  DeleteObjects: 0.143400 ms)
+
+MenuButton missing flashEffect!
+Making UI menu lean.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Unloading 1 Unused Serialized files (Serialized files now loaded: 642)
+Unloading 116 unused Assets to reduce memory usage. Loaded Objects now: 131919.
+Total: 107.237700 ms (FindLiveObjects: 12.479800 ms CreateObjectMapping: 10.840100 ms MarkObjects: 82.803700 ms  DeleteObjects: 1.113400 ms)
+
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 661)
+UnloadTime: 5.922700 ms
+Unloading 6981 unused Assets to reduce memory usage. Loaded Objects now: 125183.
+Total: 135.276200 ms (FindLiveObjects: 12.612600 ms CreateObjectMapping: 10.830400 ms MarkObjects: 73.610900 ms  DeleteObjects: 38.221600 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 651)
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 134714.
+Total: 127.028700 ms (FindLiveObjects: 12.225300 ms CreateObjectMapping: 10.421400 ms MarkObjects: 103.888900 ms  DeleteObjects: 0.492800 ms)
+
+Using fallback 1 to find tilemap. Scene Bellshrine requires manual fixing.
+Cannot set the parent of the GameObject 'Slam Effect' while activating or deactivating the parent GameObject 'Shell Fossil Mimic AppearVariant'.
+Cannot set the parent of the GameObject 'Slam Effect' while activating or deactivating the parent GameObject 'Shell Fossil Mimic AppearVariant'.
+Cannot use 'linearVelocity' on a static body.
+Unable to update achievement progress for FLEAS_HALF, because Steam is not initialized
+Unable to update achievement progress for FLEAS_HALF, because Steam is not initialized
+Cannot set the parent of the GameObject 'Slam Effect' while activating or deactivating the parent GameObject 'Shell Fossil Mimic AppearVariant'.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Cannot use 'linearVelocity' on a static body.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+damager (LavaBox) is missing box collider
+Can not play a disabled audio source
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+Unable to update achievement progress for FLEAS_HALF, because Steam is not initialized
+Unable to update achievement progress for FLEAS_HALF, because Steam is not initialized
+Unloading 1 Unused Serialized files (Serialized files now loaded: 642)
+UnloadTime: 7.085900 ms
+Unloading 11143 unused Assets to reduce memory usage. Loaded Objects now: 125994.
+Total: 192.195300 ms (FindLiveObjects: 14.274200 ms CreateObjectMapping: 11.447000 ms MarkObjects: 100.249300 ms  DeleteObjects: 66.224400 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 625)
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 131435.
+Total: 111.415300 ms (FindLiveObjects: 12.859000 ms CreateObjectMapping: 9.697300 ms MarkObjects: 88.262200 ms  DeleteObjects: 0.596400 ms)
+
+Unable to retrieve achievement state for FIRST_WISH, because Steam is not initialized
+Unloading 1 Unused Serialized files (Serialized files now loaded: 676)
+UnloadTime: 6.472500 ms
+Unloading 6620 unused Assets to reduce memory usage. Loaded Objects now: 125663.
+Total: 159.730300 ms (FindLiveObjects: 16.551300 ms CreateObjectMapping: 13.397200 ms MarkObjects: 92.935800 ms  DeleteObjects: 36.845700 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 597)
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 135192.
+Total: 121.306000 ms (FindLiveObjects: 14.113000 ms CreateObjectMapping: 9.739100 ms MarkObjects: 97.018300 ms  DeleteObjects: 0.435200 ms)
+
+Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
+Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
+Cannot use 'linearVelocity' on a static body.
+Unable to retrieve achievement state for FIRST_TOOL, because Steam is not initialized
+Unable to update achievement progress for ALL_TOOLS, because Steam is not initialized
+Cannot use 'linearVelocity' on a static body.
+Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
+Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
+Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
+Hazard Respawn Trigger v2 (12) does not have a Hazard Respawn Marker Set
+Hazard Respawn Trigger v2 (12) does not have a Hazard Respawn Marker Set
+Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
+Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
+Unable to update achievement progress for ALL_MAPS, because Steam is not initialized
+Unable to update achievement progress for FLEAS_HALF, because Steam is not initialized
+Unable to update achievement progress for FLEAS_HALF, because Steam is not initialized
+Unable to retrieve achievement state for FIRST_MASK, because Steam is not initialized
+Unable to update achievement progress for ALL_MASKS, because Steam is not initialized
+Unable to update achievement progress for BELLWAYS_FULL, because Steam is not initialized
+Unloading 1 Unused Serialized files (Serialized files now loaded: 624)
+UnloadTime: 7.792300 ms
+Unloading 10744 unused Assets to reduce memory usage. Loaded Objects now: 128062.
+Total: 171.182100 ms (FindLiveObjects: 13.818100 ms CreateObjectMapping: 11.138100 ms MarkObjects: 95.888900 ms  DeleteObjects: 50.336700 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 619)
+Unloading 204 unused Assets to reduce memory usage. Loaded Objects now: 135326.
+Total: 117.050000 ms (FindLiveObjects: 12.901000 ms CreateObjectMapping: 9.904300 ms MarkObjects: 93.329600 ms  DeleteObjects: 0.914800 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 642)
+UnloadTime: 11.398100 ms
+Unloading 6401 unused Assets to reduce memory usage. Loaded Objects now: 125803.
+Total: 141.597200 ms (FindLiveObjects: 14.141300 ms CreateObjectMapping: 10.240500 ms MarkObjects: 90.518900 ms  DeleteObjects: 26.695800 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 544)
+Unloading 7817 unused Assets to reduce memory usage. Loaded Objects now: 26572.
+Total: 69.264900 ms (FindLiveObjects: 2.442700 ms CreateObjectMapping: 4.546500 ms MarkObjects: 47.762000 ms  DeleteObjects: 14.513400 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 597)
+UnloadTime: 0.634700 ms
+Loaded saved language code 'EN'
+Restored language code 'EN'
+Unloading 57 unused Assets to reduce memory usage. Loaded Objects now: 73137.
+Total: 82.677400 ms (FindLiveObjects: 6.087900 ms CreateObjectMapping: 8.133100 ms MarkObjects: 68.261500 ms  DeleteObjects: 0.194600 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 595)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 73138.
+Total: 86.179900 ms (FindLiveObjects: 7.106400 ms CreateObjectMapping: 8.068200 ms MarkObjects: 70.874100 ms  DeleteObjects: 0.130600 ms)
+
+MenuButton missing flashEffect!
+Making UI menu lean.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Unloading 1 Unused Serialized files (Serialized files now loaded: 631)
+Unloading 117 unused Assets to reduce memory usage. Loaded Objects now: 119094.
+Total: 108.631500 ms (FindLiveObjects: 11.148000 ms CreateObjectMapping: 10.008400 ms MarkObjects: 86.638500 ms  DeleteObjects: 0.836300 ms)
+
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 646)
+UnloadTime: 7.880300 ms
+Unloading 6819 unused Assets to reduce memory usage. Loaded Objects now: 126114.
+Total: 141.848200 ms (FindLiveObjects: 15.636800 ms CreateObjectMapping: 12.766100 ms MarkObjects: 84.659100 ms  DeleteObjects: 28.785600 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 648)
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 136612.
+Total: 118.302500 ms (FindLiveObjects: 12.589800 ms CreateObjectMapping: 9.864000 ms MarkObjects: 95.413100 ms  DeleteObjects: 0.435300 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 616)
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+UnloadTime: 11.619300 ms
+Unloading 8196 unused Assets to reduce memory usage. Loaded Objects now: 126334.
+Total: 150.756700 ms (FindLiveObjects: 17.668000 ms CreateObjectMapping: 13.786000 ms MarkObjects: 95.106900 ms  DeleteObjects: 24.195400 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 544)
+Unloading 7799 unused Assets to reduce memory usage. Loaded Objects now: 26805.
+Total: 68.277800 ms (FindLiveObjects: 2.345600 ms CreateObjectMapping: 4.190900 ms MarkObjects: 46.794200 ms  DeleteObjects: 14.946800 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 597)
+UnloadTime: 0.534700 ms
+Loaded saved language code 'EN'
+Restored language code 'EN'
+Unloading 57 unused Assets to reduce memory usage. Loaded Objects now: 73360.
+Total: 84.453800 ms (FindLiveObjects: 6.785600 ms CreateObjectMapping: 6.362100 ms MarkObjects: 71.087700 ms  DeleteObjects: 0.218000 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 595)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 73361.
+Total: 72.866300 ms (FindLiveObjects: 5.864000 ms CreateObjectMapping: 7.066300 ms MarkObjects: 59.792500 ms  DeleteObjects: 0.143300 ms)
+
+MenuButton missing flashEffect!
+Making UI menu lean.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Unloading 1 Unused Serialized files (Serialized files now loaded: 596)
+Unloading 124 unused Assets to reduce memory usage. Loaded Objects now: 120229.
+Total: 90.450000 ms (FindLiveObjects: 10.768900 ms CreateObjectMapping: 9.889500 ms MarkObjects: 68.860100 ms  DeleteObjects: 0.931300 ms)
+
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Hazard Respawn Trigger v2 (1) does not have a Hazard Respawn Marker Set
+Unable to retrieve achievement state for FIRST_SILK_SKILL, because Steam is not initialized
+Unable to update achievement progress for ALL_SILK_SKILLS, because Steam is not initialized
+Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
+Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
+Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
+Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
+Unloading 1 Unused Serialized files (Serialized files now loaded: 607)
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+Scene Manager missing from scene Shellwood_10
+UnloadTime: 15.224600 ms
+Unloading 8052 unused Assets to reduce memory usage. Loaded Objects now: 126968.
+Total: 141.279200 ms (FindLiveObjects: 13.514800 ms CreateObjectMapping: 11.576100 ms MarkObjects: 89.410400 ms  DeleteObjects: 26.777600 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 544)
+Unloading 7783 unused Assets to reduce memory usage. Loaded Objects now: 27044.
+Total: 71.517300 ms (FindLiveObjects: 3.391600 ms CreateObjectMapping: 4.458800 ms MarkObjects: 48.999900 ms  DeleteObjects: 14.666700 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 597)
+UnloadTime: 0.568900 ms
+Loaded saved language code 'EN'
+Restored language code 'EN'
+Unloading 58 unused Assets to reduce memory usage. Loaded Objects now: 73597.
+Total: 81.740200 ms (FindLiveObjects: 6.455800 ms CreateObjectMapping: 8.100200 ms MarkObjects: 66.963400 ms  DeleteObjects: 0.220600 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 595)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 73598.
+Total: 81.791100 ms (FindLiveObjects: 6.313000 ms CreateObjectMapping: 6.906200 ms MarkObjects: 68.360500 ms  DeleteObjects: 0.211000 ms)
+
+MenuButton missing flashEffect!
+Making UI menu lean.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Unloading 1 Unused Serialized files (Serialized files now loaded: 589)
+Unloading 119 unused Assets to reduce memory usage. Loaded Objects now: 119699.
+Total: 93.692400 ms (FindLiveObjects: 11.285000 ms CreateObjectMapping: 10.744800 ms MarkObjects: 70.790700 ms  DeleteObjects: 0.871500 ms)
+
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
+Cannot use 'linearVelocity' on a static body.
+Unable to update achievement progress for FLEAS_HALF, because Steam is not initialized
+Unable to update achievement progress for FLEAS_HALF, because Steam is not initialized
+Unable to update achievement progress for FLEAS_HALF, because Steam is not initialized
+Can not play a disabled audio source
+Unloading 1 Unused Serialized files (Serialized files now loaded: 604)
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+Scene Manager missing from scene Shellwood_01b
+UnloadTime: 12.847700 ms
+Unloading 7883 unused Assets to reduce memory usage. Loaded Objects now: 127402.
+Total: 129.603300 ms (FindLiveObjects: 12.726600 ms CreateObjectMapping: 11.265000 ms MarkObjects: 76.265000 ms  DeleteObjects: 29.346300 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 544)
+Unloading 7851 unused Assets to reduce memory usage. Loaded Objects now: 27290.
+Total: 83.102100 ms (FindLiveObjects: 3.079800 ms CreateObjectMapping: 4.397500 ms MarkObjects: 54.132500 ms  DeleteObjects: 21.492000 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 597)
+UnloadTime: 0.547700 ms
+Loaded saved language code 'EN'
+Restored language code 'EN'
+Unloading 57 unused Assets to reduce memory usage. Loaded Objects now: 73842.
+Total: 81.445200 ms (FindLiveObjects: 7.059800 ms CreateObjectMapping: 7.024600 ms MarkObjects: 67.141600 ms  DeleteObjects: 0.219000 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 595)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 73843.
+Total: 81.289100 ms (FindLiveObjects: 6.870200 ms CreateObjectMapping: 6.192800 ms MarkObjects: 68.079000 ms  DeleteObjects: 0.146900 ms)
+
+MenuButton missing flashEffect!
+Making UI menu lean.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Unloading 1 Unused Serialized files (Serialized files now loaded: 596)
+Unloading 124 unused Assets to reduce memory usage. Loaded Objects now: 120711.
+Total: 101.913000 ms (FindLiveObjects: 10.810800 ms CreateObjectMapping: 10.010300 ms MarkObjects: 80.162400 ms  DeleteObjects: 0.929100 ms)
+
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Using fallback 1 to find tilemap. Scene Belltown_Shrine requires manual fixing.
+Unable to retrieve achievement state for DEFEATED_WIDOW, because Steam is not initialized
+Reloading same scene! Destroying GuidComponents to prevent collisions...
+Can not play a disabled audio source
+Using fallback 1 to find tilemap. Scene Belltown_Shrine requires manual fixing.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Can not play a disabled audio source
+Started loading clips for Bone Record Bone_East_14
+Started loading clips for Bone Record Greymoor_flooded_corridor
+Started loading clips for Bone Record Understore_Map_Room
+Started loading clips for Bone Record Wisp Top
+Started loading clips for Weaver Totem Bonetown_upper_room
+Started loading clips for Weaver Totem Witch
+Started loading clips for Weaver Totem Slab_Bottom
+Started loading clips for Seal Chit Aspid_01
+Started loading clips for Seal Chit Ward Corpse
+Started loading clips for Seal Chit City Merchant
+Started loading clips for Seal Chit Silk Siphon
+Started loading clips for Weaver Record Weave_08
+Started loading clips for Weaver Record Sprint_Challenge
+Started loading clips for Weaver Record Conductor
+Started loading clips for Ancient Egg Abyss Middle
+Started loading clips for Psalm Cylinder Librarian
+Started loading clips for Psalm Cylinder Ward
+Started loading clips for Psalm Cylinder Hang
+Started loading clips for Psalm Cylinder Grindle
+Started loading clips for Psalm Cylinder Library Roof
+Started loading clips for Librarian Melody Cylinder
+Finished loading gramaphone clip for Psalm Cylinder Librarian
+Finished loading gramaphone clip for Psalm Cylinder Ward
+Finished loading gramaphone clip for Psalm Cylinder Hang
+Finished loading gramaphone clip for Psalm Cylinder Grindle
+Finished loading gramaphone clip for Psalm Cylinder Library Roof
+Finished loading gramaphone clip for Librarian Melody Cylinder
+Finished loading needolin clip for Librarian Melody Cylinder
+Freed clips for Bone Record Bone_East_14
+Freed clips for Bone Record Greymoor_flooded_corridor
+Freed clips for Bone Record Understore_Map_Room
+Freed clips for Bone Record Wisp Top
+Freed clips for Weaver Totem Bonetown_upper_room
+Freed clips for Weaver Totem Witch
+Freed clips for Weaver Totem Slab_Bottom
+Freed clips for Seal Chit Aspid_01
+Freed clips for Seal Chit Ward Corpse
+Freed clips for Seal Chit City Merchant
+Freed clips for Seal Chit Silk Siphon
+Freed clips for Weaver Record Weave_08
+Freed clips for Weaver Record Sprint_Challenge
+Freed clips for Weaver Record Conductor
+Freed clips for Ancient Egg Abyss Middle
+Freed clips for Psalm Cylinder Librarian
+Freed clips for Psalm Cylinder Ward
+Freed clips for Psalm Cylinder Hang
+Freed clips for Psalm Cylinder Grindle
+Freed clips for Psalm Cylinder Library Roof
+Freed clips for Librarian Melody Cylinder
+Couldn't find transition point "door4", falling back to first available: "door5"
+Unloading 1 Unused Serialized files (Serialized files now loaded: 659)
+UnloadTime: 8.056900 ms
+Unloading 12799 unused Assets to reduce memory usage. Loaded Objects now: 129080.
+Total: 186.259000 ms (FindLiveObjects: 14.569500 ms CreateObjectMapping: 11.586600 ms MarkObjects: 95.599900 ms  DeleteObjects: 64.502500 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 606)
+Unloading 66 unused Assets to reduce memory usage. Loaded Objects now: 133219.
+Total: 118.136600 ms (FindLiveObjects: 12.362500 ms CreateObjectMapping: 9.197400 ms MarkObjects: 95.862100 ms  DeleteObjects: 0.714400 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 665)
+UnloadTime: 28.688400 ms
+Unloading 5797 unused Assets to reduce memory usage. Loaded Objects now: 127500.
+Total: 135.933700 ms (FindLiveObjects: 14.267100 ms CreateObjectMapping: 10.257900 ms MarkObjects: 76.954100 ms  DeleteObjects: 34.454200 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 544)
+Unloading 7788 unused Assets to reduce memory usage. Loaded Objects now: 27598.
+Total: 70.983800 ms (FindLiveObjects: 2.536100 ms CreateObjectMapping: 4.086300 ms MarkObjects: 45.444400 ms  DeleteObjects: 18.916700 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 597)
+UnloadTime: 0.473400 ms
+Loaded saved language code 'EN'
+Restored language code 'EN'
+Unloading 58 unused Assets to reduce memory usage. Loaded Objects now: 74147.
+Total: 82.897400 ms (FindLiveObjects: 6.123700 ms CreateObjectMapping: 6.800200 ms MarkObjects: 69.750400 ms  DeleteObjects: 0.222700 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 595)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 74148.
+Total: 71.854500 ms (FindLiveObjects: 5.761600 ms CreateObjectMapping: 6.262600 ms MarkObjects: 59.682200 ms  DeleteObjects: 0.147800 ms)
+
+MenuButton missing flashEffect!
+Making UI menu lean.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Unloading 1 Unused Serialized files (Serialized files now loaded: 658)
+Unloading 115 unused Assets to reduce memory usage. Loaded Objects now: 133232.
+Total: 95.650300 ms (FindLiveObjects: 12.124700 ms CreateObjectMapping: 9.448500 ms MarkObjects: 72.940200 ms  DeleteObjects: 1.136100 ms)
+
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Cannot set the parent of the GameObject 'Unalert Range' while activating or deactivating the parent GameObject 'Roof Crab'.
 Reloading same scene! Destroying GuidComponents to prevent collisions...
 Unable to retrieve achievement state for FIRST_CREST, because Steam is not initialized
 Unable to update achievement progress for ALL_CRESTS, because Steam is not initialized
-Unloading 1 Unused Serialized files (Serialized files now loaded: 629)
-Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
-Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
-Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
-Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
-Scene Manager missing from scene Greymoor_07
-UnloadTime: 79.180500 ms
-Unloading 9635 unused Assets to reduce memory usage. Loaded Objects now: 124396.
-Total: 448.249500 ms (FindLiveObjects: 20.692500 ms CreateObjectMapping: 14.215400 ms MarkObjects: 152.966000 ms  DeleteObjects: 260.375100 ms)
+Unable to update achievement progress for ALL_MAPS, because Steam is not initialized
+Unloading 1 Unused Serialized files (Serialized files now loaded: 630)
+UnloadTime: 21.327100 ms
+Unloading 11193 unused Assets to reduce memory usage. Loaded Objects now: 129251.
+Total: 188.079600 ms (FindLiveObjects: 14.888400 ms CreateObjectMapping: 11.220800 ms MarkObjects: 95.548700 ms  DeleteObjects: 66.421200 ms)
 
-Unloading 0 Unused Serialized files (Serialized files now loaded: 526)
-Unloading 7792 unused Assets to reduce memory usage. Loaded Objects now: 25933.
-Total: 76.316100 ms (FindLiveObjects: 2.642200 ms CreateObjectMapping: 5.146200 ms MarkObjects: 50.258800 ms  DeleteObjects: 18.268600 ms)
+Unloading 0 Unused Serialized files (Serialized files now loaded: 544)
+Unloading 3616 unused Assets to reduce memory usage. Loaded Objects now: 32457.
+Total: 66.379600 ms (FindLiveObjects: 2.522600 ms CreateObjectMapping: 4.263500 ms MarkObjects: 50.662200 ms  DeleteObjects: 8.931100 ms)
 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
-UnloadTime: 1.122500 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 597)
+UnloadTime: 1.366100 ms
 Loaded saved language code 'EN'
 Restored language code 'EN'
-Unloading 58 unused Assets to reduce memory usage. Loaded Objects now: 72515.
-Total: 121.369500 ms (FindLiveObjects: 8.155800 ms CreateObjectMapping: 8.380200 ms MarkObjects: 104.013100 ms  DeleteObjects: 0.819900 ms)
+Unloading 4622 unused Assets to reduce memory usage. Loaded Objects now: 74428.
+Total: 88.074700 ms (FindLiveObjects: 6.833500 ms CreateObjectMapping: 8.726700 ms MarkObjects: 64.522800 ms  DeleteObjects: 7.991500 ms)
 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 578)
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 72516.
-Total: 79.259700 ms (FindLiveObjects: 6.219600 ms CreateObjectMapping: 7.553800 ms MarkObjects: 65.277600 ms  DeleteObjects: 0.208200 ms)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 595)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 74429.
+Total: 80.324400 ms (FindLiveObjects: 6.458900 ms CreateObjectMapping: 8.100700 ms MarkObjects: 65.576900 ms  DeleteObjects: 0.187700 ms)
+
+MenuButton missing flashEffect!
+Making UI menu lean.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Unloading 1 Unused Serialized files (Serialized files now loaded: 582)
+Unloading 284 unused Assets to reduce memory usage. Loaded Objects now: 112836.
+Total: 105.663200 ms (FindLiveObjects: 10.286100 ms CreateObjectMapping: 9.290400 ms MarkObjects: 84.882400 ms  DeleteObjects: 1.203800 ms)
+
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Unable to retrieve achievement state for FIRST_TOOL, because Steam is not initialized
+Unable to update achievement progress for ALL_TOOLS, because Steam is not initialized
+Cannot use 'linearVelocity' on a static body.
+Hazard Respawn Trigger v2 does not have a Hazard Respawn Marker Set
+Hazard Respawn Trigger v2 (1) does not have a Hazard Respawn Marker Set
+Hazard Respawn Trigger v2 (2) does not have a Hazard Respawn Marker Set
+Unable to update achievement progress for ALL_SILK_SPOOLS, because Steam is not initialized
+Cannot use 'linearVelocity' on a static body.
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+Unable to update achievement progress for ALL_MASKS, because Steam is not initialized
+Unloading 1 Unused Serialized files (Serialized files now loaded: 676)
+UnloadTime: 6.465300 ms
+Unloading 9599 unused Assets to reduce memory usage. Loaded Objects now: 130371.
+Total: 167.706700 ms (FindLiveObjects: 14.584100 ms CreateObjectMapping: 12.081800 ms MarkObjects: 85.978700 ms  DeleteObjects: 55.061800 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 669)
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 138223.
+Total: 118.957400 ms (FindLiveObjects: 12.998500 ms CreateObjectMapping: 10.341100 ms MarkObjects: 95.180400 ms  DeleteObjects: 0.437000 ms)
+
+Cannot use 'linearVelocity' on a static body.
+Cannot use 'linearVelocity' on a static body.
+Cannot use 'angularVelocity' on a static body.
+Cannot use 'angularVelocity' on a static body.
+Cannot use 'linearVelocity' on a static body.
+Cannot use 'linearVelocity' on a static body.
+Cannot use 'angularVelocity' on a static body.
+Cannot use 'angularVelocity' on a static body.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 597)
+UnloadTime: 22.042300 ms
+Unloading 4716 unused Assets to reduce memory usage. Loaded Objects now: 128941.
+Total: 140.049200 ms (FindLiveObjects: 14.546400 ms CreateObjectMapping: 11.322700 ms MarkObjects: 101.295900 ms  DeleteObjects: 12.884000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 544)
+Unloading 7685 unused Assets to reduce memory usage. Loaded Objects now: 28319.
+Total: 75.736700 ms (FindLiveObjects: 2.593900 ms CreateObjectMapping: 4.269700 ms MarkObjects: 53.137500 ms  DeleteObjects: 15.735300 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 597)
+UnloadTime: 0.558300 ms
+Loaded saved language code 'EN'
+Restored language code 'EN'
+Unloading 225 unused Assets to reduce memory usage. Loaded Objects now: 74697.
+Total: 82.789500 ms (FindLiveObjects: 6.834200 ms CreateObjectMapping: 8.028500 ms MarkObjects: 66.227600 ms  DeleteObjects: 1.698600 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 595)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 74698.
+Total: 79.621200 ms (FindLiveObjects: 6.279600 ms CreateObjectMapping: 6.874300 ms MarkObjects: 66.207500 ms  DeleteObjects: 0.259400 ms)
 
