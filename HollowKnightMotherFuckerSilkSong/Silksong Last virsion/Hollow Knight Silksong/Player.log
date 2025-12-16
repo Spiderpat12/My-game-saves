@@ -13,7 +13,7 @@ Direct3D:
     VRAM:     1999 MB
     Driver:   32.0.15.6094
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.153 seconds
+- Loaded All Assemblies, in  0.154 seconds
 - Finished resetting the current domain, in  0.003 seconds
 [Physics::Module] Selected backend.
 [Physics::Module] Name: PhysX
@@ -25,41 +25,41 @@ Begin MonoManager ReloadAssembly
 Using Windows.Gaming.Input
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.560500 ms
+UnloadTime: 0.451200 ms
 Steam initializing
 Steam failed to initialize
 Selected online subsystem SteamOnlineSubsystem
 Unloading 5 Unused Serialized files (Serialized files now loaded: 528)
-UnloadTime: 1.704300 ms
+UnloadTime: 1.826300 ms
 Discovered supported languages: DE, EN, ES, FR, IT, JA, KO, PT, RU, ZH
 Loaded saved language code 'EN'
 Restored language code 'EN'
 Couldn't find a Game Manager, make sure one exists in the scene.
 Couldn't find GameCameras, make sure one exists in the scene.
 Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 6501.
-Total: 4.082400 ms (FindLiveObjects: 0.442100 ms CreateObjectMapping: 0.231200 ms MarkObjects: 3.360400 ms  DeleteObjects: 0.043900 ms)
+Total: 4.237500 ms (FindLiveObjects: 0.482900 ms CreateObjectMapping: 0.239900 ms MarkObjects: 3.462700 ms  DeleteObjects: 0.045000 ms)
 
 Unloading 2 Unused Serialized files (Serialized files now loaded: 528)
 Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 13733.
-Total: 7.460300 ms (FindLiveObjects: 0.811500 ms CreateObjectMapping: 0.583700 ms MarkObjects: 6.009400 ms  DeleteObjects: 0.055300 ms)
+Total: 7.368600 ms (FindLiveObjects: 0.935600 ms CreateObjectMapping: 0.716600 ms MarkObjects: 5.675900 ms  DeleteObjects: 0.040200 ms)
 
 Unloading 1 Unused Serialized files (Serialized files now loaded: 582)
 Couldn't find GameCameras, make sure one exists in the scene.
 Couldn't find a Game Manager, make sure one exists in the scene.
-UnloadTime: 7.341200 ms
+UnloadTime: 9.270400 ms
 Loaded saved language code 'EN'
 Restored language code 'EN'
 Unloading 73 unused Assets to reduce memory usage. Loaded Objects now: 67141.
-Total: 47.663300 ms (FindLiveObjects: 5.680700 ms CreateObjectMapping: 6.910500 ms MarkObjects: 34.670100 ms  DeleteObjects: 0.401600 ms)
+Total: 47.994100 ms (FindLiveObjects: 5.363000 ms CreateObjectMapping: 6.947500 ms MarkObjects: 35.205900 ms  DeleteObjects: 0.477500 ms)
 
 MenuButton missing flashEffect!
 Making UI menu lean.
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Unloading 3 Unused Serialized files (Serialized files now loaded: 570)
-Unloading 275 unused Assets to reduce memory usage. Loaded Objects now: 107591.
-Total: 93.153900 ms (FindLiveObjects: 9.143400 ms CreateObjectMapping: 11.388600 ms MarkObjects: 71.487400 ms  DeleteObjects: 1.134200 ms)
+Unloading 3 Unused Serialized files (Serialized files now loaded: 596)
+Unloading 295 unused Assets to reduce memory usage. Loaded Objects now: 128123.
+Total: 103.739800 ms (FindLiveObjects: 11.819900 ms CreateObjectMapping: 13.800600 ms MarkObjects: 76.663500 ms  DeleteObjects: 1.455600 ms)
 
 Converting Vertex Colors from Color32 to Color.
 Converting Vertex Colors from Color32 to Color.
@@ -67,28 +67,497 @@ Converting Vertex Colors from Color32 to Color.
 Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
 Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
 Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
-gameObject1 is null!
-Unloading 1 Unused Serialized files (Serialized files now loaded: 609)
+Can not play a disabled audio source
+Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
+Can not play a disabled audio source
+Cannot use 'linearVelocity' on a static body.
+Unable to update achievement progress for ALL_MAPS, because Steam is not initialized
+Unloading 1 Unused Serialized files (Serialized files now loaded: 600)
 Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
 Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
 Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
 Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
-UnloadTime: 17.107400 ms
-Unloading 7192 unused Assets to reduce memory usage. Loaded Objects now: 129965.
-Total: 141.686700 ms (FindLiveObjects: 13.610600 ms CreateObjectMapping: 11.263000 ms MarkObjects: 86.583400 ms  DeleteObjects: 30.229400 ms)
+UnloadTime: 5.956200 ms
+Unloading 9424 unused Assets to reduce memory usage. Loaded Objects now: 130039.
+Total: 125.739100 ms (FindLiveObjects: 13.723300 ms CreateObjectMapping: 10.903100 ms MarkObjects: 70.656600 ms  DeleteObjects: 30.455600 ms)
 
 Unloading 0 Unused Serialized files (Serialized files now loaded: 526)
-Unloading 7522 unused Assets to reduce memory usage. Loaded Objects now: 26332.
-Total: 72.116800 ms (FindLiveObjects: 2.203000 ms CreateObjectMapping: 4.109100 ms MarkObjects: 51.238600 ms  DeleteObjects: 14.565700 ms)
+Unloading 7342 unused Assets to reduce memory usage. Loaded Objects now: 26579.
+Total: 70.218000 ms (FindLiveObjects: 2.276000 ms CreateObjectMapping: 4.123300 ms MarkObjects: 49.514700 ms  DeleteObjects: 14.303700 ms)
 
 Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
-UnloadTime: 1.183700 ms
+UnloadTime: 1.185700 ms
 Loaded saved language code 'EN'
 Restored language code 'EN'
-Unloading 76 unused Assets to reduce memory usage. Loaded Objects now: 72516.
-Total: 81.781100 ms (FindLiveObjects: 7.738200 ms CreateObjectMapping: 9.307300 ms MarkObjects: 64.059500 ms  DeleteObjects: 0.675700 ms)
+Unloading 60 unused Assets to reduce memory usage. Loaded Objects now: 72676.
+Total: 71.225900 ms (FindLiveObjects: 6.166300 ms CreateObjectMapping: 6.173300 ms MarkObjects: 58.431000 ms  DeleteObjects: 0.455000 ms)
 
 Unloading 1 Unused Serialized files (Serialized files now loaded: 578)
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 72517.
-Total: 75.125500 ms (FindLiveObjects: 5.658600 ms CreateObjectMapping: 6.297300 ms MarkObjects: 63.025300 ms  DeleteObjects: 0.143800 ms)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 72677.
+Total: 70.759800 ms (FindLiveObjects: 5.447500 ms CreateObjectMapping: 6.516700 ms MarkObjects: 58.661600 ms  DeleteObjects: 0.133700 ms)
+
+MenuButton missing flashEffect!
+Making UI menu lean.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Unloading 1 Unused Serialized files (Serialized files now loaded: 568)
+Unloading 284 unused Assets to reduce memory usage. Loaded Objects now: 109771.
+Total: 84.090200 ms (FindLiveObjects: 9.621200 ms CreateObjectMapping: 10.925600 ms MarkObjects: 62.274300 ms  DeleteObjects: 1.268700 ms)
+
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Cannot use 'linearVelocity' on a static body.
+Can not play a disabled audio source
+Cannot use 'linearVelocity' on a static body.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 570)
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+Scene Manager missing from scene Slab_20
+UnloadTime: 7.265900 ms
+Unloading 6819 unused Assets to reduce memory usage. Loaded Objects now: 129403.
+Total: 136.606200 ms (FindLiveObjects: 13.182200 ms CreateObjectMapping: 11.466300 ms MarkObjects: 86.026600 ms  DeleteObjects: 25.930700 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 526)
+Unloading 7343 unused Assets to reduce memory usage. Loaded Objects now: 26984.
+Total: 68.299200 ms (FindLiveObjects: 2.295000 ms CreateObjectMapping: 3.740500 ms MarkObjects: 48.717700 ms  DeleteObjects: 13.545700 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
+UnloadTime: 0.492900 ms
+Loaded saved language code 'EN'
+Restored language code 'EN'
+Unloading 58 unused Assets to reduce memory usage. Loaded Objects now: 73080.
+Total: 80.050300 ms (FindLiveObjects: 6.509200 ms CreateObjectMapping: 7.472200 ms MarkObjects: 65.854100 ms  DeleteObjects: 0.214500 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 578)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 73081.
+Total: 74.527300 ms (FindLiveObjects: 6.609300 ms CreateObjectMapping: 6.583600 ms MarkObjects: 61.191500 ms  DeleteObjects: 0.142500 ms)
+
+MenuButton missing flashEffect!
+Making UI menu lean.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Unloading 1 Unused Serialized files (Serialized files now loaded: 568)
+Unloading 284 unused Assets to reduce memory usage. Loaded Objects now: 110171.
+Total: 80.079500 ms (FindLiveObjects: 9.619800 ms CreateObjectMapping: 9.235700 ms MarkObjects: 59.978400 ms  DeleteObjects: 1.245300 ms)
+
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Unable to retrieve achievement state for FLEAS_HALF, because Steam is not initialized
+Unable to update achievement progress for FLEAS_HALF, because Steam is not initialized
+Unable to retrieve achievement state for FLEAS_HALF, because Steam is not initialized
+Unable to update achievement progress for FLEAS_HALF, because Steam is not initialized
+Cannot use 'linearVelocity' on a static body.
+Unable to retrieve achievement state for FIRST_SILK_SPOOL, because Steam is not initialized
+Unable to update achievement progress for ALL_SILK_SPOOLS, because Steam is not initialized
+Unable to update achievement progress for BELLWAYS_FULL, because Steam is not initialized
+Unable to update achievement progress for ALL_MAPS, because Steam is not initialized
+Unloading 1 Unused Serialized files (Serialized files now loaded: 644)
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+UnloadTime: 20.235600 ms
+Unloading 10941 unused Assets to reduce memory usage. Loaded Objects now: 131746.
+Total: 160.893100 ms (FindLiveObjects: 13.153000 ms CreateObjectMapping: 11.093400 ms MarkObjects: 92.462100 ms  DeleteObjects: 44.184400 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 526)
+Unloading 7268 unused Assets to reduce memory usage. Loaded Objects now: 27507.
+Total: 71.543200 ms (FindLiveObjects: 2.391400 ms CreateObjectMapping: 3.789300 ms MarkObjects: 51.537900 ms  DeleteObjects: 13.824300 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
+UnloadTime: 0.515600 ms
+Loaded saved language code 'EN'
+Restored language code 'EN'
+Unloading 86 unused Assets to reduce memory usage. Loaded Objects now: 73473.
+Total: 81.418300 ms (FindLiveObjects: 6.725800 ms CreateObjectMapping: 8.286400 ms MarkObjects: 65.113700 ms  DeleteObjects: 1.292100 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 578)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 73474.
+Total: 72.812600 ms (FindLiveObjects: 5.621600 ms CreateObjectMapping: 6.935700 ms MarkObjects: 60.105500 ms  DeleteObjects: 0.149500 ms)
+
+MenuButton missing flashEffect!
+Making UI menu lean.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Unloading 1 Unused Serialized files (Serialized files now loaded: 617)
+Unloading 357 unused Assets to reduce memory usage. Loaded Objects now: 135949.
+Total: 106.957400 ms (FindLiveObjects: 12.020300 ms CreateObjectMapping: 10.296100 ms MarkObjects: 83.368500 ms  DeleteObjects: 1.272000 ms)
+
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Unable to retrieve achievement state for FIRST_TOOL, because Steam is not initialized
+Unable to update achievement progress for ALL_TOOLS, because Steam is not initialized
+Cannot use 'linearVelocity' on a static body.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 642)
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+UnloadTime: 5.306400 ms
+Unloading 8173 unused Assets to reduce memory usage. Loaded Objects now: 132398.
+Total: 137.680800 ms (FindLiveObjects: 13.526800 ms CreateObjectMapping: 10.306000 ms MarkObjects: 91.017100 ms  DeleteObjects: 22.830500 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 526)
+Unloading 7253 unused Assets to reduce memory usage. Loaded Objects now: 27924.
+Total: 70.974500 ms (FindLiveObjects: 2.357700 ms CreateObjectMapping: 4.852400 ms MarkObjects: 50.280500 ms  DeleteObjects: 13.483700 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
+UnloadTime: 0.589300 ms
+Loaded saved language code 'EN'
+Restored language code 'EN'
+Unloading 58 unused Assets to reduce memory usage. Loaded Objects now: 73919.
+Total: 94.914600 ms (FindLiveObjects: 8.756600 ms CreateObjectMapping: 9.357500 ms MarkObjects: 76.584100 ms  DeleteObjects: 0.216200 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 578)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 73920.
+Total: 72.346200 ms (FindLiveObjects: 6.760800 ms CreateObjectMapping: 6.912100 ms MarkObjects: 58.525300 ms  DeleteObjects: 0.147600 ms)
+
+MenuButton missing flashEffect!
+Making UI menu lean.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Unloading 1 Unused Serialized files (Serialized files now loaded: 574)
+Unloading 293 unused Assets to reduce memory usage. Loaded Objects now: 111628.
+Total: 95.658100 ms (FindLiveObjects: 9.827800 ms CreateObjectMapping: 9.749600 ms MarkObjects: 74.830300 ms  DeleteObjects: 1.249900 ms)
+
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+Coroutine couldn't be started because the the game object 'Camera Wind Region' is inactive!
+Unable to update achievement progress for ALL_MASKS, because Steam is not initialized
+Unloading 1 Unused Serialized files (Serialized files now loaded: 587)
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+Scene Manager missing from scene Bellway_Peak
+UnloadTime: 6.191400 ms
+Unloading 8191 unused Assets to reduce memory usage. Loaded Objects now: 131780.
+Total: 157.587900 ms (FindLiveObjects: 13.195300 ms CreateObjectMapping: 11.259700 ms MarkObjects: 100.810300 ms  DeleteObjects: 32.322300 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 526)
+Unloading 7252 unused Assets to reduce memory usage. Loaded Objects now: 28233.
+Total: 72.438900 ms (FindLiveObjects: 2.428800 ms CreateObjectMapping: 5.227600 ms MarkObjects: 50.310300 ms  DeleteObjects: 14.471900 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
+UnloadTime: 0.479800 ms
+Loaded saved language code 'EN'
+Restored language code 'EN'
+Unloading 57 unused Assets to reduce memory usage. Loaded Objects now: 74226.
+Total: 84.843900 ms (FindLiveObjects: 6.748700 ms CreateObjectMapping: 7.021900 ms MarkObjects: 70.848000 ms  DeleteObjects: 0.224800 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 578)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 74227.
+Total: 92.137800 ms (FindLiveObjects: 8.594400 ms CreateObjectMapping: 8.987900 ms MarkObjects: 74.064800 ms  DeleteObjects: 0.490000 ms)
+
+MenuButton missing flashEffect!
+Making UI menu lean.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Unloading 1 Unused Serialized files (Serialized files now loaded: 574)
+Unloading 293 unused Assets to reduce memory usage. Loaded Objects now: 111935.
+Total: 83.641200 ms (FindLiveObjects: 9.657100 ms CreateObjectMapping: 9.996600 ms MarkObjects: 62.743600 ms  DeleteObjects: 1.243400 ms)
+
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Unable to retrieve achievement state for FLEAS_HALF, because Steam is not initialized
+Unable to update achievement progress for FLEAS_HALF, because Steam is not initialized
+Unable to retrieve achievement state for FLEAS_HALF, because Steam is not initialized
+Unable to update achievement progress for FLEAS_HALF, because Steam is not initialized
+Coroutine couldn't be started because the the game object 'Camera Wind Region' is inactive!
+Unable to retrieve achievement state for FLEAS_HALF, because Steam is not initialized
+Unable to update achievement progress for FLEAS_HALF, because Steam is not initialized
+Unable to retrieve achievement state for FLEAS_HALF, because Steam is not initialized
+Unable to update achievement progress for FLEAS_HALF, because Steam is not initialized
+Unloading 1 Unused Serialized files (Serialized files now loaded: 637)
+UnloadTime: 10.298600 ms
+Unloading 9765 unused Assets to reduce memory usage. Loaded Objects now: 132575.
+Total: 161.037900 ms (FindLiveObjects: 15.837300 ms CreateObjectMapping: 14.594300 ms MarkObjects: 86.101500 ms  DeleteObjects: 44.504300 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 626)
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 145123.
+Total: 123.148300 ms (FindLiveObjects: 13.571100 ms CreateObjectMapping: 10.407300 ms MarkObjects: 98.863000 ms  DeleteObjects: 0.306600 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 630)
+UnloadTime: 13.393600 ms
+Unloading 5006 unused Assets to reduce memory usage. Loaded Objects now: 132765.
+Total: 151.118600 ms (FindLiveObjects: 20.061300 ms CreateObjectMapping: 11.927500 ms MarkObjects: 105.175600 ms  DeleteObjects: 13.953800 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 633)
+Unloading 133 unused Assets to reduce memory usage. Loaded Objects now: 142808.
+Total: 136.249000 ms (FindLiveObjects: 13.703800 ms CreateObjectMapping: 10.405800 ms MarkObjects: 111.331600 ms  DeleteObjects: 0.807500 ms)
+
+Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
+Unloading 1 Unused Serialized files (Serialized files now loaded: 594)
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+UnloadTime: 10.145900 ms
+Unloading 8130 unused Assets to reduce memory usage. Loaded Objects now: 132355.
+Total: 120.702600 ms (FindLiveObjects: 13.113600 ms CreateObjectMapping: 9.844000 ms MarkObjects: 73.604000 ms  DeleteObjects: 24.140500 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 526)
+Unloading 7205 unused Assets to reduce memory usage. Loaded Objects now: 28931.
+Total: 68.588500 ms (FindLiveObjects: 2.476500 ms CreateObjectMapping: 4.002400 ms MarkObjects: 48.499300 ms  DeleteObjects: 13.609900 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
+UnloadTime: 0.487300 ms
+Loaded saved language code 'EN'
+Restored language code 'EN'
+Unloading 83 unused Assets to reduce memory usage. Loaded Objects now: 74899.
+Total: 74.466800 ms (FindLiveObjects: 6.702700 ms CreateObjectMapping: 7.486500 ms MarkObjects: 59.496700 ms  DeleteObjects: 0.780600 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 578)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 74900.
+Total: 72.729800 ms (FindLiveObjects: 5.982500 ms CreateObjectMapping: 6.429200 ms MarkObjects: 60.127400 ms  DeleteObjects: 0.190400 ms)
+
+MenuButton missing flashEffect!
+Making UI menu lean.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Unloading 1 Unused Serialized files (Serialized files now loaded: 584)
+Unloading 288 unused Assets to reduce memory usage. Loaded Objects now: 115820.
+Total: 92.070700 ms (FindLiveObjects: 10.750800 ms CreateObjectMapping: 10.606700 ms MarkObjects: 69.393700 ms  DeleteObjects: 1.319100 ms)
+
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Unloading 1 Unused Serialized files (Serialized files now loaded: 590)
+UnloadTime: 9.458400 ms
+Unloading 4459 unused Assets to reduce memory usage. Loaded Objects now: 132230.
+Total: 125.575900 ms (FindLiveObjects: 14.434700 ms CreateObjectMapping: 11.572700 ms MarkObjects: 80.870600 ms  DeleteObjects: 18.697600 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 604)
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 140526.
+Total: 128.786700 ms (FindLiveObjects: 13.620200 ms CreateObjectMapping: 10.363200 ms MarkObjects: 104.545000 ms  DeleteObjects: 0.258000 ms)
+
+Coroutine couldn't be started because the the game object 'Camera Wind Region' is inactive!
+Unable to retrieve achievement state for FIRST_TOOL, because Steam is not initialized
+Unable to update achievement progress for ALL_TOOLS, because Steam is not initialized
+Cannot use 'linearVelocity' on a static body.
+The referenced script (tk2dSpriteAnimatorDebug) on this Behaviour is missing!
+The referenced script (tk2dSpriteAnimatorDebug) on this Behaviour is missing!
+The referenced script (tk2dSpriteAnimatorDebug) on this Behaviour is missing!
+The referenced script (tk2dSpriteAnimatorDebug) on this Behaviour is missing!
+The referenced script (tk2dSpriteAnimatorDebug) on this Behaviour is missing!
+The referenced script (tk2dSpriteAnimatorDebug) on this Behaviour is missing!
+The referenced script (tk2dSpriteAnimatorDebug) on this Behaviour is missing!
+The referenced script (tk2dSpriteAnimatorDebug) on this Behaviour is missing!
+The referenced script (tk2dSpriteAnimatorDebug) on this Behaviour is missing!
+The referenced script (tk2dSpriteAnimatorDebug) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object 'Judge Child (6)') is missing!
+The referenced script on this Behaviour (Game Object 'Judge Child (10)') is missing!
+The referenced script on this Behaviour (Game Object 'Judge Child (7)') is missing!
+The referenced script on this Behaviour (Game Object 'Judge Child (3)') is missing!
+The referenced script on this Behaviour (Game Object 'Judge Child (9)') is missing!
+The referenced script on this Behaviour (Game Object 'Judge Child (1)') is missing!
+The referenced script on this Behaviour (Game Object 'Judge Child (5)') is missing!
+The referenced script on this Behaviour (Game Object 'Judge Child (8)') is missing!
+The referenced script on this Behaviour (Game Object 'Judge Child (4)') is missing!
+The referenced script on this Behaviour (Game Object 'Judge Child (2)') is missing!
+Coroutine couldn't be started because the the game object 'Camera Wind Region' is inactive!
+Cannot use 'linearVelocity' on a static body.
+Unable to retrieve achievement state for FLEAS_HALF, because Steam is not initialized
+Unable to update achievement progress for FLEAS_HALF, because Steam is not initialized
+Unable to retrieve achievement state for FLEAS_HALF, because Steam is not initialized
+Unable to update achievement progress for FLEAS_HALF, because Steam is not initialized
+Coroutine couldn't be started because the the game object 'Camera Wind Region' is inactive!
+Coroutine couldn't be started because the the game object 'Camera Wind Region' is inactive!
+Unloading 1 Unused Serialized files (Serialized files now loaded: 589)
+Scene Manager missing from scene Bellway_08
+UnloadTime: 7.233900 ms
+Unloading 7629 unused Assets to reduce memory usage. Loaded Objects now: 132504.
+Total: 143.883700 ms (FindLiveObjects: 14.506100 ms CreateObjectMapping: 12.186200 ms MarkObjects: 83.233300 ms  DeleteObjects: 33.957500 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 526)
+Unloading 7245 unused Assets to reduce memory usage. Loaded Objects now: 29102.
+Total: 89.549700 ms (FindLiveObjects: 5.110800 ms CreateObjectMapping: 5.693700 ms MarkObjects: 65.056800 ms  DeleteObjects: 13.687900 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
+UnloadTime: 0.500700 ms
+Loaded saved language code 'EN'
+Restored language code 'EN'
+Unloading 58 unused Assets to reduce memory usage. Loaded Objects now: 75095.
+Total: 104.873000 ms (FindLiveObjects: 10.099000 ms CreateObjectMapping: 9.168200 ms MarkObjects: 85.382600 ms  DeleteObjects: 0.223000 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 578)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 75096.
+Total: 75.023500 ms (FindLiveObjects: 6.694100 ms CreateObjectMapping: 7.864300 ms MarkObjects: 60.312100 ms  DeleteObjects: 0.152800 ms)
+
+MenuButton missing flashEffect!
+Making UI menu lean.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Unloading 1 Unused Serialized files (Serialized files now loaded: 587)
+Unloading 112 unused Assets to reduce memory usage. Loaded Objects now: 114656.
+Total: 120.435700 ms (FindLiveObjects: 11.881200 ms CreateObjectMapping: 11.044200 ms MarkObjects: 96.503100 ms  DeleteObjects: 1.006900 ms)
+
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Unloading 1 Unused Serialized files (Serialized files now loaded: 589)
+UnloadTime: 6.299800 ms
+Unloading 4766 unused Assets to reduce memory usage. Loaded Objects now: 132299.
+Total: 116.294500 ms (FindLiveObjects: 12.587300 ms CreateObjectMapping: 13.837800 ms MarkObjects: 76.880000 ms  DeleteObjects: 12.988900 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 526)
+Unloading 7190 unused Assets to reduce memory usage. Loaded Objects now: 29290.
+Total: 72.358400 ms (FindLiveObjects: 3.264400 ms CreateObjectMapping: 4.673900 ms MarkObjects: 51.652800 ms  DeleteObjects: 12.766800 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
+UnloadTime: 0.470300 ms
+Loaded saved language code 'EN'
+Restored language code 'EN'
+Unloading 57 unused Assets to reduce memory usage. Loaded Objects now: 75287.
+Total: 77.243600 ms (FindLiveObjects: 7.397000 ms CreateObjectMapping: 9.990900 ms MarkObjects: 59.630400 ms  DeleteObjects: 0.221600 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 578)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 75288.
+Total: 70.972600 ms (FindLiveObjects: 6.371700 ms CreateObjectMapping: 6.532600 ms MarkObjects: 57.907800 ms  DeleteObjects: 0.160300 ms)
+
+MenuButton missing flashEffect!
+Making UI menu lean.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Unloading 1 Unused Serialized files (Serialized files now loaded: 587)
+Unloading 112 unused Assets to reduce memory usage. Loaded Objects now: 114848.
+Total: 96.577000 ms (FindLiveObjects: 10.115600 ms CreateObjectMapping: 10.053400 ms MarkObjects: 75.479500 ms  DeleteObjects: 0.928100 ms)
+
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for Learn
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Can not play a disabled audio source
+Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for archive:/CAB-0b88e550605ef4fcfcd83165af25310e/CAB-0b88e550605ef4fcfcd83165af25310e.resource
+Coroutine couldn't be started because the the game object 'CutsceneScreen' is inactive!
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Cannot use 'linearVelocity' on a static body.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Coroutine couldn't be started because the the game object 'Camera Wind Region (1)' is inactive!
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Cannot use 'linearVelocity' on a static body.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 605)
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+UnloadTime: 3.281500 ms
+Unloading 7875 unused Assets to reduce memory usage. Loaded Objects now: 132981.
+Total: 135.371800 ms (FindLiveObjects: 14.274400 ms CreateObjectMapping: 10.432100 ms MarkObjects: 76.883800 ms  DeleteObjects: 33.781000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 526)
+Unloading 7259 unused Assets to reduce memory usage. Loaded Objects now: 29520.
+Total: 70.963900 ms (FindLiveObjects: 2.604600 ms CreateObjectMapping: 4.772500 ms MarkObjects: 49.011800 ms  DeleteObjects: 14.574600 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
+UnloadTime: 0.477700 ms
+Loaded saved language code 'EN'
+Restored language code 'EN'
+Unloading 57 unused Assets to reduce memory usage. Loaded Objects now: 75514.
+Total: 76.328700 ms (FindLiveObjects: 6.153200 ms CreateObjectMapping: 6.299800 ms MarkObjects: 63.653400 ms  DeleteObjects: 0.222100 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 578)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 75515.
+Total: 79.769000 ms (FindLiveObjects: 7.146900 ms CreateObjectMapping: 6.509200 ms MarkObjects: 65.955300 ms  DeleteObjects: 0.157000 ms)
 
