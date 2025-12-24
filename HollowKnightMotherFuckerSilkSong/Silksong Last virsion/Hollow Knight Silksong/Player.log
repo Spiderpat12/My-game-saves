@@ -13,7 +13,7 @@ Direct3D:
     VRAM:     1999 MB
     Driver:   32.0.15.6094
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.155 seconds
+- Loaded All Assemblies, in  0.159 seconds
 - Finished resetting the current domain, in  0.003 seconds
 [Physics::Module] Selected backend.
 [Physics::Module] Name: PhysX
@@ -25,108 +25,277 @@ Begin MonoManager ReloadAssembly
 Using Windows.Gaming.Input
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.745000 ms
+UnloadTime: 0.431700 ms
 No online subsystems packaged.
 Unloading 5 Unused Serialized files (Serialized files now loaded: 528)
-UnloadTime: 1.613500 ms
+UnloadTime: 2.154600 ms
 Discovered supported languages: DE, EN, ES, FR, IT, JA, KO, PT, RU, ZH
 Loaded saved language code 'EN'
 Restored language code 'EN'
 Couldn't find a Game Manager, make sure one exists in the scene.
 Couldn't find GameCameras, make sure one exists in the scene.
 Unloading 53 unused Assets to reduce memory usage. Loaded Objects now: 6517.
-Total: 5.272300 ms (FindLiveObjects: 0.698500 ms CreateObjectMapping: 0.513300 ms MarkObjects: 3.987200 ms  DeleteObjects: 0.067100 ms)
+Total: 4.826100 ms (FindLiveObjects: 0.528300 ms CreateObjectMapping: 0.411700 ms MarkObjects: 3.826700 ms  DeleteObjects: 0.054000 ms)
 
 Unloading 2 Unused Serialized files (Serialized files now loaded: 528)
 Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 13737.
-Total: 8.940400 ms (FindLiveObjects: 1.369600 ms CreateObjectMapping: 1.046100 ms MarkObjects: 6.436900 ms  DeleteObjects: 0.087400 ms)
+Total: 8.255300 ms (FindLiveObjects: 1.275100 ms CreateObjectMapping: 0.839000 ms MarkObjects: 6.100900 ms  DeleteObjects: 0.039800 ms)
 
 Unloading 1 Unused Serialized files (Serialized files now loaded: 582)
 Couldn't find GameCameras, make sure one exists in the scene.
 Couldn't find a Game Manager, make sure one exists in the scene.
-UnloadTime: 9.027600 ms
+UnloadTime: 8.839800 ms
 Loaded saved language code 'EN'
 Restored language code 'EN'
 Unloading 73 unused Assets to reduce memory usage. Loaded Objects now: 67435.
-Total: 52.704100 ms (FindLiveObjects: 6.887700 ms CreateObjectMapping: 5.578900 ms MarkObjects: 39.736300 ms  DeleteObjects: 0.500900 ms)
+Total: 47.746500 ms (FindLiveObjects: 6.265400 ms CreateObjectMapping: 6.380100 ms MarkObjects: 34.587600 ms  DeleteObjects: 0.513100 ms)
 
 MenuButton missing flashEffect!
 Making UI menu lean.
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Unloading 3 Unused Serialized files (Serialized files now loaded: 584)
-Unloading 285 unused Assets to reduce memory usage. Loaded Objects now: 115642.
-Total: 97.235900 ms (FindLiveObjects: 11.019700 ms CreateObjectMapping: 12.064900 ms MarkObjects: 72.908800 ms  DeleteObjects: 1.242100 ms)
+Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
+Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
+Unloading 3 Unused Serialized files (Serialized files now loaded: 572)
+Unloading 280 unused Assets to reduce memory usage. Loaded Objects now: 117589.
+Total: 101.524200 ms (FindLiveObjects: 11.700600 ms CreateObjectMapping: 12.420400 ms MarkObjects: 76.170700 ms  DeleteObjects: 1.232200 ms)
 
 Converting Vertex Colors from Color32 to Color.
 Converting Vertex Colors from Color32 to Color.
 Converting Vertex Colors from Color32 to Color.
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﺩﺮﺘﺳﺍ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﺩﺮﺘﺳﺍ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﺩﺮﺘﺳﺍ
+Dashing finished! Reducing speed from 30 to 16.368
+Dashing finished! Reducing speed from 30 to 16.368
+Dashing finished! Reducing speed from 30 to 16.554
 Can not play a disabled audio source
-Unloading 1 Unused Serialized files (Serialized files now loaded: 590)
-UnloadTime: 33.423000 ms
-Unloading 6591 unused Assets to reduce memory usage. Loaded Objects now: 140152.
-Total: 158.014200 ms (FindLiveObjects: 16.480100 ms CreateObjectMapping: 13.060800 ms MarkObjects: 108.968800 ms  DeleteObjects: 19.504100 ms)
+Can not play a disabled audio source
+Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
+Can not play a disabled audio source
+Can not play a disabled audio source
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (heartbeat_audio).
+Cannot set the parent of the GameObject 'Pt Emerge' while activating or deactivating the parent GameObject 'Gilly'.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 601)
+Unloading 4110 unused Assets to reduce memory usage. Loaded Objects now: 150097.
+Total: 135.758100 ms (FindLiveObjects: 14.827200 ms CreateObjectMapping: 11.096600 ms MarkObjects: 91.356300 ms  DeleteObjects: 18.477700 ms)
+
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﺩﺮﺘﺳﺍ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﺩﺮﺘﺳﺍ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﺩﺮﺘﺳﺍ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﺩﺮﺘﺳﺍ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﺩﺮﺘﺳﺍ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﺩﺮﺘﺳﺍ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﺩﺮﺘﺳﺍ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﺩﺮﺘﺳﺍ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﺩﺮﺘﺳﺍ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﺩﺮﺘﺳﺍ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﺩﺮﺘﺳﺍ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﺩﺮﺘﺳﺍ
+Unloading 1 Unused Serialized files (Serialized files now loaded: 603)
+UnloadTime: 11.720400 ms
+Unloading 4232 unused Assets to reduce memory usage. Loaded Objects now: 141146.
+Total: 149.799900 ms (FindLiveObjects: 17.756700 ms CreateObjectMapping: 12.791100 ms MarkObjects: 100.139700 ms  DeleteObjects: 19.112000 ms)
 
 Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for archive:/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1.resource
-Unloading 2 Unused Serialized files (Serialized files now loaded: 595)
-Unloading 102 unused Assets to reduce memory usage. Loaded Objects now: 147704.
-Total: 110.537400 ms (FindLiveObjects: 14.801600 ms CreateObjectMapping: 9.484500 ms MarkObjects: 84.841000 ms  DeleteObjects: 1.409900 ms)
+Unloading 2 Unused Serialized files (Serialized files now loaded: 598)
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 155708.
+Total: 129.737800 ms (FindLiveObjects: 16.603200 ms CreateObjectMapping: 9.017400 ms MarkObjects: 103.723700 ms  DeleteObjects: 0.393100 ms)
 
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Cannot use 'linearVelocity' on a static body.
-Unloading 1 Unused Serialized files (Serialized files now loaded: 599)
-UnloadTime: 7.352000 ms
-Unloading 5189 unused Assets to reduce memory usage. Loaded Objects now: 140480.
-Total: 179.229200 ms (FindLiveObjects: 17.154300 ms CreateObjectMapping: 11.032600 ms MarkObjects: 117.768900 ms  DeleteObjects: 33.273000 ms)
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Hazard Respawn Trigger v2 (3) does not have a Hazard Respawn Marker Set
+Hazard Respawn Trigger v2 (2) does not have a Hazard Respawn Marker Set
+Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Hazard Respawn Trigger v2 (3) does not have a Hazard Respawn Marker Set
+Hazard Respawn Trigger v2 (2) does not have a Hazard Respawn Marker Set
+Can not play a disabled audio source
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Hazard Respawn Trigger v2 (3) does not have a Hazard Respawn Marker Set
+Hazard Respawn Trigger v2 (2) does not have a Hazard Respawn Marker Set
+Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+damager (LavaBox) is missing box collider
+Hazard Respawn Trigger v2 (3) does not have a Hazard Respawn Marker Set
+Hazard Respawn Trigger v2 (2) does not have a Hazard Respawn Marker Set
+Unloading 1 Unused Serialized files (Serialized files now loaded: 620)
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+UnloadTime: 18.346400 ms
+Unloading 11481 unused Assets to reduce memory usage. Loaded Objects now: 143214.
+Total: 209.045400 ms (FindLiveObjects: 19.827600 ms CreateObjectMapping: 14.250800 ms MarkObjects: 124.619800 ms  DeleteObjects: 50.346800 ms)
 
 Unloading 0 Unused Serialized files (Serialized files now loaded: 526)
-Unloading 6854 unused Assets to reduce memory usage. Loaded Objects now: 26920.
-Total: 89.876100 ms (FindLiveObjects: 4.673800 ms CreateObjectMapping: 4.042100 ms MarkObjects: 66.264600 ms  DeleteObjects: 14.895200 ms)
+Unloading 7502 unused Assets to reduce memory usage. Loaded Objects now: 27126.
+Total: 101.234900 ms (FindLiveObjects: 6.198200 ms CreateObjectMapping: 18.815400 ms MarkObjects: 60.665000 ms  DeleteObjects: 15.555400 ms)
 
 Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
-UnloadTime: 1.332900 ms
+UnloadTime: 1.663500 ms
 Loaded saved language code 'EN'
 Restored language code 'EN'
-Unloading 59 unused Assets to reduce memory usage. Loaded Objects now: 72873.
-Total: 90.869700 ms (FindLiveObjects: 6.615500 ms CreateObjectMapping: 7.781400 ms MarkObjects: 76.021200 ms  DeleteObjects: 0.451100 ms)
+Unloading 95 unused Assets to reduce memory usage. Loaded Objects now: 73035.
+Total: 81.824900 ms (FindLiveObjects: 6.642900 ms CreateObjectMapping: 9.368800 ms MarkObjects: 64.258100 ms  DeleteObjects: 1.554700 ms)
 
 Unloading 1 Unused Serialized files (Serialized files now loaded: 578)
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 72874.
-Total: 77.231400 ms (FindLiveObjects: 5.749600 ms CreateObjectMapping: 6.249400 ms MarkObjects: 65.084100 ms  DeleteObjects: 0.148000 ms)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 73036.
+Total: 77.481400 ms (FindLiveObjects: 5.823400 ms CreateObjectMapping: 7.956700 ms MarkObjects: 63.552700 ms  DeleteObjects: 0.148200 ms)
 
 MenuButton missing flashEffect!
 Making UI menu lean.
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Unloading 1 Unused Serialized files (Serialized files now loaded: 575)
-Unloading 282 unused Assets to reduce memory usage. Loaded Objects now: 106225.
-Total: 98.141500 ms (FindLiveObjects: 9.024400 ms CreateObjectMapping: 7.967200 ms MarkObjects: 79.840500 ms  DeleteObjects: 1.309200 ms)
+Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 600)
+Unloading 356 unused Assets to reduce memory usage. Loaded Objects now: 118591.
+Total: 89.014600 ms (FindLiveObjects: 10.658600 ms CreateObjectMapping: 9.685500 ms MarkObjects: 66.649000 ms  DeleteObjects: 2.021200 ms)
 
 Converting Vertex Colors from Color32 to Color.
 Converting Vertex Colors from Color32 to Color.
 Converting Vertex Colors from Color32 to Color.
-Unloading 1 Unused Serialized files (Serialized files now loaded: 577)
-UnloadTime: 3.242500 ms
-Unloading 1413 unused Assets to reduce memory usage. Loaded Objects now: 139846.
-Total: 114.252600 ms (FindLiveObjects: 12.771600 ms CreateObjectMapping: 8.689000 ms MarkObjects: 88.546700 ms  DeleteObjects: 4.244900 ms)
-
-Unloading 0 Unused Serialized files (Serialized files now loaded: 526)
-Unloading 6862 unused Assets to reduce memory usage. Loaded Objects now: 27101.
-Total: 71.367700 ms (FindLiveObjects: 3.209400 ms CreateObjectMapping: 4.165600 ms MarkObjects: 51.625600 ms  DeleteObjects: 12.366900 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
-UnloadTime: 0.493400 ms
-Loaded saved language code 'EN'
-Restored language code 'EN'
-Unloading 56 unused Assets to reduce memory usage. Loaded Objects now: 73060.
-Total: 71.603500 ms (FindLiveObjects: 6.029200 ms CreateObjectMapping: 6.290900 ms MarkObjects: 59.062200 ms  DeleteObjects: 0.220900 ms)
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﺩﺮﺘﺳﺍ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﺩﺮﺘﺳﺍ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﺩﺮﺘﺳﺍ
+Hazard Respawn Trigger v2 (3) does not have a Hazard Respawn Marker Set
+Hazard Respawn Trigger v2 (2) does not have a Hazard Respawn Marker Set
+Unloading 1 Unused Serialized files (Serialized files now loaded: 649)
+UnloadTime: 13.165200 ms
+Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for archive:/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1.resource
+Unloading 11890 unused Assets to reduce memory usage. Loaded Objects now: 139948.
+Total: 154.403500 ms (FindLiveObjects: 21.714900 ms CreateObjectMapping: 14.894800 ms MarkObjects: 84.701500 ms  DeleteObjects: 33.091700 ms)
 
 Unloading 1 Unused Serialized files (Serialized files now loaded: 578)
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 73061.
-Total: 74.384100 ms (FindLiveObjects: 6.554400 ms CreateObjectMapping: 6.202900 ms MarkObjects: 61.477600 ms  DeleteObjects: 0.148700 ms)
+Unloading 111 unused Assets to reduce memory usage. Loaded Objects now: 149221.
+Total: 125.245500 ms (FindLiveObjects: 14.440800 ms CreateObjectMapping: 9.765900 ms MarkObjects: 99.364700 ms  DeleteObjects: 1.673800 ms)
 
+Using fallback 1 to find tilemap. Scene Bellshrine requires manual fixing.
+Can not play a disabled audio source
+Unloading 1 Unused Serialized files (Serialized files now loaded: 586)
+Unloading 3564 unused Assets to reduce memory usage. Loaded Objects now: 149387.
+Total: 119.841200 ms (FindLiveObjects: 16.113400 ms CreateObjectMapping: 9.422500 ms MarkObjects: 78.578500 ms  DeleteObjects: 15.726400 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 604)
+Scene Manager missing from scene Bone_05
+UnloadTime: 10.980600 ms
+Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for archive:/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1.resource
+Unloading 3392 unused Assets to reduce memory usage. Loaded Objects now: 139914.
+Total: 145.663500 ms (FindLiveObjects: 18.024800 ms CreateObjectMapping: 12.108700 ms MarkObjects: 106.629000 ms  DeleteObjects: 8.900700 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 577)
+Unloading 55 unused Assets to reduce memory usage. Loaded Objects now: 146913.
+Total: 118.795500 ms (FindLiveObjects: 13.776800 ms CreateObjectMapping: 10.487900 ms MarkObjects: 93.129700 ms  DeleteObjects: 1.400700 ms)
+
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Unloading 1 Unused Serialized files (Serialized files now loaded: 638)
+Unloading 3152 unused Assets to reduce memory usage. Loaded Objects now: 147048.
+Total: 135.892100 ms (FindLiveObjects: 14.688700 ms CreateObjectMapping: 9.342400 ms MarkObjects: 90.395300 ms  DeleteObjects: 21.465400 ms)
+
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﺩﺮﺘﺳﺍ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﺩﺮﺘﺳﺍ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﺩﺮﺘﺳﺍ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﺩﺮﺘﺳﺍ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﺩﺮﺘﺳﺍ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﺩﺮﺘﺳﺍ
+Unloading 1 Unused Serialized files (Serialized files now loaded: 655)
+Scene Manager missing from scene Bellway_02
+UnloadTime: 7.879500 ms
+Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for archive:/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1.resource
+Unloading 4236 unused Assets to reduce memory usage. Loaded Objects now: 140139.
+Total: 141.809600 ms (FindLiveObjects: 16.918500 ms CreateObjectMapping: 11.475100 ms MarkObjects: 104.860900 ms  DeleteObjects: 8.554500 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 586)
+Unloading 57 unused Assets to reduce memory usage. Loaded Objects now: 149846.
+Total: 113.377200 ms (FindLiveObjects: 14.261700 ms CreateObjectMapping: 9.690100 ms MarkObjects: 88.738600 ms  DeleteObjects: 0.686500 ms)
+
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Couldn't find transition point "door3", falling back to first available: "door5"
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﺩﺮﺘﺳﺍ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﺩﺮﺘﺳﺍ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﺩﺮﺘﺳﺍ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﺩﺮﺘﺳﺍ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﺩﺮﺘﺳﺍ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﺩﺮﺘﺳﺍ
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 642)
+UnloadTime: 13.833800 ms
+Unloading 6446 unused Assets to reduce memory usage. Loaded Objects now: 139662.
+Total: 143.702900 ms (FindLiveObjects: 23.161900 ms CreateObjectMapping: 9.652500 ms MarkObjects: 81.153100 ms  DeleteObjects: 29.683100 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 544)
+Unloading 6932 unused Assets to reduce memory usage. Loaded Objects now: 27354.
+Total: 74.390500 ms (FindLiveObjects: 2.371100 ms CreateObjectMapping: 4.473900 ms MarkObjects: 53.154500 ms  DeleteObjects: 14.390800 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 597)
+UnloadTime: 0.510100 ms
+Loaded saved language code 'EN'
+Restored language code 'EN'
+Unloading 55 unused Assets to reduce memory usage. Loaded Objects now: 73293.
+Total: 70.266700 ms (FindLiveObjects: 6.060300 ms CreateObjectMapping: 6.378900 ms MarkObjects: 57.620500 ms  DeleteObjects: 0.206600 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 595)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 73294.
+Total: 72.926300 ms (FindLiveObjects: 6.047200 ms CreateObjectMapping: 6.409700 ms MarkObjects: 60.323100 ms  DeleteObjects: 0.146000 ms)
+
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
 [Physics::Module] Cleanup current backned.
 [Physics::Module] Id: 0xf2b8ea05
 Input System module state changed to: ShutdownInProgress.
