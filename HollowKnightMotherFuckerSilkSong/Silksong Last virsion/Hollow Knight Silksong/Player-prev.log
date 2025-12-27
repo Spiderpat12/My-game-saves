@@ -13,8 +13,8 @@ Direct3D:
     VRAM:     1999 MB
     Driver:   32.0.15.6094
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  1.851 seconds
-- Finished resetting the current domain, in  0.038 seconds
+- Loaded All Assemblies, in  0.149 seconds
+- Finished resetting the current domain, in  0.003 seconds
 [Physics::Module] Selected backend.
 [Physics::Module] Name: PhysX
 [Physics::Module] Id: 0xf2b8ea05
@@ -25,177 +25,185 @@ Begin MonoManager ReloadAssembly
 Using Windows.Gaming.Input
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.509300 ms
+UnloadTime: 0.495100 ms
 No online subsystems packaged.
 Unloading 5 Unused Serialized files (Serialized files now loaded: 528)
-UnloadTime: 2.170100 ms
+UnloadTime: 1.745500 ms
 Discovered supported languages: DE, EN, ES, FR, IT, JA, KO, PT, RU, ZH
 Loaded saved language code 'EN'
 Restored language code 'EN'
 Couldn't find a Game Manager, make sure one exists in the scene.
 Couldn't find GameCameras, make sure one exists in the scene.
 Unloading 53 unused Assets to reduce memory usage. Loaded Objects now: 6517.
-Total: 4.608800 ms (FindLiveObjects: 0.684600 ms CreateObjectMapping: 0.195600 ms MarkObjects: 3.644800 ms  DeleteObjects: 0.070000 ms)
+Total: 4.307100 ms (FindLiveObjects: 0.550700 ms CreateObjectMapping: 0.216600 ms MarkObjects: 3.466100 ms  DeleteObjects: 0.069100 ms)
 
 Unloading 2 Unused Serialized files (Serialized files now loaded: 528)
 Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 13737.
-Total: 7.286300 ms (FindLiveObjects: 0.983900 ms CreateObjectMapping: 0.573600 ms MarkObjects: 5.679800 ms  DeleteObjects: 0.048400 ms)
+Total: 10.987400 ms (FindLiveObjects: 0.846300 ms CreateObjectMapping: 0.830500 ms MarkObjects: 9.265400 ms  DeleteObjects: 0.044900 ms)
 
-Couldn't find GameCameras, make sure one exists in the scene.
 Unloading 1 Unused Serialized files (Serialized files now loaded: 582)
+Couldn't find GameCameras, make sure one exists in the scene.
 Couldn't find a Game Manager, make sure one exists in the scene.
-UnloadTime: 8.930200 ms
+UnloadTime: 9.004800 ms
 Loaded saved language code 'EN'
 Restored language code 'EN'
 Unloading 73 unused Assets to reduce memory usage. Loaded Objects now: 67435.
-Total: 49.976600 ms (FindLiveObjects: 5.714000 ms CreateObjectMapping: 7.353700 ms MarkObjects: 36.522800 ms  DeleteObjects: 0.385800 ms)
+Total: 49.796700 ms (FindLiveObjects: 6.365000 ms CreateObjectMapping: 7.038600 ms MarkObjects: 35.949800 ms  DeleteObjects: 0.442700 ms)
 
+MenuButton missing flashEffect!
 MenuButton missing flashEffect!
 Making UI menu lean.
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Unloading 3 Unused Serialized files (Serialized files now loaded: 575)
-Unloading 277 unused Assets to reduce memory usage. Loaded Objects now: 108097.
-Total: 92.427200 ms (FindLiveObjects: 11.027100 ms CreateObjectMapping: 11.379300 ms MarkObjects: 68.710000 ms  DeleteObjects: 1.310600 ms)
+Unloading 3 Unused Serialized files (Serialized files now loaded: 587)
+Unloading 281 unused Assets to reduce memory usage. Loaded Objects now: 115224.
+Total: 91.199400 ms (FindLiveObjects: 10.275400 ms CreateObjectMapping: 11.497900 ms MarkObjects: 68.233500 ms  DeleteObjects: 1.192200 ms)
 
 Converting Vertex Colors from Color32 to Color.
 Converting Vertex Colors from Color32 to Color.
 Converting Vertex Colors from Color32 to Color.
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Couldn't find transition point "door2", falling back to first available: "left2"
 Can not play a disabled audio source
 Can not play a disabled audio source
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
 Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Inactive coroutines were cleared: 51
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Couldn't find transition point "door1", falling back to first available: "left1"
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Unloading 1 Unused Serialized files (Serialized files now loaded: 634)
-Unloading 5915 unused Assets to reduce memory usage. Loaded Objects now: 147547.
-Total: 138.875500 ms (FindLiveObjects: 16.119400 ms CreateObjectMapping: 11.294100 ms MarkObjects: 92.244000 ms  DeleteObjects: 19.217700 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 651)
-UnloadTime: 9.350700 ms
-Unloading 4281 unused Assets to reduce memory usage. Loaded Objects now: 141075.
-Total: 136.649900 ms (FindLiveObjects: 16.080800 ms CreateObjectMapping: 10.300500 ms MarkObjects: 101.419400 ms  DeleteObjects: 8.849000 ms)
-
-Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for archive:/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1.resource
-Unloading 2 Unused Serialized files (Serialized files now loaded: 616)
-Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 156053.
-Total: 121.317000 ms (FindLiveObjects: 14.679600 ms CreateObjectMapping: 10.243100 ms MarkObjects: 95.682900 ms  DeleteObjects: 0.711100 ms)
-
-Cannot use 'linearVelocity' on a static body.
-Could Not Create Action: : Dialogue: Churchkeeper:  (Maybe the script was removed?)
-Cannot set the parent of the GameObject 'Start Marker' while activating or deactivating the parent GameObject 'Song Reed Grand'.
-Cannot set the parent of the GameObject 'Battle Range' while activating or deactivating the parent GameObject 'Song Reed Grand'.
-Can't add component 'AudioLowPassFilter' to Audio Player broken cogs because such a component is already added to the game object!
-Can not play a disabled audio source
-Can not play a disabled audio source
+Couldn't get collider for recoil, trying children...
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Coroutine couldn't be started because the the game object 'Pollywog BG (1)' is inactive!
+Coroutine couldn't be started because the the game object 'Pollywog BG (7)' is inactive!
+Coroutine couldn't be started because the the game object 'Pollywog BG (5)' is inactive!
+Coroutine couldn't be started because the the game object 'Pollywog BG (4)' is inactive!
+Coroutine couldn't be started because the the game object 'Pollywog BG (3)' is inactive!
+Coroutine couldn't be started because the the game object 'Pollywog BG (6)' is inactive!
+Coroutine couldn't be started because the the game object 'Pollywog BG (5)' is inactive!
+Coroutine couldn't be started because the the game object 'Pollywog BG (2)' is inactive!
+Coroutine couldn't be started because the the game object 'Pollywog BG (1)' is inactive!
+Coroutine couldn't be started because the the game object 'Pollywog BG (1)' is inactive!
+Coroutine couldn't be started because the the game object 'Pollywog BG (2)' is inactive!
+Coroutine couldn't be started because the the game object 'Pollywog BG (4)' is inactive!
+Coroutine couldn't be started because the the game object 'Pollywog BG (6)' is inactive!
+Coroutine couldn't be started because the the game object 'Pollywog BG (3)' is inactive!
 Unloading 1 Unused Serialized files (Serialized files now loaded: 611)
-Unloading 6829 unused Assets to reduce memory usage. Loaded Objects now: 156004.
-Total: 163.063700 ms (FindLiveObjects: 15.803300 ms CreateObjectMapping: 10.629400 ms MarkObjects: 95.524400 ms  DeleteObjects: 41.106300 ms)
+Unloading 5762 unused Assets to reduce memory usage. Loaded Objects now: 149929.
+Total: 138.517200 ms (FindLiveObjects: 15.633500 ms CreateObjectMapping: 9.850700 ms MarkObjects: 86.530800 ms  DeleteObjects: 26.501800 ms)
 
 Unloading 1 Unused Serialized files (Serialized files now loaded: 617)
-Scene Manager missing from scene Bellway_City
-Scene Manager missing from scene Bellway_City
-UnloadTime: 12.801100 ms
-Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for archive:/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1.resource
-Unloading 4697 unused Assets to reduce memory usage. Loaded Objects now: 141292.
-Total: 133.055700 ms (FindLiveObjects: 14.866300 ms CreateObjectMapping: 10.276500 ms MarkObjects: 96.624800 ms  DeleteObjects: 11.287600 ms)
+UnloadTime: 8.468900 ms
+Unloading 4073 unused Assets to reduce memory usage. Loaded Objects now: 140446.
+Total: 158.348100 ms (FindLiveObjects: 17.644700 ms CreateObjectMapping: 12.292800 ms MarkObjects: 117.744600 ms  DeleteObjects: 10.665800 ms)
 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 650)
-Unloading 60 unused Assets to reduce memory usage. Loaded Objects now: 156733.
-Total: 125.501400 ms (FindLiveObjects: 14.596200 ms CreateObjectMapping: 10.232100 ms MarkObjects: 98.859200 ms  DeleteObjects: 1.813700 ms)
+Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for archive:/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1.resource
+Unloading 2 Unused Serialized files (Serialized files now loaded: 600)
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 151340.
+Total: 107.294100 ms (FindLiveObjects: 15.213100 ms CreateObjectMapping: 9.725300 ms MarkObjects: 81.759400 ms  DeleteObjects: 0.596000 ms)
 
 Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Cannot set the parent of the GameObject 'Pt Emerge' while activating or deactivating the parent GameObject 'Gilly'.
+Using fallback 1 to find tilemap. Scene Bellshrine_03 requires manual fixing.
 Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Cannot set the parent of the GameObject 'Pt Emerge' while activating or deactivating the parent GameObject 'Gilly'.
+Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
+Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
+Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
+Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
+Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
+Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
+Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
+Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
+Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
+Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
+Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
+Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
+Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
+Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
+Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
 Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Unloading 1 Unused Serialized files (Serialized files now loaded: 652)
-Scene Manager missing from scene Bellway_03
-UnloadTime: 13.602300 ms
+Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 591)
+Unloading 9028 unused Assets to reduce memory usage. Loaded Objects now: 150972.
+Total: 188.953100 ms (FindLiveObjects: 19.088300 ms CreateObjectMapping: 14.013400 ms MarkObjects: 105.871700 ms  DeleteObjects: 49.978800 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 586)
+UnloadTime: 7.843600 ms
+Unloading 3979 unused Assets to reduce memory usage. Loaded Objects now: 142049.
+Total: 117.673100 ms (FindLiveObjects: 15.342200 ms CreateObjectMapping: 11.029900 ms MarkObjects: 80.141000 ms  DeleteObjects: 11.159600 ms)
+
 Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for archive:/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1.resource
-Unloading 7575 unused Assets to reduce memory usage. Loaded Objects now: 144735.
-Total: 162.059700 ms (FindLiveObjects: 18.808900 ms CreateObjectMapping: 11.990900 ms MarkObjects: 96.474200 ms  DeleteObjects: 34.785300 ms)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 599)
+Unloading 87 unused Assets to reduce memory usage. Loaded Objects now: 150608.
+Total: 158.114400 ms (FindLiveObjects: 17.617000 ms CreateObjectMapping: 16.601700 ms MarkObjects: 123.533000 ms  DeleteObjects: 0.362400 ms)
 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 635)
-Unloading 213 unused Assets to reduce memory usage. Loaded Objects now: 149557.
-Total: 112.914000 ms (FindLiveObjects: 13.737400 ms CreateObjectMapping: 9.728100 ms MarkObjects: 87.343800 ms  DeleteObjects: 2.104500 ms)
+Coroutine couldn't be started because the the game object 'Camera Wind Region' is inactive!
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Can not play a disabled audio source
+Can not play a disabled audio source
+Unloading 1 Unused Serialized files (Serialized files now loaded: 602)
+Unloading 1868 unused Assets to reduce memory usage. Loaded Objects now: 150531.
+Total: 137.426400 ms (FindLiveObjects: 17.001800 ms CreateObjectMapping: 10.922500 ms MarkObjects: 99.110700 ms  DeleteObjects: 10.391200 ms)
 
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Unloading 1 Unused Serialized files (Serialized files now loaded: 722)
-Scene Manager missing from scene Bellway_01
-Scene Manager missing from scene Bellway_01
-UnloadTime: 7.916500 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 608)
+Scene Manager missing from scene Bellway_08
+UnloadTime: 7.454100 ms
+Unloading 4272 unused Assets to reduce memory usage. Loaded Objects now: 142230.
+Total: 118.441100 ms (FindLiveObjects: 15.028000 ms CreateObjectMapping: 10.467500 ms MarkObjects: 80.203300 ms  DeleteObjects: 12.741900 ms)
+
 Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for archive:/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1.resource
-Unloading 8149 unused Assets to reduce memory usage. Loaded Objects now: 145079.
-Total: 187.147500 ms (FindLiveObjects: 27.759900 ms CreateObjectMapping: 11.407000 ms MarkObjects: 102.115200 ms  DeleteObjects: 45.865000 ms)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 593)
+Unloading 70 unused Assets to reduce memory usage. Loaded Objects now: 151818.
+Total: 111.143400 ms (FindLiveObjects: 14.554900 ms CreateObjectMapping: 9.968900 ms MarkObjects: 86.026600 ms  DeleteObjects: 0.592400 ms)
 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 726)
-Unloading 75 unused Assets to reduce memory usage. Loaded Objects now: 157202.
-Total: 114.527200 ms (FindLiveObjects: 16.043500 ms CreateObjectMapping: 10.052400 ms MarkObjects: 87.583900 ms  DeleteObjects: 0.847000 ms)
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
+Can not play a disabled audio source
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Can not play a disabled audio source
+Unloading 1 Unused Serialized files (Serialized files now loaded: 601)
+Unloading 5556 unused Assets to reduce memory usage. Loaded Objects now: 152826.
+Total: 163.704900 ms (FindLiveObjects: 14.814000 ms CreateObjectMapping: 10.563800 ms MarkObjects: 82.302300 ms  DeleteObjects: 56.024600 ms)
 
+Unloading 1 Unused Serialized files (Serialized files now loaded: 607)
+UnloadTime: 8.892800 ms
+Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for archive:/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1.resource
+Unloading 3776 unused Assets to reduce memory usage. Loaded Objects now: 142991.
+Total: 143.809300 ms (FindLiveObjects: 16.142600 ms CreateObjectMapping: 10.034500 ms MarkObjects: 105.234500 ms  DeleteObjects: 12.397200 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 598)
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 158051.
+Total: 128.824400 ms (FindLiveObjects: 15.315800 ms CreateObjectMapping: 9.650800 ms MarkObjects: 103.566200 ms  DeleteObjects: 0.291100 ms)
+
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
 Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
 Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
@@ -204,138 +212,79 @@ Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deact
 Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
 Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
 Sprite not found attached to tk2dSpriteAnimator.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Cannot set the parent of the GameObject 'Start Marker' while activating or deactivating the parent GameObject 'Song Reed Grand'.
-Cannot set the parent of the GameObject 'Battle Range' while activating or deactivating the parent GameObject 'Song Reed Grand'.
-Can't add component 'AudioLowPassFilter' to Audio Player broken cogs because such a component is already added to the game object!
-Unloading 1 Unused Serialized files (Serialized files now loaded: 669)
-Unloading 8279 unused Assets to reduce memory usage. Loaded Objects now: 157277.
-Total: 165.646500 ms (FindLiveObjects: 17.951900 ms CreateObjectMapping: 11.887600 ms MarkObjects: 101.838400 ms  DeleteObjects: 33.968400 ms)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 619)
+UnloadTime: 13.597600 ms
+Unloading 11275 unused Assets to reduce memory usage. Loaded Objects now: 143801.
+Total: 174.452600 ms (FindLiveObjects: 22.625300 ms CreateObjectMapping: 15.453900 ms MarkObjects: 82.338700 ms  DeleteObjects: 54.033900 ms)
 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 675)
-UnloadTime: 25.394200 ms
-Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for archive:/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1.resource
-Unloading 4696 unused Assets to reduce memory usage. Loaded Objects now: 142469.
-Total: 197.972200 ms (FindLiveObjects: 30.500500 ms CreateObjectMapping: 15.526300 ms MarkObjects: 139.722200 ms  DeleteObjects: 12.222900 ms)
+Unloading 0 Unused Serialized files (Serialized files now loaded: 526)
+Unloading 7086 unused Assets to reduce memory usage. Loaded Objects now: 28484.
+Total: 87.803200 ms (FindLiveObjects: 3.626500 ms CreateObjectMapping: 5.407500 ms MarkObjects: 61.947900 ms  DeleteObjects: 16.821000 ms)
 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 658)
-Unloading 107 unused Assets to reduce memory usage. Loaded Objects now: 148068.
-Total: 102.802700 ms (FindLiveObjects: 14.540900 ms CreateObjectMapping: 8.614500 ms MarkObjects: 77.572800 ms  DeleteObjects: 2.074100 ms)
-
-Couldn't find transition point "door2", falling back to first available: "top1"
-Unloading 1 Unused Serialized files (Serialized files now loaded: 658)
-UnloadTime: 11.504300 ms
-Unloading 5714 unused Assets to reduce memory usage. Loaded Objects now: 142096.
-Total: 161.449200 ms (FindLiveObjects: 14.362000 ms CreateObjectMapping: 9.409200 ms MarkObjects: 90.562300 ms  DeleteObjects: 47.115400 ms)
-
-Unloading 0 Unused Serialized files (Serialized files now loaded: 598)
-Unloading 7324 unused Assets to reduce memory usage. Loaded Objects now: 27279.
-Total: 76.039800 ms (FindLiveObjects: 2.374200 ms CreateObjectMapping: 3.730200 ms MarkObjects: 54.245600 ms  DeleteObjects: 15.689500 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 650)
-UnloadTime: 1.209200 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
+UnloadTime: 1.715500 ms
 Loaded saved language code 'EN'
 Restored language code 'EN'
-Unloading 71 unused Assets to reduce memory usage. Loaded Objects now: 73218.
-Total: 82.462300 ms (FindLiveObjects: 5.941500 ms CreateObjectMapping: 6.577100 ms MarkObjects: 69.296400 ms  DeleteObjects: 0.646800 ms)
+Unloading 58 unused Assets to reduce memory usage. Loaded Objects now: 74426.
+Total: 111.454900 ms (FindLiveObjects: 7.121400 ms CreateObjectMapping: 6.649200 ms MarkObjects: 97.245100 ms  DeleteObjects: 0.438900 ms)
 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 648)
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 73219.
-Total: 96.235900 ms (FindLiveObjects: 5.681300 ms CreateObjectMapping: 7.785900 ms MarkObjects: 82.590200 ms  DeleteObjects: 0.178300 ms)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 578)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 74427.
+Total: 110.595000 ms (FindLiveObjects: 8.664600 ms CreateObjectMapping: 6.640000 ms MarkObjects: 95.144900 ms  DeleteObjects: 0.145300 ms)
 
 MenuButton missing flashEffect!
 Making UI menu lean.
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Unloading 1 Unused Serialized files (Serialized files now loaded: 648)
-Unloading 286 unused Assets to reduce memory usage. Loaded Objects now: 111532.
-Total: 84.016300 ms (FindLiveObjects: 9.729300 ms CreateObjectMapping: 9.204700 ms MarkObjects: 63.879800 ms  DeleteObjects: 1.201900 ms)
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Sprite not found attached to tk2dSpriteAnimator.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 576)
+Unloading 291 unused Assets to reduce memory usage. Loaded Objects now: 120796.
+Total: 120.280300 ms (FindLiveObjects: 11.582700 ms CreateObjectMapping: 9.799000 ms MarkObjects: 97.644100 ms  DeleteObjects: 1.254300 ms)
 
 Converting Vertex Colors from Color32 to Color.
 Converting Vertex Colors from Color32 to Color.
 Converting Vertex Colors from Color32 to Color.
-Couldn't find transition point "door2", falling back to first available: "top1"
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Can not play a disabled audio source
-Unloading 1 Unused Serialized files (Serialized files now loaded: 661)
-UnloadTime: 11.334900 ms
-Unloading 4696 unused Assets to reduce memory usage. Loaded Objects now: 140383.
-Total: 154.611600 ms (FindLiveObjects: 15.244300 ms CreateObjectMapping: 10.459600 ms MarkObjects: 112.268800 ms  DeleteObjects: 16.638600 ms)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 619)
+Scene Manager missing from scene Arborium_11
+UnloadTime: 14.326300 ms
+Unloading 9608 unused Assets to reduce memory usage. Loaded Objects now: 141795.
+Total: 172.658700 ms (FindLiveObjects: 16.467800 ms CreateObjectMapping: 10.803200 ms MarkObjects: 91.610300 ms  DeleteObjects: 53.776900 ms)
 
-Unloading 0 Unused Serialized files (Serialized files now loaded: 598)
-Unloading 6956 unused Assets to reduce memory usage. Loaded Objects now: 27484.
-Total: 76.979200 ms (FindLiveObjects: 2.475100 ms CreateObjectMapping: 4.971100 ms MarkObjects: 54.889400 ms  DeleteObjects: 14.643300 ms)
+Unloading 0 Unused Serialized files (Serialized files now loaded: 526)
+Unloading 6851 unused Assets to reduce memory usage. Loaded Objects now: 28915.
+Total: 128.416100 ms (FindLiveObjects: 2.791500 ms CreateObjectMapping: 7.247100 ms MarkObjects: 97.327100 ms  DeleteObjects: 21.050200 ms)
 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 650)
-UnloadTime: 0.882000 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
+UnloadTime: 0.478400 ms
 Loaded saved language code 'EN'
 Restored language code 'EN'
-Unloading 70 unused Assets to reduce memory usage. Loaded Objects now: 73424.
-Total: 92.238300 ms (FindLiveObjects: 6.718300 ms CreateObjectMapping: 9.324400 ms MarkObjects: 75.617500 ms  DeleteObjects: 0.577900 ms)
+Unloading 55 unused Assets to reduce memory usage. Loaded Objects now: 74860.
+Total: 172.924100 ms (FindLiveObjects: 10.803700 ms CreateObjectMapping: 11.004800 ms MarkObjects: 150.889600 ms  DeleteObjects: 0.225800 ms)
 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 648)
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 73425.
-Total: 91.275400 ms (FindLiveObjects: 6.125600 ms CreateObjectMapping: 8.832900 ms MarkObjects: 76.170000 ms  DeleteObjects: 0.146600 ms)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 578)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 74861.
+Total: 97.970800 ms (FindLiveObjects: 6.736300 ms CreateObjectMapping: 6.605800 ms MarkObjects: 84.216700 ms  DeleteObjects: 0.411700 ms)
 
 MenuButton missing flashEffect!
 Making UI menu lean.
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Unloading 1 Unused Serialized files (Serialized files now loaded: 640)
-Unloading 283 unused Assets to reduce memory usage. Loaded Objects now: 112865.
-Total: 82.265200 ms (FindLiveObjects: 10.038400 ms CreateObjectMapping: 8.747300 ms MarkObjects: 62.244700 ms  DeleteObjects: 1.234500 ms)
-
-Converting Vertex Colors from Color32 to Color.
-Converting Vertex Colors from Color32 to Color.
-Converting Vertex Colors from Color32 to Color.
-Can not play a disabled audio source
-Can not play a disabled audio source
-Unloading 1 Unused Serialized files (Serialized files now loaded: 662)
-Unloading 3883 unused Assets to reduce memory usage. Loaded Objects now: 148408.
-Total: 137.701500 ms (FindLiveObjects: 13.874900 ms CreateObjectMapping: 10.193500 ms MarkObjects: 95.748000 ms  DeleteObjects: 17.884700 ms)
-
-Cannot set the parent of the GameObject 'Unalert Range' while activating or deactivating the parent GameObject 'Roof Crab'.
-Cannot set the parent of the GameObject 'Corpse Pilgrim Fly(Clone)' while activating or deactivating the parent GameObject 'Corpse Catcher'.
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Unloading 1 Unused Serialized files (Serialized files now loaded: 656)
-Unloading 8478 unused Assets to reduce memory usage. Loaded Objects now: 147325.
-Total: 170.649500 ms (FindLiveObjects: 15.473100 ms CreateObjectMapping: 10.088800 ms MarkObjects: 94.141000 ms  DeleteObjects: 50.946400 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 673)
-UnloadTime: 7.601400 ms
-Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for archive:/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1.resource
-Unloading 3071 unused Assets to reduce memory usage. Loaded Objects now: 141595.
-Total: 143.634300 ms (FindLiveObjects: 15.036300 ms CreateObjectMapping: 10.329700 ms MarkObjects: 111.263800 ms  DeleteObjects: 7.004100 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 635)
-Unloading 89 unused Assets to reduce memory usage. Loaded Objects now: 154660.
-Total: 122.020600 ms (FindLiveObjects: 14.618800 ms CreateObjectMapping: 9.450100 ms MarkObjects: 96.240600 ms  DeleteObjects: 1.710700 ms)
-
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Unloading 1 Unused Serialized files (Serialized files now loaded: 650)
-Unloading 1721 unused Assets to reduce memory usage. Loaded Objects now: 155793.
-Total: 134.615400 ms (FindLiveObjects: 15.256400 ms CreateObjectMapping: 10.026000 ms MarkObjects: 94.527300 ms  DeleteObjects: 14.805400 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 667)
-UnloadTime: 14.504500 ms
-Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for archive:/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1.resource
-Unloading 4880 unused Assets to reduce memory usage. Loaded Objects now: 143213.
-Total: 241.265200 ms (FindLiveObjects: 23.956000 ms CreateObjectMapping: 31.523000 ms MarkObjects: 141.335000 ms  DeleteObjects: 44.450700 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 662)
-Unloading 103 unused Assets to reduce memory usage. Loaded Objects now: 156968.
-Total: 137.349400 ms (FindLiveObjects: 17.327700 ms CreateObjectMapping: 9.218000 ms MarkObjects: 109.706400 ms  DeleteObjects: 1.097100 ms)
-
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
 Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
 Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
 Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
@@ -343,271 +292,442 @@ Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deact
 Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
 Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
 Sprite not found attached to tk2dSpriteAnimator.
-Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
-Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
-Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
-Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
-Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
-Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
-Sprite not found attached to tk2dSpriteAnimator.
-Cannot set the parent of the GameObject 'Start Marker' while activating or deactivating the parent GameObject 'Song Reed Grand'.
-Cannot set the parent of the GameObject 'Battle Range' while activating or deactivating the parent GameObject 'Song Reed Grand'.
-Can't add component 'AudioLowPassFilter' to Audio Player broken cogs because such a component is already added to the game object!
-Unloading 1 Unused Serialized files (Serialized files now loaded: 681)
-Unloading 7977 unused Assets to reduce memory usage. Loaded Objects now: 159197.
-Total: 155.424500 ms (FindLiveObjects: 17.419100 ms CreateObjectMapping: 11.208500 ms MarkObjects: 91.647800 ms  DeleteObjects: 35.148900 ms)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 576)
+Unloading 291 unused Assets to reduce memory usage. Loaded Objects now: 121230.
+Total: 169.434600 ms (FindLiveObjects: 12.124600 ms CreateObjectMapping: 11.452000 ms MarkObjects: 143.953600 ms  DeleteObjects: 1.903900 ms)
 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 687)
-Scene Manager missing from scene Bellway_City
-Scene Manager missing from scene Bellway_City
-UnloadTime: 12.897200 ms
-Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for archive:/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1.resource
-Unloading 4697 unused Assets to reduce memory usage. Loaded Objects now: 144389.
-Total: 149.508300 ms (FindLiveObjects: 20.249500 ms CreateObjectMapping: 11.723300 ms MarkObjects: 106.663500 ms  DeleteObjects: 10.871500 ms)
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 619)
+UnloadTime: 16.699000 ms
+Unloading 7725 unused Assets to reduce memory usage. Loaded Objects now: 142416.
+Total: 288.457900 ms (FindLiveObjects: 46.115900 ms CreateObjectMapping: 14.931000 ms MarkObjects: 205.337600 ms  DeleteObjects: 22.073100 ms)
 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 663)
-Unloading 110 unused Assets to reduce memory usage. Loaded Objects now: 153713.
-Total: 117.983400 ms (FindLiveObjects: 15.120100 ms CreateObjectMapping: 8.833800 ms MarkObjects: 92.291100 ms  DeleteObjects: 1.738100 ms)
+Unloading 0 Unused Serialized files (Serialized files now loaded: 526)
+Unloading 6723 unused Assets to reduce memory usage. Loaded Objects now: 30040.
+Total: 99.239500 ms (FindLiveObjects: 2.467000 ms CreateObjectMapping: 5.719000 ms MarkObjects: 77.957800 ms  DeleteObjects: 13.095500 ms)
 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 657)
-UnloadTime: 11.105500 ms
-Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for archive:/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1.resource
-Unloading 3396 unused Assets to reduce memory usage. Loaded Objects now: 144208.
-Total: 133.021600 ms (FindLiveObjects: 18.076000 ms CreateObjectMapping: 12.120700 ms MarkObjects: 95.619400 ms  DeleteObjects: 7.205200 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 640)
-Unloading 49 unused Assets to reduce memory usage. Loaded Objects now: 149954.
-Total: 121.016700 ms (FindLiveObjects: 13.842700 ms CreateObjectMapping: 10.043600 ms MarkObjects: 95.793500 ms  DeleteObjects: 1.336600 ms)
-
-Cannot set the parent of the GameObject 'Unalert Range' while activating or deactivating the parent GameObject 'Roof Crab'.
-Cannot set the parent of the GameObject 'Unalert Range' while activating or deactivating the parent GameObject 'Roof Crab'.
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Couldn't find transition point "door2", falling back to first available: "top1"
-Couldn't find transition point "door2", falling back to first available: "top1"
-Couldn't find transition point "door2", falling back to first available: "top1"
-Couldn't find transition point "door2", falling back to first available: "top1"
-Unloading 1 Unused Serialized files (Serialized files now loaded: 714)
-Unloading 10903 unused Assets to reduce memory usage. Loaded Objects now: 148565.
-Total: 188.115500 ms (FindLiveObjects: 16.484100 ms CreateObjectMapping: 11.235400 ms MarkObjects: 81.006600 ms  DeleteObjects: 79.388600 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 727)
-Scene Manager missing from scene Bellway_01
-Scene Manager missing from scene Bellway_01
-UnloadTime: 7.862600 ms
-Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for archive:/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1.resource
-Unloading 3063 unused Assets to reduce memory usage. Loaded Objects now: 142839.
-Total: 146.641200 ms (FindLiveObjects: 16.002600 ms CreateObjectMapping: 10.092900 ms MarkObjects: 112.861100 ms  DeleteObjects: 7.684400 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 736)
-Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 157859.
-Total: 120.780300 ms (FindLiveObjects: 15.030800 ms CreateObjectMapping: 10.071500 ms MarkObjects: 94.964800 ms  DeleteObjects: 0.713000 ms)
-
-Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
-Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
-Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
-Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
-Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
-Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
-Sprite not found attached to tk2dSpriteAnimator.
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Unloading 1 Unused Serialized files (Serialized files now loaded: 700)
-Unloading 7117 unused Assets to reduce memory usage. Loaded Objects now: 157536.
-Total: 175.094400 ms (FindLiveObjects: 17.895100 ms CreateObjectMapping: 12.357100 ms MarkObjects: 115.972400 ms  DeleteObjects: 28.869400 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 688)
-UnloadTime: 13.149800 ms
-Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for archive:/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1.resource
-Unloading 4710 unused Assets to reduce memory usage. Loaded Objects now: 142654.
-Total: 120.807900 ms (FindLiveObjects: 18.717300 ms CreateObjectMapping: 9.918900 ms MarkObjects: 81.303500 ms  DeleteObjects: 10.867800 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 667)
-Unloading 55 unused Assets to reduce memory usage. Loaded Objects now: 155605.
-Total: 107.830800 ms (FindLiveObjects: 14.308100 ms CreateObjectMapping: 9.384200 ms MarkObjects: 82.626600 ms  DeleteObjects: 1.511700 ms)
-
-gameObject1 is null!
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Cannot use 'linearVelocity' on a static body.
-gameObject1 is null!
-Unloading 1 Unused Serialized files (Serialized files now loaded: 655)
-Unloading 3221 unused Assets to reduce memory usage. Loaded Objects now: 155104.
-Total: 152.143600 ms (FindLiveObjects: 15.247400 ms CreateObjectMapping: 10.314600 ms MarkObjects: 95.299400 ms  DeleteObjects: 31.281900 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 672)
-Scene Manager missing from scene Bellway_03
-UnloadTime: 13.471500 ms
-Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for archive:/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1.resource
-Unloading 4945 unused Assets to reduce memory usage. Loaded Objects now: 142458.
-Total: 142.707000 ms (FindLiveObjects: 17.398900 ms CreateObjectMapping: 10.535100 ms MarkObjects: 101.378400 ms  DeleteObjects: 13.394200 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 640)
-Unloading 205 unused Assets to reduce memory usage. Loaded Objects now: 149102.
-Total: 105.950100 ms (FindLiveObjects: 14.696900 ms CreateObjectMapping: 8.853900 ms MarkObjects: 80.209700 ms  DeleteObjects: 2.189300 ms)
-
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Coroutine couldn't be started because the the game object 'Glow Response floor_ring large1' is inactive!
-Unloading 1 Unused Serialized files (Serialized files now loaded: 674)
-Unloading 3312 unused Assets to reduce memory usage. Loaded Objects now: 149222.
-Total: 139.130600 ms (FindLiveObjects: 14.173300 ms CreateObjectMapping: 9.983600 ms MarkObjects: 87.841900 ms  DeleteObjects: 27.131500 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 691)
-Scene Manager missing from scene Bellway_02
-UnloadTime: 8.537600 ms
-Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for archive:/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1.resource
-Unloading 4232 unused Assets to reduce memory usage. Loaded Objects now: 142281.
-Total: 145.969700 ms (FindLiveObjects: 17.980400 ms CreateObjectMapping: 10.763400 ms MarkObjects: 108.432500 ms  DeleteObjects: 8.793100 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 649)
-Unloading 84 unused Assets to reduce memory usage. Loaded Objects now: 149932.
-Total: 123.373400 ms (FindLiveObjects: 13.906600 ms CreateObjectMapping: 9.198400 ms MarkObjects: 98.640800 ms  DeleteObjects: 1.627300 ms)
-
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Coroutine couldn't be started because the the game object 'Farmer Catcher (3)' is inactive!
-Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
-Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
-Coroutine couldn't be started because the the game object 'Farmer Catcher (3)' is inactive!
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Roachfeeder Short'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Roachfeeder Short'.
-Can not play a disabled audio source
-Coroutine couldn't be started because the the game object 'Farmer Catcher (3)' is inactive!
-Coroutine couldn't be started because the the game object 'Farmer Catcher (3)' is inactive!
-Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
-Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
-Coroutine couldn't be started because the the game object 'Farmer Catcher (3)' is inactive!
-Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
-Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
-Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
-Coroutine couldn't be started because the the game object 'Farmer Catcher (3)' is inactive!
-Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Cannot set the parent of the GameObject 'RetreatAway Range' while activating or deactivating the parent GameObject 'Crowman Juror Tiny Variant - Wild (5)'.
-Cannot set the parent of the GameObject 'RetreatAway Point' while activating or deactivating the parent GameObject 'Crowman Juror Tiny Variant - Wild (5)'.
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Using fallback 1 to find tilemap. Scene Bellshrine_02 requires manual fixing.
-Cannot set the parent of the GameObject 'RetreatAway Range' while activating or deactivating the parent GameObject 'Crowman Juror Tiny Variant - Wild (5)'.
-Cannot set the parent of the GameObject 'RetreatAway Point' while activating or deactivating the parent GameObject 'Crowman Juror Tiny Variant - Wild (5)'.
-Unloading 1 Unused Serialized files (Serialized files now loaded: 666)
-Unloading 10434 unused Assets to reduce memory usage. Loaded Objects now: 150594.
-Total: 228.155600 ms (FindLiveObjects: 16.889700 ms CreateObjectMapping: 12.156200 ms MarkObjects: 116.714900 ms  DeleteObjects: 82.394300 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 683)
-UnloadTime: 12.012700 ms
-Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for archive:/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1.resource
-Unloading 3035 unused Assets to reduce memory usage. Loaded Objects now: 142819.
-Total: 133.345600 ms (FindLiveObjects: 15.868000 ms CreateObjectMapping: 10.129800 ms MarkObjects: 97.322600 ms  DeleteObjects: 10.025000 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 671)
-Unloading 44 unused Assets to reduce memory usage. Loaded Objects now: 151789.
-Total: 133.997000 ms (FindLiveObjects: 15.152100 ms CreateObjectMapping: 10.124600 ms MarkObjects: 108.411600 ms  DeleteObjects: 0.308300 ms)
-
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
-Unloading 1 Unused Serialized files (Serialized files now loaded: 702)
-Scene Manager missing from scene Aqueduct_02
-UnloadTime: 9.750200 ms
-Unloading 7122 unused Assets to reduce memory usage. Loaded Objects now: 143389.
-Total: 133.725000 ms (FindLiveObjects: 14.303100 ms CreateObjectMapping: 10.108600 ms MarkObjects: 85.393800 ms  DeleteObjects: 23.919000 ms)
-
-Unloading 0 Unused Serialized files (Serialized files now loaded: 615)
-Unloading 6973 unused Assets to reduce memory usage. Loaded Objects now: 29254.
-Total: 76.254500 ms (FindLiveObjects: 2.590300 ms CreateObjectMapping: 4.173400 ms MarkObjects: 55.935000 ms  DeleteObjects: 13.555500 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 663)
-UnloadTime: 0.522500 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
+UnloadTime: 0.532500 ms
 Loaded saved language code 'EN'
 Restored language code 'EN'
-Unloading 69 unused Assets to reduce memory usage. Loaded Objects now: 75191.
-Total: 82.346900 ms (FindLiveObjects: 7.432300 ms CreateObjectMapping: 6.316700 ms MarkObjects: 68.036800 ms  DeleteObjects: 0.560700 ms)
+Unloading 915 unused Assets to reduce memory usage. Loaded Objects now: 75123.
+Total: 141.689600 ms (FindLiveObjects: 6.555200 ms CreateObjectMapping: 7.909300 ms MarkObjects: 122.695300 ms  DeleteObjects: 4.529400 ms)
 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 661)
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 75192.
-Total: 79.603600 ms (FindLiveObjects: 6.361200 ms CreateObjectMapping: 6.886900 ms MarkObjects: 66.206100 ms  DeleteObjects: 0.149200 ms)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 578)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 75124.
+Total: 129.131800 ms (FindLiveObjects: 7.264400 ms CreateObjectMapping: 7.209400 ms MarkObjects: 114.524900 ms  DeleteObjects: 0.132500 ms)
 
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
+MenuButton missing flashEffect!
+Making UI menu lean.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Sprite not found attached to tk2dSpriteAnimator.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 576)
+Unloading 291 unused Assets to reduce memory usage. Loaded Objects now: 121492.
+Total: 124.631900 ms (FindLiveObjects: 11.465800 ms CreateObjectMapping: 10.263500 ms MarkObjects: 101.629500 ms  DeleteObjects: 1.272800 ms)
+
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 619)
+Scene Manager missing from scene Arborium_11
+UnloadTime: 13.347600 ms
+Unloading 7725 unused Assets to reduce memory usage. Loaded Objects now: 142648.
+Total: 159.031900 ms (FindLiveObjects: 16.184700 ms CreateObjectMapping: 10.814900 ms MarkObjects: 111.874200 ms  DeleteObjects: 20.157800 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 526)
+Unloading 6723 unused Assets to reduce memory usage. Loaded Objects now: 30302.
+Total: 94.467200 ms (FindLiveObjects: 2.533800 ms CreateObjectMapping: 3.353200 ms MarkObjects: 74.848300 ms  DeleteObjects: 13.731600 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
+UnloadTime: 0.547000 ms
+Loaded saved language code 'EN'
+Restored language code 'EN'
+Unloading 915 unused Assets to reduce memory usage. Loaded Objects now: 75385.
+Total: 94.840500 ms (FindLiveObjects: 7.410600 ms CreateObjectMapping: 8.144500 ms MarkObjects: 74.498700 ms  DeleteObjects: 4.786200 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 578)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 75386.
+Total: 90.073200 ms (FindLiveObjects: 7.937600 ms CreateObjectMapping: 7.070000 ms MarkObjects: 74.924900 ms  DeleteObjects: 0.140400 ms)
+
+MenuButton missing flashEffect!
+Making UI menu lean.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Sprite not found attached to tk2dSpriteAnimator.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 576)
+Unloading 291 unused Assets to reduce memory usage. Loaded Objects now: 121757.
+Total: 121.877400 ms (FindLiveObjects: 11.025500 ms CreateObjectMapping: 10.484100 ms MarkObjects: 99.035900 ms  DeleteObjects: 1.331500 ms)
+
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 644)
+Unloading 7636 unused Assets to reduce memory usage. Loaded Objects now: 158002.
+Total: 240.448100 ms (FindLiveObjects: 17.339100 ms CreateObjectMapping: 11.511600 ms MarkObjects: 176.135600 ms  DeleteObjects: 35.461200 ms)
+
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor(Clone)(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor(Clone)(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor(Clone)(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
+Can not play a disabled audio source
+Can not play a disabled audio source
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor(Clone)(Clone)).
+Hazard Respawn Trigger v2 (10) does not have a Hazard Respawn Marker Set
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 619)
+Unloading 6017 unused Assets to reduce memory usage. Loaded Objects now: 158781.
+Total: 156.760800 ms (FindLiveObjects: 16.943000 ms CreateObjectMapping: 10.384800 ms MarkObjects: 98.529800 ms  DeleteObjects: 30.902600 ms)
+
+Cannot set the parent of the GameObject 'Trapdoor L' while activating or deactivating the parent GameObject 'Tormented Trobbio'.
+Cannot set the parent of the GameObject 'Trapdoor R' while activating or deactivating the parent GameObject 'Tormented Trobbio'.
+Cannot set the parent of the GameObject 'Trapdoor L' while activating or deactivating the parent GameObject 'Tormented Trobbio'.
+Cannot set the parent of the GameObject 'Trapdoor R' while activating or deactivating the parent GameObject 'Tormented Trobbio'.
+Started loading clips for Psalm Cylinder Ward
+Finished loading gramaphone clip for Psalm Cylinder Ward
+Freed clips for Psalm Cylinder Ward
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 630)
+Unloading 5501 unused Assets to reduce memory usage. Loaded Objects now: 159397.
+Total: 167.363600 ms (FindLiveObjects: 16.170100 ms CreateObjectMapping: 10.178600 ms MarkObjects: 95.188700 ms  DeleteObjects: 45.825900 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 616)
+UnloadTime: 13.729200 ms
+Unloading 4778 unused Assets to reduce memory usage. Loaded Objects now: 143739.
+Total: 121.703400 ms (FindLiveObjects: 14.451000 ms CreateObjectMapping: 9.454300 ms MarkObjects: 86.510800 ms  DeleteObjects: 11.286800 ms)
+
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 526)
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Unloading 6901 unused Assets to reduce memory usage. Loaded Objects now: 30104.
+Total: 86.739500 ms (FindLiveObjects: 2.413600 ms CreateObjectMapping: 3.451500 ms MarkObjects: 66.790500 ms  DeleteObjects: 14.083400 ms)
+
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+UnloadTime: 0.535600 ms
+Loaded saved language code 'EN'
+Restored language code 'EN'
+Unloading 55 unused Assets to reduce memory usage. Loaded Objects now: 76049.
+Total: 88.244500 ms (FindLiveObjects: 7.250500 ms CreateObjectMapping: 6.720800 ms MarkObjects: 74.046900 ms  DeleteObjects: 0.226000 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 578)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 76050.
+Total: 86.225400 ms (FindLiveObjects: 6.626300 ms CreateObjectMapping: 6.521900 ms MarkObjects: 72.926400 ms  DeleteObjects: 0.150400 ms)
+
 [Physics::Module] Cleanup current backned.
 [Physics::Module] Id: 0xf2b8ea05
 Input System module state changed to: ShutdownInProgress.
