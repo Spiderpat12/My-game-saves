@@ -13,8 +13,8 @@ Direct3D:
     VRAM:     1999 MB
     Driver:   32.0.15.6094
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.455 seconds
-- Finished resetting the current domain, in  0.003 seconds
+- Loaded All Assemblies, in  0.085 seconds
+- Finished resetting the current domain, in  0.002 seconds
 [Physics::Module] Selected backend.
 [Physics::Module] Name: PhysX
 [Physics::Module] Id: 0xf2b8ea05
@@ -25,39 +25,110 @@ Begin MonoManager ReloadAssembly
 Using Windows.Gaming.Input
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.480200 ms
+UnloadTime: 0.459400 ms
 No online subsystems packaged.
 Unloading 5 Unused Serialized files (Serialized files now loaded: 528)
-UnloadTime: 1.501700 ms
+UnloadTime: 1.836700 ms
 Discovered supported languages: DE, EN, ES, FR, IT, JA, KO, PT, RU, ZH
 Loaded saved language code 'EN'
 Restored language code 'EN'
 Couldn't find a Game Manager, make sure one exists in the scene.
 Couldn't find GameCameras, make sure one exists in the scene.
 Unloading 53 unused Assets to reduce memory usage. Loaded Objects now: 6528.
-Total: 5.477500 ms (FindLiveObjects: 0.454200 ms CreateObjectMapping: 0.275100 ms MarkObjects: 4.646700 ms  DeleteObjects: 0.095100 ms)
+Total: 6.853300 ms (FindLiveObjects: 0.456200 ms CreateObjectMapping: 0.338800 ms MarkObjects: 5.997000 ms  DeleteObjects: 0.057100 ms)
 
 Unloading 2 Unused Serialized files (Serialized files now loaded: 528)
 Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 13748.
-Total: 8.510600 ms (FindLiveObjects: 0.972100 ms CreateObjectMapping: 0.697800 ms MarkObjects: 6.787400 ms  DeleteObjects: 0.052900 ms)
+Total: 10.205400 ms (FindLiveObjects: 1.157000 ms CreateObjectMapping: 1.266900 ms MarkObjects: 7.730400 ms  DeleteObjects: 0.050400 ms)
 
-Couldn't find GameCameras, make sure one exists in the scene.
 Unloading 1 Unused Serialized files (Serialized files now loaded: 582)
+Couldn't find GameCameras, make sure one exists in the scene.
 Couldn't find a Game Manager, make sure one exists in the scene.
-UnloadTime: 8.698400 ms
+UnloadTime: 8.493100 ms
 Loaded saved language code 'EN'
 Restored language code 'EN'
 Unloading 73 unused Assets to reduce memory usage. Loaded Objects now: 67446.
-Total: 52.938800 ms (FindLiveObjects: 5.387000 ms CreateObjectMapping: 6.804900 ms MarkObjects: 40.314300 ms  DeleteObjects: 0.432200 ms)
+Total: 52.041300 ms (FindLiveObjects: 5.117600 ms CreateObjectMapping: 7.497700 ms MarkObjects: 39.011900 ms  DeleteObjects: 0.413900 ms)
+
+MenuButton missing flashEffect!
+MenuButton missing flashEffect!
+Making UI menu lean.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Unloading 3 Unused Serialized files (Serialized files now loaded: 568)
+Unloading 278 unused Assets to reduce memory usage. Loaded Objects now: 107338.
+Total: 85.099300 ms (FindLiveObjects: 9.279500 ms CreateObjectMapping: 7.909400 ms MarkObjects: 66.671400 ms  DeleteObjects: 1.238600 ms)
+
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﺩﺮﺘﺳﺍ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﺩﺮﺘﺳﺍ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﺩﺮﺘﺳﺍ
+Can not play a disabled audio source
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (heartbeat_audio).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (heartbeat_audio).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Can not play a disabled audio source
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Can not play a disabled audio source
+Cannot use 'linearVelocity' on a static body.
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Unloading 1 Unused Serialized files (Serialized files now loaded: 607)
+Unloading 4139 unused Assets to reduce memory usage. Loaded Objects now: 148683.
+Total: 146.373800 ms (FindLiveObjects: 16.554800 ms CreateObjectMapping: 13.916800 ms MarkObjects: 97.342600 ms  DeleteObjects: 18.559200 ms)
+
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+The referenced script (Unknown) on this Behaviour is missing!
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+The referenced script on this Behaviour (Game Object 'Gate NPC') is missing!
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Unloading 2 Unused Serialized files (Serialized files now loaded: 597)
+UnloadTime: 14.776900 ms
+Unloading 10471 unused Assets to reduce memory usage. Loaded Objects now: 139903.
+Total: 195.459600 ms (FindLiveObjects: 15.020000 ms CreateObjectMapping: 12.415700 ms MarkObjects: 112.955400 ms  DeleteObjects: 55.068100 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 526)
+Unloading 6906 unused Assets to reduce memory usage. Loaded Objects now: 26934.
+Total: 76.013100 ms (FindLiveObjects: 2.377300 ms CreateObjectMapping: 4.189500 ms MarkObjects: 56.840600 ms  DeleteObjects: 12.605300 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
+UnloadTime: 1.035900 ms
+Loaded saved language code 'EN'
+Restored language code 'EN'
+Unloading 59 unused Assets to reduce memory usage. Loaded Objects now: 72880.
+Total: 76.227000 ms (FindLiveObjects: 6.689100 ms CreateObjectMapping: 6.860200 ms MarkObjects: 62.208600 ms  DeleteObjects: 0.468800 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 578)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 72881.
+Total: 74.348000 ms (FindLiveObjects: 5.597600 ms CreateObjectMapping: 7.311700 ms MarkObjects: 61.296100 ms  DeleteObjects: 0.142300 ms)
 
 MenuButton missing flashEffect!
 Making UI menu lean.
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Unloading 3 Unused Serialized files (Serialized files now loaded: 617)
-Unloading 117 unused Assets to reduce memory usage. Loaded Objects now: 122495.
-Total: 98.146700 ms (FindLiveObjects: 10.753400 ms CreateObjectMapping: 10.872900 ms MarkObjects: 75.647600 ms  DeleteObjects: 0.872400 ms)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 569)
+Unloading 116 unused Assets to reduce memory usage. Loaded Objects now: 109764.
+Total: 86.355300 ms (FindLiveObjects: 10.100600 ms CreateObjectMapping: 9.641100 ms MarkObjects: 65.636500 ms  DeleteObjects: 0.976400 ms)
 
 Converting Vertex Colors from Color32 to Color.
 Converting Vertex Colors from Color32 to Color.
@@ -65,438 +136,43 @@ Converting Vertex Colors from Color32 to Color.
 Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﺩﺮﺘﺳﺍ
 Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﺩﺮﺘﺳﺍ
 Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﺩﺮﺘﺳﺍ
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (heartbeat_audio).
-Can not play a disabled audio source
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﺩﺮﺘﺳﺍ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﺩﺮﺘﺳﺍ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﺩﺮﺘﺳﺍ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﺩﺮﺘﺳﺍ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﺩﺮﺘﺳﺍ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﺩﺮﺘﺳﺍ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﺩﺮﺘﺳﺍ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﺩﺮﺘﺳﺍ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﺩﺮﺘﺳﺍ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﺩﺮﺘﺳﺍ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﺩﺮﺘﺳﺍ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﺩﺮﺘﺳﺍ
-Unloading 1 Unused Serialized files (Serialized files now loaded: 635)
-UnloadTime: 11.365100 ms
-Unloading 8919 unused Assets to reduce memory usage. Loaded Objects now: 140013.
-Total: 158.805900 ms (FindLiveObjects: 15.708900 ms CreateObjectMapping: 11.279600 ms MarkObjects: 101.562400 ms  DeleteObjects: 30.254300 ms)
-
-Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for archive:/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1.resource
-Unloading 2 Unused Serialized files (Serialized files now loaded: 635)
-Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 148619.
-Total: 112.505200 ms (FindLiveObjects: 14.424100 ms CreateObjectMapping: 10.482800 ms MarkObjects: 87.125200 ms  DeleteObjects: 0.472900 ms)
-
-Coroutine couldn't be started because the the game object 'Camera Wind Region' is inactive!
-Coroutine couldn't be started because the the game object 'Camera Wind Region' is inactive!
-The referenced script on this Behaviour (Game Object 'Collider') is missing!
-The referenced script on this Behaviour (Game Object 'Collider') is missing!
-Can not play a disabled audio source
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﺩﺮﺘﺳﺍ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﺩﺮﺘﺳﺍ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﺩﺮﺘﺳﺍ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﺩﺮﺘﺳﺍ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﺩﺮﺘﺳﺍ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﺩﺮﺘﺳﺍ
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (1)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (1)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (3)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (3)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (9)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (9)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (10)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (10)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (11)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (11)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Unloading 1 Unused Serialized files (Serialized files now loaded: 589)
-Unloading 7314 unused Assets to reduce memory usage. Loaded Objects now: 149192.
-Total: 147.043700 ms (FindLiveObjects: 15.125100 ms CreateObjectMapping: 10.708400 ms MarkObjects: 83.587200 ms  DeleteObjects: 37.622500 ms)
-
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (1)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (1)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (3)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (3)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (9)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (9)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (10)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (10)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (11)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (11)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Unloading 1 Unused Serialized files (Serialized files now loaded: 589)
-Unloading 3456 unused Assets to reduce memory usage. Loaded Objects now: 149377.
-Total: 128.469500 ms (FindLiveObjects: 14.578800 ms CreateObjectMapping: 9.236400 ms MarkObjects: 82.834700 ms  DeleteObjects: 21.819200 ms)
-
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (1)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (1)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (3)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (3)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (9)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (9)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (10)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (10)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (11)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (11)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Unloading 1 Unused Serialized files (Serialized files now loaded: 589)
-Unloading 3521 unused Assets to reduce memory usage. Loaded Objects now: 149565.
-Total: 133.833600 ms (FindLiveObjects: 14.984700 ms CreateObjectMapping: 10.476200 ms MarkObjects: 86.369300 ms  DeleteObjects: 22.003100 ms)
-
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﺩﺮﺘﺳﺍ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﺩﺮﺘﺳﺍ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﺩﺮﺘﺳﺍ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﺩﺮﺘﺳﺍ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﺩﺮﺘﺳﺍ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﺩﺮﺘﺳﺍ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﺩﺮﺘﺳﺍ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﺩﺮﺘﺳﺍ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﺩﺮﺘﺳﺍ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﺩﺮﺘﺳﺍ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﺩﺮﺘﺳﺍ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﺩﺮﺘﺳﺍ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﺩﺮﺘﺳﺍ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﺩﺮﺘﺳﺍ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﺩﺮﺘﺳﺍ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﺩﺮﺘﺳﺍ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﺩﺮﺘﺳﺍ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﺩﺮﺘﺳﺍ
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (1)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (1)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (3)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (3)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (9)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (9)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (10)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (10)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (11)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (11)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Unloading 1 Unused Serialized files (Serialized files now loaded: 589)
-Unloading 3463 unused Assets to reduce memory usage. Loaded Objects now: 149764.
-Total: 130.457700 ms (FindLiveObjects: 14.554700 ms CreateObjectMapping: 10.158900 ms MarkObjects: 83.700900 ms  DeleteObjects: 22.042800 ms)
-
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (1)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (1)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (3)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (3)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (6)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (5)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (8)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (9)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (9)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (10)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (10)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (11)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (11)'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Coral Swimmer Small (7)'.
-Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
-Cannot use 'linearVelocity' on a static body.
-The referenced script on this Behaviour (Game Object 'Collider') is missing!
-The referenced script on this Behaviour (Game Object 'Collider') is missing!
-Can not play a disabled audio source
-Unloading 3 Unused Serialized files (Serialized files now loaded: 587)
-Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
-Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
-UnloadTime: 16.056900 ms
-Unloading 5483 unused Assets to reduce memory usage. Loaded Objects now: 140708.
-Total: 144.682100 ms (FindLiveObjects: 14.936900 ms CreateObjectMapping: 11.290500 ms MarkObjects: 87.802300 ms  DeleteObjects: 30.651900 ms)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 611)
+UnloadTime: 7.173900 ms
+Unloading 6591 unused Assets to reduce memory usage. Loaded Objects now: 139495.
+Total: 189.158400 ms (FindLiveObjects: 16.542100 ms CreateObjectMapping: 11.033800 ms MarkObjects: 133.485900 ms  DeleteObjects: 28.096000 ms)
 
 Unloading 0 Unused Serialized files (Serialized files now loaded: 526)
-Unloading 6876 unused Assets to reduce memory usage. Loaded Objects now: 27819.
-Total: 74.691700 ms (FindLiveObjects: 2.362400 ms CreateObjectMapping: 3.401100 ms MarkObjects: 56.285800 ms  DeleteObjects: 12.642000 ms)
+Unloading 6899 unused Assets to reduce memory usage. Loaded Objects now: 27149.
+Total: 80.035700 ms (FindLiveObjects: 2.214400 ms CreateObjectMapping: 3.442400 ms MarkObjects: 59.931200 ms  DeleteObjects: 14.447300 ms)
 
 Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
-UnloadTime: 1.069600 ms
+UnloadTime: 0.479400 ms
 Loaded saved language code 'EN'
 Restored language code 'EN'
-Unloading 55 unused Assets to reduce memory usage. Loaded Objects now: 73759.
-Total: 84.117000 ms (FindLiveObjects: 6.275700 ms CreateObjectMapping: 8.312500 ms MarkObjects: 69.293100 ms  DeleteObjects: 0.235400 ms)
+Unloading 59 unused Assets to reduce memory usage. Loaded Objects now: 73095.
+Total: 72.478800 ms (FindLiveObjects: 6.373900 ms CreateObjectMapping: 7.550100 ms MarkObjects: 58.125300 ms  DeleteObjects: 0.429300 ms)
 
 Unloading 1 Unused Serialized files (Serialized files now loaded: 578)
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 73760.
-Total: 82.672400 ms (FindLiveObjects: 5.748700 ms CreateObjectMapping: 7.156500 ms MarkObjects: 69.606100 ms  DeleteObjects: 0.160600 ms)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 73096.
+Total: 78.053600 ms (FindLiveObjects: 6.267000 ms CreateObjectMapping: 7.327600 ms MarkObjects: 64.300000 ms  DeleteObjects: 0.158800 ms)
 
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+[Physics::Module] Cleanup current backned.
+[Physics::Module] Id: 0xf2b8ea05
+Input System module state changed to: ShutdownInProgress.
+Input System polling thread exited.
+Input System module state changed to: Shutdown.
