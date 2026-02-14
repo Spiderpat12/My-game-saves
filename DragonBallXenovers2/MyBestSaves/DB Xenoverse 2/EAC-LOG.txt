@@ -1,3 +1,0 @@
-28195| [*] Creating client.
-28195| Anti-cheat system loading failed.
-64300| [*] Closing EAC system.
