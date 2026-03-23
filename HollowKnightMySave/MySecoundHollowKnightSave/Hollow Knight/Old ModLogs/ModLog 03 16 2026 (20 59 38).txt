@@ -1,0 +1,34 @@
+﻿[INFO]:[API] - Starting mod loading
+[INFO]:[API] - Loading Global Settings
+[INFO]:[API] - Deleting modlogs older than 7 days ago
+[INFO]:[HkmpMod] - Initializing
+[INFO]:[HkmpPouch] - Initializing
+[INFO]:[MagicUIMod] - Initializing
+[INFO]:[MagicUIMod] - Loading Global Settings
+[INFO]:[MultiplayerEvents] - Initializing
+[INFO]:[Satchel] - Initializing
+[INFO]:[API] - Creating mod preloads
+[INFO]:[API] - Preloading using mode RepackAssets
+[INFO]:[API] - Repacked 1 preload scenes from 1565 to 16 objects (0.02MB)
+[INFO]:[API] - Preloaded reflection in 1854ms
+[ERROR]:[API] - Finished preloading in 6.00s
+[INFO]:[Hkmp.HkmpMod] Initializing HKMP v2.4.3
+[WARN]:[Hkmp.Game.Client.Skin.SkinLoader] No skins can be loaded since there are no directories in: E:\Games\AdventureGames\Hollow Knight\hollow_knight_Data\Managed\Mods\HKMP\Skins
+[INFO]:[API] - Finished loading mods:
+[INFO]:[API] - Modding API: 1.5.78.11833-77
+[INFO]:[API] - HKMP : 2.4.3
+[INFO]:[API] - HkmpPouch : 2.0.0
+[INFO]:[API] - MagicUI : 1.10.9277.8364
+[INFO]:[API] - MultiplayerEvents : 1.0.1.0-610d97
+[INFO]:[API] - Satchel : 0.9.4-b6ec98
+[INFO]:[API] - 
+[INFO]:[Hkmp.Api.Addon.AddonLoader] Trying to load assembly at: E:\Games\AdventureGames\Hollow Knight\hollow_knight_Data\Managed\Mods\HKMP\HKMP.dll
+[INFO]:[Hkmp.Api.Server.ServerAddonManager] Assigned addon HkmpPouch v2.0.0 ID: 0
+[INFO]:[Hkmp.Api.Server.ServerAddonManager] Initializing server addon: HkmpPouch 2.0.0
+[INFO]:[Hkmp.Api.Addon.AddonLoader] Trying to load assembly at: E:\Games\AdventureGames\Hollow Knight\hollow_knight_Data\Managed\Mods\HKMP\HKMP.dll
+[INFO]:[Hkmp.Api.Client.ClientAddonManager] Initializing client addon: HkmpPouch 2.0.0
+[INFO]:[HkmpPouch.Networking.Client] [MultiplayerEvents]:[Client Ready]
+[INFO]:[HkmpMod] - Saving Global Settings
+[INFO]:[MagicUIMod] - Saving Global Settings
+[INFO]:[Hkmp.Game.Server.ServerManager] Could not stop server, it was not started
+[INFO]:[API] - Saving Global Settings

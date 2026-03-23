@@ -1,0 +1,40 @@
+﻿[INFO]:[API] - Starting mod loading
+[INFO]:[API] - Loading Global Settings
+[INFO]:[API] - Deleting modlogs older than 7 days ago
+[INFO]:[HkmpMod] - Initializing
+[INFO]:[HkmpMod] - Loading Global Settings
+[INFO]:[HkmpPouch] - Initializing
+[ERROR]:[API] - System.TypeLoadException: Could not load type of field 'ItemSyncMod.ItemSyncMod:MenuInstances' (5) due to: Could not load file or assembly 'MenuChanger, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. assembly:MenuChanger, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null type:<unknown type> member:(null) signature:<none>
+[ERROR]:[API] -   at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00018] in <9577ac7a62ef43179789031239ba8798>:0 
+[ERROR]:[API] -   at System.Reflection.MonoCMethod.DoInvoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x0007a] in <9577ac7a62ef43179789031239ba8798>:0 
+[ERROR]:[API] -   at System.Reflection.MonoCMethod.Invoke (System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <9577ac7a62ef43179789031239ba8798>:0 
+[ERROR]:[API] -   at System.Reflection.ConstructorInfo.Invoke (System.Object[] parameters) [0x00000] in <9577ac7a62ef43179789031239ba8798>:0 
+[ERROR]:[API] -   at Modding.ModLoader+<LoadModsInit>d__16.MoveNext () [0x002dd] in <2b54cdaf7a934f0eb297d50c4090ea9f>:0 
+[INFO]:[API] - Assembly MultiWorldLib (1.0.0.0) loaded with 0 mods
+[INFO]:[QoL] - Initializing
+[INFO]:[QoL] - Loading Global Settings
+[INFO]:[API] - Assembly Vasi (2.0.0.0) loaded with 0 mods
+[INFO]:[API] - Creating mod preloads
+[INFO]:[API] - Preloading using mode RepackAssets
+[INFO]:[API] - Repacked 1 preload scenes from 1565 to 16 objects (0.02MB)
+[INFO]:[API] - Preloaded reflection in 2191ms
+[ERROR]:[API] - Finished preloading in 5.00s
+[WARN]:[API] - Not loading mod ItemSyncMod: error state Construct
+[INFO]:[Hkmp.HkmpMod] Initializing HKMP v2.4.3
+[WARN]:[Hkmp.Game.Client.Skin.SkinLoader] No skins can be loaded since there are no directories in: E:\Games\AdventureGames\Hollow Knight\hollow_knight_Data\Managed\Mods\HKMP\Skins
+[INFO]:[API] - Finished loading mods:
+[INFO]:[API] - Modding API: 1.5.78.11833-77
+[INFO]:[API] - HKMP : 2.4.3
+[INFO]:[API] - HkmpPouch : 2.0.0
+[INFO]:[API] - ItemSyncMod : Failed to call constructor! Check ModLog.txt
+[INFO]:[API] - QoL : 4.9.0.0-8957f0
+[INFO]:[API] - 
+[INFO]:[Hkmp.Api.Addon.AddonLoader] Trying to load assembly at: E:\Games\AdventureGames\Hollow Knight\hollow_knight_Data\Managed\Mods\HKMP\HKMP.dll
+[INFO]:[Hkmp.Api.Server.ServerAddonManager] Assigned addon HkmpPouch v2.0.0 ID: 0
+[INFO]:[Hkmp.Api.Server.ServerAddonManager] Initializing server addon: HkmpPouch 2.0.0
+[INFO]:[Hkmp.Api.Addon.AddonLoader] Trying to load assembly at: E:\Games\AdventureGames\Hollow Knight\hollow_knight_Data\Managed\Mods\HKMP\HKMP.dll
+[INFO]:[Hkmp.Api.Client.ClientAddonManager] Initializing client addon: HkmpPouch 2.0.0
+[INFO]:[HkmpMod] - Saving Global Settings
+[INFO]:[QoL] - Saving Global Settings
+[INFO]:[Hkmp.Game.Server.ServerManager] Could not stop server, it was not started
+[INFO]:[API] - Saving Global Settings

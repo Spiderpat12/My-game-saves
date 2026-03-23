@@ -1,0 +1,11 @@
+{
+  "on": true,
+  "EnhanceBOSS": true,
+  "EnhanceEnemy": true,
+  "moreEnemy": true,
+  "fastSuperdash": true,
+  "fastDreamDoor": true,
+  "changeCharm": true,
+  "originalHp": false,
+  "enhanced_2Radiant": false
+}

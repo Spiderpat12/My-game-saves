@@ -1,0 +1,4 @@
+﻿[INFO]:[API] - Starting mod loading
+[INFO]:[API] - Loading Global Settings
+[INFO]:[API] - Deleting modlogs older than 7 days ago
+[INFO]:[API] - Preloaded reflection in 1892ms

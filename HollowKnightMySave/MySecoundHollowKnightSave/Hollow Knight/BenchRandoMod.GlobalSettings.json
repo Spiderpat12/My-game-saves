@@ -1,0 +1,12 @@
+{
+  "BenchRandomizationSettings": {
+    "RandomizedItems": 0,
+    "RandomizeBenchSpots": false,
+    "NewBenchStyle": 0,
+    "BenchGroup": -1,
+    "MinimumBenchCount": 45,
+    "MaximumBenchCount": 54,
+    "MinimumBenchesPerArea": 1,
+    "MaximumBenchesPerArea": 6
+  }
+}

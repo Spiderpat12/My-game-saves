@@ -1,0 +1,18 @@
+{
+  "Enabled": false,
+  "MantisRespect": false,
+  "HollowKnightChains": false,
+  "UniqueKeys": false,
+  "SplitTram": false,
+  "SplitElevator": false,
+  "TrapBench": false,
+  "ShadeGates": false,
+  "CustomKeys": {
+    "MapperKey": false,
+    "SlyKey": false,
+    "BrettaKey": false,
+    "ZoteKey": false,
+    "RelicKey": false,
+    "GladeKey": false
+  }
+}

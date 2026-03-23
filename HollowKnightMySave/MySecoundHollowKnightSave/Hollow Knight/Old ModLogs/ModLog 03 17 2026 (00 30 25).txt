@@ -1,0 +1,159 @@
+﻿[INFO]:[API] - Starting mod loading
+[INFO]:[API] - Loading Global Settings
+[INFO]:[API] - Deleting modlogs older than 7 days ago
+[INFO]:[HkmpMod] - Initializing
+[INFO]:[HkmpMod] - Loading Global Settings
+[INFO]:[HkmpPouch] - Initializing
+[ERROR]:[API] - System.TypeLoadException: Could not load type of field 'ItemSyncMod.ItemSyncMod:MenuInstances' (5) due to: Could not load file or assembly 'MenuChanger, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. assembly:MenuChanger, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null type:<unknown type> member:(null) signature:<none>
+[ERROR]:[API] -   at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00018] in <9577ac7a62ef43179789031239ba8798>:0 
+[ERROR]:[API] -   at System.Reflection.MonoCMethod.DoInvoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x0007a] in <9577ac7a62ef43179789031239ba8798>:0 
+[ERROR]:[API] -   at System.Reflection.MonoCMethod.Invoke (System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <9577ac7a62ef43179789031239ba8798>:0 
+[ERROR]:[API] -   at System.Reflection.ConstructorInfo.Invoke (System.Object[] parameters) [0x00000] in <9577ac7a62ef43179789031239ba8798>:0 
+[ERROR]:[API] -   at Modding.ModLoader+<LoadModsInit>d__16.MoveNext () [0x002dd] in <2b54cdaf7a934f0eb297d50c4090ea9f>:0 
+[INFO]:[API] - Assembly MultiWorldLib (1.0.0.0) loaded with 0 mods
+[INFO]:[QoL] - Initializing
+[INFO]:[QoL] - Loading Global Settings
+[INFO]:[API] - Assembly Vasi (2.0.0.0) loaded with 0 mods
+[INFO]:[API] - Creating mod preloads
+[INFO]:[API] - Preloading using mode RepackAssets
+[INFO]:[API] - Repacked 1 preload scenes from 1565 to 16 objects (0.02MB)
+[INFO]:[API] - Preloaded reflection in 2156ms
+[ERROR]:[API] - Finished preloading in 5.00s
+[WARN]:[API] - Not loading mod ItemSyncMod: error state Construct
+[INFO]:[Hkmp.HkmpMod] Initializing HKMP v2.4.3
+[WARN]:[Hkmp.Game.Client.Skin.SkinLoader] No skins can be loaded since there are no directories in: E:\Games\AdventureGames\Hollow Knight\hollow_knight_Data\Managed\Mods\HKMP\Skins
+[INFO]:[API] - Finished loading mods:
+[INFO]:[API] - Modding API: 1.5.78.11833-77
+[INFO]:[API] - HKMP : 2.4.3
+[INFO]:[API] - HkmpPouch : 2.0.0
+[INFO]:[API] - ItemSyncMod : Failed to call constructor! Check ModLog.txt
+[INFO]:[API] - QoL : 4.9.0.0-8957f0
+[INFO]:[API] - 
+[INFO]:[Hkmp.Api.Addon.AddonLoader] Trying to load assembly at: E:\Games\AdventureGames\Hollow Knight\hollow_knight_Data\Managed\Mods\HKMP\HKMP.dll
+[INFO]:[Hkmp.Api.Server.ServerAddonManager] Assigned addon HkmpPouch v2.0.0 ID: 0
+[INFO]:[Hkmp.Api.Server.ServerAddonManager] Initializing server addon: HkmpPouch 2.0.0
+[INFO]:[Hkmp.Api.Addon.AddonLoader] Trying to load assembly at: E:\Games\AdventureGames\Hollow Knight\hollow_knight_Data\Managed\Mods\HKMP\HKMP.dll
+[INFO]:[Hkmp.Api.Client.ClientAddonManager] Initializing client addon: HkmpPouch 2.0.0
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Menu_Title to Opening_Sequence
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from  to Tutorial_01
+[INFO]:[Hkmp.Networking.Server.NetServer] Starting NetServer on port 7777
+[INFO]:[Hkmp.Game.Client.ClientManager] Connecting client to server: 127.0.0.1:7777 as Omar
+[INFO]:[Hkmp.Networking.Server.NetServer] Received packet from unknown client with address: 127.0.0.1:61972, creating new client
+[INFO]:[Hkmp.Networking.Server.NetServer] Received login request from 'Omar'
+[INFO]:[Hkmp.Game.Server.ServerManager] Received login request from IP: 127.0.0.1, username: Omar
+[INFO]:[Hkmp.Game.Server.ServerManager]   Client tries to connect with following addons: HkmpPouch v2.0.0
+[INFO]:[Hkmp.Api.Client.ClientAddonManager] Retrieved addon HkmpPouch v2.0.0 ID: 0
+[INFO]:[Hkmp.Game.Client.ClientManager] Client is connected, sending Hello packet
+[INFO]:[Hkmp.Game.Client.ClientManager] Sending Hello packet
+[INFO]:[Hkmp.Game.Server.ServerManager] Received HelloServer data from 0
+[INFO]:[Hkmp.Game.Client.ClientManager] Received HelloClient from server
+[INFO]:[HkmpPouch.Networking.Client] sending get packet
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Tutorial_01 to Town
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, Omar), last scene: Tutorial_01
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, Omar), new scene: Town
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Town to Crossroads_01
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, Omar), last scene: Town
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, Omar), new scene: Crossroads_01
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Crossroads_01 to Crossroads_07
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, Omar), last scene: Crossroads_01
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, Omar), new scene: Crossroads_07
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Crossroads_07 to Crossroads_33
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, Omar), last scene: Crossroads_07
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, Omar), new scene: Crossroads_33
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Crossroads_33 to Crossroads_08
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, Omar), last scene: Crossroads_33
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, Omar), new scene: Crossroads_08
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Crossroads_08 to Crossroads_13
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, Omar), last scene: Crossroads_08
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, Omar), new scene: Crossroads_13
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Crossroads_13 to Crossroads_42
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, Omar), last scene: Crossroads_13
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, Omar), new scene: Crossroads_42
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Crossroads_42 to Crossroads_19
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, Omar), last scene: Crossroads_42
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, Omar), new scene: Crossroads_19
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Crossroads_19 to Crossroads_03
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, Omar), last scene: Crossroads_19
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, Omar), new scene: Crossroads_03
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Crossroads_03 to Crossroads_47
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, Omar), last scene: Crossroads_03
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, Omar), new scene: Crossroads_47
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Crossroads_47 to Crossroads_03
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, Omar), last scene: Crossroads_47
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, Omar), new scene: Crossroads_03
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Crossroads_03 to Crossroads_21
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, Omar), last scene: Crossroads_03
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, Omar), new scene: Crossroads_21
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Crossroads_21 to Crossroads_10
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, Omar), last scene: Crossroads_21
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, Omar), new scene: Crossroads_10
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Crossroads_10 to Crossroads_10_boss
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Crossroads_10_boss to Crossroads_06
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, Omar), last scene: Crossroads_10
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, Omar), new scene: Crossroads_06
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Crossroads_06 to Crossroads_10
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, Omar), last scene: Crossroads_06
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, Omar), new scene: Crossroads_10
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[HkmpMod] - Saving Global Settings
+[INFO]:[QoL] - Saving Global Settings
+[ERROR]:[Hkmp.Networking.Client.UdpNetClient] UDP Socket exception:
+[ERROR]:System.Net.Sockets.SocketException (0x80004005): Connection reset by peer
+[ERROR]:  at System.Net.Sockets.Socket.ReceiveFrom (System.Byte[] buffer, System.Int32 offset, System.Int32 size, System.Net.Sockets.SocketFlags socketFlags, System.Net.EndPoint& remoteEP) [0x0003e] in <3df7f9ca50404bbc8bd4e7b954e70293>:0 
+[ERROR]:  at System.Net.Sockets.Socket.ReceiveFrom (System.Byte[] buffer, System.Net.Sockets.SocketFlags socketFlags, System.Net.EndPoint& remoteEP) [0x00000] in <3df7f9ca50404bbc8bd4e7b954e70293>:0 
+[ERROR]:  at Hkmp.Networking.Client.UdpNetClient.ReceiveData (System.Threading.CancellationToken token) [0x00019] in /home/runner/work/HKMP/HKMP/HKMP/Networking/Client/UdpNetClient.cs:82 
+[ERROR]:[Hkmp.Networking.Server.NetServer] UDP Socket exception:
+[ERROR]:System.Net.Sockets.SocketException (0x80004005): mono-io-layer-error (10004)
+[ERROR]:  at System.Net.Sockets.Socket.ReceiveFrom (System.Byte[] buffer, System.Int32 offset, System.Int32 size, System.Net.Sockets.SocketFlags socketFlags, System.Net.EndPoint& remoteEP) [0x0003e] in <3df7f9ca50404bbc8bd4e7b954e70293>:0 
+[ERROR]:  at System.Net.Sockets.Socket.ReceiveFrom (System.Byte[] buffer, System.Net.Sockets.SocketFlags socketFlags, System.Net.EndPoint& remoteEP) [0x00000] in <3df7f9ca50404bbc8bd4e7b954e70293>:0 
+[ERROR]:  at Hkmp.Networking.Server.NetServer.ReceiveData (System.Threading.CancellationToken token) [0x00019] in /home/runner/work/HKMP/HKMP/HKMP/Networking/Server/NetServer.cs:162 
+[INFO]:[API] - Saving Global Settings

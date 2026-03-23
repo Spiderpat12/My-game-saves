@@ -1,0 +1,84 @@
+﻿[INFO]:[API] - Starting mod loading
+[INFO]:[API] - Loading Global Settings
+[INFO]:[API] - Deleting modlogs older than 7 days ago
+[INFO]:[Benchwarp] - Initializing
+[INFO]:[Benchwarp] - Loading Global Settings
+[INFO]:[HkmpMod] - Initializing
+[INFO]:[HkmpMod] - Loading Global Settings
+[INFO]:[HkmpPouch] - Initializing
+[INFO]:[ItemChangerMod] - Initializing
+[INFO]:[ItemChangerMod] - Loading Global Settings
+[INFO]:[API] - Preloaded reflection in 1991ms
+[INFO]:[ItemSyncMod] - Initializing
+[INFO]:[MenuChangerMod] - Initializing
+[INFO]:[API] - Assembly MultiWorldLib (1.0.0.0) loaded with 0 mods
+[INFO]:[QoL] - Initializing
+[INFO]:[QoL] - Loading Global Settings
+[INFO]:[RandomizerMod] - Initializing
+[INFO]:[RandomizerMod] - Loading Global Settings
+[INFO]:[API] - Assembly RandomizerCore (2.1.2.0) loaded with 0 mods
+[INFO]:[API] - Assembly RandomizerCore.Json (1.1.1.0) loaded with 0 mods
+[INFO]:[API] - Assembly Vasi (2.0.0.0) loaded with 0 mods
+[INFO]:[API] - Creating mod preloads
+[INFO]:[API] - Preloading using mode RepackAssets
+[INFO]:[API] - Repacked 21 preload scenes from 133916 to 1092 objects (1.66MB)
+[ERROR]:[API] - Finished preloading in 9.00s
+[INFO]:[Hkmp.HkmpMod] Initializing HKMP v2.4.3
+[WARN]:[Hkmp.Game.Client.Skin.SkinLoader] No skins can be loaded since there are no directories in: E:\Games\AdventureGames\Hollow Knight\hollow_knight_Data\Managed\Mods\HKMP\Skins
+[INFO]:[RandomizerMod] - Initialization complete.
+[INFO]:[MenuChangerMod] - Constructing mode menu...
+[INFO]:[MenuChangerMod] -   Constructed menu from MenuChanger.ModeMenu+DefaultModeConstructor
+[INFO]:[MenuChangerMod] -   Constructed menu from MenuChanger.ModeMenu+DefaultModeConstructor
+[INFO]:[MenuChangerMod] -   Constructed menu from MenuChanger.ModeMenu+DefaultModeConstructor
+[INFO]:[MenuChangerMod] -   Constructed menu from RandomizerMod.Menu.RandomizerMenuConstructor
+[INFO]:[API] - Finished loading mods:
+[INFO]:[API] - Modding API: 1.5.78.11833-77
+[INFO]:[API] - Benchwarp : 3.2.6.1
+[INFO]:[API] - HKMP : 2.4.3
+[INFO]:[API] - HkmpPouch : 2.0.0
+[INFO]:[API] - ItemChangerMod : 2.1.6+927
+[INFO]:[API] - ItemSyncMod : 2.7.3
+[INFO]:[API] - MenuChanger : 1.1.0+132
+[INFO]:[API] - QoL : 4.9.0.0-8957f0
+[INFO]:[API] - Randomizer 4 : 4.1.6+987
+[INFO]:[API] - 
+[INFO]:[Hkmp.Api.Addon.AddonLoader] Trying to load assembly at: E:\Games\AdventureGames\Hollow Knight\hollow_knight_Data\Managed\Mods\HKMP\HKMP.dll
+[INFO]:[Hkmp.Api.Server.ServerAddonManager] Assigned addon HkmpPouch v2.0.0 ID: 0
+[INFO]:[Hkmp.Api.Server.ServerAddonManager] Initializing server addon: HkmpPouch 2.0.0
+[INFO]:[Hkmp.Api.Addon.AddonLoader] Trying to load assembly at: E:\Games\AdventureGames\Hollow Knight\hollow_knight_Data\Managed\Mods\HKMP\HKMP.dll
+[INFO]:[Hkmp.Api.Client.ClientAddonManager] Initializing client addon: HkmpPouch 2.0.0
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Menu_Title to Opening_Sequence
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from  to Tutorial_01
+[INFO]:[Hkmp.Networking.Server.NetServer] Starting NetServer on port 7777
+[INFO]:[Hkmp.Game.Client.ClientManager] Connecting client to server: 127.0.0.1:7777 as Omar
+[INFO]:[Hkmp.Networking.Server.NetServer] Received packet from unknown client with address: 127.0.0.1:50962, creating new client
+[INFO]:[Hkmp.Networking.Server.NetServer] Received login request from 'Omar'
+[INFO]:[Hkmp.Game.Server.ServerManager] Received login request from IP: 127.0.0.1, username: Omar
+[INFO]:[Hkmp.Game.Server.ServerManager]   Client tries to connect with following addons: HkmpPouch v2.0.0
+[INFO]:[Hkmp.Api.Client.ClientAddonManager] Retrieved addon HkmpPouch v2.0.0 ID: 0
+[INFO]:[Hkmp.Game.Client.ClientManager] Client is connected, sending Hello packet
+[INFO]:[Hkmp.Game.Client.ClientManager] Sending Hello packet
+[INFO]:[Hkmp.Game.Server.ServerManager] Received HelloServer data from 0
+[INFO]:[Hkmp.Game.Client.ClientManager] Received HelloClient from server
+[INFO]:[HkmpPouch.Networking.Client] sending get packet
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Benchwarp] - Saving Global Settings
+[INFO]:[HkmpMod] - Saving Global Settings
+[INFO]:[ItemChangerMod] - Saving Global Settings
+[INFO]:[ItemSyncMod] - Saving Global Settings
+[INFO]:[QoL] - Saving Global Settings
+[INFO]:[RandomizerMod] - Saving Global Settings
+[ERROR]:[Hkmp.Networking.Client.UdpNetClient] UDP Socket exception:
+[ERROR]:System.Net.Sockets.SocketException (0x80004005): Connection reset by peer
+[ERROR]:  at System.Net.Sockets.Socket.ReceiveFrom (System.Byte[] buffer, System.Int32 offset, System.Int32 size, System.Net.Sockets.SocketFlags socketFlags, System.Net.EndPoint& remoteEP) [0x0003e] in <3df7f9ca50404bbc8bd4e7b954e70293>:0 
+[ERROR]:  at System.Net.Sockets.Socket.ReceiveFrom (System.Byte[] buffer, System.Net.Sockets.SocketFlags socketFlags, System.Net.EndPoint& remoteEP) [0x00000] in <3df7f9ca50404bbc8bd4e7b954e70293>:0 
+[ERROR]:  at Hkmp.Networking.Client.UdpNetClient.ReceiveData (System.Threading.CancellationToken token) [0x00019] in /home/runner/work/HKMP/HKMP/HKMP/Networking/Client/UdpNetClient.cs:82 
+[ERROR]:[Hkmp.Networking.Server.NetServer] UDP Socket exception:
+[ERROR]:System.Net.Sockets.SocketException (0x80004005): mono-io-layer-error (10004)
+[ERROR]:  at System.Net.Sockets.Socket.ReceiveFrom (System.Byte[] buffer, System.Int32 offset, System.Int32 size, System.Net.Sockets.SocketFlags socketFlags, System.Net.EndPoint& remoteEP) [0x0003e] in <3df7f9ca50404bbc8bd4e7b954e70293>:0 
+[ERROR]:  at System.Net.Sockets.Socket.ReceiveFrom (System.Byte[] buffer, System.Net.Sockets.SocketFlags socketFlags, System.Net.EndPoint& remoteEP) [0x00000] in <3df7f9ca50404bbc8bd4e7b954e70293>:0 
+[ERROR]:  at Hkmp.Networking.Server.NetServer.ReceiveData (System.Threading.CancellationToken token) [0x00019] in /home/runner/work/HKMP/HKMP/HKMP/Networking/Server/NetServer.cs:162 
+[INFO]:[API] - Saving Global Settings
