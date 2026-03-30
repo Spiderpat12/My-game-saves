@@ -13,8 +13,8 @@ Direct3D:
     VRAM:     1999 MB
     Driver:   32.0.15.6094
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.501 seconds
-- Finished resetting the current domain, in  0.004 seconds
+- Loaded All Assemblies, in  0.490 seconds
+- Finished resetting the current domain, in  0.002 seconds
 [Physics::Module] Selected backend.
 [Physics::Module] Name: PhysX
 [Physics::Module] Id: 0xf2b8ea05
@@ -25,188 +25,479 @@ Begin MonoManager ReloadAssembly
 Using Windows.Gaming.Input
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.506800 ms
+UnloadTime: 0.750900 ms
 No online subsystems packaged.
 Direct3D: detected that using refresh rate causes time drift. Will stop trusting refresh rate until the game window is moved.
 Direct3D: detected that vsync is broken (it does not limit frame rate properly). Delta time will now be calculated using cpu-side time stampling until the game window is moved.
 Unloading 5 Unused Serialized files (Serialized files now loaded: 528)
-UnloadTime: 1.724200 ms
+UnloadTime: 1.310900 ms
 Discovered supported languages: DE, EN, ES, FR, IT, JA, KO, PT, RU, ZH
 Loaded saved language code 'EN'
 Restored language code 'EN'
 Couldn't find a Game Manager, make sure one exists in the scene.
 Couldn't find GameCameras, make sure one exists in the scene.
 Unloading 53 unused Assets to reduce memory usage. Loaded Objects now: 6528.
-Total: 6.721500 ms (FindLiveObjects: 0.711600 ms CreateObjectMapping: 0.801700 ms MarkObjects: 5.136000 ms  DeleteObjects: 0.067400 ms)
+Total: 6.150500 ms (FindLiveObjects: 0.552000 ms CreateObjectMapping: 0.634500 ms MarkObjects: 4.888600 ms  DeleteObjects: 0.072200 ms)
 
 Unloading 2 Unused Serialized files (Serialized files now loaded: 528)
 Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 13748.
-Total: 14.318100 ms (FindLiveObjects: 0.838700 ms CreateObjectMapping: 1.038400 ms MarkObjects: 12.380400 ms  DeleteObjects: 0.060200 ms)
+Total: 10.923800 ms (FindLiveObjects: 0.857000 ms CreateObjectMapping: 1.438800 ms MarkObjects: 8.563300 ms  DeleteObjects: 0.064200 ms)
 
 Couldn't find GameCameras, make sure one exists in the scene.
 Unloading 1 Unused Serialized files (Serialized files now loaded: 582)
 Couldn't find a Game Manager, make sure one exists in the scene.
-UnloadTime: 9.165100 ms
+UnloadTime: 9.595900 ms
 Loaded saved language code 'EN'
 Restored language code 'EN'
 Unloading 73 unused Assets to reduce memory usage. Loaded Objects now: 67446.
-Total: 51.459200 ms (FindLiveObjects: 5.666300 ms CreateObjectMapping: 6.719100 ms MarkObjects: 38.673500 ms  DeleteObjects: 0.400100 ms)
+Total: 65.751500 ms (FindLiveObjects: 6.113200 ms CreateObjectMapping: 8.788600 ms MarkObjects: 36.109300 ms  DeleteObjects: 14.740100 ms)
 
 MenuButton missing flashEffect!
 Making UI menu lean.
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Unloading 3 Unused Serialized files (Serialized files now loaded: 585)
-Unloading 114 unused Assets to reduce memory usage. Loaded Objects now: 115744.
-Total: 92.321100 ms (FindLiveObjects: 10.679000 ms CreateObjectMapping: 10.612000 ms MarkObjects: 70.181100 ms  DeleteObjects: 0.848700 ms)
+Unloading 3 Unused Serialized files (Serialized files now loaded: 597)
+Unloading 108 unused Assets to reduce memory usage. Loaded Objects now: 131500.
+Total: 101.628100 ms (FindLiveObjects: 12.604100 ms CreateObjectMapping: 11.661700 ms MarkObjects: 76.369200 ms  DeleteObjects: 0.992700 ms)
 
 Converting Vertex Colors from Color32 to Color.
 Converting Vertex Colors from Color32 to Color.
 Converting Vertex Colors from Color32 to Color.
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Cannot set the parent of the GameObject 'Corpse Roachfeeder Tall(Clone)' while activating or deactivating the parent GameObject 'Art'.
+Cannot set the parent of the GameObject 'Pin' while activating or deactivating the parent GameObject 'Art'.
+Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
+  at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
+Unloading 1 Unused Serialized files (Serialized files now loaded: 612)
+Unloading 3743 unused Assets to reduce memory usage. Loaded Objects now: 147922.
+Total: 148.886300 ms (FindLiveObjects: 15.159600 ms CreateObjectMapping: 12.521500 ms MarkObjects: 97.949900 ms  DeleteObjects: 23.254900 ms)
+
+Cannot set the parent of the GameObject 'Break Chunk' while activating or deactivating the parent GameObject 'Art'.
 Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
   at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
   at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
   at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
 Cannot use 'linearVelocity' on a static body.
-Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
 Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
   at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
   at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
   at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
-Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
+Reloading same scene! Destroying GuidComponents to prevent collisions...
+Unloading 1 Unused Serialized files (Serialized files now loaded: 603)
+Unloading 2330 unused Assets to reduce memory usage. Loaded Objects now: 157408.
+Total: 148.372900 ms (FindLiveObjects: 16.988500 ms CreateObjectMapping: 10.802900 ms MarkObjects: 94.426600 ms  DeleteObjects: 26.154500 ms)
+
 Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
   at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
   at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
   at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
-Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
-  at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
-  at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
-  at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
-Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
 Cannot use 'linearVelocity' on a static body.
-Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
-Unloading 1 Unused Serialized files (Serialized files now loaded: 633)
-UnloadTime: 14.237500 ms
-Unloading 11860 unused Assets to reduce memory usage. Loaded Objects now: 130799.
-Total: 196.543800 ms (FindLiveObjects: 16.398200 ms CreateObjectMapping: 12.570500 ms MarkObjects: 104.630000 ms  DeleteObjects: 62.944900 ms)
+Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
+  at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
+  at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
+Unloading 1 Unused Serialized files (Serialized files now loaded: 628)
+UnloadTime: 15.287300 ms
+Unloading 10257 unused Assets to reduce memory usage. Loaded Objects now: 131130.
+Total: 157.888100 ms (FindLiveObjects: 16.899500 ms CreateObjectMapping: 13.426100 ms MarkObjects: 90.932100 ms  DeleteObjects: 36.630100 ms)
 
-Unloading 2 Unused Serialized files (Serialized files now loaded: 588)
-Unloading 77 unused Assets to reduce memory usage. Loaded Objects now: 134897.
-Total: 117.067900 ms (FindLiveObjects: 14.087200 ms CreateObjectMapping: 9.952800 ms MarkObjects: 91.853300 ms  DeleteObjects: 1.174000 ms)
+Unloading 2 Unused Serialized files (Serialized files now loaded: 598)
+Unloading 79 unused Assets to reduce memory usage. Loaded Objects now: 140029.
+Total: 121.468500 ms (FindLiveObjects: 15.620400 ms CreateObjectMapping: 10.787600 ms MarkObjects: 94.022600 ms  DeleteObjects: 1.037600 ms)
 
 Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
   at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
   at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
   at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 661)
-UnloadTime: 6.422200 ms
-Unloading 9123 unused Assets to reduce memory usage. Loaded Objects now: 129354.
-Total: 182.188100 ms (FindLiveObjects: 17.237400 ms CreateObjectMapping: 13.396400 ms MarkObjects: 101.058600 ms  DeleteObjects: 50.495400 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 658)
-Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 138942.
-Total: 104.947200 ms (FindLiveObjects: 13.605700 ms CreateObjectMapping: 9.068600 ms MarkObjects: 81.837200 ms  DeleteObjects: 0.435300 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 635)
-UnloadTime: 11.688100 ms
-Unloading 6452 unused Assets to reduce memory usage. Loaded Objects now: 129482.
-Total: 159.602500 ms (FindLiveObjects: 24.015500 ms CreateObjectMapping: 14.833600 ms MarkObjects: 91.157000 ms  DeleteObjects: 29.596100 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 598)
-Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 144602.
-Total: 129.343900 ms (FindLiveObjects: 14.997300 ms CreateObjectMapping: 9.783400 ms MarkObjects: 104.280400 ms  DeleteObjects: 0.282400 ms)
-
-Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
-Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
-Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
-Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
-Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
-Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
-Cannot use 'linearVelocity' on a static body.
-Cannot set the parent of the GameObject 'slab_props__0042_lamp_swing_break' while activating or deactivating the parent GameObject 'Art'.
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+Cannot set the parent of the GameObject 'Water Point L' while activating or deactivating the parent GameObject 'Caravan Troupe Flea Swimmer'.
+Cannot set the parent of the GameObject 'Water Point R' while activating or deactivating the parent GameObject 'Caravan Troupe Flea Swimmer'.
+Cannot set the parent of the GameObject 'Dive Point' while activating or deactivating the parent GameObject 'Caravan Troupe Flea Swimmer'.
+Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Caravan Troupe Flea Swimmer'.
+Cannot set the parent of the GameObject 'Water Point L' while activating or deactivating the parent GameObject 'Caravan Troupe Flea Swimmer (1)'.
+Cannot set the parent of the GameObject 'Water Point R' while activating or deactivating the parent GameObject 'Caravan Troupe Flea Swimmer (1)'.
+Cannot set the parent of the GameObject 'Dive Point' while activating or deactivating the parent GameObject 'Caravan Troupe Flea Swimmer (1)'.
+Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Caravan Troupe Flea Swimmer (1)'.
+Direct3D: detected that using refresh rate causes time drift. Will stop trusting refresh rate until the game window is moved.
+Direct3D: detected that vsync is broken (it does not limit frame rate properly). Delta time will now be calculated using cpu-side time stampling until the game window is moved.
 Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
   at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
   at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
   at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
-Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
-Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
-Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
-Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
-Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed (1)'.
-Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
-Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
-Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed (1)'.
-Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
-Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Pilgrim 03 Song'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Pilgrim 03 Song'.
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
 Can not play a disabled audio source
 Can not play a disabled audio source
-Cannot use 'linearVelocity' on a static body.
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
+Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
+Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
+Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
+  at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
+Unloading 1 Unused Serialized files (Serialized files now loaded: 618)
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+UnloadTime: 10.698500 ms
+Unloading 14245 unused Assets to reduce memory usage. Loaded Objects now: 131438.
+Total: 241.069600 ms (FindLiveObjects: 15.601200 ms CreateObjectMapping: 11.576500 ms MarkObjects: 87.688200 ms  DeleteObjects: 126.203200 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 526)
+Unloading 7493 unused Assets to reduce memory usage. Loaded Objects now: 26422.
+Total: 74.661900 ms (FindLiveObjects: 2.619800 ms CreateObjectMapping: 4.955800 ms MarkObjects: 52.349500 ms  DeleteObjects: 14.736500 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
+UnloadTime: 1.013700 ms
+Loaded saved language code 'EN'
+Restored language code 'EN'
+Unloading 73 unused Assets to reduce memory usage. Loaded Objects now: 72946.
+Total: 81.163300 ms (FindLiveObjects: 6.573100 ms CreateObjectMapping: 6.751300 ms MarkObjects: 66.968000 ms  DeleteObjects: 0.870600 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 578)
+Unloading 5617 unused Assets to reduce memory usage. Loaded Objects now: 67313.
+Total: 88.221800 ms (FindLiveObjects: 6.143300 ms CreateObjectMapping: 7.318400 ms MarkObjects: 61.267700 ms  DeleteObjects: 13.491800 ms)
+
+MenuButton missing flashEffect!
+Making UI menu lean.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Unloading 1 Unused Serialized files (Serialized files now loaded: 614)
+Unloading 112 unused Assets to reduce memory usage. Loaded Objects now: 119865.
+Total: 93.184800 ms (FindLiveObjects: 10.955800 ms CreateObjectMapping: 10.332500 ms MarkObjects: 70.873600 ms  DeleteObjects: 1.022500 ms)
+
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+Cannot set the parent of the GameObject 'Water Point L' while activating or deactivating the parent GameObject 'Caravan Troupe Flea Swimmer'.
+Cannot set the parent of the GameObject 'Water Point R' while activating or deactivating the parent GameObject 'Caravan Troupe Flea Swimmer'.
+Cannot set the parent of the GameObject 'Dive Point' while activating or deactivating the parent GameObject 'Caravan Troupe Flea Swimmer'.
+Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Caravan Troupe Flea Swimmer'.
+Cannot set the parent of the GameObject 'Water Point L' while activating or deactivating the parent GameObject 'Caravan Troupe Flea Swimmer (1)'.
+Cannot set the parent of the GameObject 'Water Point R' while activating or deactivating the parent GameObject 'Caravan Troupe Flea Swimmer (1)'.
+Cannot set the parent of the GameObject 'Dive Point' while activating or deactivating the parent GameObject 'Caravan Troupe Flea Swimmer (1)'.
+Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Caravan Troupe Flea Swimmer (1)'.
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+Cannot set the parent of the GameObject 'Water Point L' while activating or deactivating the parent GameObject 'Caravan Troupe Flea Swimmer'.
+Cannot set the parent of the GameObject 'Water Point R' while activating or deactivating the parent GameObject 'Caravan Troupe Flea Swimmer'.
+Cannot set the parent of the GameObject 'Dive Point' while activating or deactivating the parent GameObject 'Caravan Troupe Flea Swimmer'.
+Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Caravan Troupe Flea Swimmer'.
+Cannot set the parent of the GameObject 'Water Point L' while activating or deactivating the parent GameObject 'Caravan Troupe Flea Swimmer (1)'.
+Cannot set the parent of the GameObject 'Water Point R' while activating or deactivating the parent GameObject 'Caravan Troupe Flea Swimmer (1)'.
+Cannot set the parent of the GameObject 'Dive Point' while activating or deactivating the parent GameObject 'Caravan Troupe Flea Swimmer (1)'.
+Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Caravan Troupe Flea Swimmer (1)'.
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
+Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
+Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
 Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
 Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
-HutongGames.PlayMaker.VibrationRegionPlayOneShot in propeller understore propeller (UnityEngine.GameObject) is missing Hero Vibration Region object
-HutongGames.PlayMaker.VibrationRegionPlayOneShot in propeller understore propeller (UnityEngine.GameObject) is missing Hero Vibration Region object
-HutongGames.PlayMaker.VibrationRegionPlayOneShot in propeller understore propeller (UnityEngine.GameObject) is missing Hero Vibration Region object
-Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
-  at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
-  at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
-  at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
 Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
 Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
-Cannot use 'linearVelocity' on a static body.
-Cannot use 'linearVelocity' on a static body.
 Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
   at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
   at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
   at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
-Could Not Create Action: : Dialogue: Churchkeeper:  (Maybe the script was removed?)
-Using fallback 1 to find tilemap. Scene Bellshrine_Enclave requires manual fixing.
-Could Not Create Action: : Dialogue: Churchkeeper:  (Maybe the script was removed?)
-Couldn't find transition point "door1", falling back to first available: "left2"
-Using fallback 1 to find tilemap. Scene Bellshrine_Enclave requires manual fixing.
-Could Not Create Action: : Dialogue: Churchkeeper:  (Maybe the script was removed?)
-Couldn't find transition point "door1", falling back to first available: "left2"
-Could Not Create Action: : Dialogue: Churchkeeper:  (Maybe the script was removed?)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 621)
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+UnloadTime: 20.721100 ms
+Unloading 15391 unused Assets to reduce memory usage. Loaded Objects now: 132463.
+Total: 277.092300 ms (FindLiveObjects: 16.703600 ms CreateObjectMapping: 12.528900 ms MarkObjects: 106.909400 ms  DeleteObjects: 140.950000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 526)
+Unloading 7403 unused Assets to reduce memory usage. Loaded Objects now: 26816.
+Total: 76.362800 ms (FindLiveObjects: 2.490100 ms CreateObjectMapping: 4.327300 ms MarkObjects: 54.846700 ms  DeleteObjects: 14.698300 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
+UnloadTime: 0.441100 ms
+Loaded saved language code 'EN'
+Restored language code 'EN'
+Unloading 147 unused Assets to reduce memory usage. Loaded Objects now: 73265.
+Total: 75.353700 ms (FindLiveObjects: 6.685100 ms CreateObjectMapping: 6.934300 ms MarkObjects: 60.555900 ms  DeleteObjects: 1.178100 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 578)
+Unloading 5623 unused Assets to reduce memory usage. Loaded Objects now: 67626.
+Total: 87.829300 ms (FindLiveObjects: 6.103900 ms CreateObjectMapping: 7.622800 ms MarkObjects: 59.956200 ms  DeleteObjects: 14.145900 ms)
+
+MenuButton missing flashEffect!
+Making UI menu lean.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Unloading 1 Unused Serialized files (Serialized files now loaded: 617)
+Unloading 118 unused Assets to reduce memory usage. Loaded Objects now: 121825.
+Total: 98.971600 ms (FindLiveObjects: 11.402500 ms CreateObjectMapping: 9.493100 ms MarkObjects: 77.175300 ms  DeleteObjects: 0.900000 ms)
+
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+Cannot set the parent of the GameObject 'Water Point L' while activating or deactivating the parent GameObject 'Caravan Troupe Flea Swimmer'.
+Cannot set the parent of the GameObject 'Water Point R' while activating or deactivating the parent GameObject 'Caravan Troupe Flea Swimmer'.
+Cannot set the parent of the GameObject 'Dive Point' while activating or deactivating the parent GameObject 'Caravan Troupe Flea Swimmer'.
+Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Caravan Troupe Flea Swimmer'.
+Cannot set the parent of the GameObject 'Water Point L' while activating or deactivating the parent GameObject 'Caravan Troupe Flea Swimmer (1)'.
+Cannot set the parent of the GameObject 'Water Point R' while activating or deactivating the parent GameObject 'Caravan Troupe Flea Swimmer (1)'.
+Cannot set the parent of the GameObject 'Dive Point' while activating or deactivating the parent GameObject 'Caravan Troupe Flea Swimmer (1)'.
+Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Caravan Troupe Flea Swimmer (1)'.
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
 Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
   at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
   at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
   at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
+Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
+Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
+Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
+Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
 Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
   at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
   at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
   at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
+Unloading 1 Unused Serialized files (Serialized files now loaded: 620)
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+UnloadTime: 15.862800 ms
+Unloading 15960 unused Assets to reduce memory usage. Loaded Objects now: 131129.
+Total: 257.121200 ms (FindLiveObjects: 15.923400 ms CreateObjectMapping: 12.721700 ms MarkObjects: 85.759200 ms  DeleteObjects: 142.716500 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 526)
+Unloading 7457 unused Assets to reduce memory usage. Loaded Objects now: 27028.
+Total: 76.653500 ms (FindLiveObjects: 2.632400 ms CreateObjectMapping: 4.261100 ms MarkObjects: 53.693000 ms  DeleteObjects: 16.066700 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
+UnloadTime: 0.642000 ms
+Loaded saved language code 'EN'
+Restored language code 'EN'
+Unloading 59 unused Assets to reduce memory usage. Loaded Objects now: 73566.
+Total: 79.490000 ms (FindLiveObjects: 7.577500 ms CreateObjectMapping: 9.108800 ms MarkObjects: 62.318700 ms  DeleteObjects: 0.484800 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 578)
+Unloading 5623 unused Assets to reduce memory usage. Loaded Objects now: 67927.
+Total: 91.585800 ms (FindLiveObjects: 6.516800 ms CreateObjectMapping: 7.470800 ms MarkObjects: 63.757800 ms  DeleteObjects: 13.840100 ms)
+
+MenuButton missing flashEffect!
+Making UI menu lean.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Unloading 1 Unused Serialized files (Serialized files now loaded: 590)
+Unloading 114 unused Assets to reduce memory usage. Loaded Objects now: 120215.
+Total: 94.692600 ms (FindLiveObjects: 10.996900 ms CreateObjectMapping: 11.092800 ms MarkObjects: 71.624500 ms  DeleteObjects: 0.978100 ms)
+
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
 Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
 Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
 Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Unloading 1 Unused Serialized files (Serialized files now loaded: 596)
+UnloadTime: 13.174500 ms
+Unloading 5842 unused Assets to reduce memory usage. Loaded Objects now: 130626.
+Total: 131.269800 ms (FindLiveObjects: 14.346200 ms CreateObjectMapping: 10.631000 ms MarkObjects: 93.067900 ms  DeleteObjects: 13.224500 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 602)
+Unloading 74 unused Assets to reduce memory usage. Loaded Objects now: 137570.
+Total: 116.252500 ms (FindLiveObjects: 12.919800 ms CreateObjectMapping: 10.059300 ms MarkObjects: 91.895400 ms  DeleteObjects: 1.377700 ms)
+
 Unloading 1 Unused Serialized files (Serialized files now loaded: 625)
-UnloadTime: 28.905900 ms
-Unloading 15451 unused Assets to reduce memory usage. Loaded Objects now: 132377.
-Total: 276.711400 ms (FindLiveObjects: 18.280400 ms CreateObjectMapping: 13.762800 ms MarkObjects: 111.216500 ms  DeleteObjects: 133.450900 ms)
+UnloadTime: 7.476600 ms
+Unloading 6334 unused Assets to reduce memory usage. Loaded Objects now: 131232.
+Total: 140.368800 ms (FindLiveObjects: 17.558200 ms CreateObjectMapping: 12.704200 ms MarkObjects: 81.695100 ms  DeleteObjects: 28.410600 ms)
 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 599)
-Unloading 90 unused Assets to reduce memory usage. Loaded Objects now: 140432.
-Total: 129.570200 ms (FindLiveObjects: 14.764500 ms CreateObjectMapping: 10.400000 ms MarkObjects: 103.237600 ms  DeleteObjects: 1.167500 ms)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 586)
+Unloading 61 unused Assets to reduce memory usage. Loaded Objects now: 140665.
+Total: 118.572500 ms (FindLiveObjects: 13.881000 ms CreateObjectMapping: 9.749600 ms MarkObjects: 94.135100 ms  DeleteObjects: 0.806300 ms)
 
-Started loading clips for Bone Record Bone_East_14
-Started loading clips for Bone Record Greymoor_flooded_corridor
-Started loading clips for Bone Record Understore_Map_Room
-Started loading clips for Bone Record Wisp Top
-Started loading clips for Weaver Totem Bonetown_upper_room
-Started loading clips for Weaver Totem Witch
-Started loading clips for Weaver Totem Slab_Bottom
-Started loading clips for Seal Chit Aspid_01
-Started loading clips for Seal Chit Ward Corpse
-Started loading clips for Seal Chit City Merchant
-Started loading clips for Seal Chit Silk Siphon
-Started loading clips for Weaver Record Weave_08
-Started loading clips for Weaver Record Sprint_Challenge
-Started loading clips for Weaver Record Conductor
-Started loading clips for Ancient Egg Abyss Middle
+Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
+  at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
+Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
+  at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Unloading 1 Unused Serialized files (Serialized files now loaded: 635)
+UnloadTime: 9.140700 ms
+Unloading 6451 unused Assets to reduce memory usage. Loaded Objects now: 131334.
+Total: 140.082800 ms (FindLiveObjects: 16.497000 ms CreateObjectMapping: 13.163800 ms MarkObjects: 81.189500 ms  DeleteObjects: 29.232100 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 586)
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 137073.
+Total: 116.575200 ms (FindLiveObjects: 14.089200 ms CreateObjectMapping: 8.731600 ms MarkObjects: 93.477200 ms  DeleteObjects: 0.276700 ms)
+
+Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
+  at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
+Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
+  at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
+Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
+  at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Unloading 1 Unused Serialized files (Serialized files now loaded: 661)
+UnloadTime: 7.455700 ms
+Unloading 9449 unused Assets to reduce memory usage. Loaded Objects now: 131579.
+Total: 195.507000 ms (FindLiveObjects: 17.259500 ms CreateObjectMapping: 13.221800 ms MarkObjects: 113.225200 ms  DeleteObjects: 51.800200 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 676)
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 146692.
+Total: 121.244300 ms (FindLiveObjects: 14.876900 ms CreateObjectMapping: 9.590800 ms MarkObjects: 96.224600 ms  DeleteObjects: 0.551600 ms)
+
+Could Not Create Action: : Dialogue: Churchkeeper:  (Maybe the script was removed?)
+Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
+  at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
+  at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
+Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
+Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
+Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
+Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
+Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
+Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
+Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
+Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
+Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
+Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
+  at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
+Unloading 1 Unused Serialized files (Serialized files now loaded: 617)
+Unloading 6692 unused Assets to reduce memory usage. Loaded Objects now: 137835.
+Total: 212.712100 ms (FindLiveObjects: 16.368400 ms CreateObjectMapping: 18.879800 ms MarkObjects: 124.201000 ms  DeleteObjects: 53.262400 ms)
+
+Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
+Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
+Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Could Not Create Action: : Dialogue: Churchkeeper:  (Maybe the script was removed?)
+Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
+  at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Started loading clips for Psalm Cylinder Librarian
 Started loading clips for Psalm Cylinder Ward
 Started loading clips for Psalm Cylinder Hang
@@ -220,45 +511,64 @@ Finished loading gramaphone clip for Psalm Cylinder Grindle
 Finished loading gramaphone clip for Psalm Cylinder Library Roof
 Finished loading gramaphone clip for Librarian Melody Cylinder
 Finished loading needolin clip for Librarian Melody Cylinder
-Freed clips for Bone Record Bone_East_14
-Freed clips for Bone Record Greymoor_flooded_corridor
-Freed clips for Bone Record Understore_Map_Room
-Freed clips for Bone Record Wisp Top
-Freed clips for Weaver Totem Bonetown_upper_room
-Freed clips for Weaver Totem Witch
-Freed clips for Weaver Totem Slab_Bottom
-Freed clips for Seal Chit Aspid_01
-Freed clips for Seal Chit Ward Corpse
-Freed clips for Seal Chit City Merchant
-Freed clips for Seal Chit Silk Siphon
-Freed clips for Weaver Record Weave_08
-Freed clips for Weaver Record Sprint_Challenge
-Freed clips for Weaver Record Conductor
-Freed clips for Ancient Egg Abyss Middle
+Cannot use 'linearVelocity' on a static body.
 Freed clips for Psalm Cylinder Librarian
 Freed clips for Psalm Cylinder Ward
 Freed clips for Psalm Cylinder Hang
 Freed clips for Psalm Cylinder Grindle
 Freed clips for Psalm Cylinder Library Roof
 Freed clips for Librarian Melody Cylinder
-Couldn't find transition point "door4", falling back to first available: "door5"
-Unloading 1 Unused Serialized files (Serialized files now loaded: 635)
-UnloadTime: 10.427000 ms
-Unloading 7217 unused Assets to reduce memory usage. Loaded Objects now: 130879.
-Total: 209.461100 ms (FindLiveObjects: 26.648400 ms CreateObjectMapping: 16.421100 ms MarkObjects: 127.048200 ms  DeleteObjects: 39.343100 ms)
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Cannot use 'linearVelocity' on a static body.
+Cannot set the parent of the GameObject 'Trapdoor L' while activating or deactivating the parent GameObject 'Tormented Trobbio'.
+Cannot set the parent of the GameObject 'Trapdoor R' while activating or deactivating the parent GameObject 'Tormented Trobbio'.
+Cannot use 'linearVelocity' on a static body.
+Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
+  at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
+Could Not Create Action: : Dialogue: Churchkeeper:  (Maybe the script was removed?)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 646)
+Unloading 7728 unused Assets to reduce memory usage. Loaded Objects now: 147696.
+Total: 207.158400 ms (FindLiveObjects: 16.481100 ms CreateObjectMapping: 12.379300 ms MarkObjects: 109.117000 ms  DeleteObjects: 69.180500 ms)
 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 589)
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 138629.
-Total: 125.150300 ms (FindLiveObjects: 15.309400 ms CreateObjectMapping: 10.462800 ms MarkObjects: 99.118000 ms  DeleteObjects: 0.259700 ms)
-
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
+Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
+  at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
+Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
+Cannot set the parent of the GameObject 'Trapdoor L' while activating or deactivating the parent GameObject 'Tormented Trobbio'.
+Cannot set the parent of the GameObject 'Trapdoor R' while activating or deactivating the parent GameObject 'Tormented Trobbio'.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Cannot use 'linearVelocity' on a static body.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Cannot use 'linearVelocity' on a static body.
+Cannot use 'linearVelocity' on a static body.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
 Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
   at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
@@ -268,181 +578,29 @@ Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silks
   at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
   at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
   at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Collectable Item Dummy (AudioSourceVisibilityPause) is missing it's audio source. Destroying script to prevent null ref.
-PlayOneShot was called with a null AudioClip.
-Cannot use 'linearVelocity' on a static body.
 Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
   at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
   at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
   at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Cannot use 'linearVelocity' on a static body.
-Cannot set the parent of the GameObject 'Corpse Dustroach(Clone)' while activating or deactivating the parent GameObject 'Art'.
-Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
-  at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
-  at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
-  at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
-Can not play a disabled audio source
-Cannot set the parent of the GameObject 'Pin' while activating or deactivating the parent GameObject 'Art'.
-Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
-  at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
-  at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
-  at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
-Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
-  at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
-  at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
-  at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
-Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
-  at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
-  at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
-  at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 649)
-Unloading 5996 unused Assets to reduce memory usage. Loaded Objects now: 149129.
-Total: 283.811800 ms (FindLiveObjects: 57.807100 ms CreateObjectMapping: 23.073600 ms MarkObjects: 119.064100 ms  DeleteObjects: 83.866400 ms)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 653)
+UnloadTime: 14.720000 ms
+Unloading 11916 unused Assets to reduce memory usage. Loaded Objects now: 133409.
+Total: 194.422400 ms (FindLiveObjects: 15.451100 ms CreateObjectMapping: 11.199400 ms MarkObjects: 86.754100 ms  DeleteObjects: 81.017600 ms)
 
-Cannot use 'linearVelocity' on a static body.
-Cannot use 'linearVelocity' on a static body.
-Cannot set the parent of the GameObject 'Pin' while activating or deactivating the parent GameObject 'Art'.
-Cannot set the parent of the GameObject 'Corpse Mite(Clone)' while activating or deactivating the parent GameObject 'Art'.
-Cannot use 'linearVelocity' on a static body.
-Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
-  at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
-  at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
-  at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 620)
-Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
-Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
-UnloadTime: 17.774900 ms
-Unloading 5211 unused Assets to reduce memory usage. Loaded Objects now: 131567.
-Total: 133.862000 ms (FindLiveObjects: 13.570500 ms CreateObjectMapping: 9.331800 ms MarkObjects: 79.150600 ms  DeleteObjects: 31.808700 ms)
+Unloading 0 Unused Serialized files (Serialized files now loaded: 540)
+Unloading 7483 unused Assets to reduce memory usage. Loaded Objects now: 27693.
+Total: 77.556300 ms (FindLiveObjects: 2.445000 ms CreateObjectMapping: 4.568400 ms MarkObjects: 55.568500 ms  DeleteObjects: 14.974100 ms)
 
-Unloading 0 Unused Serialized files (Serialized files now loaded: 526)
-Unloading 7522 unused Assets to reduce memory usage. Loaded Objects now: 27090.
-Total: 73.591100 ms (FindLiveObjects: 3.651100 ms CreateObjectMapping: 3.775400 ms MarkObjects: 50.386700 ms  DeleteObjects: 15.777500 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
-UnloadTime: 1.022000 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 589)
+UnloadTime: 0.469700 ms
 Loaded saved language code 'EN'
 Restored language code 'EN'
-Unloading 60 unused Assets to reduce memory usage. Loaded Objects now: 73644.
-Total: 241.706700 ms (FindLiveObjects: 11.397800 ms CreateObjectMapping: 12.547700 ms MarkObjects: 217.286900 ms  DeleteObjects: 0.473900 ms)
+Unloading 59 unused Assets to reduce memory usage. Loaded Objects now: 74212.
+Total: 78.515800 ms (FindLiveObjects: 6.392400 ms CreateObjectMapping: 7.719900 ms MarkObjects: 63.916600 ms  DeleteObjects: 0.486600 ms)
 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 578)
-Unloading 5611 unused Assets to reduce memory usage. Loaded Objects now: 68017.
-Total: 135.347200 ms (FindLiveObjects: 7.475000 ms CreateObjectMapping: 6.981500 ms MarkObjects: 104.408600 ms  DeleteObjects: 16.481800 ms)
-
-MenuButton missing flashEffect!
-Making UI menu lean.
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Unloading 1 Unused Serialized files (Serialized files now loaded: 597)
-Unloading 110 unused Assets to reduce memory usage. Loaded Objects now: 131111.
-Total: 110.211400 ms (FindLiveObjects: 13.753400 ms CreateObjectMapping: 10.382900 ms MarkObjects: 85.149200 ms  DeleteObjects: 0.925600 ms)
-
-Converting Vertex Colors from Color32 to Color.
-Converting Vertex Colors from Color32 to Color.
-Converting Vertex Colors from Color32 to Color.
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
-  at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
-  at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
-  at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 636)
-Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
-Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
-UnloadTime: 18.529200 ms
-Unloading 5751 unused Assets to reduce memory usage. Loaded Objects now: 134919.
-Total: 134.395000 ms (FindLiveObjects: 14.664500 ms CreateObjectMapping: 9.461700 ms MarkObjects: 87.441900 ms  DeleteObjects: 22.826600 ms)
-
-Unloading 0 Unused Serialized files (Serialized files now loaded: 526)
-Unloading 7488 unused Assets to reduce memory usage. Loaded Objects now: 27286.
-Total: 72.872500 ms (FindLiveObjects: 2.371800 ms CreateObjectMapping: 3.958800 ms MarkObjects: 51.746600 ms  DeleteObjects: 14.795000 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
-UnloadTime: 0.445400 ms
-Loaded saved language code 'EN'
-Restored language code 'EN'
-Unloading 57 unused Assets to reduce memory usage. Loaded Objects now: 73838.
-Total: 97.751600 ms (FindLiveObjects: 6.659600 ms CreateObjectMapping: 7.242600 ms MarkObjects: 83.602300 ms  DeleteObjects: 0.246900 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 578)
-Unloading 5611 unused Assets to reduce memory usage. Loaded Objects now: 68211.
-Total: 93.017800 ms (FindLiveObjects: 6.275500 ms CreateObjectMapping: 8.221200 ms MarkObjects: 64.390300 ms  DeleteObjects: 14.130300 ms)
-
-MenuButton missing flashEffect!
-Making UI menu lean.
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Unloading 1 Unused Serialized files (Serialized files now loaded: 597)
-Unloading 110 unused Assets to reduce memory usage. Loaded Objects now: 131305.
-Total: 120.469400 ms (FindLiveObjects: 13.367500 ms CreateObjectMapping: 12.503300 ms MarkObjects: 93.540000 ms  DeleteObjects: 1.058300 ms)
-
-Converting Vertex Colors from Color32 to Color.
-Converting Vertex Colors from Color32 to Color.
-Converting Vertex Colors from Color32 to Color.
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Cannot use 'linearVelocity' on a static body.
-Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
-  at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
-  at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
-  at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
-Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
-  at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
-  at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
-  at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 637)
-Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
-Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
-UnloadTime: 2.913200 ms
-Unloading 6066 unused Assets to reduce memory usage. Loaded Objects now: 134844.
-Total: 131.865400 ms (FindLiveObjects: 13.939100 ms CreateObjectMapping: 10.391500 ms MarkObjects: 82.365200 ms  DeleteObjects: 25.169400 ms)
-
-Unloading 0 Unused Serialized files (Serialized files now loaded: 526)
-Unloading 7465 unused Assets to reduce memory usage. Loaded Objects now: 27487.
-Total: 72.675200 ms (FindLiveObjects: 2.538900 ms CreateObjectMapping: 3.848100 ms MarkObjects: 51.262400 ms  DeleteObjects: 15.025500 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
-UnloadTime: 0.446000 ms
-Loaded saved language code 'EN'
-Restored language code 'EN'
-Unloading 60 unused Assets to reduce memory usage. Loaded Objects now: 74036.
-Total: 79.216900 ms (FindLiveObjects: 6.619200 ms CreateObjectMapping: 7.711100 ms MarkObjects: 64.413500 ms  DeleteObjects: 0.472800 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 578)
-Unloading 5612 unused Assets to reduce memory usage. Loaded Objects now: 68408.
-Total: 87.475400 ms (FindLiveObjects: 5.964400 ms CreateObjectMapping: 7.602200 ms MarkObjects: 60.332000 ms  DeleteObjects: 13.576300 ms)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 587)
+Unloading 5613 unused Assets to reduce memory usage. Loaded Objects now: 68583.
+Total: 88.558900 ms (FindLiveObjects: 7.259600 ms CreateObjectMapping: 6.821100 ms MarkObjects: 60.748800 ms  DeleteObjects: 13.729100 ms)
 
 Couldn't find a Game Manager, make sure one exists in the scene.
 Couldn't find a Game Manager, make sure one exists in the scene.
