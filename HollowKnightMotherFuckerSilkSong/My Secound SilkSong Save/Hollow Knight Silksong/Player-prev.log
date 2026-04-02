@@ -13,7 +13,7 @@ Direct3D:
     VRAM:     1999 MB
     Driver:   32.0.15.6094
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.501 seconds
+- Loaded All Assemblies, in  0.531 seconds
 - Finished resetting the current domain, in  0.004 seconds
 [Physics::Module] Selected backend.
 [Physics::Module] Name: PhysX
@@ -25,394 +25,558 @@ Begin MonoManager ReloadAssembly
 Using Windows.Gaming.Input
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.506800 ms
+UnloadTime: 0.531200 ms
 No online subsystems packaged.
 Direct3D: detected that using refresh rate causes time drift. Will stop trusting refresh rate until the game window is moved.
 Direct3D: detected that vsync is broken (it does not limit frame rate properly). Delta time will now be calculated using cpu-side time stampling until the game window is moved.
 Unloading 5 Unused Serialized files (Serialized files now loaded: 528)
-UnloadTime: 1.724200 ms
+UnloadTime: 1.462000 ms
 Discovered supported languages: DE, EN, ES, FR, IT, JA, KO, PT, RU, ZH
 Loaded saved language code 'EN'
 Restored language code 'EN'
 Couldn't find a Game Manager, make sure one exists in the scene.
 Couldn't find GameCameras, make sure one exists in the scene.
 Unloading 53 unused Assets to reduce memory usage. Loaded Objects now: 6528.
-Total: 6.721500 ms (FindLiveObjects: 0.711600 ms CreateObjectMapping: 0.801700 ms MarkObjects: 5.136000 ms  DeleteObjects: 0.067400 ms)
+Total: 9.169300 ms (FindLiveObjects: 0.565800 ms CreateObjectMapping: 0.650100 ms MarkObjects: 7.883800 ms  DeleteObjects: 0.065600 ms)
 
 Unloading 2 Unused Serialized files (Serialized files now loaded: 528)
 Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 13748.
-Total: 14.318100 ms (FindLiveObjects: 0.838700 ms CreateObjectMapping: 1.038400 ms MarkObjects: 12.380400 ms  DeleteObjects: 0.060200 ms)
+Total: 12.606200 ms (FindLiveObjects: 0.851800 ms CreateObjectMapping: 1.264300 ms MarkObjects: 10.439600 ms  DeleteObjects: 0.050000 ms)
 
 Couldn't find GameCameras, make sure one exists in the scene.
 Unloading 1 Unused Serialized files (Serialized files now loaded: 582)
 Couldn't find a Game Manager, make sure one exists in the scene.
-UnloadTime: 9.165100 ms
+UnloadTime: 12.467100 ms
 Loaded saved language code 'EN'
 Restored language code 'EN'
 Unloading 73 unused Assets to reduce memory usage. Loaded Objects now: 67446.
-Total: 51.459200 ms (FindLiveObjects: 5.666300 ms CreateObjectMapping: 6.719100 ms MarkObjects: 38.673500 ms  DeleteObjects: 0.400100 ms)
+Total: 64.300000 ms (FindLiveObjects: 7.063400 ms CreateObjectMapping: 8.373900 ms MarkObjects: 48.456000 ms  DeleteObjects: 0.406200 ms)
 
 MenuButton missing flashEffect!
 Making UI menu lean.
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Unloading 3 Unused Serialized files (Serialized files now loaded: 585)
-Unloading 114 unused Assets to reduce memory usage. Loaded Objects now: 115744.
-Total: 92.321100 ms (FindLiveObjects: 10.679000 ms CreateObjectMapping: 10.612000 ms MarkObjects: 70.181100 ms  DeleteObjects: 0.848700 ms)
+Unloading 3 Unused Serialized files (Serialized files now loaded: 617)
+Unloading 117 unused Assets to reduce memory usage. Loaded Objects now: 122415.
+Total: 129.902700 ms (FindLiveObjects: 14.588700 ms CreateObjectMapping: 14.937400 ms MarkObjects: 99.137300 ms  DeleteObjects: 1.238800 ms)
 
 Converting Vertex Colors from Color32 to Color.
 Converting Vertex Colors from Color32 to Color.
 Converting Vertex Colors from Color32 to Color.
-Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
-  at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
-  at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
-  at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
-Cannot use 'linearVelocity' on a static body.
-Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
-Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
-  at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
-  at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
-  at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
-Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
-Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
-  at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
-  at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
-  at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
-Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
-  at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
-  at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
-  at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
-Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
-Cannot use 'linearVelocity' on a static body.
-Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
-Unloading 1 Unused Serialized files (Serialized files now loaded: 633)
-UnloadTime: 14.237500 ms
-Unloading 11860 unused Assets to reduce memory usage. Loaded Objects now: 130799.
-Total: 196.543800 ms (FindLiveObjects: 16.398200 ms CreateObjectMapping: 12.570500 ms MarkObjects: 104.630000 ms  DeleteObjects: 62.944900 ms)
-
-Unloading 2 Unused Serialized files (Serialized files now loaded: 588)
-Unloading 77 unused Assets to reduce memory usage. Loaded Objects now: 134897.
-Total: 117.067900 ms (FindLiveObjects: 14.087200 ms CreateObjectMapping: 9.952800 ms MarkObjects: 91.853300 ms  DeleteObjects: 1.174000 ms)
-
-Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
-  at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
-  at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
-  at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 661)
-UnloadTime: 6.422200 ms
-Unloading 9123 unused Assets to reduce memory usage. Loaded Objects now: 129354.
-Total: 182.188100 ms (FindLiveObjects: 17.237400 ms CreateObjectMapping: 13.396400 ms MarkObjects: 101.058600 ms  DeleteObjects: 50.495400 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 658)
-Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 138942.
-Total: 104.947200 ms (FindLiveObjects: 13.605700 ms CreateObjectMapping: 9.068600 ms MarkObjects: 81.837200 ms  DeleteObjects: 0.435300 ms)
-
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
 Unloading 1 Unused Serialized files (Serialized files now loaded: 635)
-UnloadTime: 11.688100 ms
-Unloading 6452 unused Assets to reduce memory usage. Loaded Objects now: 129482.
-Total: 159.602500 ms (FindLiveObjects: 24.015500 ms CreateObjectMapping: 14.833600 ms MarkObjects: 91.157000 ms  DeleteObjects: 29.596100 ms)
+UnloadTime: 14.374200 ms
+Unloading 8987 unused Assets to reduce memory usage. Loaded Objects now: 132712.
+Total: 204.666000 ms (FindLiveObjects: 17.900000 ms CreateObjectMapping: 14.924700 ms MarkObjects: 127.127200 ms  DeleteObjects: 44.713600 ms)
 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 598)
-Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 144602.
-Total: 129.343900 ms (FindLiveObjects: 14.997300 ms CreateObjectMapping: 9.783400 ms MarkObjects: 104.280400 ms  DeleteObjects: 0.282400 ms)
+Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for archive:/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5/CAB-0f5953b2e3eceadc6ff0eb39c4e8f3c5.resource
+Unloading 2 Unused Serialized files (Serialized files now loaded: 645)
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 147877.
+Total: 153.978800 ms (FindLiveObjects: 21.348300 ms CreateObjectMapping: 11.409600 ms MarkObjects: 120.795000 ms  DeleteObjects: 0.425600 ms)
 
-Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
-Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor(Clone)(Clone)).
+Hazard Respawn Trigger v2 (10) does not have a Hazard Respawn Marker Set
 Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
-Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
-Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
-Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
-Cannot use 'linearVelocity' on a static body.
-Cannot set the parent of the GameObject 'slab_props__0042_lamp_swing_break' while activating or deactivating the parent GameObject 'Art'.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
 Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
   at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
   at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
   at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
-Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
-Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
-Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
-Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
-Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed (1)'.
-Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
-Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
-Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed (1)'.
-Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
-Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
-Cannot set the parent of the GameObject 'Patrol Point' while activating or deactivating the parent GameObject 'Pilgrim 03 Song'.
-Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Pilgrim 03 Song'.
-Can not play a disabled audio source
-Can not play a disabled audio source
-Cannot use 'linearVelocity' on a static body.
-Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
-Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
-HutongGames.PlayMaker.VibrationRegionPlayOneShot in propeller understore propeller (UnityEngine.GameObject) is missing Hero Vibration Region object
-HutongGames.PlayMaker.VibrationRegionPlayOneShot in propeller understore propeller (UnityEngine.GameObject) is missing Hero Vibration Region object
-HutongGames.PlayMaker.VibrationRegionPlayOneShot in propeller understore propeller (UnityEngine.GameObject) is missing Hero Vibration Region object
-Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
-  at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
-  at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
-  at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
-Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
-Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
-Cannot use 'linearVelocity' on a static body.
-Cannot use 'linearVelocity' on a static body.
-Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
-  at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
-  at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
-  at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
-Could Not Create Action: : Dialogue: Churchkeeper:  (Maybe the script was removed?)
-Using fallback 1 to find tilemap. Scene Bellshrine_Enclave requires manual fixing.
-Could Not Create Action: : Dialogue: Churchkeeper:  (Maybe the script was removed?)
-Couldn't find transition point "door1", falling back to first available: "left2"
-Using fallback 1 to find tilemap. Scene Bellshrine_Enclave requires manual fixing.
-Could Not Create Action: : Dialogue: Churchkeeper:  (Maybe the script was removed?)
-Couldn't find transition point "door1", falling back to first available: "left2"
-Could Not Create Action: : Dialogue: Churchkeeper:  (Maybe the script was removed?)
-Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
-  at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
-  at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
-  at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
-Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
-  at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
-  at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
-  at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Unloading 1 Unused Serialized files (Serialized files now loaded: 625)
-UnloadTime: 28.905900 ms
-Unloading 15451 unused Assets to reduce memory usage. Loaded Objects now: 132377.
-Total: 276.711400 ms (FindLiveObjects: 18.280400 ms CreateObjectMapping: 13.762800 ms MarkObjects: 111.216500 ms  DeleteObjects: 133.450900 ms)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 615)
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+UnloadTime: 9.206200 ms
+Unloading 8853 unused Assets to reduce memory usage. Loaded Objects now: 133054.
+Total: 191.025700 ms (FindLiveObjects: 17.537700 ms CreateObjectMapping: 14.238400 ms MarkObjects: 99.822300 ms  DeleteObjects: 59.426700 ms)
 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 599)
-Unloading 90 unused Assets to reduce memory usage. Loaded Objects now: 140432.
-Total: 129.570200 ms (FindLiveObjects: 14.764500 ms CreateObjectMapping: 10.400000 ms MarkObjects: 103.237600 ms  DeleteObjects: 1.167500 ms)
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 526)
+Couldn't find GameCameras, make sure one exists in the scene.
+Unloading 7201 unused Assets to reduce memory usage. Loaded Objects now: 26497.
+Total: 83.226400 ms (FindLiveObjects: 2.601900 ms CreateObjectMapping: 5.352500 ms MarkObjects: 59.621300 ms  DeleteObjects: 15.650500 ms)
 
-Started loading clips for Bone Record Bone_East_14
-Started loading clips for Bone Record Greymoor_flooded_corridor
-Started loading clips for Bone Record Understore_Map_Room
-Started loading clips for Bone Record Wisp Top
-Started loading clips for Weaver Totem Bonetown_upper_room
-Started loading clips for Weaver Totem Witch
-Started loading clips for Weaver Totem Slab_Bottom
-Started loading clips for Seal Chit Aspid_01
-Started loading clips for Seal Chit Ward Corpse
-Started loading clips for Seal Chit City Merchant
-Started loading clips for Seal Chit Silk Siphon
-Started loading clips for Weaver Record Weave_08
-Started loading clips for Weaver Record Sprint_Challenge
-Started loading clips for Weaver Record Conductor
-Started loading clips for Ancient Egg Abyss Middle
-Started loading clips for Psalm Cylinder Librarian
-Started loading clips for Psalm Cylinder Ward
-Started loading clips for Psalm Cylinder Hang
-Started loading clips for Psalm Cylinder Grindle
-Started loading clips for Psalm Cylinder Library Roof
-Started loading clips for Librarian Melody Cylinder
-Finished loading gramaphone clip for Psalm Cylinder Librarian
-Finished loading gramaphone clip for Psalm Cylinder Ward
-Finished loading gramaphone clip for Psalm Cylinder Hang
-Finished loading gramaphone clip for Psalm Cylinder Grindle
-Finished loading gramaphone clip for Psalm Cylinder Library Roof
-Finished loading gramaphone clip for Librarian Melody Cylinder
-Finished loading needolin clip for Librarian Melody Cylinder
-Freed clips for Bone Record Bone_East_14
-Freed clips for Bone Record Greymoor_flooded_corridor
-Freed clips for Bone Record Understore_Map_Room
-Freed clips for Bone Record Wisp Top
-Freed clips for Weaver Totem Bonetown_upper_room
-Freed clips for Weaver Totem Witch
-Freed clips for Weaver Totem Slab_Bottom
-Freed clips for Seal Chit Aspid_01
-Freed clips for Seal Chit Ward Corpse
-Freed clips for Seal Chit City Merchant
-Freed clips for Seal Chit Silk Siphon
-Freed clips for Weaver Record Weave_08
-Freed clips for Weaver Record Sprint_Challenge
-Freed clips for Weaver Record Conductor
-Freed clips for Ancient Egg Abyss Middle
-Freed clips for Psalm Cylinder Librarian
-Freed clips for Psalm Cylinder Ward
-Freed clips for Psalm Cylinder Hang
-Freed clips for Psalm Cylinder Grindle
-Freed clips for Psalm Cylinder Library Roof
-Freed clips for Librarian Melody Cylinder
-Couldn't find transition point "door4", falling back to first available: "door5"
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
+Couldn't find GameCameras, make sure one exists in the scene.
+UnloadTime: 1.266600 ms
+Loaded saved language code 'EN'
+Restored language code 'EN'
+Unloading 56 unused Assets to reduce memory usage. Loaded Objects now: 72789.
+Total: 89.295300 ms (FindLiveObjects: 6.295800 ms CreateObjectMapping: 10.545000 ms MarkObjects: 72.231400 ms  DeleteObjects: 0.222400 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 578)
+Unloading 5612 unused Assets to reduce memory usage. Loaded Objects now: 67161.
+Total: 130.166600 ms (FindLiveObjects: 6.710800 ms CreateObjectMapping: 8.987600 ms MarkObjects: 95.416100 ms  DeleteObjects: 19.051600 ms)
+
+MenuButton missing flashEffect!
+Making UI menu lean.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Unloading 1 Unused Serialized files (Serialized files now loaded: 617)
+Unloading 118 unused Assets to reduce memory usage. Loaded Objects now: 121163.
+Total: 122.940000 ms (FindLiveObjects: 13.926900 ms CreateObjectMapping: 11.647000 ms MarkObjects: 96.083000 ms  DeleteObjects: 1.282700 ms)
+
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
 Unloading 1 Unused Serialized files (Serialized files now loaded: 635)
-UnloadTime: 10.427000 ms
-Unloading 7217 unused Assets to reduce memory usage. Loaded Objects now: 130879.
-Total: 209.461100 ms (FindLiveObjects: 26.648400 ms CreateObjectMapping: 16.421100 ms MarkObjects: 127.048200 ms  DeleteObjects: 39.343100 ms)
+UnloadTime: 9.928700 ms
+Unloading 7513 unused Assets to reduce memory usage. Loaded Objects now: 132457.
+Total: 201.045200 ms (FindLiveObjects: 19.741400 ms CreateObjectMapping: 15.385100 ms MarkObjects: 128.654600 ms  DeleteObjects: 37.263500 ms)
 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 589)
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 138629.
-Total: 125.150300 ms (FindLiveObjects: 15.309400 ms CreateObjectMapping: 10.462800 ms MarkObjects: 99.118000 ms  DeleteObjects: 0.259700 ms)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 645)
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 147622.
+Total: 174.279100 ms (FindLiveObjects: 26.553800 ms CreateObjectMapping: 14.227600 ms MarkObjects: 132.895300 ms  DeleteObjects: 0.602100 ms)
 
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
-Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
-  at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
-  at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
-  at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
-Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
-  at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
-  at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
-  at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Collectable Item Dummy (AudioSourceVisibilityPause) is missing it's audio source. Destroying script to prevent null ref.
-PlayOneShot was called with a null AudioClip.
-Cannot use 'linearVelocity' on a static body.
-Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
-  at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
-  at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
-  at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
 Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
 Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
 Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
 Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
 Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
 Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Cannot use 'linearVelocity' on a static body.
-Cannot set the parent of the GameObject 'Corpse Dustroach(Clone)' while activating or deactivating the parent GameObject 'Art'.
-Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
-  at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
-  at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
-  at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
-Can not play a disabled audio source
-Cannot set the parent of the GameObject 'Pin' while activating or deactivating the parent GameObject 'Art'.
-Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
-  at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
-  at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
-  at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
-Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
-  at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
-  at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
-  at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
-Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
-  at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
-  at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
-  at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 649)
-Unloading 5996 unused Assets to reduce memory usage. Loaded Objects now: 149129.
-Total: 283.811800 ms (FindLiveObjects: 57.807100 ms CreateObjectMapping: 23.073600 ms MarkObjects: 119.064100 ms  DeleteObjects: 83.866400 ms)
-
+Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
 Cannot use 'linearVelocity' on a static body.
 Cannot use 'linearVelocity' on a static body.
-Cannot set the parent of the GameObject 'Pin' while activating or deactivating the parent GameObject 'Art'.
-Cannot set the parent of the GameObject 'Corpse Mite(Clone)' while activating or deactivating the parent GameObject 'Art'.
+Cannot use 'linearVelocity' on a static body.
+Cannot use 'linearVelocity' on a static body.
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
+  at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
+Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
+Cannot use 'linearVelocity' on a static body.
+Cannot use 'linearVelocity' on a static body.
+Cannot use 'linearVelocity' on a static body.
 Cannot use 'linearVelocity' on a static body.
 Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
   at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
   at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
   at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 620)
-Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
-Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
-UnloadTime: 17.774900 ms
-Unloading 5211 unused Assets to reduce memory usage. Loaded Objects now: 131567.
-Total: 133.862000 ms (FindLiveObjects: 13.570500 ms CreateObjectMapping: 9.331800 ms MarkObjects: 79.150600 ms  DeleteObjects: 31.808700 ms)
-
-Unloading 0 Unused Serialized files (Serialized files now loaded: 526)
-Unloading 7522 unused Assets to reduce memory usage. Loaded Objects now: 27090.
-Total: 73.591100 ms (FindLiveObjects: 3.651100 ms CreateObjectMapping: 3.775400 ms MarkObjects: 50.386700 ms  DeleteObjects: 15.777500 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
-UnloadTime: 1.022000 ms
-Loaded saved language code 'EN'
-Restored language code 'EN'
-Unloading 60 unused Assets to reduce memory usage. Loaded Objects now: 73644.
-Total: 241.706700 ms (FindLiveObjects: 11.397800 ms CreateObjectMapping: 12.547700 ms MarkObjects: 217.286900 ms  DeleteObjects: 0.473900 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 578)
-Unloading 5611 unused Assets to reduce memory usage. Loaded Objects now: 68017.
-Total: 135.347200 ms (FindLiveObjects: 7.475000 ms CreateObjectMapping: 6.981500 ms MarkObjects: 104.408600 ms  DeleteObjects: 16.481800 ms)
-
-MenuButton missing flashEffect!
-Making UI menu lean.
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Unloading 1 Unused Serialized files (Serialized files now loaded: 597)
-Unloading 110 unused Assets to reduce memory usage. Loaded Objects now: 131111.
-Total: 110.211400 ms (FindLiveObjects: 13.753400 ms CreateObjectMapping: 10.382900 ms MarkObjects: 85.149200 ms  DeleteObjects: 0.925600 ms)
-
-Converting Vertex Colors from Color32 to Color.
-Converting Vertex Colors from Color32 to Color.
-Converting Vertex Colors from Color32 to Color.
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
+Cannot use 'linearVelocity' on a static body.
+Cannot use 'linearVelocity' on a static body.
+Cannot use 'linearVelocity' on a static body.
+Cannot use 'linearVelocity' on a static body.
 Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
   at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
   at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
   at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 636)
-Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
-Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
-UnloadTime: 18.529200 ms
-Unloading 5751 unused Assets to reduce memory usage. Loaded Objects now: 134919.
-Total: 134.395000 ms (FindLiveObjects: 14.664500 ms CreateObjectMapping: 9.461700 ms MarkObjects: 87.441900 ms  DeleteObjects: 22.826600 ms)
-
-Unloading 0 Unused Serialized files (Serialized files now loaded: 526)
-Unloading 7488 unused Assets to reduce memory usage. Loaded Objects now: 27286.
-Total: 72.872500 ms (FindLiveObjects: 2.371800 ms CreateObjectMapping: 3.958800 ms MarkObjects: 51.746600 ms  DeleteObjects: 14.795000 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
-UnloadTime: 0.445400 ms
-Loaded saved language code 'EN'
-Restored language code 'EN'
-Unloading 57 unused Assets to reduce memory usage. Loaded Objects now: 73838.
-Total: 97.751600 ms (FindLiveObjects: 6.659600 ms CreateObjectMapping: 7.242600 ms MarkObjects: 83.602300 ms  DeleteObjects: 0.246900 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 578)
-Unloading 5611 unused Assets to reduce memory usage. Loaded Objects now: 68211.
-Total: 93.017800 ms (FindLiveObjects: 6.275500 ms CreateObjectMapping: 8.221200 ms MarkObjects: 64.390300 ms  DeleteObjects: 14.130300 ms)
-
-MenuButton missing flashEffect!
-Making UI menu lean.
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Unloading 1 Unused Serialized files (Serialized files now loaded: 597)
-Unloading 110 unused Assets to reduce memory usage. Loaded Objects now: 131305.
-Total: 120.469400 ms (FindLiveObjects: 13.367500 ms CreateObjectMapping: 12.503300 ms MarkObjects: 93.540000 ms  DeleteObjects: 1.058300 ms)
-
-Converting Vertex Colors from Color32 to Color.
-Converting Vertex Colors from Color32 to Color.
-Converting Vertex Colors from Color32 to Color.
 Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
 Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
 Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.63 for ﻢﻠﻌﺗ
+Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
+Cannot use 'linearVelocity' on a static body.
+Cannot use 'linearVelocity' on a static body.
 Cannot use 'linearVelocity' on a static body.
 Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
   at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
@@ -422,41 +586,11 @@ Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silks
   at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
   at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
   at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 637)
-Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
-Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
-UnloadTime: 2.913200 ms
-Unloading 6066 unused Assets to reduce memory usage. Loaded Objects now: 134844.
-Total: 131.865400 ms (FindLiveObjects: 13.939100 ms CreateObjectMapping: 10.391500 ms MarkObjects: 82.365200 ms  DeleteObjects: 25.169400 ms)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 613)
+UnloadTime: 18.289600 ms
+Unloading 6742 unused Assets to reduce memory usage. Loaded Objects now: 133412.
+Total: 226.730600 ms (FindLiveObjects: 17.289300 ms CreateObjectMapping: 12.686300 ms MarkObjects: 156.140000 ms  DeleteObjects: 40.613200 ms)
 
-Unloading 0 Unused Serialized files (Serialized files now loaded: 526)
-Unloading 7465 unused Assets to reduce memory usage. Loaded Objects now: 27487.
-Total: 72.675200 ms (FindLiveObjects: 2.538900 ms CreateObjectMapping: 3.848100 ms MarkObjects: 51.262400 ms  DeleteObjects: 15.025500 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
-UnloadTime: 0.446000 ms
-Loaded saved language code 'EN'
-Restored language code 'EN'
-Unloading 60 unused Assets to reduce memory usage. Loaded Objects now: 74036.
-Total: 79.216900 ms (FindLiveObjects: 6.619200 ms CreateObjectMapping: 7.711100 ms MarkObjects: 64.413500 ms  DeleteObjects: 0.472800 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 578)
-Unloading 5612 unused Assets to reduce memory usage. Loaded Objects now: 68408.
-Total: 87.475400 ms (FindLiveObjects: 5.964400 ms CreateObjectMapping: 7.602200 ms MarkObjects: 60.332000 ms  DeleteObjects: 13.576300 ms)
-
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
 Couldn't find a Game Manager, make sure one exists in the scene.
 Couldn't find a Game Manager, make sure one exists in the scene.
 [Physics::Module] Cleanup current backned.
