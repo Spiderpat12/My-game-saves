@@ -1,0 +1,512 @@
+Mono path[0] = 'E:/Games/AdventureGames/Hollow-Knight-Silksong/Hollow Knight Silksong/Hollow Knight Silksong_Data/Managed'
+Mono config path = 'E:/Games/AdventureGames/Hollow-Knight-Silksong/Hollow Knight Silksong/MonoBleedingEdge/etc'
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Initialize engine version: 6000.0.50f1-uum-100966-branch1 (16f07294548e)
+[Subsystems] Discovering subsystems at path E:/Games/AdventureGames/Hollow-Knight-Silksong/Hollow Knight Silksong/Hollow Knight Silksong_Data/UnitySubsystems
+GfxDevice: creating device client; kGfxThreadingModeThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 750 Ti (ID=0x1380)
+    Vendor:   NVIDIA
+    VRAM:     1999 MB
+    Driver:   32.0.15.6094
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.512 seconds
+- Finished resetting the current domain, in  0.003 seconds
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+<RI> Initializing input.
+Using Windows.Gaming.Input
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.598000 ms
+No online subsystems packaged.
+Direct3D: detected that using refresh rate causes time drift. Will stop trusting refresh rate until the game window is moved.
+Direct3D: detected that vsync is broken (it does not limit frame rate properly). Delta time will now be calculated using cpu-side time stampling until the game window is moved.
+Unloading 5 Unused Serialized files (Serialized files now loaded: 528)
+UnloadTime: 1.456800 ms
+Discovered supported languages: DE, EN, ES, FR, IT, JA, KO, PT, RU, ZH
+Loaded saved language code 'EN'
+Restored language code 'EN'
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Unloading 53 unused Assets to reduce memory usage. Loaded Objects now: 6528.
+Total: 5.237900 ms (FindLiveObjects: 0.485300 ms CreateObjectMapping: 0.257700 ms MarkObjects: 4.432100 ms  DeleteObjects: 0.058800 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 528)
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 13748.
+Total: 8.238800 ms (FindLiveObjects: 0.830000 ms CreateObjectMapping: 0.628100 ms MarkObjects: 6.735700 ms  DeleteObjects: 0.044600 ms)
+
+Couldn't find GameCameras, make sure one exists in the scene.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 582)
+Couldn't find a Game Manager, make sure one exists in the scene.
+UnloadTime: 9.551400 ms
+Loaded saved language code 'EN'
+Restored language code 'EN'
+Unloading 73 unused Assets to reduce memory usage. Loaded Objects now: 67446.
+Total: 52.050500 ms (FindLiveObjects: 5.694800 ms CreateObjectMapping: 7.028800 ms MarkObjects: 38.914000 ms  DeleteObjects: 0.412700 ms)
+
+MenuButton missing flashEffect!
+Making UI menu lean.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Unloading 3 Unused Serialized files (Serialized files now loaded: 617)
+Unloading 115 unused Assets to reduce memory usage. Loaded Objects now: 121950.
+Total: 116.879000 ms (FindLiveObjects: 11.826900 ms CreateObjectMapping: 11.474300 ms MarkObjects: 92.711600 ms  DeleteObjects: 0.865800 ms)
+
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 635)
+UnloadTime: 10.681800 ms
+Unloading 8989 unused Assets to reduce memory usage. Loaded Objects now: 133832.
+Total: 148.520600 ms (FindLiveObjects: 14.561800 ms CreateObjectMapping: 13.238800 ms MarkObjects: 89.223700 ms  DeleteObjects: 31.496000 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 640)
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 141677.
+Total: 117.515500 ms (FindLiveObjects: 13.722500 ms CreateObjectMapping: 10.288500 ms MarkObjects: 93.071600 ms  DeleteObjects: 0.432700 ms)
+
+Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
+  at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Can not play a disabled audio source
+Can not play a disabled audio source
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Couldn't get collider for recoil, trying children...
+Couldn't get collider for recoil, trying children...
+Couldn't get collider for recoil, trying children...
+Couldn't get collider for recoil, trying children...
+Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
+  at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
+Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
+  at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
+Unloading 1 Unused Serialized files (Serialized files now loaded: 625)
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+UnloadTime: 11.856700 ms
+Unloading 6894 unused Assets to reduce memory usage. Loaded Objects now: 135430.
+Total: 182.745100 ms (FindLiveObjects: 16.830500 ms CreateObjectMapping: 11.467900 ms MarkObjects: 130.605200 ms  DeleteObjects: 23.841200 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 526)
+Unloading 7107 unused Assets to reduce memory usage. Loaded Objects now: 26970.
+Total: 111.343800 ms (FindLiveObjects: 2.792400 ms CreateObjectMapping: 4.694100 ms MarkObjects: 63.890200 ms  DeleteObjects: 39.966800 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
+UnloadTime: 1.316900 ms
+Loaded saved language code 'EN'
+Restored language code 'EN'
+Unloading 55 unused Assets to reduce memory usage. Loaded Objects now: 73124.
+Total: 84.562000 ms (FindLiveObjects: 6.357200 ms CreateObjectMapping: 7.681300 ms MarkObjects: 70.107500 ms  DeleteObjects: 0.415700 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 578)
+Unloading 5591 unused Assets to reduce memory usage. Loaded Objects now: 67517.
+Total: 90.278400 ms (FindLiveObjects: 6.316000 ms CreateObjectMapping: 8.267000 ms MarkObjects: 62.407600 ms  DeleteObjects: 13.287500 ms)
+
+MenuButton missing flashEffect!
+Making UI menu lean.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Unloading 1 Unused Serialized files (Serialized files now loaded: 592)
+Unloading 282 unused Assets to reduce memory usage. Loaded Objects now: 112472.
+Total: 106.507900 ms (FindLiveObjects: 10.047500 ms CreateObjectMapping: 9.519000 ms MarkObjects: 85.755100 ms  DeleteObjects: 1.185900 ms)
+
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 598)
+UnloadTime: 6.308500 ms
+Unloading 4602 unused Assets to reduce memory usage. Loaded Objects now: 134506.
+Total: 138.713200 ms (FindLiveObjects: 13.963800 ms CreateObjectMapping: 10.466600 ms MarkObjects: 103.264500 ms  DeleteObjects: 11.017800 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 612)
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 149466.
+Total: 130.711500 ms (FindLiveObjects: 14.396100 ms CreateObjectMapping: 11.458500 ms MarkObjects: 104.159100 ms  DeleteObjects: 0.697400 ms)
+
+Could Not Create Action: : Dialogue: Churchkeeper:  (Maybe the script was removed?)
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Sprite not found attached to tk2dSpriteAnimator.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
+  at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
+Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
+  at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
+Unloading 1 Unused Serialized files (Serialized files now loaded: 619)
+UnloadTime: 12.101200 ms
+Unloading 10383 unused Assets to reduce memory usage. Loaded Objects now: 136495.
+Total: 158.622800 ms (FindLiveObjects: 16.832500 ms CreateObjectMapping: 10.662300 ms MarkObjects: 90.064600 ms  DeleteObjects: 41.062900 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 526)
+Unloading 6930 unused Assets to reduce memory usage. Loaded Objects now: 28069.
+Total: 82.259900 ms (FindLiveObjects: 2.532200 ms CreateObjectMapping: 4.616500 ms MarkObjects: 61.263600 ms  DeleteObjects: 13.847300 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
+UnloadTime: 0.676900 ms
+Loaded saved language code 'EN'
+Restored language code 'EN'
+Unloading 916 unused Assets to reduce memory usage. Loaded Objects now: 73358.
+Total: 79.592200 ms (FindLiveObjects: 6.547300 ms CreateObjectMapping: 7.759200 ms MarkObjects: 60.945500 ms  DeleteObjects: 4.339700 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 578)
+Unloading 5597 unused Assets to reduce memory usage. Loaded Objects now: 67745.
+Total: 84.828800 ms (FindLiveObjects: 6.803800 ms CreateObjectMapping: 7.690900 ms MarkObjects: 56.507000 ms  DeleteObjects: 13.826800 ms)
+
+MenuButton missing flashEffect!
+Making UI menu lean.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Unloading 1 Unused Serialized files (Serialized files now loaded: 592)
+Unloading 282 unused Assets to reduce memory usage. Loaded Objects now: 112700.
+Total: 110.974900 ms (FindLiveObjects: 10.672600 ms CreateObjectMapping: 10.263100 ms MarkObjects: 88.757400 ms  DeleteObjects: 1.281100 ms)
+
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 598)
+UnloadTime: 6.296400 ms
+Unloading 4613 unused Assets to reduce memory usage. Loaded Objects now: 135497.
+Total: 166.912800 ms (FindLiveObjects: 15.282800 ms CreateObjectMapping: 11.535200 ms MarkObjects: 128.686800 ms  DeleteObjects: 11.407500 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 612)
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 150469.
+Total: 120.845100 ms (FindLiveObjects: 14.164700 ms CreateObjectMapping: 10.206300 ms MarkObjects: 96.155000 ms  DeleteObjects: 0.318600 ms)
+
+Could Not Create Action: : Dialogue: Churchkeeper:  (Maybe the script was removed?)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 630)
+UnloadTime: 13.176300 ms
+Unloading 7417 unused Assets to reduce memory usage. Loaded Objects now: 135591.
+Total: 151.912900 ms (FindLiveObjects: 16.257200 ms CreateObjectMapping: 11.851500 ms MarkObjects: 98.363600 ms  DeleteObjects: 25.440200 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 609)
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 147329.
+Total: 121.315500 ms (FindLiveObjects: 14.272100 ms CreateObjectMapping: 10.463200 ms MarkObjects: 95.541100 ms  DeleteObjects: 1.038700 ms)
+
+Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
+  at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
+Can not play a disabled audio source
+Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
+  at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
+Cannot use 'linearVelocity' on a static body.
+Couldn't find transition point "door1", falling back to first available: "bot1"
+Can not play a disabled audio source
+Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
+  at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
+Unloading 1 Unused Serialized files (Serialized files now loaded: 616)
+UnloadTime: 9.252300 ms
+Unloading 8863 unused Assets to reduce memory usage. Loaded Objects now: 140370.
+Total: 188.689600 ms (FindLiveObjects: 17.200800 ms CreateObjectMapping: 12.253800 ms MarkObjects: 116.789500 ms  DeleteObjects: 42.444800 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 609)
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 151274.
+Total: 154.238500 ms (FindLiveObjects: 15.237500 ms CreateObjectMapping: 10.766000 ms MarkObjects: 124.916900 ms  DeleteObjects: 3.317300 ms)
+
+Could Not Create Action: : Dialogue: Churchkeeper:  (Maybe the script was removed?)
+Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
+  at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
+Unloading 1 Unused Serialized files (Serialized files now loaded: 630)
+UnloadTime: 13.652100 ms
+Unloading 7427 unused Assets to reduce memory usage. Loaded Objects now: 136456.
+Total: 162.140000 ms (FindLiveObjects: 15.497800 ms CreateObjectMapping: 10.550700 ms MarkObjects: 107.204100 ms  DeleteObjects: 28.886800 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 598)
+Unloading 72 unused Assets to reduce memory usage. Loaded Objects now: 145735.
+Total: 149.134500 ms (FindLiveObjects: 15.656400 ms CreateObjectMapping: 10.372400 ms MarkObjects: 122.464700 ms  DeleteObjects: 0.640600 ms)
+
+Started loading clips for Bone Record Bone_East_14
+Started loading clips for Bone Record Greymoor_flooded_corridor
+Started loading clips for Bone Record Understore_Map_Room
+Started loading clips for Bone Record Wisp Top
+Started loading clips for Weaver Totem Bonetown_upper_room
+Started loading clips for Weaver Totem Witch
+Started loading clips for Weaver Totem Slab_Bottom
+Started loading clips for Seal Chit Aspid_01
+Started loading clips for Seal Chit Ward Corpse
+Started loading clips for Seal Chit City Merchant
+Started loading clips for Seal Chit Silk Siphon
+Started loading clips for Weaver Record Weave_08
+Started loading clips for Weaver Record Sprint_Challenge
+Started loading clips for Weaver Record Conductor
+Started loading clips for Ancient Egg Abyss Middle
+Started loading clips for Psalm Cylinder Librarian
+Started loading clips for Psalm Cylinder Ward
+Started loading clips for Psalm Cylinder Hang
+Started loading clips for Psalm Cylinder Grindle
+Started loading clips for Psalm Cylinder Library Roof
+Started loading clips for Librarian Melody Cylinder
+Finished loading gramaphone clip for Psalm Cylinder Librarian
+Finished loading gramaphone clip for Psalm Cylinder Ward
+Finished loading gramaphone clip for Psalm Cylinder Hang
+Finished loading gramaphone clip for Psalm Cylinder Grindle
+Finished loading gramaphone clip for Psalm Cylinder Library Roof
+Finished loading gramaphone clip for Librarian Melody Cylinder
+Finished loading needolin clip for Librarian Melody Cylinder
+Freed clips for Bone Record Bone_East_14
+Freed clips for Bone Record Greymoor_flooded_corridor
+Freed clips for Bone Record Understore_Map_Room
+Freed clips for Bone Record Wisp Top
+Freed clips for Weaver Totem Bonetown_upper_room
+Freed clips for Weaver Totem Witch
+Freed clips for Weaver Totem Slab_Bottom
+Freed clips for Seal Chit Aspid_01
+Freed clips for Seal Chit Ward Corpse
+Freed clips for Seal Chit City Merchant
+Freed clips for Seal Chit Silk Siphon
+Freed clips for Weaver Record Weave_08
+Freed clips for Weaver Record Sprint_Challenge
+Freed clips for Weaver Record Conductor
+Freed clips for Ancient Egg Abyss Middle
+Freed clips for Psalm Cylinder Librarian
+Freed clips for Psalm Cylinder Ward
+Freed clips for Psalm Cylinder Hang
+Freed clips for Psalm Cylinder Grindle
+Freed clips for Psalm Cylinder Library Roof
+Freed clips for Librarian Melody Cylinder
+Couldn't find transition point "door4", falling back to first available: "door5"
+Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
+  at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
+Unloading 1 Unused Serialized files (Serialized files now loaded: 635)
+UnloadTime: 9.053400 ms
+Unloading 7467 unused Assets to reduce memory usage. Loaded Objects now: 136247.
+Total: 173.534700 ms (FindLiveObjects: 16.249800 ms CreateObjectMapping: 11.570800 ms MarkObjects: 109.737900 ms  DeleteObjects: 35.975800 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 586)
+Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 141931.
+Total: 133.054900 ms (FindLiveObjects: 15.116500 ms CreateObjectMapping: 9.813700 ms MarkObjects: 107.583500 ms  DeleteObjects: 0.540900 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 661)
+UnloadTime: 6.650100 ms
+Unloading 6616 unused Assets to reduce memory usage. Loaded Objects now: 136498.
+Total: 175.813300 ms (FindLiveObjects: 17.390100 ms CreateObjectMapping: 11.581100 ms MarkObjects: 108.628600 ms  DeleteObjects: 38.213000 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 592)
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 146701.
+Total: 131.700800 ms (FindLiveObjects: 14.875800 ms CreateObjectMapping: 10.213400 ms MarkObjects: 106.169000 ms  DeleteObjects: 0.442400 ms)
+
+Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
+Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
+Hazard Respawn Trigger v2 (12) does not have a Hazard Respawn Marker Set
+Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
+  at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
+Error Loading Action: Idle : HutongGames.PlayMaker.Actions.CheckHeroPerformanceRegion : MinReactDelay
+System.ArgumentOutOfRangeException: Non-negative number required.
+Parameter name: count
+  at System.Text.UTF8Encoding.GetString (System.Byte[] bytes, System.Int32 index, System.Int32 count) [0x0001b] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at HutongGames.PlayMaker.FsmUtility.ByteArrayToFsmFloat (HutongGames.PlayMaker.Fsm fsm, System.Byte[] bytes, System.Int32 startIndex, System.Int32 totalLength) [0x00005] in <46c7fbbaa3a1440d8ba53ce9dd09b77b>:0 
+  at HutongGames.PlayMaker.ActionData.GetFsmFloat (HutongGames.PlayMaker.Fsm fsm, System.Int32 paramIndex) [0x000d2] in <46c7fbbaa3a1440d8ba53ce9dd09b77b>:0 
+  at HutongGames.PlayMaker.ActionData.LoadActionField (HutongGames.PlayMaker.Fsm fsm, System.Object obj, System.Reflection.FieldInfo field, System.Int32 paramIndex) [0x0009c] in <46c7fbbaa3a1440d8ba53ce9dd09b77b>:0 
+  at HutongGames.PlayMaker.ActionData.CreateAction (HutongGames.PlayMaker.ActionData+Context context, System.Int32 actionIndex) [0x00260] in <46c7fbbaa3a1440d8ba53ce9dd09b77b>:0 
+Error Loading Action: Idle : HutongGames.PlayMaker.Actions.IdleBuzzV3 : waitMin
+System.ArgumentOutOfRangeException: Non-negative number required.
+Parameter name: count
+  at System.Text.UTF8Encoding.GetString (System.Byte[] bytes, System.Int32 index, System.Int32 count) [0x0001b] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at HutongGames.PlayMaker.FsmUtility.ByteArrayToFsmFloat (HutongGames.PlayMaker.Fsm fsm, System.Byte[] bytes, System.Int32 startIndex, System.Int32 totalLength) [0x00005] in <46c7fbbaa3a1440d8ba53ce9dd09b77b>:0 
+  at HutongGames.PlayMaker.ActionData.GetFsmFloat (HutongGames.PlayMaker.Fsm fsm, System.Int32 paramIndex) [0x000d2] in <46c7fbbaa3a1440d8ba53ce9dd09b77b>:0 
+  at HutongGames.PlayMaker.ActionData.LoadActionField (HutongGames.PlayMaker.Fsm fsm, System.Object obj, System.Reflection.FieldInfo field, System.Int32 paramIndex) [0x0009c] in <46c7fbbaa3a1440d8ba53ce9dd09b77b>:0 
+  at HutongGames.PlayMaker.ActionData.CreateAction (HutongGames.PlayMaker.ActionData+Context context, System.Int32 actionIndex) [0x00260] in <46c7fbbaa3a1440d8ba53ce9dd09b77b>:0 
+Error Loading Action: Idle : HutongGames.PlayMaker.Actions.IdleBuzzV3 : waitMax
+System.ArgumentOutOfRangeException: Non-negative number required.
+Parameter name: count
+  at System.Text.UTF8Encoding.GetString (System.Byte[] bytes, System.Int32 index, System.Int32 count) [0x0001b] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at HutongGames.PlayMaker.FsmUtility.ByteArrayToFsmFloat (HutongGames.PlayMaker.Fsm fsm, System.Byte[] bytes, System.Int32 startIndex, System.Int32 totalLength) [0x00005] in <46c7fbbaa3a1440d8ba53ce9dd09b77b>:0 
+  at HutongGames.PlayMaker.ActionData.GetFsmFloat (HutongGames.PlayMaker.Fsm fsm, System.Int32 paramIndex) [0x000d2] in <46c7fbbaa3a1440d8ba53ce9dd09b77b>:0 
+  at HutongGames.PlayMaker.ActionData.LoadActionField (HutongGames.PlayMaker.Fsm fsm, System.Object obj, System.Reflection.FieldInfo field, System.Int32 paramIndex) [0x0009c] in <46c7fbbaa3a1440d8ba53ce9dd09b77b>:0 
+  at HutongGames.PlayMaker.ActionData.CreateAction (HutongGames.PlayMaker.ActionData+Context context, System.Int32 actionIndex) [0x00260] in <46c7fbbaa3a1440d8ba53ce9dd09b77b>:0 
+Error Loading Action: Idle : HutongGames.PlayMaker.Actions.IdleBuzzV3 : speedMax
+System.ArgumentOutOfRangeException: Non-negative number required.
+Parameter name: count
+  at System.Text.UTF8Encoding.GetString (System.Byte[] bytes, System.Int32 index, System.Int32 count) [0x0001b] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at HutongGames.PlayMaker.FsmUtility.ByteArrayToFsmFloat (HutongGames.PlayMaker.Fsm fsm, System.Byte[] bytes, System.Int32 startIndex, System.Int32 totalLength) [0x00005] in <46c7fbbaa3a1440d8ba53ce9dd09b77b>:0 
+  at HutongGames.PlayMaker.ActionData.GetFsmFloat (HutongGames.PlayMaker.Fsm fsm, System.Int32 paramIndex) [0x000d2] in <46c7fbbaa3a1440d8ba53ce9dd09b77b>:0 
+  at HutongGames.PlayMaker.ActionData.LoadActionField (HutongGames.PlayMaker.Fsm fsm, System.Object obj, System.Reflection.FieldInfo field, System.Int32 paramIndex) [0x0009c] in <46c7fbbaa3a1440d8ba53ce9dd09b77b>:0 
+  at HutongGames.PlayMaker.ActionData.CreateAction (HutongGames.PlayMaker.ActionData+Context context, System.Int32 actionIndex) [0x00260] in <46c7fbbaa3a1440d8ba53ce9dd09b77b>:0 
+Error Loading Action: Idle : HutongGames.PlayMaker.Actions.IdleBuzzV3 : accelerationMin
+System.ArgumentOutOfRangeException: Non-negative number required.
+Parameter name: count
+  at System.Text.UTF8Encoding.GetString (System.Byte[] bytes, System.Int32 index, System.Int32 count) [0x0001b] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at HutongGames.PlayMaker.FsmUtility.ByteArrayToFsmFloat (HutongGames.PlayMaker.Fsm fsm, System.Byte[] bytes, System.Int32 startIndex, System.Int32 totalLength) [0x00005] in <46c7fbbaa3a1440d8ba53ce9dd09b77b>:0 
+  at HutongGames.PlayMaker.ActionData.GetFsmFloat (HutongGames.PlayMaker.Fsm fsm, System.Int32 paramIndex) [0x000d2] in <46c7fbbaa3a1440d8ba53ce9dd09b77b>:0 
+  at HutongGames.PlayMaker.ActionData.LoadActionField (HutongGames.PlayMaker.Fsm fsm, System.Object obj, System.Reflection.FieldInfo field, System.Int32 paramIndex) [0x0009c] in <46c7fbbaa3a1440d8ba53ce9dd09b77b>:0 
+  at HutongGames.PlayMaker.ActionData.CreateAction (HutongGames.PlayMaker.ActionData+Context context, System.Int32 actionIndex) [0x00260] in <46c7fbbaa3a1440d8ba53ce9dd09b77b>:0 
+Error Loading Action: Idle : HutongGames.PlayMaker.Actions.IdleBuzzV3 : roamingRangeX
+System.ArgumentOutOfRangeException: Non-negative number required.
+Parameter name: count
+  at System.Text.UTF8Encoding.GetString (System.Byte[] bytes, System.Int32 index, System.Int32 count) [0x0001b] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at HutongGames.PlayMaker.FsmUtility.ByteArrayToFsmFloat (HutongGames.PlayMaker.Fsm fsm, System.Byte[] bytes, System.Int32 startIndex, System.Int32 totalLength) [0x00005] in <46c7fbbaa3a1440d8ba53ce9dd09b77b>:0 
+  at HutongGames.PlayMaker.ActionData.GetFsmFloat (HutongGames.PlayMaker.Fsm fsm, System.Int32 paramIndex) [0x000d2] in <46c7fbbaa3a1440d8ba53ce9dd09b77b>:0 
+  at HutongGames.PlayMaker.ActionData.LoadActionField (HutongGames.PlayMaker.Fsm fsm, System.Object obj, System.Reflection.FieldInfo field, System.Int32 paramIndex) [0x0009c] in <46c7fbbaa3a1440d8ba53ce9dd09b77b>:0 
+  at HutongGames.PlayMaker.ActionData.CreateAction (HutongGames.PlayMaker.ActionData+Context context, System.Int32 actionIndex) [0x00260] in <46c7fbbaa3a1440d8ba53ce9dd09b77b>:0 
+Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
+  at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
+Cannot use 'linearVelocity' on a static body.
+Cannot use 'linearVelocity' on a static body.
+Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
+  at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
+Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
+Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
+Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
+Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
+  at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
+Unloading 1 Unused Serialized files (Serialized files now loaded: 645)
+UnloadTime: 8.861400 ms
+Unloading 12235 unused Assets to reduce memory usage. Loaded Objects now: 137352.
+Total: 202.152000 ms (FindLiveObjects: 16.517800 ms CreateObjectMapping: 11.987100 ms MarkObjects: 101.056200 ms  DeleteObjects: 72.590500 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 607)
+Unloading 39 unused Assets to reduce memory usage. Loaded Objects now: 151704.
+Total: 126.804800 ms (FindLiveObjects: 15.887200 ms CreateObjectMapping: 10.646900 ms MarkObjects: 99.713400 ms  DeleteObjects: 0.557000 ms)
+
+Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
+  at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
+  at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
+Unloading 1 Unused Serialized files (Serialized files now loaded: 635)
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+UnloadTime: 13.649600 ms
+Unloading 7888 unused Assets to reduce memory usage. Loaded Objects now: 136987.
+Total: 129.456200 ms (FindLiveObjects: 14.562500 ms CreateObjectMapping: 11.016300 ms MarkObjects: 80.014700 ms  DeleteObjects: 23.862400 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 526)
+Unloading 7010 unused Assets to reduce memory usage. Loaded Objects now: 27764.
+Total: 75.807100 ms (FindLiveObjects: 2.770800 ms CreateObjectMapping: 3.795700 ms MarkObjects: 55.242700 ms  DeleteObjects: 13.997400 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
+UnloadTime: 0.496000 ms
+Loaded saved language code 'EN'
+Restored language code 'EN'
+Unloading 60 unused Assets to reduce memory usage. Loaded Objects now: 73823.
+Total: 79.953500 ms (FindLiveObjects: 6.117700 ms CreateObjectMapping: 6.996900 ms MarkObjects: 66.382100 ms  DeleteObjects: 0.456600 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 578)
+Unloading 5594 unused Assets to reduce memory usage. Loaded Objects now: 68213.
+Total: 84.850400 ms (FindLiveObjects: 6.591600 ms CreateObjectMapping: 7.056000 ms MarkObjects: 56.885300 ms  DeleteObjects: 14.317200 ms)
+
+MenuButton missing flashEffect!
+Making UI menu lean.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Unloading 1 Unused Serialized files (Serialized files now loaded: 608)
+Unloading 655 unused Assets to reduce memory usage. Loaded Objects now: 122525.
+Total: 96.249500 ms (FindLiveObjects: 12.395300 ms CreateObjectMapping: 10.843700 ms MarkObjects: 70.944000 ms  DeleteObjects: 2.065700 ms)
+
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Could Not Create Action: : Dialogue: Churchkeeper:  (Maybe the script was removed?)
+Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
+  at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
+Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
+  at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
+Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
+  at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
+Unloading 1 Unused Serialized files (Serialized files now loaded: 633)
+Unloading 5064 unused Assets to reduce memory usage. Loaded Objects now: 153733.
+Total: 143.017200 ms (FindLiveObjects: 18.377900 ms CreateObjectMapping: 12.399800 ms MarkObjects: 87.978000 ms  DeleteObjects: 24.260900 ms)
+
+Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
+  at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
+Unloading 1 Unused Serialized files (Serialized files now loaded: 633)
+Unloading 1739 unused Assets to reduce memory usage. Loaded Objects now: 153793.
+Total: 129.643300 ms (FindLiveObjects: 15.122800 ms CreateObjectMapping: 10.096600 ms MarkObjects: 96.010200 ms  DeleteObjects: 8.413400 ms)
+
+Failed to data to C:/Users/Omar/AppData/LocalLow/Team Cherry/Hollow Knight Silksong\default\shared.dat: System.IO.FileNotFoundException: Unable to find the specified file.
+  at System.IO.FileSystem.ReplaceFile (System.String sourceFullPath, System.String destFullPath, System.String destBackupFullPath, System.Boolean ignoreMetadataErrors) [0x0002c] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at System.IO.File.Replace (System.String sourceFileName, System.String destinationFileName, System.String destinationBackupFileName, System.Boolean ignoreMetadataErrors) [0x00034] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at JsonSharedData.WriteAllBytesSafe (System.String path, System.Byte[] data) [0x00078] in <35f45ff2c83241c0ab51857388306087>:0 
+NullReferenceException: Object reference not set to an instance of an object
+  at TeamCherry.SharedUtils.TintRendererGroup.UpdateTint () [0x000e3] in <c6a8e3e508624afc89d7cb126e965bbc>:0 
+  at TeamCherry.SharedUtils.TintRendererGroup.Update () [0x00014] in <c6a8e3e508624afc89d7cb126e965bbc>:0 
+  at TeamCherry.SharedUtils.TintRendererGroup.set_Color (UnityEngine.Color value) [0x00007] in <c6a8e3e508624afc89d7cb126e965bbc>:0 
+  at TeamCherry.NestedFadeGroup.NestedFadeGroupTintRendererGroup.OnAlphaChanged (System.Single alpha) [0x00014] in <6cef8212b6234b78af33e1a47c387d53>:0 
+  at TeamCherry.NestedFadeGroup.NestedFadeGroupBase.UpdateAlpha (System.Single parentAlpha, System.Boolean forced) [0x00060] in <6cef8212b6234b78af33e1a47c387d53>:0 
+  at TeamCherry.NestedFadeGroup.NestedFadeGroupBase.RefreshAlpha (System.Boolean forced) [0x0001b] in <6cef8212b6234b78af33e1a47c387d53>:0 
+  at TeamCherry.NestedFadeGroup.NestedFadeGroupBase.SetParent (TeamCherry.NestedFadeGroup.NestedFadeGroup parentGroup) [0x0002d] in <6cef8212b6234b78af33e1a47c387d53>:0 
+  at TeamCherry.NestedFadeGroup.NestedFadeGroup.OnDestroy () [0x00032] in <6cef8212b6234b78af33e1a47c387d53>:0 
+
+NullReferenceException: Object reference not set to an instance of an object
+  at TeamCherry.SharedUtils.TintRendererGroup.UpdateTint () [0x000e3] in <c6a8e3e508624afc89d7cb126e965bbc>:0 
+  at TeamCherry.SharedUtils.TintRendererGroup.Update () [0x00014] in <c6a8e3e508624afc89d7cb126e965bbc>:0 
+  at TeamCherry.SharedUtils.TintRendererGroup.set_Color (UnityEngine.Color value) [0x00007] in <c6a8e3e508624afc89d7cb126e965bbc>:0 
+  at TeamCherry.NestedFadeGroup.NestedFadeGroupTintRendererGroup.OnAlphaChanged (System.Single alpha) [0x00014] in <6cef8212b6234b78af33e1a47c387d53>:0 
+  at TeamCherry.NestedFadeGroup.NestedFadeGroupBase.UpdateAlpha (System.Single parentAlpha, System.Boolean forced) [0x00060] in <6cef8212b6234b78af33e1a47c387d53>:0 
+  at TeamCherry.NestedFadeGroup.NestedFadeGroupBase.RefreshAlpha (System.Boolean forced) [0x0001b] in <6cef8212b6234b78af33e1a47c387d53>:0 
+  at TeamCherry.NestedFadeGroup.NestedFadeGroupBase.SetParent (TeamCherry.NestedFadeGroup.NestedFadeGroup parentGroup) [0x0002d] in <6cef8212b6234b78af33e1a47c387d53>:0 
+  at TeamCherry.NestedFadeGroup.NestedFadeGroup.OnDestroy () [0x00032] in <6cef8212b6234b78af33e1a47c387d53>:0 
+
+NullReferenceException: Object reference not set to an instance of an object
+  at TeamCherry.SharedUtils.TintRendererGroup.UpdateTint () [0x000e3] in <c6a8e3e508624afc89d7cb126e965bbc>:0 
+  at TeamCherry.SharedUtils.TintRendererGroup.Update () [0x00014] in <c6a8e3e508624afc89d7cb126e965bbc>:0 
+  at TeamCherry.SharedUtils.TintRendererGroup.set_Color (UnityEngine.Color value) [0x00007] in <c6a8e3e508624afc89d7cb126e965bbc>:0 
+  at TeamCherry.NestedFadeGroup.NestedFadeGroupTintRendererGroup.OnAlphaChanged (System.Single alpha) [0x00014] in <6cef8212b6234b78af33e1a47c387d53>:0 
+  at TeamCherry.NestedFadeGroup.NestedFadeGroupBase.UpdateAlpha (System.Single parentAlpha, System.Boolean forced) [0x00060] in <6cef8212b6234b78af33e1a47c387d53>:0 
+  at TeamCherry.NestedFadeGroup.NestedFadeGroupBase.RefreshAlpha (System.Boolean forced) [0x0001b] in <6cef8212b6234b78af33e1a47c387d53>:0 
+  at TeamCherry.NestedFadeGroup.NestedFadeGroupBase.SetParent (TeamCherry.NestedFadeGroup.NestedFadeGroup parentGroup) [0x0002d] in <6cef8212b6234b78af33e1a47c387d53>:0 
+  at TeamCherry.NestedFadeGroup.NestedFadeGroup.OnDestroy () [0x00032] in <6cef8212b6234b78af33e1a47c387d53>:0 
+
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+[Physics::Module] Cleanup current backned.
+[Physics::Module] Id: 0xf2b8ea05
+Input System module state changed to: ShutdownInProgress.
+Input System polling thread exited.
+Input System module state changed to: Shutdown.
