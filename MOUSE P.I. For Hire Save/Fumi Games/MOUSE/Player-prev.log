@@ -22,8 +22,8 @@ Direct3D:
     VRAM:     1999 MB
     Driver:   32.0.15.6094
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.194 seconds
-- Finished resetting the current domain, in  0.003 seconds
+- Loaded All Assemblies, in  2.274 seconds
+- Finished resetting the current domain, in  0.024 seconds
 [Physics::Module] Selected backend.
 [Physics::Module] Name: PhysX
 [Physics::Module] Id: 0xf2b8ea05
@@ -23556,28 +23556,30 @@ The referenced script on this Behaviour (Game Object '82_ClearArenaWithNameMarke
 DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
 <RI> Initializing input.
 Using Windows.Gaming.Input
+dxgi: swapchain SetFullscreenState failed (887a0022).
 The referenced script (Unknown) on this Behaviour is missing!
 The referenced script on this Behaviour (Game Object 'Console (DevConsole.cs Script)') is missing!
-UnloadTime: 2.752300 ms
+UnloadTime: 3.737500 ms
+Failed to change display to ExclusiveFullscreen...reverting to FullscreenWindow
 Unloading 5 Unused Serialized files (Serialized files now loaded: 39)
 Unloading 298 unused Assets to reduce memory usage. Loaded Objects now: 73297.
-Total: 55.621100 ms (FindLiveObjects: 5.319900 ms CreateObjectMapping: 11.551900 ms MarkObjects: 38.099800 ms  DeleteObjects: 0.649100 ms)
+Total: 58.403800 ms (FindLiveObjects: 5.139600 ms CreateObjectMapping: 13.062700 ms MarkObjects: 39.530800 ms  DeleteObjects: 0.670100 ms)
 
-UnloadTime: 292.202800 ms
+UnloadTime: 830.054800 ms
 Unloading 2 Unused Serialized files (Serialized files now loaded: 39)
 Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 76229.
-Total: 51.554500 ms (FindLiveObjects: 5.296900 ms CreateObjectMapping: 11.113700 ms MarkObjects: 34.899900 ms  DeleteObjects: 0.243600 ms)
+Total: 156.857700 ms (FindLiveObjects: 11.967100 ms CreateObjectMapping: 34.580500 ms MarkObjects: 110.123100 ms  DeleteObjects: 0.186700 ms)
 
 Direct3D: detected that using refresh rate causes time drift. Will stop trusting refresh rate until the game window is moved.
 Direct3D: detected that vsync is broken (it does not limit frame rate properly). Delta time will now be calculated using cpu-side time stampling until the game window is moved.
 Unloading 4 Unused Serialized files (Serialized files now loaded: 40)
-UnloadTime: 3.677700 ms
+UnloadTime: 3.262700 ms
 Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 76268.
-Total: 51.631300 ms (FindLiveObjects: 5.194300 ms CreateObjectMapping: 10.044800 ms MarkObjects: 36.169800 ms  DeleteObjects: 0.222100 ms)
+Total: 70.360100 ms (FindLiveObjects: 5.632000 ms CreateObjectMapping: 13.649000 ms MarkObjects: 50.843800 ms  DeleteObjects: 0.235000 ms)
 
 Unloading 0 Unused Serialized files (Serialized files now loaded: 39)
 Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 76267.
-Total: 50.140900 ms (FindLiveObjects: 4.924400 ms CreateObjectMapping: 9.680200 ms MarkObjects: 35.335600 ms  DeleteObjects: 0.200400 ms)
+Total: 72.394900 ms (FindLiveObjects: 5.997000 ms CreateObjectMapping: 12.470700 ms MarkObjects: 53.785200 ms  DeleteObjects: 0.141500 ms)
 
 BoxCollider does not support negative scale or size.
 The effective box size has been forced positive and is likely to give unexpected collision geometry.
@@ -23679,41 +23681,25 @@ BoxCollider does not support negative scale or size.
 The effective box size has been forced positive and is likely to give unexpected collision geometry.
 If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@Zone_Streets/@Building_PIOffice_01/@Inside/@Floor_Middle_02/@Stairs/P_Modular_Stairs_RoundedStairs01_Straight01_07/P_Modular_Stairs_RoundedStairs01_StraightSide01/P_Modular_Stairs_RoundedStairs01_StepsSide01A/Collider_04"
 Unloading 8 Unused Serialized files (Serialized files now loaded: 40)
-UnloadTime: 20.532700 ms
+UnloadTime: 24.700600 ms
 Unloading 534 unused Assets to reduce memory usage. Loaded Objects now: 76385.
-Total: 70.169300 ms (FindLiveObjects: 5.762400 ms CreateObjectMapping: 9.790000 ms MarkObjects: 36.285000 ms  DeleteObjects: 18.331700 ms)
+Total: 96.696700 ms (FindLiveObjects: 6.860300 ms CreateObjectMapping: 11.163400 ms MarkObjects: 53.204300 ms  DeleteObjects: 25.468400 ms)
 
 Unloading 0 Unused Serialized files (Serialized files now loaded: 39)
 Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 76320.
-Total: 53.340100 ms (FindLiveObjects: 6.116500 ms CreateObjectMapping: 10.028300 ms MarkObjects: 37.002400 ms  DeleteObjects: 0.192800 ms)
-
-Unloading 4 Unused Serialized files (Serialized files now loaded: 39)
-UnloadTime: 3.684400 ms
-Unloading 219 unused Assets to reduce memory usage. Loaded Objects now: 76508.
-Total: 52.342300 ms (FindLiveObjects: 5.511000 ms CreateObjectMapping: 9.735500 ms MarkObjects: 36.624500 ms  DeleteObjects: 0.470800 ms)
-
-Unloading 0 Unused Serialized files (Serialized files now loaded: 39)
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 76508.
-Total: 51.911500 ms (FindLiveObjects: 5.378900 ms CreateObjectMapping: 9.552400 ms MarkObjects: 36.817900 ms  DeleteObjects: 0.162100 ms)
-
-Unloading 9 Unused Serialized files (Serialized files now loaded: 39)
-UnloadTime: 4.674500 ms
-Unloading 71 unused Assets to reduce memory usage. Loaded Objects now: 76560.
-Total: 54.144000 ms (FindLiveObjects: 5.736900 ms CreateObjectMapping: 10.261900 ms MarkObjects: 37.808200 ms  DeleteObjects: 0.336500 ms)
-
-Unloading 0 Unused Serialized files (Serialized files now loaded: 39)
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 76560.
-Total: 53.100000 ms (FindLiveObjects: 5.658800 ms CreateObjectMapping: 9.960100 ms MarkObjects: 37.274000 ms  DeleteObjects: 0.206900 ms)
+Total: 61.815200 ms (FindLiveObjects: 7.433800 ms CreateObjectMapping: 12.830800 ms MarkObjects: 41.367300 ms  DeleteObjects: 0.182900 ms)
 
 Unloading 4 Unused Serialized files (Serialized files now loaded: 41)
-UnloadTime: 2.612600 ms
-Unloading 219 unused Assets to reduce memory usage. Loaded Objects now: 76590.
-Total: 52.049700 ms (FindLiveObjects: 5.838400 ms CreateObjectMapping: 9.525300 ms MarkObjects: 36.256200 ms  DeleteObjects: 0.429500 ms)
+UnloadTime: 4.396800 ms
+Unloading 219 unused Assets to reduce memory usage. Loaded Objects now: 76531.
+Total: 55.718900 ms (FindLiveObjects: 5.799000 ms CreateObjectMapping: 10.359100 ms MarkObjects: 39.128800 ms  DeleteObjects: 0.431900 ms)
 
 Unloading 0 Unused Serialized files (Serialized files now loaded: 41)
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 76592.
-Total: 51.996000 ms (FindLiveObjects: 5.515900 ms CreateObjectMapping: 9.590000 ms MarkObjects: 36.729500 ms  DeleteObjects: 0.160400 ms)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 76533.
+Total: 55.088800 ms (FindLiveObjects: 5.837200 ms CreateObjectMapping: 10.706400 ms MarkObjects: 38.372900 ms  DeleteObjects: 0.171800 ms)
 
+The referenced script (Unknown) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object 'Console (DevConsole.cs Script)') is missing!
 BoxCollider does not support negative scale or size.
 The effective box size has been forced positive and is likely to give unexpected collision geometry.
 If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@Zone02_Venues/@Props/@Pipes01_01/P_Modular_LabPipesSmall_Straight4m01/P_Modular_LabPipesSmall_Corner01"
@@ -23759,8 +23745,6 @@ If you absolutely need to use negative scaling you can use the convex MeshCollid
 BoxCollider does not support negative scale or size.
 The effective box size has been forced positive and is likely to give unexpected collision geometry.
 If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@Zone02_Venues/@Props/@Pipes01_01/P_Modular_LabPipesSmall_Straight4m01/P_Modular_LabPipesSmall_Corner01/Collider_01"
-The referenced script (Unknown) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Console (DevConsole.cs Script)') is missing!
 BoxCollider does not support negative scale or size.
 The effective box size has been forced positive and is likely to give unexpected collision geometry.
 If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@WorldState01 [turn_on_when_bake]/@Interactable/@Actions/@ActionsInsideZeppelin_WS1/@Action_BeginningElevator_WorldState1/P_Unique_Mines_Elevator02A/@ManorDoorElevator01L_01/P_Unique_Zeppelin_Elevator01"
@@ -23773,40 +23757,34 @@ If you absolutely need to use negative scaling you can use the convex MeshCollid
 BoxCollider does not support negative scale or size.
 The effective box size has been forced positive and is likely to give unexpected collision geometry.
 If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@WorldState01 [turn_on_when_bake]/@Interactable/@Actions/@ActionsInsideZeppelin_WS1/@Action_StorageElevator_WS1/P_Unique_Mines_Elevator02A/@ManorDoorElevator01L_01/P_Unique_Mines_Elevator02C_01"
-NullReferenceException: Object reference not set to an instance of an object
-  at RebindingManager.ApplyBindings () [0x0007b] in <74710d00e91949879280292851cd16ff>:0 
-  at NotebookSettingsManager.ApplyAll () [0x0003d] in <74710d00e91949879280292851cd16ff>:0 
-  at NotebookSettingsManager.ApplyAllAndClose () [0x00000] in <74710d00e91949879280292851cd16ff>:0 
-  at UniversalPopupManager.TryOpenConfirmation (UnityEngine.Localization.LocalizedString actionString, System.Action action, System.Action cancel, System.Single duration) [0x00011] in <74710d00e91949879280292851cd16ff>:0 
-  at NotebookSettingsManager.OnCloseAttempt (System.Action closeMenu) [0x00014] in <74710d00e91949879280292851cd16ff>:0 
-  at UI.Notebook.NotebookController.TryClose (System.Action onComplete) [0x00014] in <74710d00e91949879280292851cd16ff>:0 
-  at UI.Notebook.NotebookService.CloseAndRemoveFromStack () [0x00000] in <74710d00e91949879280292851cd16ff>:0 
-  at EscapeStack.Pop () [0x0001c] in <3ab5fd2c9d1d4f9a8d970e2c61e70fce>:0 
-  at UICanvas.FunctionalUiWindowHandler.OnPlayerDestroyed () [0x0000c] in <74710d00e91949879280292851cd16ff>:0 
-  at (wrapper delegate-invoke) <Module>.invoke_void()
-  at Player.OnDestroy () [0x00080] in <74710d00e91949879280292851cd16ff>:0 
-UnityEngine.DebugLogHandler:Internal_LogException_Injected(Exception, IntPtr)
-UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
-UnityEngine.DebugLogHandler:LogException(Exception, Object)
-Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogException(Exception, Object)
-UnityEngine.Logger:LogException(Exception, Object)
-UnityEngine.Debug:CallOverridenDebugHandler(Exception, Object)
+Physics.ClosestPoint can only be used with a BoxCollider, SphereCollider, CapsuleCollider and a convex MeshCollider.
+Physics.ClosestPoint can only be used with a BoxCollider, SphereCollider, CapsuleCollider and a convex MeshCollider.
+Unloading 53 Unused Serialized files (Serialized files now loaded: 90)
+UnloadTime: 375.371600 ms
+Unloading 9982 unused Assets to reduce memory usage. Loaded Objects now: 100150.
+Total: 371.116200 ms (FindLiveObjects: 11.238400 ms CreateObjectMapping: 19.717200 ms MarkObjects: 71.286600 ms  DeleteObjects: 268.873800 ms)
 
-Exception: Tried to Initialize the SteamAPI twice in one session!
-  at SteamManager.Awake () [0x00026] in <6a5d8f49a7aa4cc3965d8611b0745e7f>:0 
-UnityEngine.DebugLogHandler:Internal_LogException_Injected(Exception, IntPtr)
-UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
-UnityEngine.DebugLogHandler:LogException(Exception, Object)
-Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogException(Exception, Object)
-UnityEngine.Logger:LogException(Exception, Object)
-UnityEngine.Debug:CallOverridenDebugHandler(Exception, Object)
-UnityEngine.GameObject:Internal_AddComponentWithType_Injected(IntPtr, Type)
-UnityEngine.GameObject:Internal_AddComponentWithType(Type)
-UnityEngine.GameObject:AddComponent(Type)
-UnityEngine.GameObject:AddComponent()
-SteamManager:get_Instance()
-SteamManager:get_Initialized()
-UICanvas.ApplicationStateWatcher:OnDestroy()
+Unloading 0 Unused Serialized files (Serialized files now loaded: 42)
+Unloading 760 unused Assets to reduce memory usage. Loaded Objects now: 89676.
+Total: 85.500900 ms (FindLiveObjects: 8.481600 ms CreateObjectMapping: 14.768600 ms MarkObjects: 60.768500 ms  DeleteObjects: 1.481700 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 41)
+UnloadTime: 1.817200 ms
+Unloading 207 unused Assets to reduce memory usage. Loaded Objects now: 89359.
+Total: 81.438500 ms (FindLiveObjects: 8.205400 ms CreateObjectMapping: 12.947700 ms MarkObjects: 59.723400 ms  DeleteObjects: 0.561700 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 41)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 89359.
+Total: 78.404600 ms (FindLiveObjects: 8.292500 ms CreateObjectMapping: 11.522100 ms MarkObjects: 58.416700 ms  DeleteObjects: 0.173000 ms)
+
+Unloading 9 Unused Serialized files (Serialized files now loaded: 41)
+UnloadTime: 5.165100 ms
+Unloading 82 unused Assets to reduce memory usage. Loaded Objects now: 89405.
+Total: 79.748800 ms (FindLiveObjects: 7.996700 ms CreateObjectMapping: 11.881400 ms MarkObjects: 59.538200 ms  DeleteObjects: 0.332200 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 41)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 89405.
+Total: 78.733100 ms (FindLiveObjects: 8.168800 ms CreateObjectMapping: 12.322100 ms MarkObjects: 58.075600 ms  DeleteObjects: 0.166300 ms)
 
 [Physics::Module] Cleanup current backend.
 [Physics::Module] Id: 0xf2b8ea05
