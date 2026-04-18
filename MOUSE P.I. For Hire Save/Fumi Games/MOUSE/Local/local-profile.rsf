@@ -1,0 +1,17 @@
+{
+  "c": {
+    "SettingResolution_InitialComplete": true,
+    "SettingHLODQuality": 2,
+    "SettingRimLightsEnabled": true,
+    "SettingTextureQuality": 2,
+    "SettingEffectsQuality": 2,
+    "SettingAnisotropicFiltering": 2,
+    "SettingShadowQuality": 2,
+    "SettingGraphicsPreset": 3,
+    "SettingUIBlur": 0.0,
+    "SettingRenderScale": 1.0,
+    "SettingAntiAliasingType": 2,
+    "SettingVolumetricLightsQuality": 2
+  },
+  "j": 1
+}

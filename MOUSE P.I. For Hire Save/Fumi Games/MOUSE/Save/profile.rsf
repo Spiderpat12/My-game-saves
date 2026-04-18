@@ -1,0 +1,34 @@
+{
+  "a": "save0",
+  "b": "checkpoint1",
+  "c": {
+    "SettingLanguage": "0",
+    "SettingAutoContinueDialogue": false,
+    "SettingsPlayerProfile": 3,
+    "SettingFilmGrainEffectsSlider": 51,
+    "SettingLensDistortionToggle": true,
+    "SettingHudAnimation": true,
+    "SettingMotionSensitivityProfile": 3,
+    "SettingStrafeTilt": 30,
+    "SettingAnalytics": 1,
+    "SettingCrouchInputMethod": 0
+  },
+  "d": "{\"bindings\":[{\"action\":\"WorldMap/Move\",\"id\":\"e2f9aa65-db06-4c5b-a2e9-41bc8acb9517\",\"path\":\"null\",\"interactions\":\"null\",\"processors\":\"stickDeadzone(min=0.0665,max=1)\"},{\"action\":\"WorldMap/Look\",\"id\":\"d1d171b6-19d8-47a6-ba3a-71b6a8e7b3c0\",\"path\":\"null\",\"interactions\":\"null\",\"processors\":\"stickDeadzone(min=0.0475,max=1)\"}]}",
+  "e": false,
+  "f": {
+    "BoomTown": 0,
+    "FireStarter": 0,
+    "GonnaNeedABiggerCapacitorDoc": 0,
+    "HotStreak": 1,
+    "ScorchingStreak": 3,
+    "SquishSquash": 0,
+    "WeHaveChowYunFatAtHome": 1
+  },
+  "g": {
+    "BeetleBattle": 0,
+    "BaseballCards": 0,
+    "CockroachRacing": 0
+  },
+  "h": true,
+  "i": false
+}
