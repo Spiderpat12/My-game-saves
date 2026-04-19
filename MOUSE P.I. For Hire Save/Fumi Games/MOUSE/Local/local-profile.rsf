@@ -1,17 +1,22 @@
 {
   "c": {
     "SettingResolution_InitialComplete": true,
-    "SettingHLODQuality": 2,
+    "SettingHLODQuality": 1,
     "SettingRimLightsEnabled": true,
-    "SettingTextureQuality": 2,
-    "SettingEffectsQuality": 2,
-    "SettingAnisotropicFiltering": 2,
-    "SettingShadowQuality": 2,
-    "SettingGraphicsPreset": 3,
+    "SettingTextureQuality": 1,
+    "SettingEffectsQuality": 1,
+    "SettingAnisotropicFiltering": 1,
+    "SettingShadowQuality": 1,
+    "SettingGraphicsPreset": 2,
     "SettingUIBlur": 0.0,
-    "SettingRenderScale": 1.0,
-    "SettingAntiAliasingType": 2,
-    "SettingVolumetricLightsQuality": 2
+    "SettingRenderScale": 0.900000036,
+    "SettingAntiAliasingType": 0,
+    "SettingVolumetricLightsQuality": 1,
+    "SettingAmbientOcclusionQuality": 0,
+    "SettingAudioEqualization": 0,
+    "SettingVSync": 0,
+    "SettingFrameRateLimitSlider": 150,
+    "SettingDepthOfField": true
   },
   "j": 1
 }

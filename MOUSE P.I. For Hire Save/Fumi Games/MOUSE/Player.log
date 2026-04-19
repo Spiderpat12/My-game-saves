@@ -4,6 +4,8 @@ Input System module state changed to: Initialized.
 [Physics::Module] Initialized fallback backend.
 [Physics::Module] Id: 0xdecafbad
 Loading player data from E:/Games/ActionGames/MOUSE P.I. For Hire/MOUSE P.I. For Hire/MOUSE_Data/data.unity3d
+Unable to read header from archive file: E:/Games/ActionGames/MOUSE P.I. For Hire/MOUSE P.I. For Hire/MOUSE_Data/data.unity3d
+Failed to install Player data archive: E:/Games/ActionGames/MOUSE P.I. For Hire/MOUSE P.I. For Hire/MOUSE_Data/data.unity3d!
 Initialize engine version: 6000.3.0f1 (d1870ce95baf)
 [Subsystems] Discovering subsystems at path E:/Games/ActionGames/MOUSE P.I. For Hire/MOUSE P.I. For Hire/MOUSE_Data/UnitySubsystems
 [D3D12 Device Filter] Vendor Name: NVIDIA
@@ -22,8 +24,8 @@ Direct3D:
     VRAM:     1999 MB
     Driver:   32.0.15.6094
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.194 seconds
-- Finished resetting the current domain, in  0.003 seconds
+- Loaded All Assemblies, in  2.305 seconds
+- Finished resetting the current domain, in  0.025 seconds
 [Physics::Module] Selected backend.
 [Physics::Module] Name: PhysX
 [Physics::Module] Id: 0xf2b8ea05
@@ -23556,28 +23558,61 @@ The referenced script on this Behaviour (Game Object '82_ClearArenaWithNameMarke
 DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
 <RI> Initializing input.
 Using Windows.Gaming.Input
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
 The referenced script (Unknown) on this Behaviour is missing!
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+The class named 'Mouse.Timeline.Core.QuaternionUtils' is abstract. The script class can't be abstract!
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+The class named 'Mouse.CameraShake.EaseJob' is not derived from MonoBehaviour or ScriptableObject!
+The class named 'UnityEngine.UI.Extensions.UIExtensionsInputManager' is abstract. The script class can't be abstract!
+The class named 'OdinSerializer.Vector4DictionaryKeyPathProvider' is not derived from MonoBehaviour or ScriptableObject!
+A scripted object (probably Mouse.CameraShake.EaseJob?) has a different serialization layout when loading. (Read 36 bytes but expected 3332 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably UnityEngine.UI.Extensions.UIExtensionsInputManager?) has a different serialization layout when loading. (Read 40 bytes but expected 3388 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably OdinSerializer.Vector4DictionaryKeyPathProvider?) has a different serialization layout when loading. (Read 40 bytes but expected 3296 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably Mouse.Timeline.Core.QuaternionUtils?) has a different serialization layout when loading. (Read 32 bytes but expected 44 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably ReginaldWeaponUser?) has a different serialization layout when loading. (Read 48 bytes but expected 520 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
 The referenced script on this Behaviour (Game Object 'Console (DevConsole.cs Script)') is missing!
-UnloadTime: 2.752300 ms
-Unloading 5 Unused Serialized files (Serialized files now loaded: 39)
-Unloading 298 unused Assets to reduce memory usage. Loaded Objects now: 73297.
-Total: 55.621100 ms (FindLiveObjects: 5.319900 ms CreateObjectMapping: 11.551900 ms MarkObjects: 38.099800 ms  DeleteObjects: 0.649100 ms)
-
-UnloadTime: 292.202800 ms
-Unloading 2 Unused Serialized files (Serialized files now loaded: 39)
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 76229.
-Total: 51.554500 ms (FindLiveObjects: 5.296900 ms CreateObjectMapping: 11.113700 ms MarkObjects: 34.899900 ms  DeleteObjects: 0.243600 ms)
-
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably ReginaldWeaponUser?) has a different serialization layout when loading. (Read 48 bytes but expected 520 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably ReginaldWeaponUser?) has a different serialization layout when loading. (Read 48 bytes but expected 516 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+UnloadTime: 2.797300 ms
 Direct3D: detected that using refresh rate causes time drift. Will stop trusting refresh rate until the game window is moved.
 Direct3D: detected that vsync is broken (it does not limit frame rate properly). Delta time will now be calculated using cpu-side time stampling until the game window is moved.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 39)
+Unloading 301 unused Assets to reduce memory usage. Loaded Objects now: 73294.
+Total: 50.414600 ms (FindLiveObjects: 4.774000 ms CreateObjectMapping: 9.580700 ms MarkObjects: 35.417900 ms  DeleteObjects: 0.641600 ms)
+
+UnloadTime: 552.937900 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 39)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 76227.
+Total: 57.808200 ms (FindLiveObjects: 5.263000 ms CreateObjectMapping: 11.032500 ms MarkObjects: 41.322100 ms  DeleteObjects: 0.190400 ms)
+
 Unloading 4 Unused Serialized files (Serialized files now loaded: 40)
-UnloadTime: 3.677700 ms
-Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 76268.
-Total: 51.631300 ms (FindLiveObjects: 5.194300 ms CreateObjectMapping: 10.044800 ms MarkObjects: 36.169800 ms  DeleteObjects: 0.222100 ms)
+UnloadTime: 3.828300 ms
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 76266.
+Total: 51.761700 ms (FindLiveObjects: 5.248000 ms CreateObjectMapping: 10.097200 ms MarkObjects: 36.197600 ms  DeleteObjects: 0.218500 ms)
 
 Unloading 0 Unused Serialized files (Serialized files now loaded: 39)
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 76267.
-Total: 50.140900 ms (FindLiveObjects: 4.924400 ms CreateObjectMapping: 9.680200 ms MarkObjects: 35.335600 ms  DeleteObjects: 0.200400 ms)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 76265.
+Total: 50.588900 ms (FindLiveObjects: 5.297100 ms CreateObjectMapping: 9.666400 ms MarkObjects: 35.454300 ms  DeleteObjects: 0.170600 ms)
 
 BoxCollider does not support negative scale or size.
 The effective box size has been forced positive and is likely to give unexpected collision geometry.
@@ -23679,134 +23714,1101 @@ BoxCollider does not support negative scale or size.
 The effective box size has been forced positive and is likely to give unexpected collision geometry.
 If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@Zone_Streets/@Building_PIOffice_01/@Inside/@Floor_Middle_02/@Stairs/P_Modular_Stairs_RoundedStairs01_Straight01_07/P_Modular_Stairs_RoundedStairs01_StraightSide01/P_Modular_Stairs_RoundedStairs01_StepsSide01A/Collider_04"
 Unloading 8 Unused Serialized files (Serialized files now loaded: 40)
-UnloadTime: 20.532700 ms
-Unloading 534 unused Assets to reduce memory usage. Loaded Objects now: 76385.
-Total: 70.169300 ms (FindLiveObjects: 5.762400 ms CreateObjectMapping: 9.790000 ms MarkObjects: 36.285000 ms  DeleteObjects: 18.331700 ms)
+UnloadTime: 22.171600 ms
+Unloading 525 unused Assets to reduce memory usage. Loaded Objects now: 76381.
+Total: 69.763600 ms (FindLiveObjects: 5.749300 ms CreateObjectMapping: 10.102000 ms MarkObjects: 35.892000 ms  DeleteObjects: 18.019900 ms)
 
 Unloading 0 Unused Serialized files (Serialized files now loaded: 39)
-Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 76320.
-Total: 53.340100 ms (FindLiveObjects: 6.116500 ms CreateObjectMapping: 10.028300 ms MarkObjects: 37.002400 ms  DeleteObjects: 0.192800 ms)
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 76316.
+Total: 52.645700 ms (FindLiveObjects: 5.993200 ms CreateObjectMapping: 9.993700 ms MarkObjects: 36.426100 ms  DeleteObjects: 0.232400 ms)
 
-Unloading 4 Unused Serialized files (Serialized files now loaded: 39)
-UnloadTime: 3.684400 ms
-Unloading 219 unused Assets to reduce memory usage. Loaded Objects now: 76508.
-Total: 52.342300 ms (FindLiveObjects: 5.511000 ms CreateObjectMapping: 9.735500 ms MarkObjects: 36.624500 ms  DeleteObjects: 0.470800 ms)
-
-Unloading 0 Unused Serialized files (Serialized files now loaded: 39)
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 76508.
-Total: 51.911500 ms (FindLiveObjects: 5.378900 ms CreateObjectMapping: 9.552400 ms MarkObjects: 36.817900 ms  DeleteObjects: 0.162100 ms)
-
-Unloading 9 Unused Serialized files (Serialized files now loaded: 39)
-UnloadTime: 4.674500 ms
-Unloading 71 unused Assets to reduce memory usage. Loaded Objects now: 76560.
-Total: 54.144000 ms (FindLiveObjects: 5.736900 ms CreateObjectMapping: 10.261900 ms MarkObjects: 37.808200 ms  DeleteObjects: 0.336500 ms)
-
-Unloading 0 Unused Serialized files (Serialized files now loaded: 39)
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 76560.
-Total: 53.100000 ms (FindLiveObjects: 5.658800 ms CreateObjectMapping: 9.960100 ms MarkObjects: 37.274000 ms  DeleteObjects: 0.206900 ms)
-
+Direct3D: detected that using refresh rate causes time drift. Will stop trusting refresh rate until the game window is moved.
+Direct3D: detected that vsync is broken (it does not limit frame rate properly). Delta time will now be calculated using cpu-side time stampling until the game window is moved.
+Direct3D: detected that using refresh rate causes time drift. Will stop trusting refresh rate until the game window is moved.
+Direct3D: detected that vsync is broken (it does not limit frame rate properly). Delta time will now be calculated using cpu-side time stampling until the game window is moved.
+Direct3D: detected that using refresh rate causes time drift. Will stop trusting refresh rate until the game window is moved.
+Direct3D: detected that vsync is broken (it does not limit frame rate properly). Delta time will now be calculated using cpu-side time stampling until the game window is moved.
 Unloading 4 Unused Serialized files (Serialized files now loaded: 41)
-UnloadTime: 2.612600 ms
-Unloading 219 unused Assets to reduce memory usage. Loaded Objects now: 76590.
-Total: 52.049700 ms (FindLiveObjects: 5.838400 ms CreateObjectMapping: 9.525300 ms MarkObjects: 36.256200 ms  DeleteObjects: 0.429500 ms)
+UnloadTime: 2.949800 ms
+Unloading 219 unused Assets to reduce memory usage. Loaded Objects now: 81764.
+Total: 57.647400 ms (FindLiveObjects: 6.694900 ms CreateObjectMapping: 11.106700 ms MarkObjects: 39.387900 ms  DeleteObjects: 0.457400 ms)
 
 Unloading 0 Unused Serialized files (Serialized files now loaded: 41)
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 76592.
-Total: 51.996000 ms (FindLiveObjects: 5.515900 ms CreateObjectMapping: 9.590000 ms MarkObjects: 36.729500 ms  DeleteObjects: 0.160400 ms)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 81766.
+Total: 56.140100 ms (FindLiveObjects: 6.029200 ms CreateObjectMapping: 9.708700 ms MarkObjects: 40.175000 ms  DeleteObjects: 0.227000 ms)
 
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@Zone02_Venues/@Props/@Pipes01_01/P_Modular_LabPipesSmall_Straight4m01/P_Modular_LabPipesSmall_Corner01"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@Zone02_Venues/@Props/@Pipes01_01/P_Modular_LabPipesSmall_Straight4m01_01/P_Modular_LabPipesSmall_Corner01"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@Zone02_Venues/@Props/@Pipes01_01/P_Modular_LabPipesSmall_Straight4m01/P_Modular_LabPipesSmall_Corner01"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@Zone02_Venues/@Props/@Pipes01_01/P_Modular_LabPipesSmall_Straight4m01_01/P_Modular_LabPipesSmall_Corner01"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@Zone02_Venues/@Props/@Pipes01_01/P_Modular_LabPipesSmall_Straight4m01/P_Modular_LabPipesSmall_Corner01"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@Zone02_Venues/@Props/@Pipes01_01/P_Modular_LabPipesSmall_Straight4m01_01/P_Modular_LabPipesSmall_Corner01"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@Zone02_Venues/@Props/@Pipes01_01/P_Modular_LabPipesSmall_Straight4m01/P_Modular_LabPipesSmall_Corner01"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@Zone02_Venues/@Props/@Pipes01_01/P_Modular_LabPipesSmall_Straight4m01_01/P_Modular_LabPipesSmall_Corner01"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@Zone02_Venues/@Props/@Pipes01_01/P_Modular_LabPipesSmall_SupportBase01_03/P_Modular_LabPipesBig_SupportBase01"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@Zone02_Venues/@Props/@Pipes01_01/P_Modular_LabPipesSmall_SupportBase01_01/P_Modular_LabPipesBig_SupportBase01"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@Zone02_Venues/@Props/@Pipes01_01/P_Modular_LabPipesSmall_SupportBase01/P_Modular_LabPipesBig_SupportBase01"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@Zone02_Venues/@Props/@Pipes01_01/P_Modular_LabPipesSmall_Straight4m01_01/P_Modular_LabPipesSmall_Corner01/Collider_01"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@Zone02_Venues/@Props/@Pipes01_01/P_Modular_LabPipesSmall_Straight4m01_01/P_Modular_LabPipesSmall_Corner01/Collider_01"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@Zone02_Venues/@Props/@Pipes01_01/P_Modular_LabPipesSmall_Straight4m01/P_Modular_LabPipesSmall_Corner01/Collider_01"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@Zone02_Venues/@Props/@Pipes01_01/P_Modular_LabPipesSmall_Straight4m01/P_Modular_LabPipesSmall_Corner01/Collider_01"
+The class named 'Mouse.CameraShake.EaseJob' is not derived from MonoBehaviour or ScriptableObject!
+A scripted object (probably Mouse.CameraShake.EaseJob?) has a different serialization layout when loading. (Read 36 bytes but expected 3332 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The class named 'UnityEngine.UI.Extensions.UIExtensionsInputManager' is abstract. The script class can't be abstract!
+A scripted object (probably UnityEngine.UI.Extensions.UIExtensionsInputManager?) has a different serialization layout when loading. (Read 40 bytes but expected 3388 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The class named 'OdinSerializer.Vector4DictionaryKeyPathProvider' is not derived from MonoBehaviour or ScriptableObject!
+A scripted object (probably OdinSerializer.Vector4DictionaryKeyPathProvider?) has a different serialization layout when loading. (Read 40 bytes but expected 3296 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
 The referenced script (Unknown) on this Behaviour is missing!
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+The class named 'Mouse.Timeline.Core.QuaternionUtils' is abstract. The script class can't be abstract!
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+A scripted object (probably Mouse.Timeline.Core.QuaternionUtils?) has a different serialization layout when loading. (Read 32 bytes but expected 44 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably ReginaldWeaponUser?) has a different serialization layout when loading. (Read 48 bytes but expected 520 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
 The referenced script on this Behaviour (Game Object 'Console (DevConsole.cs Script)') is missing!
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@WorldState01 [turn_on_when_bake]/@Interactable/@Actions/@ActionsInsideZeppelin_WS1/@Action_BeginningElevator_WorldState1/P_Unique_Mines_Elevator02A/@ManorDoorElevator01L_01/P_Unique_Zeppelin_Elevator01"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@WorldState01 [turn_on_when_bake]/@Interactable/@Actions/@ActionsInsideZeppelin_WS1/@Action_SoyerElevator/ElevatorDoors_Pivot/@ManorDoorElevator01L_01/P_Unique_Mines_Elevator02C_01"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@WorldState01 [turn_on_when_bake]/@Interactable/@Actions/@ActionsInsideZeppelin_WS1/@Action_BeginningElevator_WorldState1/P_Unique_Mines_Elevator02A/@ManorDoorElevator01R_01/P_Unique_Zeppelin_Elevator01_Flip"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@WorldState01 [turn_on_when_bake]/@Interactable/@Actions/@ActionsInsideZeppelin_WS1/@Action_StorageElevator_WS1/P_Unique_Mines_Elevator02A/@ManorDoorElevator01L_01/P_Unique_Mines_Elevator02C_01"
-NullReferenceException: Object reference not set to an instance of an object
-  at RebindingManager.ApplyBindings () [0x0007b] in <74710d00e91949879280292851cd16ff>:0 
-  at NotebookSettingsManager.ApplyAll () [0x0003d] in <74710d00e91949879280292851cd16ff>:0 
-  at NotebookSettingsManager.ApplyAllAndClose () [0x00000] in <74710d00e91949879280292851cd16ff>:0 
-  at UniversalPopupManager.TryOpenConfirmation (UnityEngine.Localization.LocalizedString actionString, System.Action action, System.Action cancel, System.Single duration) [0x00011] in <74710d00e91949879280292851cd16ff>:0 
-  at NotebookSettingsManager.OnCloseAttempt (System.Action closeMenu) [0x00014] in <74710d00e91949879280292851cd16ff>:0 
-  at UI.Notebook.NotebookController.TryClose (System.Action onComplete) [0x00014] in <74710d00e91949879280292851cd16ff>:0 
-  at UI.Notebook.NotebookService.CloseAndRemoveFromStack () [0x00000] in <74710d00e91949879280292851cd16ff>:0 
-  at EscapeStack.Pop () [0x0001c] in <3ab5fd2c9d1d4f9a8d970e2c61e70fce>:0 
-  at UICanvas.FunctionalUiWindowHandler.OnPlayerDestroyed () [0x0000c] in <74710d00e91949879280292851cd16ff>:0 
-  at (wrapper delegate-invoke) <Module>.invoke_void()
-  at Player.OnDestroy () [0x00080] in <74710d00e91949879280292851cd16ff>:0 
-UnityEngine.DebugLogHandler:Internal_LogException_Injected(Exception, IntPtr)
-UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
-UnityEngine.DebugLogHandler:LogException(Exception, Object)
-Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogException(Exception, Object)
-UnityEngine.Logger:LogException(Exception, Object)
-UnityEngine.Debug:CallOverridenDebugHandler(Exception, Object)
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably ReginaldWeaponUser?) has a different serialization layout when loading. (Read 48 bytes but expected 520 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably ReginaldWeaponUser?) has a different serialization layout when loading. (Read 48 bytes but expected 516 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Unloading 45 Unused Serialized files (Serialized files now loaded: 141)
+UnloadTime: 123.300100 ms
+Unloading 6219 unused Assets to reduce memory usage. Loaded Objects now: 90287.
+Total: 120.485800 ms (FindLiveObjects: 8.792000 ms CreateObjectMapping: 16.610400 ms MarkObjects: 57.427700 ms  DeleteObjects: 37.655200 ms)
 
-Exception: Tried to Initialize the SteamAPI twice in one session!
-  at SteamManager.Awake () [0x00026] in <6a5d8f49a7aa4cc3965d8611b0745e7f>:0 
+Unloading 0 Unused Serialized files (Serialized files now loaded: 41)
+Unloading 699 unused Assets to reduce memory usage. Loaded Objects now: 88132.
+Total: 103.034900 ms (FindLiveObjects: 7.969300 ms CreateObjectMapping: 13.735300 ms MarkObjects: 80.413200 ms  DeleteObjects: 0.916800 ms)
+
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+The referenced script (Unknown) on this Behaviour is missing!
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+The class named 'Mouse.Timeline.Core.QuaternionUtils' is abstract. The script class can't be abstract!
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+The class named 'Mouse.CameraShake.EaseJob' is not derived from MonoBehaviour or ScriptableObject!
+A scripted object (probably Mouse.CameraShake.EaseJob?) has a different serialization layout when loading. (Read 36 bytes but expected 3332 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The class named 'UnityEngine.UI.Extensions.UIExtensionsInputManager' is abstract. The script class can't be abstract!
+A scripted object (probably UnityEngine.UI.Extensions.UIExtensionsInputManager?) has a different serialization layout when loading. (Read 40 bytes but expected 3388 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The class named 'OdinSerializer.Vector4DictionaryKeyPathProvider' is not derived from MonoBehaviour or ScriptableObject!
+A scripted object (probably OdinSerializer.Vector4DictionaryKeyPathProvider?) has a different serialization layout when loading. (Read 40 bytes but expected 3296 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably Mouse.Timeline.Core.QuaternionUtils?) has a different serialization layout when loading. (Read 32 bytes but expected 44 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably ReginaldWeaponUser?) has a different serialization layout when loading. (Read 48 bytes but expected 520 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script on this Behaviour (Game Object 'Console (DevConsole.cs Script)') is missing!
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably ReginaldWeaponUser?) has a different serialization layout when loading. (Read 48 bytes but expected 520 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably ReginaldWeaponUser?) has a different serialization layout when loading. (Read 48 bytes but expected 516 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+Default clip could not be found in attached animations list.
+Unloading 7 Unused Serialized files (Serialized files now loaded: 43)
+UnloadTime: 48.980500 ms
+Unloading 5295 unused Assets to reduce memory usage. Loaded Objects now: 88139.
+Total: 86.862900 ms (FindLiveObjects: 8.134600 ms CreateObjectMapping: 15.940400 ms MarkObjects: 55.266900 ms  DeleteObjects: 7.520800 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 43)
+Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 88111.
+Total: 75.605300 ms (FindLiveObjects: 7.873800 ms CreateObjectMapping: 12.020500 ms MarkObjects: 55.426600 ms  DeleteObjects: 0.284100 ms)
+
+The class named 'Mouse.CameraShake.EaseJob' is not derived from MonoBehaviour or ScriptableObject!
+A scripted object (probably Mouse.CameraShake.EaseJob?) has a different serialization layout when loading. (Read 36 bytes but expected 3332 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The class named 'UnityEngine.UI.Extensions.UIExtensionsInputManager' is abstract. The script class can't be abstract!
+A scripted object (probably UnityEngine.UI.Extensions.UIExtensionsInputManager?) has a different serialization layout when loading. (Read 40 bytes but expected 3388 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The class named 'OdinSerializer.Vector4DictionaryKeyPathProvider' is not derived from MonoBehaviour or ScriptableObject!
+A scripted object (probably OdinSerializer.Vector4DictionaryKeyPathProvider?) has a different serialization layout when loading. (Read 40 bytes but expected 3296 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+The referenced script (Unknown) on this Behaviour is missing!
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+The class named 'Mouse.Timeline.Core.QuaternionUtils' is abstract. The script class can't be abstract!
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+A scripted object (probably Mouse.Timeline.Core.QuaternionUtils?) has a different serialization layout when loading. (Read 32 bytes but expected 44 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably ReginaldWeaponUser?) has a different serialization layout when loading. (Read 48 bytes but expected 520 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script on this Behaviour (Game Object 'Console (DevConsole.cs Script)') is missing!
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably ReginaldWeaponUser?) has a different serialization layout when loading. (Read 48 bytes but expected 520 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably ReginaldWeaponUser?) has a different serialization layout when loading. (Read 48 bytes but expected 516 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Universal/@AI/@NPCs/P_NPC_Talkable_Witness1_Var01/Collider"
+Coroutine couldn't be started because the the game object 'ModalWindow' is inactive!
+Unloading 45 Unused Serialized files (Serialized files now loaded: 58)
+UnloadTime: 75.871700 ms
+Unloading 4431 unused Assets to reduce memory usage. Loaded Objects now: 89595.
+Total: 93.206500 ms (FindLiveObjects: 7.793400 ms CreateObjectMapping: 13.167600 ms MarkObjects: 57.090400 ms  DeleteObjects: 15.154900 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 41)
+Unloading 306 unused Assets to reduce memory usage. Loaded Objects now: 88245.
+Total: 97.740800 ms (FindLiveObjects: 7.931300 ms CreateObjectMapping: 11.113600 ms MarkObjects: 78.194700 ms  DeleteObjects: 0.501000 ms)
+
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+The referenced script (Unknown) on this Behaviour is missing!
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+The class named 'Mouse.Timeline.Core.QuaternionUtils' is abstract. The script class can't be abstract!
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+The class named 'Mouse.CameraShake.EaseJob' is not derived from MonoBehaviour or ScriptableObject!
+A scripted object (probably Mouse.CameraShake.EaseJob?) has a different serialization layout when loading. (Read 36 bytes but expected 3332 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The class named 'UnityEngine.UI.Extensions.UIExtensionsInputManager' is abstract. The script class can't be abstract!
+A scripted object (probably UnityEngine.UI.Extensions.UIExtensionsInputManager?) has a different serialization layout when loading. (Read 40 bytes but expected 3388 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The class named 'OdinSerializer.Vector4DictionaryKeyPathProvider' is not derived from MonoBehaviour or ScriptableObject!
+A scripted object (probably OdinSerializer.Vector4DictionaryKeyPathProvider?) has a different serialization layout when loading. (Read 40 bytes but expected 3296 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably Mouse.Timeline.Core.QuaternionUtils?) has a different serialization layout when loading. (Read 32 bytes but expected 44 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably ReginaldWeaponUser?) has a different serialization layout when loading. (Read 48 bytes but expected 520 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script on this Behaviour (Game Object 'Console (DevConsole.cs Script)') is missing!
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably ReginaldWeaponUser?) has a different serialization layout when loading. (Read 48 bytes but expected 520 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably ReginaldWeaponUser?) has a different serialization layout when loading. (Read 48 bytes but expected 516 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+Default clip could not be found in attached animations list.
+Unloading 7 Unused Serialized files (Serialized files now loaded: 43)
+UnloadTime: 41.582700 ms
+Unloading 5295 unused Assets to reduce memory usage. Loaded Objects now: 88297.
+Total: 83.045400 ms (FindLiveObjects: 7.659400 ms CreateObjectMapping: 13.133500 ms MarkObjects: 55.642500 ms  DeleteObjects: 6.609500 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 43)
+Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 88269.
+Total: 76.714300 ms (FindLiveObjects: 7.203000 ms CreateObjectMapping: 11.382500 ms MarkObjects: 57.857700 ms  DeleteObjects: 0.270800 ms)
+
+The class named 'Mouse.CameraShake.EaseJob' is not derived from MonoBehaviour or ScriptableObject!
+A scripted object (probably Mouse.CameraShake.EaseJob?) has a different serialization layout when loading. (Read 36 bytes but expected 3332 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The class named 'UnityEngine.UI.Extensions.UIExtensionsInputManager' is abstract. The script class can't be abstract!
+A scripted object (probably UnityEngine.UI.Extensions.UIExtensionsInputManager?) has a different serialization layout when loading. (Read 40 bytes but expected 3388 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The class named 'OdinSerializer.Vector4DictionaryKeyPathProvider' is not derived from MonoBehaviour or ScriptableObject!
+A scripted object (probably OdinSerializer.Vector4DictionaryKeyPathProvider?) has a different serialization layout when loading. (Read 40 bytes but expected 3296 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+The referenced script (Unknown) on this Behaviour is missing!
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+The class named 'Mouse.Timeline.Core.QuaternionUtils' is abstract. The script class can't be abstract!
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+A scripted object (probably Mouse.Timeline.Core.QuaternionUtils?) has a different serialization layout when loading. (Read 32 bytes but expected 44 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably ReginaldWeaponUser?) has a different serialization layout when loading. (Read 48 bytes but expected 520 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script on this Behaviour (Game Object 'Console (DevConsole.cs Script)') is missing!
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably ReginaldWeaponUser?) has a different serialization layout when loading. (Read 48 bytes but expected 520 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably ReginaldWeaponUser?) has a different serialization layout when loading. (Read 48 bytes but expected 516 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@WorldState01/@ZoneLogic/@Zone01/@Actions/P_Interactable_ElevatorInterior/Elevator02/@ManorDoorElevator_Left/P_Unique_Mines_Elevator_Gate"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@WorldState01/@ZoneLogic/@Zone01/@Actions/P_Interactable_ElevatorInterior/Elevator01/@ManorDoorElevator_Left/P_Unique_Mines_Elevator_Gate"
+Physics.ClosestPoint can only be used with a BoxCollider, SphereCollider, CapsuleCollider and a convex MeshCollider.
+Look rotation viewing vector is zero
+Physics.ClosestPoint can only be used with a BoxCollider, SphereCollider, CapsuleCollider and a convex MeshCollider.
+Physics.ClosestPoint can only be used with a BoxCollider, SphereCollider, CapsuleCollider and a convex MeshCollider.
+Coroutine couldn't be started because the the game object 'ModalWindow' is inactive!
+Setting linear velocity of a kinematic body is not supported.
+Coroutine couldn't be started because the the game object 'ModalWindow' is inactive!
+Setting linear velocity of a kinematic body is not supported.
+Physics.ClosestPoint can only be used with a BoxCollider, SphereCollider, CapsuleCollider and a convex MeshCollider.
+Setting linear velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Physics.ClosestPoint can only be used with a BoxCollider, SphereCollider, CapsuleCollider and a convex MeshCollider.
+Coroutine couldn't be started because the the game object 'ModalWindow' is inactive!
+Coroutine couldn't be started because the the game object 'ModalWindow' is inactive!
+Coroutine couldn't be started because the the game object 'ModalWindow' is inactive!
+Coroutine couldn't be started because the the game object 'ModalWindow' is inactive!
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Unloading 50 Unused Serialized files (Serialized files now loaded: 96)
+UnloadTime: 261.888000 ms
+Unloading 9207 unused Assets to reduce memory usage. Loaded Objects now: 101992.
+Total: 433.561900 ms (FindLiveObjects: 10.548000 ms CreateObjectMapping: 17.964100 ms MarkObjects: 70.604000 ms  DeleteObjects: 334.445500 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 48)
+Unloading 818 unused Assets to reduce memory usage. Loaded Objects now: 90158.
+Total: 112.474300 ms (FindLiveObjects: 7.778700 ms CreateObjectMapping: 14.567400 ms MarkObjects: 89.027400 ms  DeleteObjects: 1.100500 ms)
+
+The class named 'Mouse.CameraShake.EaseJob' is not derived from MonoBehaviour or ScriptableObject!
+A scripted object (probably Mouse.CameraShake.EaseJob?) has a different serialization layout when loading. (Read 36 bytes but expected 3332 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The class named 'UnityEngine.UI.Extensions.UIExtensionsInputManager' is abstract. The script class can't be abstract!
+A scripted object (probably UnityEngine.UI.Extensions.UIExtensionsInputManager?) has a different serialization layout when loading. (Read 40 bytes but expected 3388 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The class named 'OdinSerializer.Vector4DictionaryKeyPathProvider' is not derived from MonoBehaviour or ScriptableObject!
+A scripted object (probably OdinSerializer.Vector4DictionaryKeyPathProvider?) has a different serialization layout when loading. (Read 40 bytes but expected 3296 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+The referenced script (Unknown) on this Behaviour is missing!
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+The class named 'Mouse.Timeline.Core.QuaternionUtils' is abstract. The script class can't be abstract!
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+A scripted object (probably Mouse.Timeline.Core.QuaternionUtils?) has a different serialization layout when loading. (Read 32 bytes but expected 44 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably ReginaldWeaponUser?) has a different serialization layout when loading. (Read 48 bytes but expected 520 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script on this Behaviour (Game Object 'Console (DevConsole.cs Script)') is missing!
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably ReginaldWeaponUser?) has a different serialization layout when loading. (Read 48 bytes but expected 520 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably ReginaldWeaponUser?) has a different serialization layout when loading. (Read 48 bytes but expected 516 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@WorldState01/@ZoneLogic/@Zone01/@Actions/P_Interactable_ElevatorInterior/Elevator02/@ManorDoorElevator_Left/P_Unique_Mines_Elevator_Gate"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@WorldState01/@ZoneLogic/@Zone01/@Actions/P_Interactable_ElevatorInterior/Elevator01/@ManorDoorElevator_Left/P_Unique_Mines_Elevator_Gate"
+Failed to create agent because it is not close enough to the NavMesh
+Setting linear velocity of a kinematic body is not supported.
+Coroutine couldn't be started because the the game object 'ModalWindow' is inactive!
+Unloading 50 Unused Serialized files (Serialized files now loaded: 96)
+UnloadTime: 215.050500 ms
+Unloading 7865 unused Assets to reduce memory usage. Loaded Objects now: 101947.
+Total: 496.306100 ms (FindLiveObjects: 17.663100 ms CreateObjectMapping: 21.805300 ms MarkObjects: 73.765100 ms  DeleteObjects: 383.072100 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 48)
+Unloading 600 unused Assets to reduce memory usage. Loaded Objects now: 90340.
+Total: 120.121500 ms (FindLiveObjects: 7.974300 ms CreateObjectMapping: 13.735600 ms MarkObjects: 97.394200 ms  DeleteObjects: 1.017200 ms)
+
+The class named 'Mouse.CameraShake.EaseJob' is not derived from MonoBehaviour or ScriptableObject!
+A scripted object (probably Mouse.CameraShake.EaseJob?) has a different serialization layout when loading. (Read 36 bytes but expected 3332 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The class named 'UnityEngine.UI.Extensions.UIExtensionsInputManager' is abstract. The script class can't be abstract!
+A scripted object (probably UnityEngine.UI.Extensions.UIExtensionsInputManager?) has a different serialization layout when loading. (Read 40 bytes but expected 3388 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The class named 'OdinSerializer.Vector4DictionaryKeyPathProvider' is not derived from MonoBehaviour or ScriptableObject!
+A scripted object (probably OdinSerializer.Vector4DictionaryKeyPathProvider?) has a different serialization layout when loading. (Read 40 bytes but expected 3296 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+The referenced script (Unknown) on this Behaviour is missing!
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+The class named 'Mouse.Timeline.Core.QuaternionUtils' is abstract. The script class can't be abstract!
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+A scripted object (probably Mouse.Timeline.Core.QuaternionUtils?) has a different serialization layout when loading. (Read 32 bytes but expected 44 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably ReginaldWeaponUser?) has a different serialization layout when loading. (Read 48 bytes but expected 520 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script on this Behaviour (Game Object 'Console (DevConsole.cs Script)') is missing!
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably ReginaldWeaponUser?) has a different serialization layout when loading. (Read 48 bytes but expected 520 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably ReginaldWeaponUser?) has a different serialization layout when loading. (Read 48 bytes but expected 516 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@WorldState01/@ZoneLogic/@Zone01/@Actions/P_Interactable_ElevatorInterior/Elevator02/@ManorDoorElevator_Left/P_Unique_Mines_Elevator_Gate"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@WorldState01/@ZoneLogic/@Zone01/@Actions/P_Interactable_ElevatorInterior/Elevator01/@ManorDoorElevator_Left/P_Unique_Mines_Elevator_Gate"
+Setting linear velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Unloading 50 Unused Serialized files (Serialized files now loaded: 96)
+UnloadTime: 217.499200 ms
+Unloading 7822 unused Assets to reduce memory usage. Loaded Objects now: 101984.
+Total: 547.747900 ms (FindLiveObjects: 13.689600 ms CreateObjectMapping: 23.457800 ms MarkObjects: 77.003000 ms  DeleteObjects: 433.597200 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 48)
+Unloading 548 unused Assets to reduce memory usage. Loaded Objects now: 90422.
+Total: 119.003600 ms (FindLiveObjects: 7.691100 ms CreateObjectMapping: 13.826500 ms MarkObjects: 96.474400 ms  DeleteObjects: 1.011100 ms)
+
+The class named 'Mouse.CameraShake.EaseJob' is not derived from MonoBehaviour or ScriptableObject!
+A scripted object (probably Mouse.CameraShake.EaseJob?) has a different serialization layout when loading. (Read 36 bytes but expected 3332 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The class named 'UnityEngine.UI.Extensions.UIExtensionsInputManager' is abstract. The script class can't be abstract!
+A scripted object (probably UnityEngine.UI.Extensions.UIExtensionsInputManager?) has a different serialization layout when loading. (Read 40 bytes but expected 3388 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The class named 'OdinSerializer.Vector4DictionaryKeyPathProvider' is not derived from MonoBehaviour or ScriptableObject!
+A scripted object (probably OdinSerializer.Vector4DictionaryKeyPathProvider?) has a different serialization layout when loading. (Read 40 bytes but expected 3296 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+The referenced script (Unknown) on this Behaviour is missing!
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+The class named 'Mouse.Timeline.Core.QuaternionUtils' is abstract. The script class can't be abstract!
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+A scripted object (probably Mouse.Timeline.Core.QuaternionUtils?) has a different serialization layout when loading. (Read 32 bytes but expected 44 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably ReginaldWeaponUser?) has a different serialization layout when loading. (Read 48 bytes but expected 520 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script on this Behaviour (Game Object 'Console (DevConsole.cs Script)') is missing!
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably ReginaldWeaponUser?) has a different serialization layout when loading. (Read 48 bytes but expected 520 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably ReginaldWeaponUser?) has a different serialization layout when loading. (Read 48 bytes but expected 516 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@WorldState01/@ZoneLogic/@Zone01/@Actions/P_Interactable_ElevatorInterior/Elevator02/@ManorDoorElevator_Left/P_Unique_Mines_Elevator_Gate"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@WorldState01/@ZoneLogic/@Zone01/@Actions/P_Interactable_ElevatorInterior/Elevator01/@ManorDoorElevator_Left/P_Unique_Mines_Elevator_Gate"
+Setting linear velocity of a kinematic body is not supported.
+Unloading 50 Unused Serialized files (Serialized files now loaded: 96)
+UnloadTime: 212.189900 ms
+Unloading 8275 unused Assets to reduce memory usage. Loaded Objects now: 102351.
+Total: 511.179400 ms (FindLiveObjects: 18.418500 ms CreateObjectMapping: 19.159400 ms MarkObjects: 78.461200 ms  DeleteObjects: 395.140000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 48)
+Unloading 980 unused Assets to reduce memory usage. Loaded Objects now: 91014.
+Total: 118.870800 ms (FindLiveObjects: 7.806900 ms CreateObjectMapping: 13.533100 ms MarkObjects: 96.055000 ms  DeleteObjects: 1.475400 ms)
+
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+The referenced script (Unknown) on this Behaviour is missing!
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+The class named 'Mouse.Timeline.Core.QuaternionUtils' is abstract. The script class can't be abstract!
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+The class named 'Mouse.CameraShake.EaseJob' is not derived from MonoBehaviour or ScriptableObject!
+A scripted object (probably Mouse.CameraShake.EaseJob?) has a different serialization layout when loading. (Read 36 bytes but expected 3332 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The class named 'UnityEngine.UI.Extensions.UIExtensionsInputManager' is abstract. The script class can't be abstract!
+A scripted object (probably UnityEngine.UI.Extensions.UIExtensionsInputManager?) has a different serialization layout when loading. (Read 40 bytes but expected 3388 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The class named 'OdinSerializer.Vector4DictionaryKeyPathProvider' is not derived from MonoBehaviour or ScriptableObject!
+A scripted object (probably OdinSerializer.Vector4DictionaryKeyPathProvider?) has a different serialization layout when loading. (Read 40 bytes but expected 3296 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably Mouse.Timeline.Core.QuaternionUtils?) has a different serialization layout when loading. (Read 32 bytes but expected 44 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably ReginaldWeaponUser?) has a different serialization layout when loading. (Read 48 bytes but expected 520 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script on this Behaviour (Game Object 'Console (DevConsole.cs Script)') is missing!
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably ReginaldWeaponUser?) has a different serialization layout when loading. (Read 48 bytes but expected 520 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably ReginaldWeaponUser?) has a different serialization layout when loading. (Read 48 bytes but expected 516 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+Default clip could not be found in attached animations list.
+Unloading 7 Unused Serialized files (Serialized files now loaded: 49)
+UnloadTime: 49.764500 ms
+Unloading 5362 unused Assets to reduce memory usage. Loaded Objects now: 90415.
+Total: 100.613500 ms (FindLiveObjects: 8.340800 ms CreateObjectMapping: 14.375900 ms MarkObjects: 69.661100 ms  DeleteObjects: 8.235500 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 49)
+Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 90387.
+Total: 92.689300 ms (FindLiveObjects: 8.002500 ms CreateObjectMapping: 12.407100 ms MarkObjects: 71.745900 ms  DeleteObjects: 0.533200 ms)
+
+The class named 'Mouse.CameraShake.EaseJob' is not derived from MonoBehaviour or ScriptableObject!
+A scripted object (probably Mouse.CameraShake.EaseJob?) has a different serialization layout when loading. (Read 36 bytes but expected 3332 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The class named 'UnityEngine.UI.Extensions.UIExtensionsInputManager' is abstract. The script class can't be abstract!
+A scripted object (probably UnityEngine.UI.Extensions.UIExtensionsInputManager?) has a different serialization layout when loading. (Read 40 bytes but expected 3388 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The class named 'OdinSerializer.Vector4DictionaryKeyPathProvider' is not derived from MonoBehaviour or ScriptableObject!
+A scripted object (probably OdinSerializer.Vector4DictionaryKeyPathProvider?) has a different serialization layout when loading. (Read 40 bytes but expected 3296 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+The referenced script (Unknown) on this Behaviour is missing!
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+The class named 'Mouse.Timeline.Core.QuaternionUtils' is abstract. The script class can't be abstract!
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+A scripted object (probably Mouse.Timeline.Core.QuaternionUtils?) has a different serialization layout when loading. (Read 32 bytes but expected 44 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably ReginaldWeaponUser?) has a different serialization layout when loading. (Read 48 bytes but expected 520 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script on this Behaviour (Game Object 'Console (DevConsole.cs Script)') is missing!
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably ReginaldWeaponUser?) has a different serialization layout when loading. (Read 48 bytes but expected 520 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably ReginaldWeaponUser?) has a different serialization layout when loading. (Read 48 bytes but expected 516 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Unloading 45 Unused Serialized files (Serialized files now loaded: 157)
+UnloadTime: 111.714100 ms
+Unloading 5841 unused Assets to reduce memory usage. Loaded Objects now: 94904.
+Total: 159.130800 ms (FindLiveObjects: 9.877100 ms CreateObjectMapping: 15.220900 ms MarkObjects: 76.840700 ms  DeleteObjects: 57.191800 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 53)
+Unloading 699 unused Assets to reduce memory usage. Loaded Objects now: 92675.
+Total: 123.022000 ms (FindLiveObjects: 7.785200 ms CreateObjectMapping: 14.426300 ms MarkObjects: 99.834300 ms  DeleteObjects: 0.975900 ms)
+
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+The referenced script (Unknown) on this Behaviour is missing!
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+The class named 'Mouse.Timeline.Core.QuaternionUtils' is abstract. The script class can't be abstract!
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+The class named 'Mouse.CameraShake.EaseJob' is not derived from MonoBehaviour or ScriptableObject!
+A scripted object (probably Mouse.CameraShake.EaseJob?) has a different serialization layout when loading. (Read 36 bytes but expected 3332 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The class named 'UnityEngine.UI.Extensions.UIExtensionsInputManager' is abstract. The script class can't be abstract!
+A scripted object (probably UnityEngine.UI.Extensions.UIExtensionsInputManager?) has a different serialization layout when loading. (Read 40 bytes but expected 3388 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The class named 'OdinSerializer.Vector4DictionaryKeyPathProvider' is not derived from MonoBehaviour or ScriptableObject!
+A scripted object (probably OdinSerializer.Vector4DictionaryKeyPathProvider?) has a different serialization layout when loading. (Read 40 bytes but expected 3296 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably Mouse.Timeline.Core.QuaternionUtils?) has a different serialization layout when loading. (Read 32 bytes but expected 44 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably ReginaldWeaponUser?) has a different serialization layout when loading. (Read 48 bytes but expected 520 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script on this Behaviour (Game Object 'Console (DevConsole.cs Script)') is missing!
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably ReginaldWeaponUser?) has a different serialization layout when loading. (Read 48 bytes but expected 520 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably ReginaldWeaponUser?) has a different serialization layout when loading. (Read 48 bytes but expected 516 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+Default clip could not be found in attached animations list.
+Unloading 7 Unused Serialized files (Serialized files now loaded: 55)
+UnloadTime: 47.996800 ms
+Unloading 5295 unused Assets to reduce memory usage. Loaded Objects now: 92588.
+Total: 103.514900 ms (FindLiveObjects: 8.531400 ms CreateObjectMapping: 14.581800 ms MarkObjects: 73.130900 ms  DeleteObjects: 7.270500 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 55)
+Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 92560.
+Total: 97.982100 ms (FindLiveObjects: 8.590900 ms CreateObjectMapping: 13.899300 ms MarkObjects: 75.246100 ms  DeleteObjects: 0.245600 ms)
+
+The class named 'Mouse.CameraShake.EaseJob' is not derived from MonoBehaviour or ScriptableObject!
+A scripted object (probably Mouse.CameraShake.EaseJob?) has a different serialization layout when loading. (Read 36 bytes but expected 3332 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The class named 'UnityEngine.UI.Extensions.UIExtensionsInputManager' is abstract. The script class can't be abstract!
+A scripted object (probably UnityEngine.UI.Extensions.UIExtensionsInputManager?) has a different serialization layout when loading. (Read 40 bytes but expected 3388 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The class named 'OdinSerializer.Vector4DictionaryKeyPathProvider' is not derived from MonoBehaviour or ScriptableObject!
+A scripted object (probably OdinSerializer.Vector4DictionaryKeyPathProvider?) has a different serialization layout when loading. (Read 40 bytes but expected 3296 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+The referenced script (Unknown) on this Behaviour is missing!
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+The class named 'Mouse.Timeline.Core.QuaternionUtils' is abstract. The script class can't be abstract!
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+A scripted object (probably Mouse.Timeline.Core.QuaternionUtils?) has a different serialization layout when loading. (Read 32 bytes but expected 44 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably ReginaldWeaponUser?) has a different serialization layout when loading. (Read 48 bytes but expected 520 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script on this Behaviour (Game Object 'Console (DevConsole.cs Script)') is missing!
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably ReginaldWeaponUser?) has a different serialization layout when loading. (Read 48 bytes but expected 520 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably ReginaldWeaponUser?) has a different serialization layout when loading. (Read 48 bytes but expected 516 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+Failed to create agent because there is no valid NavMesh
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@PoliceStation_CellArea_ExitDoorsOpened/@LeftPath/P_EnemyDoor_Basic_01/P_Spawner_BasicEnemiesSpawn01/P_Openings_Doors_ReinforcedDoorSingleFrame01/Collider"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@AdditionalEnemyDoors/P_EnemyDoor_Basic/P_Spawner_BasicEnemiesSpawn01/P_Openings_Doors_ReinforcedDoorSingleFrame01/Collider"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@PoliceStationReception/P_EnemyDoor_Basic/P_Spawner_BasicEnemiesSpawn01/P_Openings_Doors_ReinforcedDoorSingleFrame01/Collider"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@AdditionalEnemyDoors/P_EnemyDoor_Basic/P_Spawner_BasicEnemiesSpawn01/P_Openings_Doors_ReinforcedDoorSingleFrame01/Collider"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@PoliceStation_CellArea_ExitDoorsOpened/@LeftPath/P_EnemyDoor_Basic/P_Spawner_BasicEnemiesSpawn01/P_Openings_Doors_ReinforcedDoorSingleFrame01/Collider"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@PoliceStation_CellArea_ExitDoorsOpened/@LeftPath/P_EnemyDoor_Basic/P_Spawner_BasicEnemiesSpawn01/P_Openings_Doors_ReinforcedDoorSingleFrame01/Collider_02"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@AdditionalEnemyDoors/P_EnemyDoor_Basic/P_Spawner_BasicEnemiesSpawn01/P_Openings_Doors_ReinforcedDoorSingleFrame01/Collider_02"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@PoliceStationReception/P_EnemyDoor_Basic/P_Spawner_BasicEnemiesSpawn01/P_Openings_Doors_ReinforcedDoorSingleFrame01/Collider_02"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@AdditionalEnemyDoors/P_EnemyDoor_Basic/P_Spawner_BasicEnemiesSpawn01/P_Openings_Doors_ReinforcedDoorSingleFrame01/Collider_02"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@PoliceStation_CellArea_ExitDoorsOpened/@LeftPath/P_EnemyDoor_Basic_01/P_Spawner_BasicEnemiesSpawn01/P_Openings_Doors_ReinforcedDoorSingleFrame01/Collider_02"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@AdditionalEnemyDoors/P_EnemyDoor_Basic/P_Spawner_BasicEnemiesSpawn01/SM_Void01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@PoliceStation_CellArea_ExitDoorsOpened/@LeftPath/P_EnemyDoor_Basic/P_Spawner_BasicEnemiesSpawn01/SM_Void01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@PoliceStationReception/P_EnemyDoor_Basic/P_Spawner_BasicEnemiesSpawn01/SM_Void01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@PoliceStation_CellArea_ExitDoorsOpened/@LeftPath/P_EnemyDoor_Basic_01/P_Spawner_BasicEnemiesSpawn01/SM_Void01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@AdditionalEnemyDoors/P_EnemyDoor_Basic/P_Spawner_BasicEnemiesSpawn01/SM_Void01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@PoliceStation_CellArea_ExitDoorsOpened/@LeftPath/P_EnemyDoor_Basic/P_Spawner_BasicEnemiesSpawn01/P_Openings_Doors_EnemyDoor01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@AdditionalEnemyDoors/P_EnemyDoor_Basic/P_Spawner_BasicEnemiesSpawn01/P_Openings_Doors_EnemyDoor01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@AdditionalEnemyDoors/P_EnemyDoor_Basic/P_Spawner_BasicEnemiesSpawn01/P_Openings_Doors_EnemyDoor01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@PoliceStation_CellArea_ExitDoorsOpened/@LeftPath/P_EnemyDoor_Basic_01/P_Spawner_BasicEnemiesSpawn01/P_Openings_Doors_EnemyDoor01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@PoliceStationReception/P_EnemyDoor_Basic/P_Spawner_BasicEnemiesSpawn01/P_Openings_Doors_EnemyDoor01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@PoliceStation_CellArea_ExitDoorsOpened/@LeftPath/P_EnemyDoor_Basic_01/P_Spawner_BasicEnemiesSpawn01/P_Openings_Doors_ReinforcedDoorSingleFrame01/Collider_01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@AdditionalEnemyDoors/P_EnemyDoor_Basic/P_Spawner_BasicEnemiesSpawn01/P_Openings_Doors_ReinforcedDoorSingleFrame01/Collider_01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@PoliceStationReception/P_EnemyDoor_Basic/P_Spawner_BasicEnemiesSpawn01/P_Openings_Doors_ReinforcedDoorSingleFrame01/Collider_01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@AdditionalEnemyDoors/P_EnemyDoor_Basic/P_Spawner_BasicEnemiesSpawn01/P_Openings_Doors_ReinforcedDoorSingleFrame01/Collider_01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@PoliceStation_CellArea_ExitDoorsOpened/@LeftPath/P_EnemyDoor_Basic/P_Spawner_BasicEnemiesSpawn01/P_Openings_Doors_ReinforcedDoorSingleFrame01/Collider_01"
+Setting linear velocity of a kinematic body is not supported.
+Look rotation viewing vector is zero
+Unloading 62 Unused Serialized files (Serialized files now loaded: 133)
+UnloadTime: 308.227100 ms
+Unloading 8878 unused Assets to reduce memory usage. Loaded Objects now: 101164.
+Total: 437.291700 ms (FindLiveObjects: 10.592500 ms CreateObjectMapping: 26.672100 ms MarkObjects: 91.180400 ms  DeleteObjects: 308.846300 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 52)
+Unloading 61 unused Assets to reduce memory usage. Loaded Objects now: 92402.
+Total: 108.973300 ms (FindLiveObjects: 8.524600 ms CreateObjectMapping: 13.429600 ms MarkObjects: 86.660800 ms  DeleteObjects: 0.357800 ms)
+
+The class named 'Mouse.CameraShake.EaseJob' is not derived from MonoBehaviour or ScriptableObject!
+A scripted object (probably Mouse.CameraShake.EaseJob?) has a different serialization layout when loading. (Read 36 bytes but expected 3332 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The class named 'UnityEngine.UI.Extensions.UIExtensionsInputManager' is abstract. The script class can't be abstract!
+A scripted object (probably UnityEngine.UI.Extensions.UIExtensionsInputManager?) has a different serialization layout when loading. (Read 40 bytes but expected 3388 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The class named 'OdinSerializer.Vector4DictionaryKeyPathProvider' is not derived from MonoBehaviour or ScriptableObject!
+A scripted object (probably OdinSerializer.Vector4DictionaryKeyPathProvider?) has a different serialization layout when loading. (Read 40 bytes but expected 3296 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+The referenced script (Unknown) on this Behaviour is missing!
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+The class named 'Mouse.Timeline.Core.QuaternionUtils' is abstract. The script class can't be abstract!
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+A scripted object (probably Mouse.Timeline.Core.QuaternionUtils?) has a different serialization layout when loading. (Read 32 bytes but expected 44 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably ReginaldWeaponUser?) has a different serialization layout when loading. (Read 48 bytes but expected 520 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script on this Behaviour (Game Object 'Console (DevConsole.cs Script)') is missing!
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably ReginaldWeaponUser?) has a different serialization layout when loading. (Read 48 bytes but expected 520 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably ReginaldWeaponUser?) has a different serialization layout when loading. (Read 48 bytes but expected 516 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+Failed to create agent because there is no valid NavMesh
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@PoliceStation_CellArea_ExitDoorsOpened/@LeftPath/P_EnemyDoor_Basic_01/P_Spawner_BasicEnemiesSpawn01/P_Openings_Doors_ReinforcedDoorSingleFrame01/Collider"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@AdditionalEnemyDoors/P_EnemyDoor_Basic/P_Spawner_BasicEnemiesSpawn01/P_Openings_Doors_ReinforcedDoorSingleFrame01/Collider"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@PoliceStationReception/P_EnemyDoor_Basic/P_Spawner_BasicEnemiesSpawn01/P_Openings_Doors_ReinforcedDoorSingleFrame01/Collider"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@AdditionalEnemyDoors/P_EnemyDoor_Basic/P_Spawner_BasicEnemiesSpawn01/P_Openings_Doors_ReinforcedDoorSingleFrame01/Collider"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@PoliceStation_CellArea_ExitDoorsOpened/@LeftPath/P_EnemyDoor_Basic/P_Spawner_BasicEnemiesSpawn01/P_Openings_Doors_ReinforcedDoorSingleFrame01/Collider"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@PoliceStation_CellArea_ExitDoorsOpened/@LeftPath/P_EnemyDoor_Basic/P_Spawner_BasicEnemiesSpawn01/P_Openings_Doors_ReinforcedDoorSingleFrame01/Collider_02"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@AdditionalEnemyDoors/P_EnemyDoor_Basic/P_Spawner_BasicEnemiesSpawn01/P_Openings_Doors_ReinforcedDoorSingleFrame01/Collider_02"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@PoliceStationReception/P_EnemyDoor_Basic/P_Spawner_BasicEnemiesSpawn01/P_Openings_Doors_ReinforcedDoorSingleFrame01/Collider_02"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@AdditionalEnemyDoors/P_EnemyDoor_Basic/P_Spawner_BasicEnemiesSpawn01/P_Openings_Doors_ReinforcedDoorSingleFrame01/Collider_02"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@PoliceStation_CellArea_ExitDoorsOpened/@LeftPath/P_EnemyDoor_Basic_01/P_Spawner_BasicEnemiesSpawn01/P_Openings_Doors_ReinforcedDoorSingleFrame01/Collider_02"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@AdditionalEnemyDoors/P_EnemyDoor_Basic/P_Spawner_BasicEnemiesSpawn01/SM_Void01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@PoliceStation_CellArea_ExitDoorsOpened/@LeftPath/P_EnemyDoor_Basic/P_Spawner_BasicEnemiesSpawn01/SM_Void01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@PoliceStationReception/P_EnemyDoor_Basic/P_Spawner_BasicEnemiesSpawn01/SM_Void01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@PoliceStation_CellArea_ExitDoorsOpened/@LeftPath/P_EnemyDoor_Basic_01/P_Spawner_BasicEnemiesSpawn01/SM_Void01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@AdditionalEnemyDoors/P_EnemyDoor_Basic/P_Spawner_BasicEnemiesSpawn01/SM_Void01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@PoliceStation_CellArea_ExitDoorsOpened/@LeftPath/P_EnemyDoor_Basic/P_Spawner_BasicEnemiesSpawn01/P_Openings_Doors_EnemyDoor01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@AdditionalEnemyDoors/P_EnemyDoor_Basic/P_Spawner_BasicEnemiesSpawn01/P_Openings_Doors_EnemyDoor01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@AdditionalEnemyDoors/P_EnemyDoor_Basic/P_Spawner_BasicEnemiesSpawn01/P_Openings_Doors_EnemyDoor01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@PoliceStation_CellArea_ExitDoorsOpened/@LeftPath/P_EnemyDoor_Basic_01/P_Spawner_BasicEnemiesSpawn01/P_Openings_Doors_EnemyDoor01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@PoliceStationReception/P_EnemyDoor_Basic/P_Spawner_BasicEnemiesSpawn01/P_Openings_Doors_EnemyDoor01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@PoliceStation_CellArea_ExitDoorsOpened/@LeftPath/P_EnemyDoor_Basic_01/P_Spawner_BasicEnemiesSpawn01/P_Openings_Doors_ReinforcedDoorSingleFrame01/Collider_01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@AdditionalEnemyDoors/P_EnemyDoor_Basic/P_Spawner_BasicEnemiesSpawn01/P_Openings_Doors_ReinforcedDoorSingleFrame01/Collider_01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@PoliceStationReception/P_EnemyDoor_Basic/P_Spawner_BasicEnemiesSpawn01/P_Openings_Doors_ReinforcedDoorSingleFrame01/Collider_01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@AdditionalEnemyDoors/P_EnemyDoor_Basic/P_Spawner_BasicEnemiesSpawn01/P_Openings_Doors_ReinforcedDoorSingleFrame01/Collider_01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@PoliceStation_CellArea_ExitDoorsOpened/@LeftPath/P_EnemyDoor_Basic/P_Spawner_BasicEnemiesSpawn01/P_Openings_Doors_ReinforcedDoorSingleFrame01/Collider_01"
+Setting linear velocity of a kinematic body is not supported.
+Look rotation viewing vector is zero
+Unloading 62 Unused Serialized files (Serialized files now loaded: 133)
+UnloadTime: 298.723700 ms
+Unloading 8345 unused Assets to reduce memory usage. Loaded Objects now: 101066.
+Total: 413.645600 ms (FindLiveObjects: 10.280100 ms CreateObjectMapping: 17.190200 ms MarkObjects: 80.298600 ms  DeleteObjects: 305.876200 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 52)
+Unloading 61 unused Assets to reduce memory usage. Loaded Objects now: 92342.
+Total: 123.671500 ms (FindLiveObjects: 8.085200 ms CreateObjectMapping: 13.394900 ms MarkObjects: 101.821000 ms  DeleteObjects: 0.369900 ms)
+
+The class named 'Mouse.CameraShake.EaseJob' is not derived from MonoBehaviour or ScriptableObject!
+A scripted object (probably Mouse.CameraShake.EaseJob?) has a different serialization layout when loading. (Read 36 bytes but expected 3332 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The class named 'UnityEngine.UI.Extensions.UIExtensionsInputManager' is abstract. The script class can't be abstract!
+A scripted object (probably UnityEngine.UI.Extensions.UIExtensionsInputManager?) has a different serialization layout when loading. (Read 40 bytes but expected 3388 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The class named 'OdinSerializer.Vector4DictionaryKeyPathProvider' is not derived from MonoBehaviour or ScriptableObject!
+A scripted object (probably OdinSerializer.Vector4DictionaryKeyPathProvider?) has a different serialization layout when loading. (Read 40 bytes but expected 3296 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+The referenced script (Unknown) on this Behaviour is missing!
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+The class named 'Mouse.Timeline.Core.QuaternionUtils' is abstract. The script class can't be abstract!
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+A scripted object (probably Mouse.Timeline.Core.QuaternionUtils?) has a different serialization layout when loading. (Read 32 bytes but expected 44 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably ReginaldWeaponUser?) has a different serialization layout when loading. (Read 48 bytes but expected 520 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script on this Behaviour (Game Object 'Console (DevConsole.cs Script)') is missing!
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably ReginaldWeaponUser?) has a different serialization layout when loading. (Read 48 bytes but expected 520 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably ReginaldWeaponUser?) has a different serialization layout when loading. (Read 48 bytes but expected 516 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+Failed to create agent because there is no valid NavMesh
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@PoliceStation_CellArea_ExitDoorsOpened/@LeftPath/P_EnemyDoor_Basic_01/P_Spawner_BasicEnemiesSpawn01/P_Openings_Doors_ReinforcedDoorSingleFrame01/Collider"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@AdditionalEnemyDoors/P_EnemyDoor_Basic/P_Spawner_BasicEnemiesSpawn01/P_Openings_Doors_ReinforcedDoorSingleFrame01/Collider"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@PoliceStationReception/P_EnemyDoor_Basic/P_Spawner_BasicEnemiesSpawn01/P_Openings_Doors_ReinforcedDoorSingleFrame01/Collider"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@AdditionalEnemyDoors/P_EnemyDoor_Basic/P_Spawner_BasicEnemiesSpawn01/P_Openings_Doors_ReinforcedDoorSingleFrame01/Collider"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@PoliceStation_CellArea_ExitDoorsOpened/@LeftPath/P_EnemyDoor_Basic/P_Spawner_BasicEnemiesSpawn01/P_Openings_Doors_ReinforcedDoorSingleFrame01/Collider"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@PoliceStation_CellArea_ExitDoorsOpened/@LeftPath/P_EnemyDoor_Basic/P_Spawner_BasicEnemiesSpawn01/P_Openings_Doors_ReinforcedDoorSingleFrame01/Collider_02"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@AdditionalEnemyDoors/P_EnemyDoor_Basic/P_Spawner_BasicEnemiesSpawn01/P_Openings_Doors_ReinforcedDoorSingleFrame01/Collider_02"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@PoliceStationReception/P_EnemyDoor_Basic/P_Spawner_BasicEnemiesSpawn01/P_Openings_Doors_ReinforcedDoorSingleFrame01/Collider_02"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@AdditionalEnemyDoors/P_EnemyDoor_Basic/P_Spawner_BasicEnemiesSpawn01/P_Openings_Doors_ReinforcedDoorSingleFrame01/Collider_02"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@PoliceStation_CellArea_ExitDoorsOpened/@LeftPath/P_EnemyDoor_Basic_01/P_Spawner_BasicEnemiesSpawn01/P_Openings_Doors_ReinforcedDoorSingleFrame01/Collider_02"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@AdditionalEnemyDoors/P_EnemyDoor_Basic/P_Spawner_BasicEnemiesSpawn01/SM_Void01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@PoliceStation_CellArea_ExitDoorsOpened/@LeftPath/P_EnemyDoor_Basic/P_Spawner_BasicEnemiesSpawn01/SM_Void01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@PoliceStationReception/P_EnemyDoor_Basic/P_Spawner_BasicEnemiesSpawn01/SM_Void01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@PoliceStation_CellArea_ExitDoorsOpened/@LeftPath/P_EnemyDoor_Basic_01/P_Spawner_BasicEnemiesSpawn01/SM_Void01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@AdditionalEnemyDoors/P_EnemyDoor_Basic/P_Spawner_BasicEnemiesSpawn01/SM_Void01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@PoliceStation_CellArea_ExitDoorsOpened/@LeftPath/P_EnemyDoor_Basic/P_Spawner_BasicEnemiesSpawn01/P_Openings_Doors_EnemyDoor01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@AdditionalEnemyDoors/P_EnemyDoor_Basic/P_Spawner_BasicEnemiesSpawn01/P_Openings_Doors_EnemyDoor01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@AdditionalEnemyDoors/P_EnemyDoor_Basic/P_Spawner_BasicEnemiesSpawn01/P_Openings_Doors_EnemyDoor01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@PoliceStation_CellArea_ExitDoorsOpened/@LeftPath/P_EnemyDoor_Basic_01/P_Spawner_BasicEnemiesSpawn01/P_Openings_Doors_EnemyDoor01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@PoliceStationReception/P_EnemyDoor_Basic/P_Spawner_BasicEnemiesSpawn01/P_Openings_Doors_EnemyDoor01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@PoliceStation_CellArea_ExitDoorsOpened/@LeftPath/P_EnemyDoor_Basic_01/P_Spawner_BasicEnemiesSpawn01/P_Openings_Doors_ReinforcedDoorSingleFrame01/Collider_01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@AdditionalEnemyDoors/P_EnemyDoor_Basic/P_Spawner_BasicEnemiesSpawn01/P_Openings_Doors_ReinforcedDoorSingleFrame01/Collider_01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@PoliceStationReception/P_EnemyDoor_Basic/P_Spawner_BasicEnemiesSpawn01/P_Openings_Doors_ReinforcedDoorSingleFrame01/Collider_01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@AdditionalEnemyDoors/P_EnemyDoor_Basic/P_Spawner_BasicEnemiesSpawn01/P_Openings_Doors_ReinforcedDoorSingleFrame01/Collider_01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Worldstate#1/@AI/@Enemies/@PoliceStation_CellArea_ExitDoorsOpened/@LeftPath/P_EnemyDoor_Basic/P_Spawner_BasicEnemiesSpawn01/P_Openings_Doors_ReinforcedDoorSingleFrame01/Collider_01"
+Setting linear velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Setting linear velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+Unloading 62 Unused Serialized files (Serialized files now loaded: 129)
+UnloadTime: 326.552700 ms
+Unloading 8946 unused Assets to reduce memory usage. Loaded Objects now: 101741.
+Total: 391.963100 ms (FindLiveObjects: 12.208400 ms CreateObjectMapping: 15.608900 ms MarkObjects: 86.125400 ms  DeleteObjects: 278.020000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 48)
+Unloading 161 unused Assets to reduce memory usage. Loaded Objects now: 92978.
+Total: 125.171700 ms (FindLiveObjects: 7.992400 ms CreateObjectMapping: 13.725500 ms MarkObjects: 103.070400 ms  DeleteObjects: 0.383000 ms)
+
+The class named 'Mouse.CameraShake.EaseJob' is not derived from MonoBehaviour or ScriptableObject!
+A scripted object (probably Mouse.CameraShake.EaseJob?) has a different serialization layout when loading. (Read 36 bytes but expected 3332 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The class named 'UnityEngine.UI.Extensions.UIExtensionsInputManager' is abstract. The script class can't be abstract!
+A scripted object (probably UnityEngine.UI.Extensions.UIExtensionsInputManager?) has a different serialization layout when loading. (Read 40 bytes but expected 3388 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The class named 'OdinSerializer.Vector4DictionaryKeyPathProvider' is not derived from MonoBehaviour or ScriptableObject!
+A scripted object (probably OdinSerializer.Vector4DictionaryKeyPathProvider?) has a different serialization layout when loading. (Read 40 bytes but expected 3296 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for E:/Games/ActionGames/MOUSE P.I. For Hire/MOUSE P.I. For Hire/MOUSE_Data/sharedassets5.resource
+Unloading 6 Unused Serialized files (Serialized files now loaded: 50)
+UnloadTime: 6.233500 ms
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 93402.
+Total: 100.491600 ms (FindLiveObjects: 7.689200 ms CreateObjectMapping: 12.436000 ms MarkObjects: 78.078600 ms  DeleteObjects: 2.287400 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 50)
+Unloading 252 unused Assets to reduce memory usage. Loaded Objects now: 93152.
+Total: 97.440700 ms (FindLiveObjects: 7.378300 ms CreateObjectMapping: 12.597200 ms MarkObjects: 76.991500 ms  DeleteObjects: 0.473100 ms)
+
+The class named 'Mouse.CameraShake.EaseJob' is not derived from MonoBehaviour or ScriptableObject!
+A scripted object (probably Mouse.CameraShake.EaseJob?) has a different serialization layout when loading. (Read 36 bytes but expected 3332 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The class named 'UnityEngine.UI.Extensions.UIExtensionsInputManager' is abstract. The script class can't be abstract!
+A scripted object (probably UnityEngine.UI.Extensions.UIExtensionsInputManager?) has a different serialization layout when loading. (Read 40 bytes but expected 3388 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The class named 'OdinSerializer.Vector4DictionaryKeyPathProvider' is not derived from MonoBehaviour or ScriptableObject!
+A scripted object (probably OdinSerializer.Vector4DictionaryKeyPathProvider?) has a different serialization layout when loading. (Read 40 bytes but expected 3296 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+The referenced script (Unknown) on this Behaviour is missing!
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+The class named 'Mouse.Timeline.Core.QuaternionUtils' is abstract. The script class can't be abstract!
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
+A scripted object (probably Mouse.Timeline.Core.QuaternionUtils?) has a different serialization layout when loading. (Read 32 bytes but expected 44 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably ReginaldWeaponUser?) has a different serialization layout when loading. (Read 48 bytes but expected 520 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script on this Behaviour (Game Object 'Console (DevConsole.cs Script)') is missing!
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably ReginaldWeaponUser?) has a different serialization layout when loading. (Read 48 bytes but expected 520 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably ReginaldWeaponUser?) has a different serialization layout when loading. (Read 48 bytes but expected 516 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
+Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+NullReferenceException: Object reference not set to an instance of an object.
+  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <51b56bcf66c2474b832cc3e7ed1dab50>:0 
+  at UnityEngine.Component.get_gameObject () [0x00006] in <51b56bcf66c2474b832cc3e7ed1dab50>:0 
+  at UICanvas.CanvasGroupInstance.Open (System.Single fadeDuration, System.Single openDelay) [0x0001e] in <74710d00e91949879280292851cd16ff>:0 
+  at Mouse.CharacterMovement.HolsterState.OnRemovedState () [0x0000a] in <74710d00e91949879280292851cd16ff>:0 
+  at Mouse.CharacterMovement.PlayerActionState.Clear () [0x00027] in <74710d00e91949879280292851cd16ff>:0 
+  at Player.OnDestroy () [0x0008d] in <74710d00e91949879280292851cd16ff>:0 
 UnityEngine.DebugLogHandler:Internal_LogException_Injected(Exception, IntPtr)
 UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
 UnityEngine.DebugLogHandler:LogException(Exception, Object)
 Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogException(Exception, Object)
 UnityEngine.Logger:LogException(Exception, Object)
 UnityEngine.Debug:CallOverridenDebugHandler(Exception, Object)
-UnityEngine.GameObject:Internal_AddComponentWithType_Injected(IntPtr, Type)
-UnityEngine.GameObject:Internal_AddComponentWithType(Type)
-UnityEngine.GameObject:AddComponent(Type)
-UnityEngine.GameObject:AddComponent()
-SteamManager:get_Instance()
-SteamManager:get_Initialized()
-UICanvas.ApplicationStateWatcher:OnDestroy()
 
 [Physics::Module] Cleanup current backend.
 [Physics::Module] Id: 0xf2b8ea05
