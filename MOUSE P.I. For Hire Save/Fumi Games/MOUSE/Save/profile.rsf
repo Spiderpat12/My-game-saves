@@ -1,6 +1,6 @@
 {
   "a": "save2",
-  "b": "checkpoint0",
+  "b": "checkpoint2",
   "c": {
     "SettingLanguage": "0",
     "SettingAutoContinueDialogue": false,
@@ -16,11 +16,11 @@
   "d": "{\"bindings\":[{\"action\":\"Player/Move\",\"id\":\"e2f9aa65-db06-4c5b-a2e9-41bc8acb9517\",\"path\":\"null\",\"interactions\":\"null\",\"processors\":\"stickDeadzone(min=0.0665,max=1)\"},{\"action\":\"Player/Look\",\"id\":\"d1d171b6-19d8-47a6-ba3a-71b6a8e7b3c0\",\"path\":\"null\",\"interactions\":\"null\",\"processors\":\"stickDeadzone(min=0.0475,max=1)\"}]}",
   "e": false,
   "f": {
-    "BoomTown": 12,
-    "FireStarter": 1,
+    "BoomTown": 20,
+    "FireStarter": 6,
     "GonnaNeedABiggerCapacitorDoc": 0,
     "HotStreak": 5,
-    "ScorchingStreak": 2,
+    "ScorchingStreak": 10,
     "SquishSquash": 2,
     "WeHaveChowYunFatAtHome": 3
   },
