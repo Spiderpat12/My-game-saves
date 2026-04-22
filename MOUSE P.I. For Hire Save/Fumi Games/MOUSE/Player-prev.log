@@ -1,13 +1,13 @@
-Mono path[0] = 'E:/Games/ActionGames/MOUSE P.I. For Hire/MOUSE P.I. For Hire/MOUSE_Data/Managed'
-Mono config path = 'E:/Games/ActionGames/MOUSE P.I. For Hire/MOUSE P.I. For Hire/MonoBleedingEdge/etc'
+Mono path[0] = 'C:/Users/Omar/Music/MOUSE P.I. For Hire/MOUSE P.I. For Hire/MOUSE_Data/Managed'
+Mono config path = 'C:/Users/Omar/Music/MOUSE P.I. For Hire/MOUSE P.I. For Hire/MonoBleedingEdge/etc'
 Input System module state changed to: Initialized.
 [Physics::Module] Initialized fallback backend.
 [Physics::Module] Id: 0xdecafbad
-Loading player data from E:/Games/ActionGames/MOUSE P.I. For Hire/MOUSE P.I. For Hire/MOUSE_Data/data.unity3d
-Unable to read header from archive file: E:/Games/ActionGames/MOUSE P.I. For Hire/MOUSE P.I. For Hire/MOUSE_Data/data.unity3d
-Failed to install Player data archive: E:/Games/ActionGames/MOUSE P.I. For Hire/MOUSE P.I. For Hire/MOUSE_Data/data.unity3d!
+Loading player data from C:/Users/Omar/Music/MOUSE P.I. For Hire/MOUSE P.I. For Hire/MOUSE_Data/data.unity3d
+Unable to read header from archive file: C:/Users/Omar/Music/MOUSE P.I. For Hire/MOUSE P.I. For Hire/MOUSE_Data/data.unity3d
+Failed to install Player data archive: C:/Users/Omar/Music/MOUSE P.I. For Hire/MOUSE P.I. For Hire/MOUSE_Data/data.unity3d!
 Initialize engine version: 6000.3.0f1 (d1870ce95baf)
-[Subsystems] Discovering subsystems at path E:/Games/ActionGames/MOUSE P.I. For Hire/MOUSE P.I. For Hire/MOUSE_Data/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Omar/Music/MOUSE P.I. For Hire/MOUSE P.I. For Hire/MOUSE_Data/UnitySubsystems
 [D3D12 Device Filter] Vendor Name: NVIDIA
 [D3D12 Device Filter] Device Name: NVIDIA GeForce GTX 750 Ti
 [D3D12 Device Filter] Driver Version: 32.0.15.6094
@@ -24,8 +24,8 @@ Direct3D:
     VRAM:     1999 MB
     Driver:   32.0.15.6094
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  2.488 seconds
-- Finished resetting the current domain, in  0.024 seconds
+- Loaded All Assemblies, in  0.458 seconds
+- Finished resetting the current domain, in  0.006 seconds
 [Physics::Module] Selected backend.
 [Physics::Module] Name: PhysX
 [Physics::Module] Id: 0xf2b8ea05
@@ -23593,197 +23593,18 @@ A scripted object (probably ReginaldWeaponUser?) has a different serialization l
 Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
 A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
 Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
-UnloadTime: 47.257700 ms
+UnloadTime: 6.407800 ms
 Unloading 6 Unused Serialized files (Serialized files now loaded: 39)
 Unloading 301 unused Assets to reduce memory usage. Loaded Objects now: 73294.
-Total: 57.475400 ms (FindLiveObjects: 6.324800 ms CreateObjectMapping: 10.556000 ms MarkObjects: 39.922000 ms  DeleteObjects: 0.672200 ms)
+Total: 330.640600 ms (FindLiveObjects: 4.839000 ms CreateObjectMapping: 14.168600 ms MarkObjects: 41.816500 ms  DeleteObjects: 269.816200 ms)
 
-UnloadTime: 552.912400 ms
+UnloadTime: 833.984600 ms
 Unloading 2 Unused Serialized files (Serialized files now loaded: 39)
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 76226.
-Total: 67.256600 ms (FindLiveObjects: 8.975400 ms CreateObjectMapping: 14.559000 ms MarkObjects: 43.547100 ms  DeleteObjects: 0.174800 ms)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 76227.
+Total: 61.747300 ms (FindLiveObjects: 6.976800 ms CreateObjectMapping: 11.518800 ms MarkObjects: 42.975700 ms  DeleteObjects: 0.275600 ms)
 
-Unloading 4 Unused Serialized files (Serialized files now loaded: 40)
-UnloadTime: 3.852300 ms
-Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 76265.
-Total: 52.071700 ms (FindLiveObjects: 5.100500 ms CreateObjectMapping: 10.442100 ms MarkObjects: 36.301400 ms  DeleteObjects: 0.227300 ms)
-
-Unloading 0 Unused Serialized files (Serialized files now loaded: 39)
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 76264.
-Total: 53.909300 ms (FindLiveObjects: 6.132300 ms CreateObjectMapping: 10.939300 ms MarkObjects: 36.622600 ms  DeleteObjects: 0.214600 ms)
-
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@Zone_Streets/@Building_PIOffice_01/@Inside/@Floor_Middle/@Stairs/P_Modular_Stairs_RoundedStairs01_Straight01_02/P_Modular_Stairs_RoundedStairs01_StraightSide01/P_Modular_Stairs_RoundedStairs01_StepsSide01A/Collider_03"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@Zone_Streets/@Building_PIOffice_01/@Inside/@Floor_Middle_02/@Stairs/P_Modular_Stairs_RoundedStairs01_Straight01_05/P_Modular_Stairs_RoundedStairs01_StraightSide01/P_Modular_Stairs_RoundedStairs01_StepsSide01A/Collider_03"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@Zone_Streets/@Building_PIOffice_01/@Inside/@Floor_Middle/@Stairs/P_Modular_Stairs_RoundedStairs01_Straight01_01/P_Modular_Stairs_RoundedStairs01_StraightSide01/P_Modular_Stairs_RoundedStairs01_StepsSide01A/Collider_03"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@Zone_Streets/@Building_PIOffice_01/@Inside/@Floor_Office/@Stairs/P_Modular_Stairs_RoundedStairs01_Straight01/P_Modular_Stairs_RoundedStairs01_StraightSide01/P_Modular_Stairs_RoundedStairs01_StepsSide01A/Collider_03"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@Zone_Streets/@Building_PIOffice_01/@Inside/@Floor_Office/@Stairs/P_Modular_Stairs_RoundedStairs01_Straight01_03/P_Modular_Stairs_RoundedStairs01_StraightSide01/P_Modular_Stairs_RoundedStairs01_StepsSide01A/Collider_04"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@Zone_Streets/@Building_PIOffice_01/@Inside/@Floor_Office/@Stairs/P_Modular_Stairs_RoundedStairs01_StepsSide01A_01/Collider_04"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@Zone_Streets/@Building_PIOffice_01/@Inside/@Floor_Office/@Stairs/P_Modular_Stairs_RoundedStairs01_StepsSide01A_05/Collider_04"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@Zone_Streets/@Building_PIOffice_01/@Inside/@Floor_Office/@Stairs/P_Modular_Stairs_RoundedStairs01_StepsSide01A_04/Collider_04"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@Zone_Streets/@Building_PIOffice_01/@Inside/@Floor_Office/@Stairs/P_Modular_Stairs_RoundedStairs01_Straight01_02/P_Modular_Stairs_RoundedStairs01_StraightSide01/P_Modular_Stairs_RoundedStairs01_StepsSide01A/Collider_04"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@Zone_Streets/@Building_PIOffice_01/@Inside/@Floor_Middle_02/@Stairs/P_Modular_Stairs_RoundedStairs01_Straight01_06/P_Modular_Stairs_RoundedStairs01_StraightSide01/P_Modular_Stairs_RoundedStairs01_StepsSide01A/Collider_03"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@Zone_Streets/@Building_PIOffice_01/@Inside/@Floor_Office/@Stairs/P_Modular_Stairs_RoundedStairs01_StepsSide01A_02/Collider_03"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@Zone_Streets/@Building_PIOffice_01/@Inside/@Floor_Office/@Stairs/P_Modular_Stairs_RoundedStairs01_Straight01_01/P_Modular_Stairs_RoundedStairs01_StraightSide01/P_Modular_Stairs_RoundedStairs01_StepsSide01A/Collider_04"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@Zone_Streets/@Building_PIOffice_01/@Inside/@Floor_Middle/@Stairs/P_Modular_Stairs_RoundedStairs01_Straight01/P_Modular_Stairs_RoundedStairs01_StraightSide01/P_Modular_Stairs_RoundedStairs01_StepsSide01A/Collider_04"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@Zone_Streets/@Building_PIOffice_01/@Inside/@Floor_Middle_02/@Stairs/P_Modular_Stairs_RoundedStairs01_Straight01_07/P_Modular_Stairs_RoundedStairs01_StraightSide01/P_Modular_Stairs_RoundedStairs01_StepsSide01A/Collider_03"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@Zone_Streets/@Building_PIOffice_01/@Inside/@Floor_Middle/@Stairs/P_Modular_Stairs_RoundedStairs01_Straight01_03/P_Modular_Stairs_RoundedStairs01_StraightSide01/P_Modular_Stairs_RoundedStairs01_StepsSide01A/Collider_03"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@Zone_Streets/@Building_PIOffice_01/@Inside/@Floor_Middle_02/@Stairs/P_Modular_Stairs_RoundedStairs01_Straight01_04/P_Modular_Stairs_RoundedStairs01_StraightSide01/P_Modular_Stairs_RoundedStairs01_StepsSide01A/Collider_04"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@Zone_Streets/@Building_PIOffice_01/@Inside/@Floor_Middle_02/@Stairs/P_Modular_Stairs_RoundedStairs01_Straight01_05/P_Modular_Stairs_RoundedStairs01_StraightSide01/P_Modular_Stairs_RoundedStairs01_StepsSide01A/Collider_04"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@Zone_Streets/@Building_PIOffice_01/@Inside/@Floor_Middle/@Stairs/P_Modular_Stairs_RoundedStairs01_Straight01_01/P_Modular_Stairs_RoundedStairs01_StraightSide01/P_Modular_Stairs_RoundedStairs01_StepsSide01A/Collider_04"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@Zone_Streets/@Building_PIOffice_01/@Inside/@Floor_Office/@Stairs/P_Modular_Stairs_RoundedStairs01_Straight01/P_Modular_Stairs_RoundedStairs01_StraightSide01/P_Modular_Stairs_RoundedStairs01_StepsSide01A/Collider_04"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@Zone_Streets/@Building_PIOffice_01/@Inside/@Floor_Middle/@Stairs/P_Modular_Stairs_RoundedStairs01_Straight01_02/P_Modular_Stairs_RoundedStairs01_StraightSide01/P_Modular_Stairs_RoundedStairs01_StepsSide01A/Collider_04"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@Zone_Streets/@Building_PIOffice_01/@Inside/@Floor_Office/@Stairs/P_Modular_Stairs_RoundedStairs01_Straight01_03/P_Modular_Stairs_RoundedStairs01_StraightSide01/P_Modular_Stairs_RoundedStairs01_StepsSide01A/Collider_03"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@Zone_Streets/@Building_PIOffice_01/@Inside/@Floor_Office/@Stairs/P_Modular_Stairs_RoundedStairs01_StepsSide01A_01/Collider_03"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@Zone_Streets/@Building_PIOffice_01/@Inside/@Floor_Office/@Stairs/P_Modular_Stairs_RoundedStairs01_StepsSide01A_05/Collider_03"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@Zone_Streets/@Building_PIOffice_01/@Inside/@Floor_Office/@Floors/P_ModularKit_Floor_4x2_01"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@Zone_Streets/@Building_PIOffice_01/@Inside/@Floor_Office/@Stairs/P_Modular_Stairs_RoundedStairs01_StepsSide01A_04/Collider_03"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@Zone_Streets/@Building_PIOffice_01/@Inside/@Floor_Office/@Stairs/P_Modular_Stairs_RoundedStairs01_Straight01_02/P_Modular_Stairs_RoundedStairs01_StraightSide01/P_Modular_Stairs_RoundedStairs01_StepsSide01A/Collider_03"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@Zone_Streets/@Building_PIOffice_01/@Inside/@Floor_Middle_02/@Stairs/P_Modular_Stairs_RoundedStairs01_Straight01_06/P_Modular_Stairs_RoundedStairs01_StraightSide01/P_Modular_Stairs_RoundedStairs01_StepsSide01A/Collider_04"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@Zone_Streets/@Building_PIOffice_01/@Inside/@Floor_Middle/@Stairs/P_Modular_Stairs_RoundedStairs01_Straight01_03/P_Modular_Stairs_RoundedStairs01_StraightSide01/P_Modular_Stairs_RoundedStairs01_StepsSide01A/Collider_04"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@Zone_Streets/@Building_PIOffice_01/@Inside/@Floor_Middle_02/@Stairs/P_Modular_Stairs_RoundedStairs01_Straight01_04/P_Modular_Stairs_RoundedStairs01_StraightSide01/P_Modular_Stairs_RoundedStairs01_StepsSide01A/Collider_03"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@Zone_Streets/@Building_PIOffice_01/@Inside/@Floor_Office/@Stairs/P_Modular_Stairs_RoundedStairs01_StepsSide01A_02/Collider_04"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@Zone_Streets/@Building_PIOffice_01/@Inside/@Floor_Office/@Stairs/P_Modular_Stairs_RoundedStairs01_Straight01_01/P_Modular_Stairs_RoundedStairs01_StraightSide01/P_Modular_Stairs_RoundedStairs01_StepsSide01A/Collider_03"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@Zone_Streets/@Building_PIOffice_01/@Inside/@Floor_Middle/@Stairs/P_Modular_Stairs_RoundedStairs01_Straight01/P_Modular_Stairs_RoundedStairs01_StraightSide01/P_Modular_Stairs_RoundedStairs01_StepsSide01A/Collider_03"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@Zone_Streets/@Building_PIOffice_01/@Inside/@Floor_Middle_02/@Stairs/P_Modular_Stairs_RoundedStairs01_Straight01_07/P_Modular_Stairs_RoundedStairs01_StraightSide01/P_Modular_Stairs_RoundedStairs01_StepsSide01A/Collider_04"
-Unloading 8 Unused Serialized files (Serialized files now loaded: 40)
-UnloadTime: 21.197000 ms
-Unloading 525 unused Assets to reduce memory usage. Loaded Objects now: 76380.
-Total: 74.143700 ms (FindLiveObjects: 5.634400 ms CreateObjectMapping: 10.500200 ms MarkObjects: 39.259700 ms  DeleteObjects: 18.749100 ms)
-
-Unloading 0 Unused Serialized files (Serialized files now loaded: 39)
-Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 76315.
-Total: 57.104500 ms (FindLiveObjects: 5.895300 ms CreateObjectMapping: 9.946500 ms MarkObjects: 41.048900 ms  DeleteObjects: 0.213400 ms)
-
-Unloading 4 Unused Serialized files (Serialized files now loaded: 41)
-UnloadTime: 2.674700 ms
-Unloading 219 unused Assets to reduce memory usage. Loaded Objects now: 81761.
-Total: 58.915200 ms (FindLiveObjects: 6.249500 ms CreateObjectMapping: 9.418700 ms MarkObjects: 42.789700 ms  DeleteObjects: 0.457100 ms)
-
-Unloading 0 Unused Serialized files (Serialized files now loaded: 41)
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 81763.
-Total: 55.603000 ms (FindLiveObjects: 6.022200 ms CreateObjectMapping: 9.360900 ms MarkObjects: 40.039500 ms  DeleteObjects: 0.180100 ms)
-
-The class named 'Mouse.CameraShake.EaseJob' is not derived from MonoBehaviour or ScriptableObject!
-A scripted object (probably Mouse.CameraShake.EaseJob?) has a different serialization layout when loading. (Read 36 bytes but expected 3332 bytes)
-Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
-The class named 'UnityEngine.UI.Extensions.UIExtensionsInputManager' is abstract. The script class can't be abstract!
-A scripted object (probably UnityEngine.UI.Extensions.UIExtensionsInputManager?) has a different serialization layout when loading. (Read 40 bytes but expected 3388 bytes)
-Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
-The class named 'OdinSerializer.Vector4DictionaryKeyPathProvider' is not derived from MonoBehaviour or ScriptableObject!
-A scripted object (probably OdinSerializer.Vector4DictionaryKeyPathProvider?) has a different serialization layout when loading. (Read 40 bytes but expected 3296 bytes)
-Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
-The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
-The referenced script (Unknown) on this Behaviour is missing!
-The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
-The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
-The class named 'Mouse.Timeline.Core.QuaternionUtils' is abstract. The script class can't be abstract!
-The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
-The class named 'IListenToGameEvent' is abstract. The script class can't be abstract!
-A scripted object (probably Mouse.Timeline.Core.QuaternionUtils?) has a different serialization layout when loading. (Read 32 bytes but expected 44 bytes)
-Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
-A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
-Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
-A scripted object (probably ReginaldWeaponUser?) has a different serialization layout when loading. (Read 48 bytes but expected 520 bytes)
-Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
-The referenced script on this Behaviour (Game Object 'Console (DevConsole.cs Script)') is missing!
-A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
-Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
-A scripted object (probably ReginaldWeaponUser?) has a different serialization layout when loading. (Read 48 bytes but expected 520 bytes)
-Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
-A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
-Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
-A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
-Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
-A scripted object (probably ReginaldWeaponUser?) has a different serialization layout when loading. (Read 48 bytes but expected 516 bytes)
-Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
-A scripted object (probably IListenToGameEvent?) has a different serialization layout when loading. (Read 32 bytes but expected 136 bytes)
-Did you #if UNITY_EDITOR a section of your serialized properties in any of your scripts?
-Failed to create agent because there is no valid NavMesh
-Failed to create agent because there is no valid NavMesh
-Failed to create agent because there is no valid NavMesh
-Failed to create agent because there is no valid NavMesh
-Failed to create agent because there is no valid NavMesh
-Failed to create agent because there is no valid NavMesh
-Failed to create agent because there is no valid NavMesh
-Failed to create agent because there is no valid NavMesh
-Failed to create agent because there is no valid NavMesh
-Failed to create agent because there is no valid NavMesh
-Failed to create agent because there is no valid NavMesh
-Failed to create agent because there is no valid NavMesh
-Failed to create agent because there is no valid NavMesh
-Failed to create agent because there is no valid NavMesh
-Failed to create agent because there is no valid NavMesh
-Failed to create agent because there is no valid NavMesh
-Failed to create agent because there is no valid NavMesh
-Failed to create agent because there is no valid NavMesh
-Failed to create agent because there is no valid NavMesh
-Failed to create agent because there is no valid NavMesh
-Failed to create agent because there is no valid NavMesh
-Failed to create agent because there is no valid NavMesh
-Failed to create agent because there is no valid NavMesh
+[Physics::Module] Cleanup current backend.
+[Physics::Module] Id: 0xf2b8ea05
+Input System module state changed to: ShutdownInProgress.
+Input System polling thread exited.
+Input System module state changed to: Shutdown.

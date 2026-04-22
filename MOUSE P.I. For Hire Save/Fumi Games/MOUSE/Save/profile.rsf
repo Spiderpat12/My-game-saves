@@ -1,6 +1,6 @@
 {
   "a": "save2",
-  "b": "checkpoint2",
+  "b": "checkpoint1",
   "c": {
     "SettingLanguage": "0",
     "SettingAutoContinueDialogue": false,
@@ -20,9 +20,9 @@
     "FireStarter": 7,
     "GonnaNeedABiggerCapacitorDoc": 0,
     "HotStreak": 5,
-    "ScorchingStreak": 10,
+    "ScorchingStreak": 3,
     "SquishSquash": 6,
-    "WeHaveChowYunFatAtHome": 3
+    "WeHaveChowYunFatAtHome": 1
   },
   "g": {
     "BeetleBattle": 0,
