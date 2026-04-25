@@ -21,8 +21,8 @@ Direct3D:
     VRAM:     1999 MB
     Driver:   32.0.15.6094
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.375 seconds
-- Finished resetting the current domain, in  0.004 seconds
+- Loaded All Assemblies, in  2.617 seconds
+- Finished resetting the current domain, in  0.029 seconds
 [Physics::Module] Selected backend.
 [Physics::Module] Name: PhysX
 [Physics::Module] Id: 0xf2b8ea05
@@ -23557,24 +23557,24 @@ DontDestroyOnLoad only works for root GameObjects or components on root GameObje
 Using Windows.Gaming.Input
 The referenced script (Unknown) on this Behaviour is missing!
 The referenced script on this Behaviour (Game Object 'Console (DevConsole.cs Script)') is missing!
-UnloadTime: 9.528400 ms
+UnloadTime: 2.654800 ms
 Unloading 6 Unused Serialized files (Serialized files now loaded: 39)
 Unloading 302 unused Assets to reduce memory usage. Loaded Objects now: 73305.
-Total: 50.606300 ms (FindLiveObjects: 5.147100 ms CreateObjectMapping: 9.847800 ms MarkObjects: 35.016300 ms  DeleteObjects: 0.594900 ms)
+Total: 57.654400 ms (FindLiveObjects: 5.388900 ms CreateObjectMapping: 11.721800 ms MarkObjects: 39.849700 ms  DeleteObjects: 0.693700 ms)
 
-UnloadTime: 682.734000 ms
+UnloadTime: 661.451100 ms
 Unloading 2 Unused Serialized files (Serialized files now loaded: 39)
 Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 76238.
-Total: 132.265700 ms (FindLiveObjects: 8.682700 ms CreateObjectMapping: 28.126200 ms MarkObjects: 95.199300 ms  DeleteObjects: 0.257200 ms)
+Total: 58.276900 ms (FindLiveObjects: 5.530000 ms CreateObjectMapping: 11.748200 ms MarkObjects: 40.832300 ms  DeleteObjects: 0.165800 ms)
 
 Unloading 4 Unused Serialized files (Serialized files now loaded: 40)
-UnloadTime: 3.898300 ms
+UnloadTime: 4.309500 ms
 Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 76277.
-Total: 57.026400 ms (FindLiveObjects: 5.097600 ms CreateObjectMapping: 11.143900 ms MarkObjects: 40.563200 ms  DeleteObjects: 0.221400 ms)
+Total: 64.355100 ms (FindLiveObjects: 5.624900 ms CreateObjectMapping: 12.404700 ms MarkObjects: 46.015600 ms  DeleteObjects: 0.309700 ms)
 
 Unloading 0 Unused Serialized files (Serialized files now loaded: 39)
 Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 76276.
-Total: 54.595400 ms (FindLiveObjects: 5.183500 ms CreateObjectMapping: 10.642800 ms MarkObjects: 38.606700 ms  DeleteObjects: 0.162100 ms)
+Total: 56.632800 ms (FindLiveObjects: 5.535400 ms CreateObjectMapping: 12.806700 ms MarkObjects: 38.025400 ms  DeleteObjects: 0.265100 ms)
 
 BoxCollider does not support negative scale or size.
 The effective box size has been forced positive and is likely to give unexpected collision geometry.
@@ -23676,22 +23676,22 @@ BoxCollider does not support negative scale or size.
 The effective box size has been forced positive and is likely to give unexpected collision geometry.
 If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@Zone_Streets/@Building_PIOffice_01/@Inside/@Floor_Middle_02/@Stairs/P_Modular_Stairs_RoundedStairs01_Straight01_07/P_Modular_Stairs_RoundedStairs01_StraightSide01/P_Modular_Stairs_RoundedStairs01_StepsSide01A/Collider_04"
 Unloading 8 Unused Serialized files (Serialized files now loaded: 40)
-UnloadTime: 47.622700 ms
+UnloadTime: 21.190100 ms
 Unloading 525 unused Assets to reduce memory usage. Loaded Objects now: 76392.
-Total: 133.878300 ms (FindLiveObjects: 10.493000 ms CreateObjectMapping: 18.000300 ms MarkObjects: 75.683200 ms  DeleteObjects: 29.701300 ms)
+Total: 73.275500 ms (FindLiveObjects: 5.937500 ms CreateObjectMapping: 10.210300 ms MarkObjects: 35.467500 ms  DeleteObjects: 21.659700 ms)
 
 Unloading 0 Unused Serialized files (Serialized files now loaded: 39)
 Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 76327.
-Total: 63.428100 ms (FindLiveObjects: 6.060400 ms CreateObjectMapping: 18.714700 ms MarkObjects: 38.420200 ms  DeleteObjects: 0.232400 ms)
+Total: 51.597700 ms (FindLiveObjects: 5.621000 ms CreateObjectMapping: 9.927400 ms MarkObjects: 35.837500 ms  DeleteObjects: 0.211500 ms)
 
 Unloading 4 Unused Serialized files (Serialized files now loaded: 41)
-UnloadTime: 2.811200 ms
-Unloading 219 unused Assets to reduce memory usage. Loaded Objects now: 85952.
-Total: 61.556000 ms (FindLiveObjects: 6.432400 ms CreateObjectMapping: 9.261100 ms MarkObjects: 45.371000 ms  DeleteObjects: 0.491200 ms)
+UnloadTime: 3.422400 ms
+Unloading 219 unused Assets to reduce memory usage. Loaded Objects now: 81833.
+Total: 58.458300 ms (FindLiveObjects: 6.431800 ms CreateObjectMapping: 10.681900 ms MarkObjects: 40.840100 ms  DeleteObjects: 0.504200 ms)
 
 Unloading 0 Unused Serialized files (Serialized files now loaded: 41)
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 85954.
-Total: 61.475500 ms (FindLiveObjects: 6.343700 ms CreateObjectMapping: 9.365300 ms MarkObjects: 45.535200 ms  DeleteObjects: 0.230700 ms)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 81835.
+Total: 58.326400 ms (FindLiveObjects: 6.660100 ms CreateObjectMapping: 11.007800 ms MarkObjects: 40.506600 ms  DeleteObjects: 0.151700 ms)
 
 The referenced script (Unknown) on this Behaviour is missing!
 The referenced script on this Behaviour (Game Object 'Console (DevConsole.cs Script)') is missing!
@@ -23718,274 +23718,191 @@ Failed to create agent because there is no valid NavMesh
 Failed to create agent because there is no valid NavMesh
 Failed to create agent because there is no valid NavMesh
 Failed to create agent because there is no valid NavMesh
-Unloading 45 Unused Serialized files (Serialized files now loaded: 145)
-UnloadTime: 132.114100 ms
-Unloading 6645 unused Assets to reduce memory usage. Loaded Objects now: 93026.
-Total: 121.688600 ms (FindLiveObjects: 9.060000 ms CreateObjectMapping: 15.571100 ms MarkObjects: 63.645200 ms  DeleteObjects: 33.412000 ms)
+Unloading 45 Unused Serialized files (Serialized files now loaded: 146)
+UnloadTime: 130.568900 ms
+Unloading 6456 unused Assets to reduce memory usage. Loaded Objects now: 90207.
+Total: 121.947700 ms (FindLiveObjects: 9.868800 ms CreateObjectMapping: 16.932700 ms MarkObjects: 62.995700 ms  DeleteObjects: 32.150200 ms)
 
-Unloading 0 Unused Serialized files (Serialized files now loaded: 43)
-Unloading 699 unused Assets to reduce memory usage. Loaded Objects now: 90954.
-Total: 92.506900 ms (FindLiveObjects: 8.577500 ms CreateObjectMapping: 16.534700 ms MarkObjects: 66.191700 ms  DeleteObjects: 1.202600 ms)
-
-The referenced script (Unknown) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Console (DevConsole.cs Script)') is missing!
-Default clip could not be found in attached animations list.
-Unloading 7 Unused Serialized files (Serialized files now loaded: 45)
-UnloadTime: 53.803700 ms
-Unloading 5359 unused Assets to reduce memory usage. Loaded Objects now: 90735.
-Total: 88.911900 ms (FindLiveObjects: 7.754500 ms CreateObjectMapping: 12.699300 ms MarkObjects: 61.135300 ms  DeleteObjects: 7.322500 ms)
-
-Unloading 0 Unused Serialized files (Serialized files now loaded: 45)
-Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 90707.
-Total: 79.443100 ms (FindLiveObjects: 7.059300 ms CreateObjectMapping: 11.851700 ms MarkObjects: 60.274000 ms  DeleteObjects: 0.257900 ms)
-
-The referenced script (Unknown) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Console (DevConsole.cs Script)') is missing!
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Universal/@Actions/@Floor1/@EasterEggWall/P_Modular_DamagedWall_SET01_Destructible01_EasterEggWall/PropsInsideWall/P_Hell_Unique_StoneStatue01_Set01/P_Decorations_Common_BodyPartFoot01_02"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Universal/@Actions/@Floor1/@EasterEggWall/P_Modular_DamagedWall_SET01_Destructible01_EasterEggWall/PropsInsideWall/P_Hell_Unique_StoneStatue01_Set01/P_Decorations_Common_BodyPartHand02_01"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Universal/@Actions/@Elevators/@Elevator_Sewers/P_Interactable_ElevatorInterior/Elevator02/@ManorDoorElevator_Left/P_Unique_Mines_Elevator_Gate"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Universal/@Actions/@Elevators/@Elevator_Sewers/P_Interactable_ElevatorInterior/Elevator01/@ManorDoorElevator_Left/P_Unique_Mines_Elevator_Gate"
-Look rotation viewing vector is zero
-Physics.ClosestPoint can only be used with a BoxCollider, SphereCollider, CapsuleCollider and a convex MeshCollider.
-Setting linear velocity of a kinematic body is not supported.
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Universal/@Actions/@Elevators/@Elevator_Sewers/@ArrivalDoors/P_Unique_Mines_Elevator_Gate_Left"
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Physics.ClosestPoint can only be used with a BoxCollider, SphereCollider, CapsuleCollider and a convex MeshCollider.
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Physics.ClosestPoint can only be used with a BoxCollider, SphereCollider, CapsuleCollider and a convex MeshCollider.
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Physics.ClosestPoint can only be used with a BoxCollider, SphereCollider, CapsuleCollider and a convex MeshCollider.
-Setting linear velocity of a kinematic body is not supported.
-Setting linear velocity of a kinematic body is not supported.
-Setting linear velocity of a kinematic body is not supported.
-Setting linear velocity of a kinematic body is not supported.
-Look rotation viewing vector is zero
-Look rotation viewing vector is zero
-Unloading 54 Unused Serialized files (Serialized files now loaded: 125)
-UnloadTime: 278.740500 ms
-Unloading 8683 unused Assets to reduce memory usage. Loaded Objects now: 111472.
-Total: 477.185800 ms (FindLiveObjects: 19.250900 ms CreateObjectMapping: 17.211100 ms MarkObjects: 91.180900 ms  DeleteObjects: 349.542400 ms)
-
-Unloading 0 Unused Serialized files (Serialized files now loaded: 48)
-Unloading 410 unused Assets to reduce memory usage. Loaded Objects now: 98255.
-Total: 110.163400 ms (FindLiveObjects: 9.254800 ms CreateObjectMapping: 14.322600 ms MarkObjects: 85.968400 ms  DeleteObjects: 0.617400 ms)
-
-The referenced script (Unknown) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Console (DevConsole.cs Script)') is missing!
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Universal/@Actions/@Floor1/@EasterEggWall/P_Modular_DamagedWall_SET01_Destructible01_EasterEggWall/PropsInsideWall/P_Hell_Unique_StoneStatue01_Set01/P_Decorations_Common_BodyPartFoot01_02"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Universal/@Actions/@Floor1/@EasterEggWall/P_Modular_DamagedWall_SET01_Destructible01_EasterEggWall/PropsInsideWall/P_Hell_Unique_StoneStatue01_Set01/P_Decorations_Common_BodyPartHand02_01"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Universal/@Actions/@Elevators/@Elevator_Sewers/P_Interactable_ElevatorInterior/Elevator02/@ManorDoorElevator_Left/P_Unique_Mines_Elevator_Gate"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Universal/@Actions/@Elevators/@Elevator_Sewers/P_Interactable_ElevatorInterior/Elevator01/@ManorDoorElevator_Left/P_Unique_Mines_Elevator_Gate"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Universal/@Actions/@Elevators/@Elevator_Sewers/@ArrivalDoors/P_Unique_Mines_Elevator_Gate_Left"
-Setting linear velocity of a kinematic body is not supported.
-Setting linear velocity of a kinematic body is not supported.
-Setting linear velocity of a kinematic body is not supported.
-Setting linear velocity of a kinematic body is not supported.
-Look rotation viewing vector is zero
-Look rotation viewing vector is zero
-Unloading 54 Unused Serialized files (Serialized files now loaded: 129)
-UnloadTime: 242.574800 ms
-Unloading 8199 unused Assets to reduce memory usage. Loaded Objects now: 111978.
-Total: 584.367200 ms (FindLiveObjects: 19.294200 ms CreateObjectMapping: 18.662400 ms MarkObjects: 98.913200 ms  DeleteObjects: 447.496800 ms)
-
-Unloading 0 Unused Serialized files (Serialized files now loaded: 49)
-Unloading 410 unused Assets to reduce memory usage. Loaded Objects now: 98643.
-Total: 107.620100 ms (FindLiveObjects: 8.680000 ms CreateObjectMapping: 13.708500 ms MarkObjects: 84.533700 ms  DeleteObjects: 0.697400 ms)
-
-The referenced script (Unknown) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Console (DevConsole.cs Script)') is missing!
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Universal/@Actions/@Floor1/@EasterEggWall/P_Modular_DamagedWall_SET01_Destructible01_EasterEggWall/PropsInsideWall/P_Hell_Unique_StoneStatue01_Set01/P_Decorations_Common_BodyPartFoot01_02"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Universal/@Actions/@Floor1/@EasterEggWall/P_Modular_DamagedWall_SET01_Destructible01_EasterEggWall/PropsInsideWall/P_Hell_Unique_StoneStatue01_Set01/P_Decorations_Common_BodyPartHand02_01"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Universal/@Actions/@Elevators/@Elevator_Sewers/P_Interactable_ElevatorInterior/Elevator02/@ManorDoorElevator_Left/P_Unique_Mines_Elevator_Gate"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Universal/@Actions/@Elevators/@Elevator_Sewers/P_Interactable_ElevatorInterior/Elevator01/@ManorDoorElevator_Left/P_Unique_Mines_Elevator_Gate"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Universal/@Actions/@Elevators/@Elevator_Sewers/@ArrivalDoors/P_Unique_Mines_Elevator_Gate_Left"
-Setting linear velocity of a kinematic body is not supported.
-Setting linear velocity of a kinematic body is not supported.
-Setting linear velocity of a kinematic body is not supported.
-Setting linear velocity of a kinematic body is not supported.
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Unloading 54 Unused Serialized files (Serialized files now loaded: 126)
-UnloadTime: 262.252700 ms
-Unloading 8406 unused Assets to reduce memory usage. Loaded Objects now: 113327.
-Total: 554.885900 ms (FindLiveObjects: 11.123700 ms CreateObjectMapping: 16.529800 ms MarkObjects: 106.992700 ms  DeleteObjects: 420.239100 ms)
-
-Unloading 0 Unused Serialized files (Serialized files now loaded: 47)
-Unloading 310 unused Assets to reduce memory usage. Loaded Objects now: 100082.
-Total: 123.465700 ms (FindLiveObjects: 9.342900 ms CreateObjectMapping: 13.670100 ms MarkObjects: 99.888200 ms  DeleteObjects: 0.564100 ms)
+Unloading 0 Unused Serialized files (Serialized files now loaded: 42)
+Unloading 699 unused Assets to reduce memory usage. Loaded Objects now: 88082.
+Total: 91.556400 ms (FindLiveObjects: 7.593900 ms CreateObjectMapping: 13.029800 ms MarkObjects: 69.474400 ms  DeleteObjects: 1.457800 ms)
 
 The referenced script (Unknown) on this Behaviour is missing!
 The referenced script on this Behaviour (Game Object 'Console (DevConsole.cs Script)') is missing!
 Default clip could not be found in attached animations list.
-Unloading 7 Unused Serialized files (Serialized files now loaded: 49)
-UnloadTime: 53.465200 ms
-Unloading 5335 unused Assets to reduce memory usage. Loaded Objects now: 98680.
-Total: 124.646200 ms (FindLiveObjects: 9.506600 ms CreateObjectMapping: 13.507800 ms MarkObjects: 94.819900 ms  DeleteObjects: 6.811600 ms)
+Unloading 7 Unused Serialized files (Serialized files now loaded: 44)
+UnloadTime: 50.567600 ms
+Unloading 5361 unused Assets to reduce memory usage. Loaded Objects now: 87744.
+Total: 90.759300 ms (FindLiveObjects: 8.462000 ms CreateObjectMapping: 15.597100 ms MarkObjects: 58.865800 ms  DeleteObjects: 7.834100 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 44)
+Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 87716.
+Total: 77.566200 ms (FindLiveObjects: 7.298300 ms CreateObjectMapping: 12.774100 ms MarkObjects: 57.243900 ms  DeleteObjects: 0.249600 ms)
+
+The referenced script (Unknown) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object 'Console (DevConsole.cs Script)') is missing!
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Colliders/DeckIII_Collider_05"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Colliders/DeckIII_Collider_04"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Colliders/DeckIII_Collider_06"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@BossSequence/@BossSecondStage/P_BossArena_Simms/@ExtraObjects/@Windows/P_SimmsBallroom_BreakableWindow_Group_06/WindowTrigger"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@BossSequence/@BossSecondStage/P_BossArena_Simms/@ExtraObjects/@Windows/P_SimmsBallroom_BreakableWindow_Group_07/WindowTrigger"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@BossSequence/@BossSecondStage/P_BossArena_Simms/@ExtraObjects/@Windows/P_SimmsBallroom_BreakableWindow_Group_06/P_Openings_Windows_BanquetHallWindow01_Set01_03/P_Openings_Windows_BanquetHallWindow01B/Collider_01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@BossSequence/@BossSecondStage/P_BossArena_Simms/@ExtraObjects/@Windows/P_SimmsBallroom_BreakableWindow_Group_07/P_Openings_Windows_BanquetHallWindow01_Set01_03/P_Openings_Windows_BanquetHallWindow01B/Collider_01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@BossSequence/@BossSecondStage/P_BossArena_Simms/@ExtraObjects/@Windows/P_SimmsBallroom_BreakableWindow_Group_07/P_Openings_Windows_BanquetHallWindow01_Set01_03/P_Openings_Windows_BanquetHallWindowGlass01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@BossSequence/@BossSecondStage/P_BossArena_Simms/@ExtraObjects/@Windows/P_SimmsBallroom_BreakableWindow_Group_06/P_Openings_Windows_BanquetHallWindow01_Set01_03/P_Openings_Windows_BanquetHallWindowGlass01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@HLOD/@Zone01/@Zone01_BossRoom/@RailingColliders/Cube_01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@HLOD/@Zone01/@Zone01_BossRoom/@RailingColliders/Cube_12"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@HLOD/@Zone01/@Zone01_BossRoom/@RailingColliders/Cube_13"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@HLOD/@Zone01/@Zone01_BossRoom/@RailingColliders/Cube_14"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@HLOD/@Zone01/@Zone01_BossRoom/@RailingColliders/Cube_15"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@HLOD/@Zone01/@Zone01_BossRoom/@RailingColliders/Cube_23"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@HLOD/@Zone01/@Zone01_BossRoom/@RailingColliders/Cube_22"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@HLOD/@Zone01/@Zone01_BossRoom/@RailingColliders/Cube_16"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@HLOD/@Zone01/@Zone01_BossRoom/@RailingColliders/Cube_17"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@HLOD/@Zone01/@Zone01_BossRoom/@RailingColliders/Cube_18"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@HLOD/@Zone01/@Zone01_BossRoom/@RailingColliders/Cube_19"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@HLOD/@Zone01/@Zone01_BossRoom/@RailingColliders/Cube_20"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@HLOD/@Zone01/@Zone01_BossRoom/@RailingColliders/Cube_21"
+Physics.ClosestPoint can only be used with a BoxCollider, SphereCollider, CapsuleCollider and a convex MeshCollider.
+Physics.ClosestPoint can only be used with a BoxCollider, SphereCollider, CapsuleCollider and a convex MeshCollider.
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@BossSequence/@BossSecondStage/P_BossArena_Simms/TimelineObject/@DamagedWall01/P_Unique_Steamboat_BanquetHallBuilding01_Set03/P_Openings_Windows_BanquetHallWall02F_01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@BossSequence/@BossSecondStage/P_BossArena_Simms/TimelineObject/@DamagedWall01/P_Unique_Steamboat_BanquetHallBuilding01_Set03/P_Openings_Windows_BanquetHallWindow01_Set02/P_Openings_Windows_BanquetHallWindow01C/Collider_01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@BossSequence/@BossSecondStage/P_BossArena_Simms/TimelineObject/@DamagedWall01/P_Unique_Steamboat_BanquetHallBuilding01_Set03/P_Openings_Windows_BanquetHallWindow01_Set02/P_Openings_Windows_BanquetHallWindow01G/Collider_01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@BossSequence/@BossSecondStage/P_BossArena_Simms/TimelineObject/@DamagedWall01/P_Unique_Steamboat_BanquetHallBuilding01_Set03/P_Openings_Windows_BanquetHallWindow01_Set02/P_Openings_Windows_BanquetHallWindow01H/Collider_01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@BossSequence/@BossSecondStage/P_BossArena_Simms/TimelineObject/@DamagedWall01/P_Unique_Steamboat_BanquetHallBuilding01_Set03/P_Openings_Windows_BanquetHallWindow01_Set02/P_Openings_Windows_BanquetHallWindow01I/Collider_01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@BossSequence/@BossSecondStage/P_BossArena_Simms/TimelineObject/@DamagedWall01/P_Unique_Steamboat_BanquetHallBuilding01_Set03/P_Openings_Windows_BanquetHallWindow01_Set02/P_Openings_Windows_BanquetHallWindow01J/Collider_01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@BossSequence/@BossSecondStage/P_BossArena_Simms/TimelineObject/@DamagedWall01/P_Unique_Steamboat_BanquetHallBuilding01_Set03/P_Openings_Windows_BanquetHallWindow01_Set02/P_Openings_Windows_BanquetHallWindow01K/Collider_01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@BossSequence/@BossSecondStage/P_BossArena_Simms/TimelineObject/@DamagedWall01/P_Unique_Steamboat_BanquetHallBuilding01_Set03/P_Openings_Windows_BanquetHallWindow01_Set02/P_Openings_Windows_BanquetHallWindow01L/Collider_01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@BossSequence/@BossSecondStage/P_BossArena_Simms/TimelineObject/@DamagedWall01/P_Unique_Steamboat_BanquetHallBuilding01_Set03/P_Openings_Windows_BanquetHallWindow01_Set02/P_Openings_Windows_BanquetHallWindow01M/Collider_01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@BossSequence/@BossSecondStage/P_BossArena_Simms/@ExtraObjects/@Windows/P_SimmsBallroom_BreakableWindow_Group_07/P_Openings_Windows_BanquetHallWindow01_Set02_01/P_Openings_Windows_BanquetHallWindow01C/Collider_01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@BossSequence/@BossSecondStage/P_BossArena_Simms/@ExtraObjects/@Windows/P_SimmsBallroom_BreakableWindow_Group_07/P_Openings_Windows_BanquetHallWindow01_Set02_01/Collider"
+Look rotation viewing vector is zero
+Look rotation viewing vector is zero
+Physics.ClosestPoint can only be used with a BoxCollider, SphereCollider, CapsuleCollider and a convex MeshCollider.
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@BossSequence/@BossSecondStage/P_BossArena_Simms/@ExtraObjects/@Windows/P_SimmsBallroom_BreakableWindow_Group_06/P_Openings_Windows_BanquetHallWindow01_Set02_01/P_Openings_Windows_BanquetHallWindow01C/Collider_01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@BossSequence/@BossSecondStage/P_BossArena_Simms/@ExtraObjects/@Windows/P_SimmsBallroom_BreakableWindow_Group_06/P_Openings_Windows_BanquetHallWindow01_Set02_01/Collider"
+Look rotation viewing vector is zero
+Unloading 56 Unused Serialized files (Serialized files now loaded: 150)
+ArgumentNullException: Value cannot be null.
+Parameter name: obj
+  at UnityEngine.Bindings.ThrowHelper.ThrowArgumentNullException (System.Object obj, System.String parameterName) [0x00018] in <51b56bcf66c2474b832cc3e7ed1dab50>:0 
+  at UnityEngine.MonoBehaviour.IsObjectMonoBehaviour (UnityEngine.Object obj) [0x00015] in <51b56bcf66c2474b832cc3e7ed1dab50>:0 
+  at UnityEngine.MonoBehaviour.StartCoroutine (System.Collections.IEnumerator routine) [0x00014] in <51b56bcf66c2474b832cc3e7ed1dab50>:0 
+  at Mouse.Bosses.MortarProjectile.ReturnToPool () [0x00027] in <9a7a13b82cd64e5ca343bf0c9f0be2b9>:0 
+  at Mouse.Bosses.MortarHandler.ClearActiveMortars () [0x00015] in <9a7a13b82cd64e5ca343bf0c9f0be2b9>:0 
+  at Mouse.Bosses.MortarHandler.OnDisable () [0x00000] in <9a7a13b82cd64e5ca343bf0c9f0be2b9>:0 
+UnityEngine.DebugLogHandler:Internal_LogException_Injected(Exception, IntPtr)
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:CallOverridenDebugHandler(Exception, Object)
+
+NullReferenceException: Object reference not set to an instance of an object.
+  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <51b56bcf66c2474b832cc3e7ed1dab50>:0 
+  at UnityEngine.GameObject.SetActive (System.Boolean value) [0x00006] in <51b56bcf66c2474b832cc3e7ed1dab50>:0 
+  at Pooling.ExpandingPoolBehaviour.Lease (System.Boolean activateImmediately) [0x00035] in <9a7a13b82cd64e5ca343bf0c9f0be2b9>:0 
+  at ObjectPool.GetObject (System.Boolean activateImmediately) [0x00000] in <9a7a13b82cd64e5ca343bf0c9f0be2b9>:0 
+  at TransformBloodDropController.DropBlood (UnityEngine.Vector3 source, System.Int32 amount) [0x00020] in <9a7a13b82cd64e5ca343bf0c9f0be2b9>:0 
+  at TransformBloodDropController.DropBlood (UnityEngine.Vector3 hitPos) [0x0002e] in <9a7a13b82cd64e5ca343bf0c9f0be2b9>:0 
+  at BaseEnemyTree.DamageReceived (Damage damage) [0x00269] in <9a7a13b82cd64e5ca343bf0c9f0be2b9>:0 
+  at BaseEnemyTree.Kill () [0x0000b] in <9a7a13b82cd64e5ca343bf0c9f0be2b9>:0 
+  at SimmsEnemySpawnDirector.KillRemainingEnemies () [0x0001c] in <9a7a13b82cd64e5ca343bf0c9f0be2b9>:0 
+  at SimmsEnemySpawnDirector.StopSpawning () [0x00025] in <9a7a13b82cd64e5ca343bf0c9f0be2b9>:0 
+  at SimmsEnemySpawnDirector.OnDestroy () [0x00000] in <9a7a13b82cd64e5ca343bf0c9f0be2b9>:0 
+UnityEngine.DebugLogHandler:Internal_LogException_Injected(Exception, IntPtr)
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:CallOverridenDebugHandler(Exception, Object)
+
+UnloadTime: 391.352000 ms
+Unloading 7954 unused Assets to reduce memory usage. Loaded Objects now: 105994.
+Total: 535.174700 ms (FindLiveObjects: 10.643600 ms CreateObjectMapping: 18.543800 ms MarkObjects: 87.171800 ms  DeleteObjects: 418.815200 ms)
 
 Unloading 0 Unused Serialized files (Serialized files now loaded: 49)
-Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 98652.
-Total: 125.288800 ms (FindLiveObjects: 9.907400 ms CreateObjectMapping: 14.892100 ms MarkObjects: 100.186200 ms  DeleteObjects: 0.302800 ms)
+Unloading 1957 unused Assets to reduce memory usage. Loaded Objects now: 90383.
+Total: 97.266000 ms (FindLiveObjects: 8.338400 ms CreateObjectMapping: 14.484600 ms MarkObjects: 70.767400 ms  DeleteObjects: 3.675300 ms)
 
 The referenced script (Unknown) on this Behaviour is missing!
 The referenced script on this Behaviour (Game Object 'Console (DevConsole.cs Script)') is missing!
@@ -23998,138 +23915,484 @@ Failed to create agent because there is no valid NavMesh
 Failed to create agent because there is no valid NavMesh
 Failed to create agent because there is no valid NavMesh
 Failed to create agent because there is no valid NavMesh
-Failed to create agent because there is no valid NavMesh
-Failed to create agent because there is no valid NavMesh
-Failed to create agent because there is no valid NavMesh
-Failed to create agent because there is no valid NavMesh
-Failed to create agent because there is no valid NavMesh
-Failed to create agent because there is no valid NavMesh
-Failed to create agent because there is no valid NavMesh
-Failed to create agent because there is no valid NavMesh
-Failed to create agent because there is no valid NavMesh
-Failed to create agent because there is no valid NavMesh
-Failed to create agent because there is no valid NavMesh
-Failed to create agent because there is no valid NavMesh
-Failed to create agent because there is no valid NavMesh
-Failed to create agent because there is no valid NavMesh
-Unloading 45 Unused Serialized files (Serialized files now loaded: 152)
-UnloadTime: 111.966800 ms
-Unloading 8019 unused Assets to reduce memory usage. Loaded Objects now: 101174.
-Total: 184.664100 ms (FindLiveObjects: 10.496200 ms CreateObjectMapping: 23.217100 ms MarkObjects: 92.075600 ms  DeleteObjects: 58.874700 ms)
+Exception: Loaded Sprite Packed_STA_Boss_Simms_Movement_FlyFront01_00000 is missing cells!
+  at Mouse.PackedSprites.PackedSprite.Setup () [0x00032] in <746109563bc8450c934eb413a445020f>:0 
+  at Mouse.PackedSprites.PackedSpriteAnimation.OnEnable () [0x0001e] in <746109563bc8450c934eb413a445020f>:0 
+UnityEngine.DebugLogHandler:Internal_LogException_Injected(Exception, IntPtr)
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:CallOverridenDebugHandler(Exception, Object)
+UnityEngine.AssetBundleRequest:GetResult_Injected(IntPtr)
+UnityEngine.AssetBundleRequest:GetResult()
+UnityEngine.AssetBundleRequest:get_asset()
+UnityEngine.ResourceManagement.ResourceProviders.InternalOp:WaitForCompletionHandler()
+UnityEngine.ResourceManagement.AsyncOperations.ProviderOperation`1:InvokeWaitForCompletion()
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:WaitForCompletion()
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationHandle`1:WaitForCompletion()
+CachedAssetReferenceT`2:Get()
+Enemies.Components.EnemyAnimationController:GetAnimationActualAnimationClip(CachedAssetReferencePackedAnimationClip)
+Entities.Animations.EntityAnimationController:PlayAnimation(CachedAssetReferencePackedAnimationClip, Single, Boolean, Boolean, Boolean)
+Entities.Animations.EntityAnimationController:PlaySidedAnimation(SidedAnimation[], Single, Boolean)
+Entities.Animations.EntityAnimationController:PlaySidedAnimation(SidedAnimationType, Single, Boolean)
+Enemies.Components.EnemyAnimationController:PlaySidedAnimation(SidedAnimationType, Single, Boolean)
+Enemies.Movement.EntityMovement:UpdateAnimation()
+Enemies.Movement.EntityMovement:LateUpdate()
 
-Unloading 0 Unused Serialized files (Serialized files now loaded: 49)
-Unloading 699 unused Assets to reduce memory usage. Loaded Objects now: 99032.
-Total: 109.531400 ms (FindLiveObjects: 10.002800 ms CreateObjectMapping: 14.184100 ms MarkObjects: 84.287600 ms  DeleteObjects: 1.056600 ms)
+Exception: Loaded Sprite Packed_STA_Boss_Simms_Movement_FlyBack01_00000 is missing cells!
+  at Mouse.PackedSprites.PackedSprite.Setup () [0x00032] in <746109563bc8450c934eb413a445020f>:0 
+  at Mouse.PackedSprites.PackedSpriteAnimation.OnEnable () [0x0001e] in <746109563bc8450c934eb413a445020f>:0 
+UnityEngine.DebugLogHandler:Internal_LogException_Injected(Exception, IntPtr)
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:CallOverridenDebugHandler(Exception, Object)
+UnityEngine.AssetBundleRequest:GetResult_Injected(IntPtr)
+UnityEngine.AssetBundleRequest:GetResult()
+UnityEngine.AssetBundleRequest:get_asset()
+UnityEngine.ResourceManagement.ResourceProviders.InternalOp:WaitForCompletionHandler()
+UnityEngine.ResourceManagement.AsyncOperations.ProviderOperation`1:InvokeWaitForCompletion()
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:WaitForCompletion()
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationHandle`1:WaitForCompletion()
+CachedAssetReferenceT`2:Get()
+Enemies.Components.EnemyAnimationController:GetAnimationActualAnimationClip(CachedAssetReferencePackedAnimationClip)
+Entities.Animations.EntityAnimationController:PlayAnimation(CachedAssetReferencePackedAnimationClip, Single, Boolean, Boolean, Boolean)
+Entities.Animations.EntityAnimationController:PlaySidedAnimation(SidedAnimation[], Single, Boolean)
+Entities.Animations.EntityAnimationController:PlaySidedAnimation(SidedAnimationType, Single, Boolean)
+Enemies.Components.EnemyAnimationController:PlaySidedAnimation(SidedAnimationType, Single, Boolean)
+Enemies.Movement.EntityMovement:UpdateAnimation()
+Enemies.Movement.EntityMovement:LateUpdate()
+
+Exception: Loaded Sprite Packed_STA_Boss_Simms_Movement_FlyBackLeft01_00000 is missing cells!
+  at Mouse.PackedSprites.PackedSprite.Setup () [0x00032] in <746109563bc8450c934eb413a445020f>:0 
+  at Mouse.PackedSprites.PackedSpriteAnimation.OnEnable () [0x0001e] in <746109563bc8450c934eb413a445020f>:0 
+UnityEngine.DebugLogHandler:Internal_LogException_Injected(Exception, IntPtr)
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:CallOverridenDebugHandler(Exception, Object)
+UnityEngine.AssetBundleRequest:GetResult_Injected(IntPtr)
+UnityEngine.AssetBundleRequest:GetResult()
+UnityEngine.AssetBundleRequest:get_asset()
+UnityEngine.ResourceManagement.ResourceProviders.InternalOp:WaitForCompletionHandler()
+UnityEngine.ResourceManagement.AsyncOperations.ProviderOperation`1:InvokeWaitForCompletion()
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:WaitForCompletion()
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationHandle`1:WaitForCompletion()
+CachedAssetReferenceT`2:Get()
+Enemies.Components.EnemyAnimationController:GetAnimationActualAnimationClip(CachedAssetReferencePackedAnimationClip)
+Entities.Animations.EntityAnimationController:PlayAnimation(CachedAssetReferencePackedAnimationClip, Single, Boolean, Boolean, Boolean)
+Entities.Animations.EntityAnimationController:PlaySidedAnimation(SidedAnimation[], Single, Boolean)
+Entities.Animations.EntityAnimationController:PlaySidedAnimation(SidedAnimationType, Single, Boolean)
+Enemies.Components.EnemyAnimationController:PlaySidedAnimation(SidedAnimationType, Single, Boolean)
+Enemies.Movement.EntityMovement:UpdateAnimation()
+Enemies.Movement.EntityMovement:LateUpdate()
+
+Exception: Loaded Sprite Packed_STA_Boss_Simms_Movement_FlyFrontLeft01_00000 is missing cells!
+  at Mouse.PackedSprites.PackedSprite.Setup () [0x00032] in <746109563bc8450c934eb413a445020f>:0 
+  at Mouse.PackedSprites.PackedSpriteAnimation.OnEnable () [0x0001e] in <746109563bc8450c934eb413a445020f>:0 
+UnityEngine.DebugLogHandler:Internal_LogException_Injected(Exception, IntPtr)
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:CallOverridenDebugHandler(Exception, Object)
+UnityEngine.AssetBundleRequest:GetResult_Injected(IntPtr)
+UnityEngine.AssetBundleRequest:GetResult()
+UnityEngine.AssetBundleRequest:get_asset()
+UnityEngine.ResourceManagement.ResourceProviders.InternalOp:WaitForCompletionHandler()
+UnityEngine.ResourceManagement.AsyncOperations.ProviderOperation`1:InvokeWaitForCompletion()
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationBase`1:WaitForCompletion()
+UnityEngine.ResourceManagement.AsyncOperations.AsyncOperationHandle`1:WaitForCompletion()
+CachedAssetReferenceT`2:Get()
+Enemies.Components.EnemyAnimationController:GetAnimationActualAnimationClip(CachedAssetReferencePackedAnimationClip)
+Entities.Animations.EntityAnimationController:PlayAnimation(CachedAssetReferencePackedAnimationClip, Single, Boolean, Boolean, Boolean)
+Entities.Animations.EntityAnimationController:PlaySidedAnimation(SidedAnimation[], Single, Boolean)
+Entities.Animations.EntityAnimationController:PlaySidedAnimation(SidedAnimationType, Single, Boolean)
+Enemies.Components.EnemyAnimationController:PlaySidedAnimation(SidedAnimationType, Single, Boolean)
+Enemies.Movement.EntityMovement:UpdateAnimation()
+Enemies.Movement.EntityMovement:LateUpdate()
+
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Colliders/DeckIII_Collider_05"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Colliders/DeckIII_Collider_04"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Colliders/DeckIII_Collider_06"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@BossSequence/@BossSecondStage/P_BossArena_Simms/@ExtraObjects/@Windows/P_SimmsBallroom_BreakableWindow_Group_06/WindowTrigger"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@BossSequence/@BossSecondStage/P_BossArena_Simms/@ExtraObjects/@Windows/P_SimmsBallroom_BreakableWindow_Group_07/WindowTrigger"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@BossSequence/@BossSecondStage/P_BossArena_Simms/@ExtraObjects/@Windows/P_SimmsBallroom_BreakableWindow_Group_06/P_Openings_Windows_BanquetHallWindow01_Set01_03/P_Openings_Windows_BanquetHallWindow01B/Collider_01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@BossSequence/@BossSecondStage/P_BossArena_Simms/@ExtraObjects/@Windows/P_SimmsBallroom_BreakableWindow_Group_07/P_Openings_Windows_BanquetHallWindow01_Set01_03/P_Openings_Windows_BanquetHallWindow01B/Collider_01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@BossSequence/@BossSecondStage/P_BossArena_Simms/@ExtraObjects/@Windows/P_SimmsBallroom_BreakableWindow_Group_07/P_Openings_Windows_BanquetHallWindow01_Set01_03/P_Openings_Windows_BanquetHallWindowGlass01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@BossSequence/@BossSecondStage/P_BossArena_Simms/@ExtraObjects/@Windows/P_SimmsBallroom_BreakableWindow_Group_06/P_Openings_Windows_BanquetHallWindow01_Set01_03/P_Openings_Windows_BanquetHallWindowGlass01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@BossSequence/@BossSecondStage/P_BossArena_Simms/TimelineObject/@DamagedWall01/P_Unique_Steamboat_BanquetHallBuilding01_Set03/P_Openings_Windows_BanquetHallWall02F_01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@BossSequence/@BossSecondStage/P_BossArena_Simms/TimelineObject/@DamagedWall01/P_Unique_Steamboat_BanquetHallBuilding01_Set03/P_Openings_Windows_BanquetHallWindow01_Set02/P_Openings_Windows_BanquetHallWindow01C/Collider_01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@BossSequence/@BossSecondStage/P_BossArena_Simms/TimelineObject/@DamagedWall01/P_Unique_Steamboat_BanquetHallBuilding01_Set03/P_Openings_Windows_BanquetHallWindow01_Set02/P_Openings_Windows_BanquetHallWindow01G/Collider_01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@BossSequence/@BossSecondStage/P_BossArena_Simms/TimelineObject/@DamagedWall01/P_Unique_Steamboat_BanquetHallBuilding01_Set03/P_Openings_Windows_BanquetHallWindow01_Set02/P_Openings_Windows_BanquetHallWindow01H/Collider_01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@BossSequence/@BossSecondStage/P_BossArena_Simms/TimelineObject/@DamagedWall01/P_Unique_Steamboat_BanquetHallBuilding01_Set03/P_Openings_Windows_BanquetHallWindow01_Set02/P_Openings_Windows_BanquetHallWindow01I/Collider_01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@BossSequence/@BossSecondStage/P_BossArena_Simms/TimelineObject/@DamagedWall01/P_Unique_Steamboat_BanquetHallBuilding01_Set03/P_Openings_Windows_BanquetHallWindow01_Set02/P_Openings_Windows_BanquetHallWindow01J/Collider_01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@BossSequence/@BossSecondStage/P_BossArena_Simms/TimelineObject/@DamagedWall01/P_Unique_Steamboat_BanquetHallBuilding01_Set03/P_Openings_Windows_BanquetHallWindow01_Set02/P_Openings_Windows_BanquetHallWindow01K/Collider_01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@BossSequence/@BossSecondStage/P_BossArena_Simms/TimelineObject/@DamagedWall01/P_Unique_Steamboat_BanquetHallBuilding01_Set03/P_Openings_Windows_BanquetHallWindow01_Set02/P_Openings_Windows_BanquetHallWindow01L/Collider_01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@BossSequence/@BossSecondStage/P_BossArena_Simms/TimelineObject/@DamagedWall01/P_Unique_Steamboat_BanquetHallBuilding01_Set03/P_Openings_Windows_BanquetHallWindow01_Set02/P_Openings_Windows_BanquetHallWindow01M/Collider_01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@HLOD/@Zone01/@Zone01_BossRoom/@RailingColliders/Cube_01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@HLOD/@Zone01/@Zone01_BossRoom/@RailingColliders/Cube_12"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@HLOD/@Zone01/@Zone01_BossRoom/@RailingColliders/Cube_13"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@HLOD/@Zone01/@Zone01_BossRoom/@RailingColliders/Cube_14"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@HLOD/@Zone01/@Zone01_BossRoom/@RailingColliders/Cube_15"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@HLOD/@Zone01/@Zone01_BossRoom/@RailingColliders/Cube_23"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@HLOD/@Zone01/@Zone01_BossRoom/@RailingColliders/Cube_22"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@HLOD/@Zone01/@Zone01_BossRoom/@RailingColliders/Cube_16"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@HLOD/@Zone01/@Zone01_BossRoom/@RailingColliders/Cube_17"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@HLOD/@Zone01/@Zone01_BossRoom/@RailingColliders/Cube_18"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@HLOD/@Zone01/@Zone01_BossRoom/@RailingColliders/Cube_19"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@HLOD/@Zone01/@Zone01_BossRoom/@RailingColliders/Cube_20"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@HLOD/@Zone01/@Zone01_BossRoom/@RailingColliders/Cube_21"
+Look rotation viewing vector is zero
+Physics.ClosestPoint can only be used with a BoxCollider, SphereCollider, CapsuleCollider and a convex MeshCollider.
+Look rotation viewing vector is zero
+Unloading 56 Unused Serialized files (Serialized files now loaded: 148)
+ArgumentNullException: Value cannot be null.
+Parameter name: obj
+  at UnityEngine.Bindings.ThrowHelper.ThrowArgumentNullException (System.Object obj, System.String parameterName) [0x00018] in <51b56bcf66c2474b832cc3e7ed1dab50>:0 
+  at UnityEngine.MonoBehaviour.IsObjectMonoBehaviour (UnityEngine.Object obj) [0x00015] in <51b56bcf66c2474b832cc3e7ed1dab50>:0 
+  at UnityEngine.MonoBehaviour.StartCoroutine (System.Collections.IEnumerator routine) [0x00014] in <51b56bcf66c2474b832cc3e7ed1dab50>:0 
+  at Mouse.Bosses.MortarProjectile.ReturnToPool () [0x00027] in <9a7a13b82cd64e5ca343bf0c9f0be2b9>:0 
+  at Mouse.Bosses.MortarHandler.ClearActiveMortars () [0x00015] in <9a7a13b82cd64e5ca343bf0c9f0be2b9>:0 
+  at Mouse.Bosses.MortarHandler.OnDisable () [0x00000] in <9a7a13b82cd64e5ca343bf0c9f0be2b9>:0 
+UnityEngine.DebugLogHandler:Internal_LogException_Injected(Exception, IntPtr)
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:CallOverridenDebugHandler(Exception, Object)
+
+UnloadTime: 344.033400 ms
+Unloading 8465 unused Assets to reduce memory usage. Loaded Objects now: 104779.
+Total: 771.465400 ms (FindLiveObjects: 13.811600 ms CreateObjectMapping: 23.281200 ms MarkObjects: 81.652500 ms  DeleteObjects: 652.719700 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 50)
+Unloading 989 unused Assets to reduce memory usage. Loaded Objects now: 90297.
+Total: 97.802100 ms (FindLiveObjects: 9.705700 ms CreateObjectMapping: 18.874900 ms MarkObjects: 67.657000 ms  DeleteObjects: 1.564200 ms)
 
 The referenced script (Unknown) on this Behaviour is missing!
 The referenced script on this Behaviour (Game Object 'Console (DevConsole.cs Script)') is missing!
-Default clip could not be found in attached animations list.
-Unloading 7 Unused Serialized files (Serialized files now loaded: 51)
-UnloadTime: 46.225300 ms
-Unloading 5292 unused Assets to reduce memory usage. Loaded Objects now: 98751.
-Total: 114.614700 ms (FindLiveObjects: 8.927800 ms CreateObjectMapping: 14.265300 ms MarkObjects: 83.092200 ms  DeleteObjects: 8.328600 ms)
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+Failed to create agent because there is no valid NavMesh
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Colliders/DeckIII_Collider_05"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Colliders/DeckIII_Collider_04"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Colliders/DeckIII_Collider_06"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@BossSequence/@BossSecondStage/P_BossArena_Simms/@ExtraObjects/@Windows/P_SimmsBallroom_BreakableWindow_Group_06/WindowTrigger"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@BossSequence/@BossSecondStage/P_BossArena_Simms/@ExtraObjects/@Windows/P_SimmsBallroom_BreakableWindow_Group_07/WindowTrigger"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@BossSequence/@BossSecondStage/P_BossArena_Simms/@ExtraObjects/@Windows/P_SimmsBallroom_BreakableWindow_Group_06/P_Openings_Windows_BanquetHallWindow01_Set01_03/P_Openings_Windows_BanquetHallWindow01B/Collider_01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@BossSequence/@BossSecondStage/P_BossArena_Simms/@ExtraObjects/@Windows/P_SimmsBallroom_BreakableWindow_Group_07/P_Openings_Windows_BanquetHallWindow01_Set01_03/P_Openings_Windows_BanquetHallWindow01B/Collider_01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@BossSequence/@BossSecondStage/P_BossArena_Simms/@ExtraObjects/@Windows/P_SimmsBallroom_BreakableWindow_Group_07/P_Openings_Windows_BanquetHallWindow01_Set01_03/P_Openings_Windows_BanquetHallWindowGlass01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@BossSequence/@BossSecondStage/P_BossArena_Simms/@ExtraObjects/@Windows/P_SimmsBallroom_BreakableWindow_Group_06/P_Openings_Windows_BanquetHallWindow01_Set01_03/P_Openings_Windows_BanquetHallWindowGlass01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@BossSequence/@BossSecondStage/P_BossArena_Simms/TimelineObject/@DamagedWall01/P_Unique_Steamboat_BanquetHallBuilding01_Set03/P_Openings_Windows_BanquetHallWall02F_01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@BossSequence/@BossSecondStage/P_BossArena_Simms/TimelineObject/@DamagedWall01/P_Unique_Steamboat_BanquetHallBuilding01_Set03/P_Openings_Windows_BanquetHallWindow01_Set02/P_Openings_Windows_BanquetHallWindow01C/Collider_01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@BossSequence/@BossSecondStage/P_BossArena_Simms/TimelineObject/@DamagedWall01/P_Unique_Steamboat_BanquetHallBuilding01_Set03/P_Openings_Windows_BanquetHallWindow01_Set02/P_Openings_Windows_BanquetHallWindow01G/Collider_01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@BossSequence/@BossSecondStage/P_BossArena_Simms/TimelineObject/@DamagedWall01/P_Unique_Steamboat_BanquetHallBuilding01_Set03/P_Openings_Windows_BanquetHallWindow01_Set02/P_Openings_Windows_BanquetHallWindow01H/Collider_01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@BossSequence/@BossSecondStage/P_BossArena_Simms/TimelineObject/@DamagedWall01/P_Unique_Steamboat_BanquetHallBuilding01_Set03/P_Openings_Windows_BanquetHallWindow01_Set02/P_Openings_Windows_BanquetHallWindow01I/Collider_01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@BossSequence/@BossSecondStage/P_BossArena_Simms/TimelineObject/@DamagedWall01/P_Unique_Steamboat_BanquetHallBuilding01_Set03/P_Openings_Windows_BanquetHallWindow01_Set02/P_Openings_Windows_BanquetHallWindow01J/Collider_01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@BossSequence/@BossSecondStage/P_BossArena_Simms/TimelineObject/@DamagedWall01/P_Unique_Steamboat_BanquetHallBuilding01_Set03/P_Openings_Windows_BanquetHallWindow01_Set02/P_Openings_Windows_BanquetHallWindow01K/Collider_01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@BossSequence/@BossSecondStage/P_BossArena_Simms/TimelineObject/@DamagedWall01/P_Unique_Steamboat_BanquetHallBuilding01_Set03/P_Openings_Windows_BanquetHallWindow01_Set02/P_Openings_Windows_BanquetHallWindow01L/Collider_01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@BossSequence/@BossSecondStage/P_BossArena_Simms/TimelineObject/@DamagedWall01/P_Unique_Steamboat_BanquetHallBuilding01_Set03/P_Openings_Windows_BanquetHallWindow01_Set02/P_Openings_Windows_BanquetHallWindow01M/Collider_01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@HLOD/@Zone01/@Zone01_BossRoom/@RailingColliders/Cube_01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@HLOD/@Zone01/@Zone01_BossRoom/@RailingColliders/Cube_12"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@HLOD/@Zone01/@Zone01_BossRoom/@RailingColliders/Cube_13"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@HLOD/@Zone01/@Zone01_BossRoom/@RailingColliders/Cube_14"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@HLOD/@Zone01/@Zone01_BossRoom/@RailingColliders/Cube_15"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@HLOD/@Zone01/@Zone01_BossRoom/@RailingColliders/Cube_23"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@HLOD/@Zone01/@Zone01_BossRoom/@RailingColliders/Cube_22"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@HLOD/@Zone01/@Zone01_BossRoom/@RailingColliders/Cube_16"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@HLOD/@Zone01/@Zone01_BossRoom/@RailingColliders/Cube_17"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@HLOD/@Zone01/@Zone01_BossRoom/@RailingColliders/Cube_18"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@HLOD/@Zone01/@Zone01_BossRoom/@RailingColliders/Cube_19"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@HLOD/@Zone01/@Zone01_BossRoom/@RailingColliders/Cube_20"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@HLOD/@Zone01/@Zone01_BossRoom/@RailingColliders/Cube_21"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@AfterBossSequences/@GetawaySequence/@AfterEngineExplosion/@AfterPlane/P_ModularKit_Damaged_BorderTop_01/P_ModularKit_Damaged_BorderTop_01A"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@AfterBossSequences/@GetawaySequence/@AfterEngineExplosion/@AfterPlane/P_ModularKit_Damaged_BorderTop_01/P_ModularKit_Damaged_BorderTop_01B"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@AfterBossSequences/@GetawaySequence/@AfterEngineExplosion/@AfterPlane/P_ModularKit_Damaged_BorderTop_01/P_ModularKit_Damaged_BorderTop_01C"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@AfterBossSequences/@GetawaySequence/@AfterEngineExplosion/@AfterPlane/P_ModularKit_Damaged_BorderTop_02/P_ModularKit_Damaged_BorderTop_01A"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@AfterBossSequences/@GetawaySequence/@AfterEngineExplosion/@AfterPlane/P_ModularKit_Damaged_BorderTop_02/P_ModularKit_Damaged_BorderTop_01B"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@AfterBossSequences/@GetawaySequence/@AfterEngineExplosion/@AfterPlane/P_ModularKit_Damaged_BorderTop_02/P_ModularKit_Damaged_BorderTop_01C"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@AfterBossSequences/@GetawaySequence/FireBlockers/DEPRECATED_Blocker_08"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@AfterBossSequences/@GetawaySequence/FireBlockers/DEPRECATED_Blocker_10"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@AfterBossSequences/@GetawaySequence/FireBlockers/DEPRECATED_Blocker_09"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@AfterBossSequences/@GetawaySequence/FireBlockers/DEPRECATED_Blocker_11"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@AfterBossSequences/@GetawaySequence/FireBlockers/DEPRECATED_Blocker_21"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@AfterBossSequences/@GetawaySequence/FireBlockers/DEPRECATED_Blocker_22"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@AfterBossSequences/@GetawaySequence/FireBlockers/DEPRECATED_Blocker_23"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@AfterBossSequences/@GetawaySequence/FireBlockers/DEPRECATED_Blocker_24"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@AfterBossSequences/@GetawaySequence/FireBlockers/DEPRECATED_Blocker_25"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@AfterBossSequences/@GetawaySequence/FireBlockers/DEPRECATED_Blocker_26"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@AfterBossSequences/@GetawaySequence/FireBlockers/DEPRECATED_Blocker_29"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@AfterBossSequences/@GetawaySequence/FireBlockers/DEPRECATED_Blocker_34"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@AfterBossSequences/@GetawaySequence/FireBlockers/DEPRECATED_Blocker_30"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@AfterBossSequences/@GetawaySequence/FireBlockers/DEPRECATED_Blocker_31"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@AfterBossSequences/@GetawaySequence/FireBlockers/DEPRECATED_Blocker_32"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@AfterBossSequences/@GetawaySequence/FireBlockers/DEPRECATED_Blocker_33"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@AfterBossSequences/@GetawaySequence/FireBlockers/DEPRECATED_Blocker_27"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@AfterBossSequences/@GetawaySequence/FireBlockers/DEPRECATED_Blocker_28"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@AfterBossSequences/@GetawaySequence/FireBlockers/DEPRECATED_Blocker_14"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@AfterBossSequences/@GetawaySequence/FireBlockers/DEPRECATED_Blocker_12"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@AfterBossSequences/@GetawaySequence/FireBlockers/DEPRECATED_Blocker_13"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@AfterBossSequences/@GetawaySequence/FireBlockers/DEPRECATED_Blocker_16"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@AfterBossSequences/@GetawaySequence/FireBlockers/DEPRECATED_Blocker_15"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@AfterBossSequences/@GetawaySequence/FireBlockers/DEPRECATED_Blocker_18"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@AfterBossSequences/@GetawaySequence/FireBlockers/DEPRECATED_Blocker_20"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@AfterBossSequences/@GetawaySequence/FireBlockers/DEPRECATED_Blocker_19"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@AfterBossSequences/@GetawaySequence/FireBlockers/DEPRECATED_Blocker_17"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@AfterBossSequences/@GetawaySequence/FireBlockers/Blocker_12"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@AfterBossSequences/@GetawaySequence/FireBlockers/Blocker_21"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@AfterBossSequences/@GetawaySequence/FireBlockers/Blocker_13"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@AfterBossSequences/@GetawaySequence/FireBlockers/Blocker_17"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@AfterBossSequences/@GetawaySequence/FireBlockers/Blocker_15"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@AfterBossSequences/@GetawaySequence/FireBlockers/Blocker_16"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@AfterBossSequences/@GetawaySequence/FireBlockers/Blocker_18"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@AfterBossSequences/@GetawaySequence/FireBlockers/Blocker_19"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@AfterBossSequences/@GetawaySequence/@DamagedWall02/P_Unique_Steamboat_BanquetHallBuilding01_Set04/P_Openings_Windows_BanquetHallWindow01M/Collider_01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@AfterBossSequences/@GetawaySequence/@DamagedWall02/P_Unique_Steamboat_BanquetHallBuilding01_Set04/P_Openings_Windows_BanquetHallWindow01C/Collider_01"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@AfterBossSequences/@GetawaySequence/@DamagedWall02/P_Unique_Steamboat_BanquetHallBuilding01_Set04/P_Openings_Windows_BanquetHallWall02F_02"
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Interactable/@Actions/@AfterBossSequences/@GetawaySequence/@DamagedWall02/P_Unique_Steamboat_BanquetHallBuilding01_Set04/P_Openings_Windows_BanquetHallWall02B_02"
+Setting linear velocity of a kinematic body is not supported.
+Unloading 56 Unused Serialized files (Serialized files now loaded: 152)
+UnloadTime: 380.621300 ms
+Unloading 8072 unused Assets to reduce memory usage. Loaded Objects now: 105655.
+Total: 647.378800 ms (FindLiveObjects: 11.355200 ms CreateObjectMapping: 20.837000 ms MarkObjects: 90.760100 ms  DeleteObjects: 524.426200 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 50)
+Unloading 1979 unused Assets to reduce memory usage. Loaded Objects now: 91056.
+Total: 108.973000 ms (FindLiveObjects: 9.550900 ms CreateObjectMapping: 18.923100 ms MarkObjects: 77.819400 ms  DeleteObjects: 2.679100 ms)
+
+Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for E:/Games/ActionGames/MOUSE - P.I. For Hire/MOUSE_Data/sharedassets5.resource
+Unloading 6 Unused Serialized files (Serialized files now loaded: 51)
+UnloadTime: 7.574100 ms
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 91448.
+Total: 100.591700 ms (FindLiveObjects: 8.960400 ms CreateObjectMapping: 13.626600 ms MarkObjects: 75.896000 ms  DeleteObjects: 2.108300 ms)
 
 Unloading 0 Unused Serialized files (Serialized files now loaded: 51)
-Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 98723.
-Total: 100.306500 ms (FindLiveObjects: 9.389500 ms CreateObjectMapping: 13.442200 ms MarkObjects: 77.228700 ms  DeleteObjects: 0.245700 ms)
-
-The referenced script (Unknown) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Console (DevConsole.cs Script)') is missing!
-Failed to create agent because there is no valid NavMesh
-Failed to create agent because there is no valid NavMesh
-Failed to create agent because there is no valid NavMesh
-Failed to create agent because there is no valid NavMesh
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@WorldState01/@AI/@NPCs/NPC_CopsAndWitnesess/P_NPC_Talkable_MPD_Rookie_Var02_Carnival_04/Collider"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@WorldState01/@Interactable/@Actions/@Zone7_BossArea/@BossEntrance/NPCBombed/P_NPC_Talkable_MPD_Officer_Var02_Carnival/Collider"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@WorldState01/@AI/@NPCs/NPC_CopsAndWitnesess/Witnesess/P_NPC_Talkable_Shrew1_Var01/DummyCollider"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@WorldState01/@Interactable/@Actions/@Zone7_BossArea/@BossEntrance/NPCBombed/P_NPC_Talkable_MPD_Lieutenant_Var02_Carnival/Collider"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@HLOD/@Zone_HellCircleExhibition(BossArea)/@Inside/P_CarnivalCircus_BossArena_LevelArt/@Props/P_Unique_CarnivalCircus_TentEntrance01_Set01/P_BuildingElements_Canopies_Marquee03_02/P_Decorations_Blinds_Curtain01D"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@HLOD/@Zone_HellCircleExhibition(BossArea)/@Inside/P_CarnivalCircus_BossArena_LevelArt/@Props/P_Unique_CarnivalCircus_TentEntrance01_Set01_01/P_BuildingElements_Canopies_Marquee03_02/P_Decorations_Blinds_Curtain01D"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@HLOD/@Zone_HellCircleExhibition(BossArea)/@Inside/P_CarnivalCircus_BossArena_LevelArt/@Props/P_Unique_CarnivalCircus_PhotoStandIn01_Set01/P_Unique_FilmStudio_WallHolder01_01/P_Unique_FilmStudio_WallHolder01A"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@HLOD/@Zone_HellCircleExhibition(BossArea)/@Inside/P_CarnivalCircus_BossArena_LevelArt/@Props/P_Unique_CarnivalCircus_PhotoStandIn01_Set01/P_Unique_FilmStudio_WallHolder01_01/P_Unique_FilmStudio_WallHolder01B/Collider_01"
-Setting linear velocity of a kinematic body is not supported.
-Setting linear velocity of a kinematic body is not supported.
-Setting linear velocity of a kinematic body is not supported.
-Setting linear velocity of a kinematic body is not supported.
-Physics.ClosestPoint can only be used with a BoxCollider, SphereCollider, CapsuleCollider and a convex MeshCollider.
-Setting linear velocity of a kinematic body is not supported.
-Look rotation viewing vector is zero
-Look rotation viewing vector is zero
-Unloading 35 Unused Serialized files (Serialized files now loaded: 166)
-UnloadTime: 210.904400 ms
-Unloading 9128 unused Assets to reduce memory usage. Loaded Objects now: 118371.
-Total: 889.697100 ms (FindLiveObjects: 12.320500 ms CreateObjectMapping: 18.956900 ms MarkObjects: 112.906100 ms  DeleteObjects: 745.513200 ms)
-
-Unloading 0 Unused Serialized files (Serialized files now loaded: 49)
-Unloading 455 unused Assets to reduce memory usage. Loaded Objects now: 100554.
-Total: 120.513600 ms (FindLiveObjects: 9.833500 ms CreateObjectMapping: 14.159700 ms MarkObjects: 95.713500 ms  DeleteObjects: 0.806700 ms)
-
-The referenced script (Unknown) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Console (DevConsole.cs Script)') is missing!
-Failed to create agent because there is no valid NavMesh
-Failed to create agent because there is no valid NavMesh
-Failed to create agent because there is no valid NavMesh
-Failed to create agent because there is no valid NavMesh
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@WorldState01/@AI/@NPCs/NPC_CopsAndWitnesess/P_NPC_Talkable_MPD_Rookie_Var02_Carnival_04/Collider"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@WorldState01/@Interactable/@Actions/@Zone7_BossArea/@BossEntrance/NPCBombed/P_NPC_Talkable_MPD_Officer_Var02_Carnival/Collider"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@WorldState01/@AI/@NPCs/NPC_CopsAndWitnesess/Witnesess/P_NPC_Talkable_Shrew1_Var01/DummyCollider"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@WorldState01/@Interactable/@Actions/@Zone7_BossArea/@BossEntrance/NPCBombed/P_NPC_Talkable_MPD_Lieutenant_Var02_Carnival/Collider"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@HLOD/@Zone_HellCircleExhibition(BossArea)/@Inside/P_CarnivalCircus_BossArena_LevelArt/@Props/P_Unique_CarnivalCircus_TentEntrance01_Set01/P_BuildingElements_Canopies_Marquee03_02/P_Decorations_Blinds_Curtain01D"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@HLOD/@Zone_HellCircleExhibition(BossArea)/@Inside/P_CarnivalCircus_BossArena_LevelArt/@Props/P_Unique_CarnivalCircus_TentEntrance01_Set01_01/P_BuildingElements_Canopies_Marquee03_02/P_Decorations_Blinds_Curtain01D"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@HLOD/@Zone_HellCircleExhibition(BossArea)/@Inside/P_CarnivalCircus_BossArena_LevelArt/@Props/P_Unique_CarnivalCircus_PhotoStandIn01_Set01/P_Unique_FilmStudio_WallHolder01_01/P_Unique_FilmStudio_WallHolder01A"
-BoxCollider does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@HLOD/@Zone_HellCircleExhibition(BossArea)/@Inside/P_CarnivalCircus_BossArena_LevelArt/@Props/P_Unique_CarnivalCircus_PhotoStandIn01_Set01/P_Unique_FilmStudio_WallHolder01_01/P_Unique_FilmStudio_WallHolder01B/Collider_01"
-Unloading 35 Unused Serialized files (Serialized files now loaded: 175)
-UnloadTime: 158.295800 ms
-Unloading 8794 unused Assets to reduce memory usage. Loaded Objects now: 118150.
-Total: 1100.087800 ms (FindLiveObjects: 12.653000 ms CreateObjectMapping: 17.856800 ms MarkObjects: 106.888800 ms  DeleteObjects: 962.689000 ms)
-
-Unloading 0 Unused Serialized files (Serialized files now loaded: 47)
-Unloading 355 unused Assets to reduce memory usage. Loaded Objects now: 100302.
-Total: 116.273600 ms (FindLiveObjects: 9.634300 ms CreateObjectMapping: 13.662700 ms MarkObjects: 92.222800 ms  DeleteObjects: 0.753100 ms)
-
-The referenced script (Unknown) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object 'Console (DevConsole.cs Script)') is missing!
-Default clip could not be found in attached animations list.
-Unloading 7 Unused Serialized files (Serialized files now loaded: 49)
-UnloadTime: 52.118200 ms
-Unloading 5276 unused Assets to reduce memory usage. Loaded Objects now: 99420.
-Total: 122.504600 ms (FindLiveObjects: 9.590200 ms CreateObjectMapping: 13.240000 ms MarkObjects: 91.622500 ms  DeleteObjects: 8.051500 ms)
-
-Unloading 0 Unused Serialized files (Serialized files now loaded: 49)
-Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 99392.
-Total: 116.073500 ms (FindLiveObjects: 9.162100 ms CreateObjectMapping: 14.316200 ms MarkObjects: 92.339800 ms  DeleteObjects: 0.255000 ms)
+Unloading 252 unused Assets to reduce memory usage. Loaded Objects now: 91198.
+Total: 98.698400 ms (FindLiveObjects: 8.417000 ms CreateObjectMapping: 13.844700 ms MarkObjects: 75.911500 ms  DeleteObjects: 0.524400 ms)
 
 The referenced script (Unknown) on this Behaviour is missing!
 The referenced script on this Behaviour (Game Object 'Console (DevConsole.cs Script)') is missing!
@@ -24157,13 +24420,95 @@ Failed to create agent because there is no valid NavMesh
 Failed to create agent because there is no valid NavMesh
 Failed to create agent because there is no valid NavMesh
 Unloading 45 Unused Serialized files (Serialized files now loaded: 155)
-UnloadTime: 108.409200 ms
-Unloading 6945 unused Assets to reduce memory usage. Loaded Objects now: 102797.
-Total: 181.743700 ms (FindLiveObjects: 11.196100 ms CreateObjectMapping: 13.624300 ms MarkObjects: 89.061300 ms  DeleteObjects: 67.861700 ms)
+UnloadTime: 115.454200 ms
+Unloading 6649 unused Assets to reduce memory usage. Loaded Objects now: 93736.
+Total: 149.034700 ms (FindLiveObjects: 9.887100 ms CreateObjectMapping: 15.708000 ms MarkObjects: 75.388400 ms  DeleteObjects: 48.050700 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 49)
+Unloading 758 unused Assets to reduce memory usage. Loaded Objects now: 91483.
+Total: 109.563500 ms (FindLiveObjects: 8.805000 ms CreateObjectMapping: 14.434400 ms MarkObjects: 84.868500 ms  DeleteObjects: 1.455400 ms)
+
+The referenced script (Unknown) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object 'Console (DevConsole.cs Script)') is missing!
+Default clip could not be found in attached animations list.
+Unloading 7 Unused Serialized files (Serialized files now loaded: 51)
+UnloadTime: 50.311600 ms
+Unloading 5292 unused Assets to reduce memory usage. Loaded Objects now: 91225.
+Total: 101.392700 ms (FindLiveObjects: 8.599900 ms CreateObjectMapping: 14.315100 ms MarkObjects: 71.257700 ms  DeleteObjects: 7.219700 ms)
 
 Unloading 0 Unused Serialized files (Serialized files now loaded: 51)
-Unloading 710 unused Assets to reduce memory usage. Loaded Objects now: 100614.
-Total: 132.206100 ms (FindLiveObjects: 9.799200 ms CreateObjectMapping: 16.072000 ms MarkObjects: 104.814000 ms  DeleteObjects: 1.520700 ms)
+Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 91197.
+Total: 96.819200 ms (FindLiveObjects: 10.772600 ms CreateObjectMapping: 13.416300 ms MarkObjects: 72.385300 ms  DeleteObjects: 0.244500 ms)
+
+The referenced script (Unknown) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object 'Console (DevConsole.cs Script)') is missing!
+BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "@Enviro/@HLOD/@Zone06_Swamp/@Props/P_Urban_Fences_BridgeBrokenChain01_Set01/P_BuildingElements_Tools_ScaffoldingWoodenPillar01/Collider"
+Physics.ClosestPoint can only be used with a BoxCollider, SphereCollider, CapsuleCollider and a convex MeshCollider.
+Physics.ClosestPoint can only be used with a BoxCollider, SphereCollider, CapsuleCollider and a convex MeshCollider.
+Setting linear velocity of a kinematic body is not supported.
+Setting linear velocity of a kinematic body is not supported.
+OperationCanceledException: coroutine canceled
+  at UnityEngine.Awaitable.PropagateExceptionAndRelease () [0x000c7] in <51b56bcf66c2474b832cc3e7ed1dab50>:0 
+  at AnimationFullScreenEffect.DisableEffectAsync (System.Threading.CancellationToken ct) [0x00108] in <9a7a13b82cd64e5ca343bf0c9f0be2b9>:0 
+UnityEngine.DebugLogHandler:Internal_LogException_Injected(Exception, IntPtr)
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception, Object)
+MouseDebug:LogException(Exception, Object)
+<DisableEffectAsync>d__34:MoveNext()
+System.Runtime.CompilerServices.MoveNextRunner:InvokeMoveNext(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object, Boolean)
+System.Runtime.CompilerServices.MoveNextRunner:Run()
+UnityEngine.Awaitable:RunContinuation()
+UnityEngine.Awaitable:CancelNativeAwaitable(IntPtr)
+UnityEngine.Awaitable:Cancel()
+UnityEngine.<>c:<WireupCancellation>b__26_0(Object)
+System.Threading.CancellationCallbackInfo:ExecutionContextCallback(Object)
+System.Threading.CancellationCallbackInfo:ExecuteCallback()
+System.Threading.CancellationTokenSource:CancellationCallbackCoreWork(CancellationCallbackCoreWorkArguments)
+System.Threading.CancellationTokenSource:ExecuteCallbackHandlers(Boolean)
+System.Threading.CancellationTokenSource:NotifyCancellation(Boolean)
+System.Threading.CancellationTokenSource:Cancel(Boolean)
+AnimationFullScreenEffect:CancelCurrentTokenAndRestart()
+AnimationFullScreenEffect:EnableEffect()
+PlayerStatusFullScreenVFXController:OnStatusApplied(EnemyStatuses)
+StatusController:ApplyStatus(EnemyStatuses, Single)
+StatusController:TryApplyingStatus(Damage)
+PlayerHealth:GetDamage(Damage)
+PlayerHealth:HandleDamagePointEvent(Damage)
+DamagePoint:ProcessDamage(Damage)
+VoidController:TryDamaging()
+VoidController:Update()
+
+Unloading 59 Unused Serialized files (Serialized files now loaded: 141)
+UnloadTime: 219.039800 ms
+Unloading 9381 unused Assets to reduce memory usage. Loaded Objects now: 110395.
+Total: 904.874700 ms (FindLiveObjects: 12.603300 ms CreateObjectMapping: 21.403600 ms MarkObjects: 95.705700 ms  DeleteObjects: 775.161600 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 52)
+Unloading 895 unused Assets to reduce memory usage. Loaded Objects now: 92438.
+Total: 108.855700 ms (FindLiveObjects: 8.835900 ms CreateObjectMapping: 14.706400 ms MarkObjects: 82.883100 ms  DeleteObjects: 2.429800 ms)
+
+Exception: Tried to Initialize the SteamAPI twice in one session!
+  at SteamManager.Awake () [0x00026] in <e679c069cb2b42bca3e82101fed82427>:0 
+UnityEngine.DebugLogHandler:Internal_LogException_Injected(Exception, IntPtr)
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+Sentry.Unity.Integrations.UnityLogHandlerIntegration:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:CallOverridenDebugHandler(Exception, Object)
+UnityEngine.GameObject:Internal_AddComponentWithType_Injected(IntPtr, Type)
+UnityEngine.GameObject:Internal_AddComponentWithType(Type)
+UnityEngine.GameObject:AddComponent(Type)
+UnityEngine.GameObject:AddComponent()
+SteamManager:get_Instance()
+SteamManager:get_Initialized()
+UICanvas.ApplicationStateWatcher:OnDestroy()
 
 [Physics::Module] Cleanup current backend.
 [Physics::Module] Id: 0xf2b8ea05

@@ -1,6 +1,6 @@
 {
-  "a": "save2",
-  "b": "checkpoint1",
+  "a": "checkpoint2",
+  "b": "checkpoint2",
   "c": {
     "SettingLanguage": "0",
     "SettingAutoContinueDialogue": false,
