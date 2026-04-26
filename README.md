@@ -1,1 +1,1 @@
-if you come from the future omar. i want to tell you something. fristly my age is 15 and my favorite game is silksong
+if you come from the future omar. i want to tell you something you are a little nigga + my age is 15 when i wrote t his and my favorite game is silksong and there is 2 games on itch.io right now. i don't upload any video two years ago if you read this from future and you age over than 18 years old i want to tell you take care of yourself
