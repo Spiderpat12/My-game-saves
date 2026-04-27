@@ -1,6 +1,6 @@
 {
   "a": "save2",
-  "b": "checkpoint0",
+  "b": "checkpoint2",
   "c": {
     "SettingLanguage": "0",
     "SettingAutoContinueDialogue": false,
@@ -17,11 +17,11 @@
   "e": false,
   "f": {
     "BoomTown": 20,
-    "FireStarter": 13,
+    "FireStarter": 15,
     "GonnaNeedABiggerCapacitorDoc": 0,
     "HotStreak": 5,
-    "ScorchingStreak": 9,
-    "SquishSquash": 6,
+    "ScorchingStreak": 10,
+    "SquishSquash": 9,
     "WeHaveChowYunFatAtHome": 1
   },
   "g": {
