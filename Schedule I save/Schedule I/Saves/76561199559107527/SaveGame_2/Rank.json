@@ -1,0 +1,13 @@
+{
+    "DataType": "RankData",
+    "DataVersion": 1,
+    "GameVersion": "0.4.0f9",
+    "Rank": 1,
+    "Tier": 1,
+    "XP": 103,
+    "TotalXP": 1103,
+    "UnlockedRegions": [
+        0,
+        1
+    ]
+}

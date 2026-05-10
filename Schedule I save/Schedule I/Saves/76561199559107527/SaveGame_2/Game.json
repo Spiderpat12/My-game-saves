@@ -1,0 +1,10 @@
+{
+    "DataType": "GameData",
+    "DataVersion": 0,
+    "GameVersion": "0.4.0f9",
+    "OrganisationName": "Powder",
+    "Seed": 558928421,
+    "Settings": {
+        "ConsoleEnabled": false
+    }
+}
