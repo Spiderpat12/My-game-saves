@@ -231,7 +231,7 @@
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.0f9",
-                    "Name": "Earn $10,000 ($3,611 / $10,000)",
+                    "Name": "Earn $10,000 ($8,992 / $10,000)",
                     "State": 0
                 }
             ]
@@ -286,7 +286,7 @@
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.0f9",
-                    "Name": "Unlock 10 customers (10/10)",
+                    "Name": "Unlock 10 customers (0/10)",
                     "State": 2
                 }
             ]
@@ -355,14 +355,14 @@
                     "DataVersion": 0,
                     "GameVersion": "0.4.0f9",
                     "Name": "Unlock Chloe, Ludwig, or Beth as customers",
-                    "State": 1
+                    "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.0f9",
                     "Name": "Reach 'friendly' relationship status with Chloe, Ludwig, or Beth",
-                    "State": 0
+                    "State": 1
                 },
                 {
                     "DataType": "QuestEntryData",
@@ -768,7 +768,7 @@
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.0f9",
-                    "Name": "Complete 3 deals (2/3)",
+                    "Name": "Complete 3 deals (0/3)",
                     "State": 2
                 },
                 {
@@ -1209,7 +1209,7 @@
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.0f9",
-                    "Name": "Wait for the dead drop (1 mins)",
+                    "Name": "Wait for the dead drop",
                     "State": 2
                 },
                 {
@@ -1289,156 +1289,104 @@
             "DataType": "ContractData",
             "DataVersion": 0,
             "GameVersion": "0.4.0f9",
-            "GUID": "44a65e97-56df-433d-bb42-d8904be2b068",
+            "GUID": "7ba5ba9f-5434-4039-9b41-e71d89f3d9d4",
             "State": 1,
             "IsTracked": true,
-            "Title": "Deal for Trent",
-            "Description": "Trent has requested a delivery of 3x OG Kush on the wharf west of the warehouse for $165.",
+            "Title": "Deal for Beth",
+            "Description": "Beth has requested a delivery of 1x Sour Diesel behind Thompson construction and demolition for $60.",
             "Expires": true,
             "ExpiryDate": {
                 "DataType": "GameDateTimeData",
                 "DataVersion": 0,
                 "GameVersion": "0.4.0f9",
-                "ElapsedDays": 8,
-                "Time": 1200
+                "ElapsedDays": 12,
+                "Time": 1800
             },
             "Entries": [
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.0f9",
-                    "Name": "3x OG Kush, West Warehouse Wharf",
+                    "Name": "1x Sour Diesel, Behind Thompson construction and demolition",
                     "State": 1
                 }
             ],
-            "CustomerGUID": "3d75cfaf-216e-4258-8d48-214837bbe1a5",
-            "Payment": 165.0,
+            "CustomerGUID": "eac0d826-3a72-43a5-83bb-f54fa4c4b5dc",
+            "Payment": 60.0,
             "ProductList": {
                 "entries": [
                     {
-                        "ProductID": "ogkush",
+                        "ProductID": "sourdiesel",
                         "Quality": 1,
-                        "Quantity": 3
+                        "Quantity": 1
                     }
                 ]
             },
-            "DeliveryLocationGUID": "36058621-8030-42d2-a0dc-dfb820e87266",
+            "DeliveryLocationGUID": "5fdc79c3-1636-43b1-947a-5ba8f80f825b",
             "DeliveryWindow": {
                 "IsEnabled": true,
-                "WindowStartTime": 600,
-                "WindowEndTime": 1200
+                "WindowStartTime": 1200,
+                "WindowEndTime": 1800
             },
             "PickupScheduleIndex": 0,
             "AcceptTime": {
                 "DataType": "GameDateTimeData",
                 "DataVersion": 0,
                 "GameVersion": "0.4.0f9",
-                "ElapsedDays": 8,
-                "Time": 3
+                "ElapsedDays": 11,
+                "Time": 2008
             }
         },
         {
             "DataType": "ContractData",
             "DataVersion": 0,
             "GameVersion": "0.4.0f9",
-            "GUID": "1a7fcc5e-5514-4d5e-97d7-43f253b192a6",
+            "GUID": "040bd43e-5267-433b-9332-dc6f775f948c",
             "State": 1,
             "IsTracked": true,
             "Title": "Deal for Donna",
-            "Description": "Donna has requested a delivery of 3x OG Kush behind Hyland gun range for $170.",
+            "Description": "Donna has requested a delivery of 4x Green Crack behind taco ticklers for $390.",
             "Expires": true,
             "ExpiryDate": {
                 "DataType": "GameDateTimeData",
                 "DataVersion": 0,
                 "GameVersion": "0.4.0f9",
-                "ElapsedDays": 8,
-                "Time": 1200
+                "ElapsedDays": 12,
+                "Time": 1800
             },
             "Entries": [
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.0f9",
-                    "Name": "3x OG Kush, Behind Hyland Range",
+                    "Name": "4x Green Crack, Behind Taco Ticklers",
                     "State": 1
                 }
             ],
             "CustomerGUID": "971246ff-7483-45ea-8d43-7fc6dbb5c23c",
-            "Payment": 170.0,
+            "Payment": 390.0,
             "ProductList": {
                 "entries": [
                     {
-                        "ProductID": "ogkush",
+                        "ProductID": "greencrack",
                         "Quality": 1,
-                        "Quantity": 3
+                        "Quantity": 4
                     }
                 ]
             },
-            "DeliveryLocationGUID": "fb907ba0-f9d9-4491-9e44-8a8237b58fc3",
+            "DeliveryLocationGUID": "b7ab2bad-0f54-49c4-9a98-47f87c0a2700",
             "DeliveryWindow": {
                 "IsEnabled": true,
-                "WindowStartTime": 600,
-                "WindowEndTime": 1200
+                "WindowStartTime": 1200,
+                "WindowEndTime": 1800
             },
             "PickupScheduleIndex": 0,
             "AcceptTime": {
                 "DataType": "GameDateTimeData",
                 "DataVersion": 0,
                 "GameVersion": "0.4.0f9",
-                "ElapsedDays": 8,
-                "Time": 17
-            }
-        },
-        {
-            "DataType": "ContractData",
-            "DataVersion": 0,
-            "GameVersion": "0.4.0f9",
-            "GUID": "21cecab4-0555-4465-898f-dbfeb5c410b0",
-            "State": 1,
-            "IsTracked": true,
-            "Title": "Deal for Mick",
-            "Description": "Mick has requested a delivery of 3x OG Kush behind Hyland gun range for $145.",
-            "Expires": true,
-            "ExpiryDate": {
-                "DataType": "GameDateTimeData",
-                "DataVersion": 0,
-                "GameVersion": "0.4.0f9",
-                "ElapsedDays": 8,
-                "Time": 1200
-            },
-            "Entries": [
-                {
-                    "DataType": "QuestEntryData",
-                    "DataVersion": 0,
-                    "GameVersion": "0.4.0f9",
-                    "Name": "3x OG Kush, Behind Hyland Range",
-                    "State": 1
-                }
-            ],
-            "CustomerGUID": "d7a1ac26-77c2-42f3-aa82-bee1f6a99cb9",
-            "Payment": 145.0,
-            "ProductList": {
-                "entries": [
-                    {
-                        "ProductID": "ogkush",
-                        "Quality": 1,
-                        "Quantity": 3
-                    }
-                ]
-            },
-            "DeliveryLocationGUID": "fb907ba0-f9d9-4491-9e44-8a8237b58fc3",
-            "DeliveryWindow": {
-                "IsEnabled": true,
-                "WindowStartTime": 600,
-                "WindowEndTime": 1200
-            },
-            "PickupScheduleIndex": 0,
-            "AcceptTime": {
-                "DataType": "GameDateTimeData",
-                "DataVersion": 0,
-                "GameVersion": "0.4.0f9",
-                "ElapsedDays": 8,
-                "Time": 24
+                "ElapsedDays": 11,
+                "Time": 2022
             }
         }
     ],

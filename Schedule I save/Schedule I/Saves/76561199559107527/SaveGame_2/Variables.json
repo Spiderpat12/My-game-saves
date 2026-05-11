@@ -8,7 +8,7 @@
             "DataVersion": 0,
             "GameVersion": "0.4.0f9",
             "Name": "Completed_Contracts_Count",
-            "Value": "15"
+            "Value": "36"
         },
         {
             "DataType": "VariableData",
@@ -57,49 +57,49 @@
             "DataVersion": 0,
             "GameVersion": "0.4.0f9",
             "Name": "HarvestedPlantCount",
-            "Value": "10"
+            "Value": "31"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.0f9",
             "Name": "PackagedProductCount",
-            "Value": "60"
+            "Value": "172"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.0f9",
             "Name": "SownSeedsCount",
-            "Value": "16"
+            "Value": "33"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.0f9",
             "Name": "WateredPotsCount",
-            "Value": "18"
+            "Value": "29"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.0f9",
             "Name": "SuccessfulSampleCount",
-            "Value": "4"
+            "Value": "7"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.0f9",
             "Name": "Deaddrops_Ordered",
-            "Value": "3"
+            "Value": "5"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.0f9",
             "Name": "ListedProductsCount",
-            "Value": "1"
+            "Value": "2"
         },
         {
             "DataType": "VariableData",
@@ -113,14 +113,14 @@
             "DataVersion": 0,
             "GameVersion": "0.4.0f9",
             "Name": "ContainedTrashItems",
-            "Value": "45"
+            "Value": "89"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.0f9",
             "Name": "TrashContainersBagged",
-            "Value": "5"
+            "Value": "10"
         },
         {
             "DataType": "VariableData",
@@ -169,14 +169,14 @@
             "DataVersion": 0,
             "GameVersion": "0.4.0f9",
             "Name": "SampleRejectionCount",
-            "Value": "0"
+            "Value": "1"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.0f9",
             "Name": "SecondUniqueProductDiscovered",
-            "Value": "False"
+            "Value": "True"
         },
         {
             "DataType": "VariableData",
