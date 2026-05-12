@@ -8,21 +8,21 @@
             "DataVersion": 0,
             "GameVersion": "0.4.0f9",
             "Name": "Sleep_Count",
-            "Value": "12"
+            "Value": "19"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.0f9",
             "Name": "Inventory_Weed_Count",
-            "Value": "24"
+            "Value": "0"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.0f9",
             "Name": "Inventory_Trimmers",
-            "Value": "1"
+            "Value": "0"
         },
         {
             "DataType": "VariableData",
@@ -78,7 +78,7 @@
             "DataVersion": 0,
             "GameVersion": "0.4.0f9",
             "Name": "MixingHintsShown",
-            "Value": "False"
+            "Value": "True"
         },
         {
             "DataType": "VariableData",
@@ -99,7 +99,7 @@
             "DataVersion": 0,
             "GameVersion": "0.4.0f9",
             "Name": "PackagingStationMk2TutorialDone",
-            "Value": "False"
+            "Value": "True"
         },
         {
             "DataType": "VariableData",
@@ -127,28 +127,28 @@
             "DataVersion": 0,
             "GameVersion": "0.4.0f9",
             "Name": "RayGreeted",
-            "Value": "False"
+            "Value": "True"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.0f9",
             "Name": "JeremyGreeted",
-            "Value": "False"
+            "Value": "True"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.0f9",
             "Name": "MarcoGreeted",
-            "Value": "False"
+            "Value": "True"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.0f9",
             "Name": "TrashRecycled",
-            "Value": "32"
+            "Value": "69"
         },
         {
             "DataType": "VariableData",

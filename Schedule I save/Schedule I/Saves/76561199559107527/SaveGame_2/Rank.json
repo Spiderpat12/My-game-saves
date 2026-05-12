@@ -2,10 +2,10 @@
     "DataType": "RankData",
     "DataVersion": 1,
     "GameVersion": "0.4.0f9",
-    "Rank": 1,
-    "Tier": 3,
-    "XP": 148,
-    "TotalXP": 1948,
+    "Rank": 2,
+    "Tier": 1,
+    "XP": 508,
+    "TotalXP": 3508,
     "UnlockedRegions": [
         0,
         1

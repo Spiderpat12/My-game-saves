@@ -8,7 +8,7 @@
             "DataVersion": 0,
             "GameVersion": "0.4.0f9",
             "Name": "Completed_Contracts_Count",
-            "Value": "36"
+            "Value": "92"
         },
         {
             "DataType": "VariableData",
@@ -57,42 +57,42 @@
             "DataVersion": 0,
             "GameVersion": "0.4.0f9",
             "Name": "HarvestedPlantCount",
-            "Value": "31"
+            "Value": "53"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.0f9",
             "Name": "PackagedProductCount",
-            "Value": "172"
+            "Value": "381"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.0f9",
             "Name": "SownSeedsCount",
-            "Value": "33"
+            "Value": "59"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.0f9",
             "Name": "WateredPotsCount",
-            "Value": "29"
+            "Value": "37"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.0f9",
             "Name": "SuccessfulSampleCount",
-            "Value": "7"
+            "Value": "11"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.0f9",
             "Name": "Deaddrops_Ordered",
-            "Value": "5"
+            "Value": "7"
         },
         {
             "DataType": "VariableData",
@@ -106,35 +106,35 @@
             "DataVersion": 0,
             "GameVersion": "0.4.0f9",
             "Name": "Benji_CompletedDealCount",
-            "Value": "0"
+            "Value": "42"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.0f9",
             "Name": "ContainedTrashItems",
-            "Value": "89"
+            "Value": "155"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.0f9",
             "Name": "TrashContainersBagged",
-            "Value": "10"
+            "Value": "16"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.0f9",
             "Name": "Mixing_Operations_Started",
-            "Value": "0"
+            "Value": "3"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.0f9",
             "Name": "Mixing_Operations_Completed",
-            "Value": "0"
+            "Value": "3"
         },
         {
             "DataType": "VariableData",
@@ -162,14 +162,14 @@
             "DataVersion": 0,
             "GameVersion": "0.4.0f9",
             "Name": "Mixing_Operations_Collected",
-            "Value": "0"
+            "Value": "4"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.0f9",
             "Name": "SampleRejectionCount",
-            "Value": "1"
+            "Value": "2"
         },
         {
             "DataType": "VariableData",
@@ -211,7 +211,7 @@
             "DataVersion": 0,
             "GameVersion": "0.4.0f9",
             "Name": "WarehouseUnlocked",
-            "Value": "False"
+            "Value": "True"
         },
         {
             "DataType": "VariableData",

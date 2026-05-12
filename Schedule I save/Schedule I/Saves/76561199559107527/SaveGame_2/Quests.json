@@ -214,8 +214,8 @@
             "DataVersion": 0,
             "GameVersion": "0.4.0f9",
             "GUID": "e5314966-09b3-42a0-9757-cb1a09acf999",
-            "State": 0,
-            "IsTracked": false,
+            "State": 2,
+            "IsTracked": true,
             "Title": "Needin' the Green",
             "Description": "Time to make some MONEY!!!!!",
             "Expires": false,
@@ -231,8 +231,8 @@
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.0f9",
-                    "Name": "Earn $10,000 ($8,992 / $10,000)",
-                    "State": 0
+                    "Name": "Earn $10,000 ($18,648 / $10,000)",
+                    "State": 2
                 }
             ]
         },
@@ -330,7 +330,7 @@
             "DataVersion": 0,
             "GameVersion": "0.4.0f9",
             "GUID": "04b6e82d-fb51-4caa-baf1-4724e16cf155",
-            "State": 1,
+            "State": 2,
             "IsTracked": true,
             "Title": "Dodgy Dealing",
             "Description": "Recruit and manage your first dealer to handle distribution for you.",
@@ -362,49 +362,49 @@
                     "DataVersion": 0,
                     "GameVersion": "0.4.0f9",
                     "Name": "Reach 'friendly' relationship status with Chloe, Ludwig, or Beth",
-                    "State": 1
+                    "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.0f9",
                     "Name": "Talk to Benji Coleman in Motel Room #2",
-                    "State": 0
+                    "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.0f9",
                     "Name": "Recruit Benji Coleman as a dealer",
-                    "State": 0
+                    "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.0f9",
                     "Name": "Provide Benji with at least 10x Weed",
-                    "State": 0
+                    "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.0f9",
                     "Name": "Assign at least 3 customers to Benji",
-                    "State": 0
+                    "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.0f9",
                     "Name": "Wait for Benji to complete a deal",
-                    "State": 0
+                    "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.0f9",
                     "Name": "Collect the cash from Benji",
-                    "State": 0
+                    "State": 2
                 }
             ]
         },
@@ -537,8 +537,8 @@
             "DataVersion": 0,
             "GameVersion": "0.4.0f9",
             "GUID": "7187a66d-0359-4caa-93bc-8dcae901e679",
-            "State": 0,
-            "IsTracked": false,
+            "State": 2,
+            "IsTracked": true,
             "Title": "Mixing Mania",
             "Description": "Purchase a mixing station and make your first custom mix.",
             "Expires": false,
@@ -555,70 +555,70 @@
                     "DataVersion": 0,
                     "GameVersion": "0.4.0f9",
                     "Name": "Talk to Uncle Nelson at a payphone",
-                    "State": 0
+                    "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.0f9",
                     "Name": "Purchase a mixing station from the hardware store",
-                    "State": 0
+                    "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.0f9",
                     "Name": "Place the mixing station",
-                    "State": 0
+                    "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.0f9",
                     "Name": "Go to Gas-Mart",
-                    "State": 0
+                    "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.0f9",
                     "Name": "Purchase at least one mixing ingredient",
-                    "State": 0
+                    "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.0f9",
                     "Name": "Start a new mix at the mixing station",
-                    "State": 0
+                    "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.0f9",
                     "Name": "Wait for the mix to complete",
-                    "State": 0
+                    "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.0f9",
                     "Name": "Collect the new product",
-                    "State": 0
+                    "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.0f9",
                     "Name": "Talk to Uncle Nelson at a payphone",
-                    "State": 0
+                    "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.0f9",
                     "Name": "Mix a strain worth at least $60",
-                    "State": 0
+                    "State": 2
                 }
             ]
         },
@@ -627,8 +627,8 @@
             "DataVersion": 0,
             "GameVersion": "0.4.0f9",
             "GUID": "9b192cde-b87f-4ee7-8f43-b8e3775a04c7",
-            "State": 0,
-            "IsTracked": false,
+            "State": 1,
+            "IsTracked": true,
             "Title": "Wretched Hive of Scum and Villainy",
             "Description": "Acquaint yourself with the inhabitants of the warehouse, the local place of business for people in your line of work.",
             "Expires": false,
@@ -645,35 +645,35 @@
                     "DataVersion": 0,
                     "GameVersion": "0.4.0f9",
                     "Name": "Talk to Uncle Nelson at a payphone",
-                    "State": 0
+                    "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.0f9",
                     "Name": "Gain access to the warehouse",
-                    "State": 0
+                    "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.0f9",
                     "Name": "Talk to the merchant",
-                    "State": 0
+                    "State": 1
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.0f9",
                     "Name": "Talk to the arms dealer",
-                    "State": 0
+                    "State": 1
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.0f9",
                     "Name": "Talk to the fixer",
-                    "State": 0
+                    "State": 1
                 }
             ]
         },
@@ -992,8 +992,8 @@
             "DataVersion": 0,
             "GameVersion": "0.4.0f9",
             "GUID": "a3f6ef26-47eb-462a-ad58-8767d45a1737",
-            "State": 0,
-            "IsTracked": false,
+            "State": 1,
+            "IsTracked": true,
             "Title": "Clean Cash",
             "Description": "You've reached your ATM daily deposit limit. If you want to convert more cash to online balance, you'll need to start laundering cash through a business.",
             "Expires": false,
@@ -1010,14 +1010,14 @@
                     "DataVersion": 0,
                     "GameVersion": "0.4.0f9",
                     "Name": "Talk to Uncle Nelson at a payphone",
-                    "State": 0
+                    "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.0f9",
                     "Name": "Purchase a business at Ray's Realty",
-                    "State": 0
+                    "State": 1
                 },
                 {
                     "DataType": "QuestEntryData",
@@ -1047,8 +1047,8 @@
             "DataVersion": 0,
             "GameVersion": "0.4.0f9",
             "GUID": "830e2efe-b98f-495d-a44e-c17c7c94f517",
-            "State": 0,
-            "IsTracked": false,
+            "State": 2,
+            "IsTracked": true,
             "Title": "Making the Rounds",
             "Description": "Explore Hyland Point and talk to some people of interest.",
             "Expires": false,
@@ -1065,21 +1065,21 @@
                     "DataVersion": 0,
                     "GameVersion": "0.4.0f9",
                     "Name": "Talk to the real estate agent",
-                    "State": 0
+                    "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.0f9",
                     "Name": "Talk to the dealership manager",
-                    "State": 0
+                    "State": 2
                 },
                 {
                     "DataType": "QuestEntryData",
                     "DataVersion": 0,
                     "GameVersion": "0.4.0f9",
                     "Name": "Talk to the mechanic",
-                    "State": 0
+                    "State": 2
                 }
             ]
         },
@@ -1284,111 +1284,6 @@
             ]
         }
     ],
-    "Contracts": [
-        {
-            "DataType": "ContractData",
-            "DataVersion": 0,
-            "GameVersion": "0.4.0f9",
-            "GUID": "7ba5ba9f-5434-4039-9b41-e71d89f3d9d4",
-            "State": 1,
-            "IsTracked": true,
-            "Title": "Deal for Beth",
-            "Description": "Beth has requested a delivery of 1x Sour Diesel behind Thompson construction and demolition for $60.",
-            "Expires": true,
-            "ExpiryDate": {
-                "DataType": "GameDateTimeData",
-                "DataVersion": 0,
-                "GameVersion": "0.4.0f9",
-                "ElapsedDays": 12,
-                "Time": 1800
-            },
-            "Entries": [
-                {
-                    "DataType": "QuestEntryData",
-                    "DataVersion": 0,
-                    "GameVersion": "0.4.0f9",
-                    "Name": "1x Sour Diesel, Behind Thompson construction and demolition",
-                    "State": 1
-                }
-            ],
-            "CustomerGUID": "eac0d826-3a72-43a5-83bb-f54fa4c4b5dc",
-            "Payment": 60.0,
-            "ProductList": {
-                "entries": [
-                    {
-                        "ProductID": "sourdiesel",
-                        "Quality": 1,
-                        "Quantity": 1
-                    }
-                ]
-            },
-            "DeliveryLocationGUID": "5fdc79c3-1636-43b1-947a-5ba8f80f825b",
-            "DeliveryWindow": {
-                "IsEnabled": true,
-                "WindowStartTime": 1200,
-                "WindowEndTime": 1800
-            },
-            "PickupScheduleIndex": 0,
-            "AcceptTime": {
-                "DataType": "GameDateTimeData",
-                "DataVersion": 0,
-                "GameVersion": "0.4.0f9",
-                "ElapsedDays": 11,
-                "Time": 2008
-            }
-        },
-        {
-            "DataType": "ContractData",
-            "DataVersion": 0,
-            "GameVersion": "0.4.0f9",
-            "GUID": "040bd43e-5267-433b-9332-dc6f775f948c",
-            "State": 1,
-            "IsTracked": true,
-            "Title": "Deal for Donna",
-            "Description": "Donna has requested a delivery of 4x Green Crack behind taco ticklers for $390.",
-            "Expires": true,
-            "ExpiryDate": {
-                "DataType": "GameDateTimeData",
-                "DataVersion": 0,
-                "GameVersion": "0.4.0f9",
-                "ElapsedDays": 12,
-                "Time": 1800
-            },
-            "Entries": [
-                {
-                    "DataType": "QuestEntryData",
-                    "DataVersion": 0,
-                    "GameVersion": "0.4.0f9",
-                    "Name": "4x Green Crack, Behind Taco Ticklers",
-                    "State": 1
-                }
-            ],
-            "CustomerGUID": "971246ff-7483-45ea-8d43-7fc6dbb5c23c",
-            "Payment": 390.0,
-            "ProductList": {
-                "entries": [
-                    {
-                        "ProductID": "greencrack",
-                        "Quality": 1,
-                        "Quantity": 4
-                    }
-                ]
-            },
-            "DeliveryLocationGUID": "b7ab2bad-0f54-49c4-9a98-47f87c0a2700",
-            "DeliveryWindow": {
-                "IsEnabled": true,
-                "WindowStartTime": 1200,
-                "WindowEndTime": 1800
-            },
-            "PickupScheduleIndex": 0,
-            "AcceptTime": {
-                "DataType": "GameDateTimeData",
-                "DataVersion": 0,
-                "GameVersion": "0.4.0f9",
-                "ElapsedDays": 11,
-                "Time": 2022
-            }
-        }
-    ],
+    "Contracts": [],
     "DeaddropQuests": []
 }
