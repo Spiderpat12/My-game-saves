@@ -8,7 +8,7 @@
             "DataVersion": 0,
             "GameVersion": "0.4.0f9",
             "Name": "Sleep_Count",
-            "Value": "19"
+            "Value": "23"
         },
         {
             "DataType": "VariableData",
@@ -22,7 +22,7 @@
             "DataVersion": 0,
             "GameVersion": "0.4.0f9",
             "Name": "Inventory_Trimmers",
-            "Value": "0"
+            "Value": "1"
         },
         {
             "DataType": "VariableData",
@@ -106,21 +106,21 @@
             "DataVersion": 0,
             "GameVersion": "0.4.0f9",
             "Name": "StanGreeted",
-            "Value": "False"
+            "Value": "True"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.0f9",
             "Name": "OscarGreeted",
-            "Value": "False"
+            "Value": "True"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.0f9",
             "Name": "FixerGreeted",
-            "Value": "False"
+            "Value": "True"
         },
         {
             "DataType": "VariableData",
@@ -148,7 +148,7 @@
             "DataVersion": 0,
             "GameVersion": "0.4.0f9",
             "Name": "TrashRecycled",
-            "Value": "69"
+            "Value": "89"
         },
         {
             "DataType": "VariableData",

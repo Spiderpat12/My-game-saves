@@ -8,7 +8,7 @@
             "DataVersion": 0,
             "GameVersion": "0.4.0f9",
             "Name": "Completed_Contracts_Count",
-            "Value": "92"
+            "Value": "128"
         },
         {
             "DataType": "VariableData",
@@ -57,21 +57,21 @@
             "DataVersion": 0,
             "GameVersion": "0.4.0f9",
             "Name": "HarvestedPlantCount",
-            "Value": "53"
+            "Value": "67"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.0f9",
             "Name": "PackagedProductCount",
-            "Value": "381"
+            "Value": "565"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.0f9",
             "Name": "SownSeedsCount",
-            "Value": "59"
+            "Value": "72"
         },
         {
             "DataType": "VariableData",
@@ -106,21 +106,21 @@
             "DataVersion": 0,
             "GameVersion": "0.4.0f9",
             "Name": "Benji_CompletedDealCount",
-            "Value": "42"
+            "Value": "65"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.0f9",
             "Name": "ContainedTrashItems",
-            "Value": "155"
+            "Value": "196"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.0f9",
             "Name": "TrashContainersBagged",
-            "Value": "16"
+            "Value": "19"
         },
         {
             "DataType": "VariableData",
@@ -225,14 +225,14 @@
             "DataVersion": 0,
             "GameVersion": "0.4.0f9",
             "Name": "ClipboardAcquired",
-            "Value": "False"
+            "Value": "True"
         },
         {
             "DataType": "VariableData",
             "DataVersion": 0,
             "GameVersion": "0.4.0f9",
             "Name": "LifetimeEmployeesRecruited",
-            "Value": "0"
+            "Value": "2"
         },
         {
             "DataType": "VariableData",
