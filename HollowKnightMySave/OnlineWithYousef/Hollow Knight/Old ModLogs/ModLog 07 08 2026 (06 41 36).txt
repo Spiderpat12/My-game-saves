@@ -1,0 +1,100 @@
+﻿[INFO]:[API] - Starting mod loading
+[INFO]:[API] - Deleting modlogs older than 7 days ago
+[DEBUG]:[API] - Loading assemblies and constructing mods
+[DEBUG]:[API] - E:/Games/AdventureGames/Hollow Knight/hollow_knight_Data\Managed\Mods\HKMirror\HKMirror.dll,
+[DEBUG]:[API] - E:/Games/AdventureGames/Hollow Knight/hollow_knight_Data\Managed\Mods\HKMP\HKMP.dll,
+[DEBUG]:[API] - E:/Games/AdventureGames/Hollow Knight/hollow_knight_Data\Managed\Mods\HKMP HealthDisplay\HKMP_HealthDisplay.dll,
+[DEBUG]:[API] - E:/Games/AdventureGames/Hollow Knight/hollow_knight_Data\Managed\Mods\HKMP.CheckSave\Hkmp.CheckSave.dll,
+[DEBUG]:[API] - E:/Games/AdventureGames/Hollow Knight/hollow_knight_Data\Managed\Mods\HKMP.ModDiff\Hkmp.ModDiff.dll,
+[DEBUG]:[API] - E:/Games/AdventureGames/Hollow Knight/hollow_knight_Data\Managed\Mods\HKMP.ModDiff\Newtonsoft.Json.dll,
+[DEBUG]:[API] - E:/Games/AdventureGames/Hollow Knight/hollow_knight_Data\Managed\Mods\HkmpPouch\HkmpPouch.dll,
+[DEBUG]:[API] - E:/Games/AdventureGames/Hollow Knight/hollow_knight_Data\Managed\Mods\Satchel\Satchel.dll
+[DEBUG]:[API] - Loading assembly `E:/Games/AdventureGames/Hollow Knight/hollow_knight_Data\Managed\Mods\HKMirror\HKMirror.dll`
+[DEBUG]:[API] - Loading assembly `E:/Games/AdventureGames/Hollow Knight/hollow_knight_Data\Managed\Mods\HKMP\HKMP.dll`
+[DEBUG]:[API] - Loading assembly `E:/Games/AdventureGames/Hollow Knight/hollow_knight_Data\Managed\Mods\HKMP HealthDisplay\HKMP_HealthDisplay.dll`
+[DEBUG]:[API] - Loading assembly `E:/Games/AdventureGames/Hollow Knight/hollow_knight_Data\Managed\Mods\HKMP.CheckSave\Hkmp.CheckSave.dll`
+[DEBUG]:[API] - Loading assembly `E:/Games/AdventureGames/Hollow Knight/hollow_knight_Data\Managed\Mods\HKMP.ModDiff\Hkmp.ModDiff.dll`
+[DEBUG]:[API] - Loading assembly `E:/Games/AdventureGames/Hollow Knight/hollow_knight_Data\Managed\Mods\HKMP.ModDiff\Newtonsoft.Json.dll`
+[DEBUG]:[API] - Loading assembly `E:/Games/AdventureGames/Hollow Knight/hollow_knight_Data\Managed\Mods\HkmpPouch\HkmpPouch.dll`
+[DEBUG]:[API] - Loading assembly `E:/Games/AdventureGames/Hollow Knight/hollow_knight_Data\Managed\Mods\Satchel\Satchel.dll`
+[DEBUG]:[API] - Loading mods in assembly `HKMirror, Version=2.1.0.0, Culture=neutral, PublicKeyToken=null`
+[DEBUG]:[API] - Constructing mod `HKMirror.HKMirrorMod`
+[INFO]:[HKMirrorMod] - Initializing
+[DEBUG]:[API] - Loading mods in assembly `HKMP, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null`
+[DEBUG]:[API] - Constructing mod `Hkmp.HkmpMod`
+[INFO]:[HkmpMod] - Initializing
+[DEBUG]:[API] - Loading mods in assembly `HKMP_HealthDisplay, Version=0.0.6.0, Culture=neutral, PublicKeyToken=null`
+[DEBUG]:[API] - Constructing mod `HKMP_HealthDisplay.HKMP_HealthDisplay`
+[INFO]:[HKMP_HealthDisplay] - Initializing
+[DEBUG]:[API] - Loading mods in assembly `Hkmp.CheckSave, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null`
+[DEBUG]:[API] - Constructing mod `Hkmp.CheckSave.HkMod`
+[INFO]:[HkMod] - Initializing
+[DEBUG]:[API] - Loading mods in assembly `Hkmp.ModDiff, Version=1.0.2.0, Culture=neutral, PublicKeyToken=null`
+[DEBUG]:[API] - Constructing mod `Hkmp.ModDiff.HkMod`
+[INFO]:[HkMod] - Initializing
+[DEBUG]:[API] - Loading mods in assembly `Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed`
+[INFO]:[API] - Assembly Newtonsoft.Json (13.0.0.0) loaded with 0 mods
+[DEBUG]:[API] - Loading mods in assembly `HkmpPouch, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null`
+[DEBUG]:[API] - Constructing mod `HkmpPouch.HkmpPouch`
+[INFO]:[HkmpPouch] - Initializing
+[DEBUG]:[API] - Loading mods in assembly `Satchel, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null`
+[DEBUG]:[API] - Constructing mod `Satchel.Satchel`
+[INFO]:[Satchel] - Initializing
+[INFO]:[API] - Creating mod preloads
+[DEBUG]:[API] - Checking preloads for mod "HkmpPouch"
+[DEBUG]:[API] - Checking preloads for mod "HKMirrorMod"
+[DEBUG]:[API] - Checking preloads for mod "HKMP"
+[DEBUG]:[API] - Checking preloads for mod "HKMP_HealthDisplay"
+[DEBUG]:[API] - Checking preloads for mod "HKMP.CheckSave"
+[DEBUG]:[API] - Checking preloads for mod "HKMP.ModDiff"
+[DEBUG]:[API] - Checking preloads for mod "Satchel"
+[INFO]:[API] - Preloading using mode RepackAssets
+[INFO]:[API] - Repacked 1 preload scenes from 1565 to 16 objects (0.02MB)
+[INFO]:[API] - Preloaded reflection in 4765ms
+[DEBUG]:[API] - Preload done, returning to main menu
+[DEBUG]:[API] - OnScreenDebugInfo: Already begun mod loading (state Started, Preloaded)
+[ERROR]:[API] - Finished preloading in 4.00s
+[INFO]:[HKMirrorMod] - Loading HKMirror Mod
+[INFO]:[Hkmp.HkmpMod] Initializing HKMP v2.4.3
+[WARN]:[Hkmp.Game.Client.Skin.SkinLoader] No skins can be loaded since there are no directories in: E:\Games\AdventureGames\Hollow Knight\hollow_knight_Data\Managed\Mods\HKMP\Skins
+[INFO]:[API] - Finished loading mods:
+[INFO]:[API] - Modding API: 1.5.78.11833-77
+[INFO]:[API] - HKMirrorMod : v2.1.0.0
+[INFO]:[API] - HKMP : 2.4.3
+[INFO]:[API] - HKMP_HealthDisplay : 0.0.6.0-5fb4e6
+[INFO]:[API] - HKMP.CheckSave : 1.0.0.0
+[INFO]:[API] - HKMP.ModDiff : 1.0.2.0
+[INFO]:[API] - HkmpPouch : 2.0.0
+[INFO]:[API] - Satchel : 0.9.4-b6ec98
+[INFO]:[API] - 
+[INFO]:[Hkmp.Api.Addon.AddonLoader] Trying to load assembly at: E:\Games\AdventureGames\Hollow Knight\hollow_knight_Data\Managed\Mods\HKMP\HKMP.dll
+[INFO]:[Hkmp.Api.Server.ServerAddonManager] Assigned addon HkmpPouch v2.0.0 ID: 0
+[INFO]:[Hkmp.Api.Server.ServerAddonManager] Initializing server addon: HkmpPouch 2.0.0
+[INFO]:[Hkmp.Api.Server.ServerAddonManager] Assigned addon HKMP.CheckSave v1.0.0.0 ID: 1
+[INFO]:[Hkmp.Api.Server.ServerAddonManager] Initializing server addon: HKMP.CheckSave 1.0.0.0
+[INFO]:[Hkmp.CheckSave.Server] Server initialized
+[INFO]:[Hkmp.CheckSave.Server] Created configuration file
+[INFO]:[Hkmp.CheckSave.Server] Created AllowedSave file
+[INFO]:[Hkmp.CheckSave.Server] Created Logs file
+[INFO]:[Hkmp.CheckSave.Services.ServerNetService] Configuration Updated
+[INFO]:[Hkmp.CheckSave.Services.ServerNetService] AllowedSave Updated
+[INFO]:[Hkmp.Api.Server.ServerAddonManager] Assigned addon HKMP.ModDiff v1.0.2.0 ID: 2
+[INFO]:[Hkmp.Api.Server.ServerAddonManager] Initializing server addon: HKMP.ModDiff 1.0.2.0
+[INFO]:[Hkmp.ModDiff.Server] Server initialized
+[INFO]:[Hkmp.ModDiff.Server] Created configuration file
+[INFO]:[Hkmp.ModDiff.Services.ServerNetService] Configuration Updated
+[WARN]:[Hkmp.ModDiff.Services.ServerNetService] No Modlist Provided.
+[INFO]:[Hkmp.Api.Addon.AddonLoader] Trying to load assembly at: E:\Games\AdventureGames\Hollow Knight\hollow_knight_Data\Managed\Mods\HKMP\HKMP.dll
+[INFO]:[Hkmp.Api.Client.ClientAddonManager] Initializing client addon: HkmpPouch 2.0.0
+[INFO]:[HkmpPouch.Networking.Client] [HealthDisplaySendPipe]:[Client Ready]
+[INFO]:[HkmpPouch.Networking.Client] [HealthDisplayRequestPipe]:[Client Ready]
+[INFO]:[Hkmp.Api.Client.ClientAddonManager] Initializing client addon: HKMP.CheckSave 1.0.0.0
+[INFO]:[Hkmp.CheckSave.Client] Client initialized
+[INFO]:[Hkmp.Api.Client.ClientAddonManager] Initializing client addon: HKMP.ModDiff 1.0.2.0
+[INFO]:[Hkmp.ModDiff.Client] Client initialized
+[INFO]:[Hkmp.ModDiff.Client] modlist.json created
+[INFO]:[Hkmp.ModDiff.Services.ServerNetService] ModList Updated
+[INFO]:[HkmpMod] - Saving Global Settings
+[INFO]:[HKMP_HealthDisplay] - Saving Global Settings
+[INFO]:[Hkmp.Game.Server.ServerManager] Could not stop server, it was not started
+[INFO]:[API] - Saving Global Settings

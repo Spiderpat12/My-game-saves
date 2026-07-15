@@ -1,0 +1,79 @@
+﻿[INFO]:[API] - Starting mod loading
+[INFO]:[API] - Loading Global Settings
+[INFO]:[API] - Deleting modlogs older than 7 days ago
+[INFO]:[ESoulLink] - Initializing
+[INFO]:[HKMirrorMod] - Initializing
+[INFO]:[HkmpMod] - Initializing
+[INFO]:[HkmpMod] - Loading Global Settings
+[INFO]:[HKMP_HealthDisplay] - Initializing
+[INFO]:[HKMP_HealthDisplay] - Loading Global Settings
+[INFO]:[HkMod] - Initializing
+[INFO]:[HkMod] - Initializing
+[INFO]:[API] - Assembly Newtonsoft.Json (13.0.0.0) loaded with 0 mods
+[INFO]:[HkmpPouch] - Initializing
+[INFO]:[HkmpTransitionAlerts] - Initializing
+[INFO]:[HkmpTransitionAlerts] - Loading Global Settings
+[INFO]:[MagicUIMod] - Initializing
+[INFO]:[MagicUIMod] - Loading Global Settings
+[INFO]:[MultiplayerEvents] - Initializing
+[INFO]:[Satchel] - Initializing
+[INFO]:[API] - Creating mod preloads
+[INFO]:[API] - Preloading using mode RepackAssets
+[INFO]:[API] - Preloaded reflection in 5062ms
+[INFO]:[API] - Repacked 1 preload scenes from 1565 to 16 objects (0.02MB)
+[ERROR]:[API] - Finished preloading in 4.00s
+[INFO]:[HKMirrorMod] - Loading HKMirror Mod
+[INFO]:[Hkmp.HkmpMod] Initializing HKMP v2.4.3
+[INFO]:[Hkmp.Game.Client.Skin.SkinLoader] Successfully loaded skin in directory: E:\Games\AdventureGames\Hollow Knight\hollow_knight_Data\Managed\Mods\HKMP\Skins\Baby Mantis, given ID: 1
+[INFO]:[Hkmp.Game.Client.Skin.SkinLoader] Successfully loaded skin in directory: E:\Games\AdventureGames\Hollow Knight\hollow_knight_Data\Managed\Mods\HKMP\Skins\Little Grimm, given ID: 2
+[INFO]:[API] - Finished loading mods:
+[INFO]:[API] - Modding API: 1.5.78.11833-77
+[INFO]:[API] - ESoulLink : 1.1.0
+[INFO]:[API] - HKMirrorMod : v2.1.0.0
+[INFO]:[API] - HKMP : 2.4.3
+[INFO]:[API] - HKMP_HealthDisplay : 0.0.6.0-5fb4e6
+[INFO]:[API] - HKMP.CheckSave : 1.0.0.0
+[INFO]:[API] - HKMP.ModDiff : 1.0.2.0
+[INFO]:[API] - HkmpPouch : 2.0.0
+[INFO]:[API] - HkmpTransitionAlerts : 1.0.0.1
+[INFO]:[API] - MagicUI : 1.10.9277.8364
+[INFO]:[API] - MultiplayerEvents : 1.0.1.0-610d97
+[INFO]:[API] - Satchel : 0.9.4-b6ec98
+[INFO]:[API] - 
+[INFO]:[Hkmp.Api.Addon.AddonLoader] Trying to load assembly at: E:\Games\AdventureGames\Hollow Knight\hollow_knight_Data\Managed\Mods\HKMP\HKMP.dll
+[INFO]:[Hkmp.Api.Server.ServerAddonManager] Assigned addon HkmpPouch v2.0.0 ID: 0
+[INFO]:[Hkmp.Api.Server.ServerAddonManager] Initializing server addon: HkmpPouch 2.0.0
+[INFO]:[Hkmp.Api.Server.ServerAddonManager] Initializing server addon: ESoulLink 1.1.0
+[INFO]:[HkmpPouch.Networking.Server] [ESoulLink]:[PipeServer Created]
+[INFO]:[Hkmp.Api.Server.ServerAddonManager] Assigned addon HKMP.CheckSave v1.0.0.0 ID: 1
+[INFO]:[Hkmp.Api.Server.ServerAddonManager] Initializing server addon: HKMP.CheckSave 1.0.0.0
+[INFO]:[Hkmp.CheckSave.Server] Server initialized
+[INFO]:[Hkmp.CheckSave.Server] Created Logs file
+[INFO]:[Hkmp.CheckSave.Services.ServerNetService] Configuration Updated
+[INFO]:[Hkmp.CheckSave.Services.ServerNetService] AllowedSave Updated
+[INFO]:[Hkmp.Api.Server.ServerAddonManager] Assigned addon HKMP.ModDiff v1.0.2.0 ID: 2
+[INFO]:[Hkmp.Api.Server.ServerAddonManager] Initializing server addon: HKMP.ModDiff 1.0.2.0
+[INFO]:[Hkmp.ModDiff.Server] Server initialized
+[INFO]:[Hkmp.ModDiff.Services.ServerNetService] Configuration Updated
+[INFO]:[Hkmp.ModDiff.Services.ServerNetService] ModList Updated
+[INFO]:[Hkmp.Api.Server.ServerAddonManager] Assigned addon HkmpTransitionAlerts v1.0.0.1 ID: 3
+[INFO]:[Hkmp.Api.Server.ServerAddonManager] Initializing server addon: HkmpTransitionAlerts 1.0.0.1
+[INFO]:[Hkmp.Api.Addon.AddonLoader] Trying to load assembly at: E:\Games\AdventureGames\Hollow Knight\hollow_knight_Data\Managed\Mods\HKMP\HKMP.dll
+[INFO]:[Hkmp.Api.Client.ClientAddonManager] Initializing client addon: HkmpPouch 2.0.0
+[INFO]:[HkmpPouch.Networking.Client] [MultiplayerEvents]:[Client Ready]
+[INFO]:[HkmpPouch.Networking.Client] [ESoulLink]:[Client Ready]
+[INFO]:[HkmpPouch.Networking.Client] [HealthDisplaySendPipe]:[Client Ready]
+[INFO]:[HkmpPouch.Networking.Client] [HealthDisplayRequestPipe]:[Client Ready]
+[INFO]:[Hkmp.Api.Client.ClientAddonManager] Initializing client addon: HKMP.CheckSave 1.0.0.0
+[INFO]:[Hkmp.CheckSave.Client] Client initialized
+[INFO]:[Hkmp.Api.Client.ClientAddonManager] Initializing client addon: HKMP.ModDiff 1.0.2.0
+[INFO]:[Hkmp.ModDiff.Client] Client initialized
+[INFO]:[Hkmp.ModDiff.Client] modlist.json created
+[INFO]:[Hkmp.Api.Client.ClientAddonManager] Initializing client addon: HkmpTransitionAlerts 1.0.0.1
+[INFO]:[Hkmp.ModDiff.Services.ServerNetService] ModList Updated
+[INFO]:[HkmpMod] - Saving Global Settings
+[INFO]:[HKMP_HealthDisplay] - Saving Global Settings
+[INFO]:[HkmpTransitionAlerts] - Saving Global Settings
+[INFO]:[MagicUIMod] - Saving Global Settings
+[INFO]:[Hkmp.Game.Server.ServerManager] Could not stop server, it was not started
+[INFO]:[API] - Saving Global Settings

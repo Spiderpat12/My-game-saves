@@ -1,0 +1,43 @@
+{
+  "loadedMods": {},
+  "modData": {
+    "Benchwarp": {
+      "benchDeployed": false,
+      "atDeployedBench": false,
+      "benchX": 0.0,
+      "benchY": 0.0,
+      "benchScene": null,
+      "visitedBenchScenes": [
+        {
+          "SceneName": "Crossroads_30",
+          "RespawnMarkerName": "RestBench"
+        }
+      ],
+      "lockedBenches": []
+    },
+    "ItemChangerMod": {
+      "value": null
+    },
+    "ItemSyncMod": {
+      "sentUnconfirmedDatas": [],
+      "nicknames": [],
+      "readyMetadata": [],
+      "IsItemSync": false,
+      "URL": null,
+      "MWRandoId": 0,
+      "MWPlayerId": 0,
+      "UserName": null,
+      "SyncVanillaItems": false,
+      "SyncSimpleKeysUsages": false
+    },
+    "MenuChanger": {
+      "resumeKey": null
+    },
+    "Randomizer 4": {
+      "GenerationSettings": null,
+      "ProfileID": -1,
+      "TrackerData": null,
+      "TrackerDataWithoutSequenceBreaks": null
+    }
+  }
+}
