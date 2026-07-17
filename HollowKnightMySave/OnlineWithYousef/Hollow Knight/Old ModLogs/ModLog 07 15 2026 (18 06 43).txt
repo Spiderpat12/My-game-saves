@@ -1,0 +1,958 @@
+﻿[INFO]:[API] - Starting mod loading
+[INFO]:[API] - Loading Global Settings
+[INFO]:[API] - Deleting modlogs older than 7 days ago
+[INFO]:[ESoulLink] - Initializing
+[INFO]:[API] - Preloaded reflection in 3289ms
+[INFO]:[HKMirrorMod] - Initializing
+[INFO]:[HkmpMod] - Initializing
+[INFO]:[HkmpMod] - Loading Global Settings
+[INFO]:[HKMP_HealthDisplay] - Initializing
+[INFO]:[HKMP_HealthDisplay] - Loading Global Settings
+[INFO]:[HkMod] - Initializing
+[INFO]:[HkMod] - Initializing
+[INFO]:[API] - Assembly Newtonsoft.Json (13.0.0.0) loaded with 0 mods
+[INFO]:[HkmpPouch] - Initializing
+[INFO]:[HkmpTransitionAlerts] - Initializing
+[INFO]:[HkmpTransitionAlerts] - Loading Global Settings
+[INFO]:[MagicUIMod] - Initializing
+[INFO]:[MagicUIMod] - Loading Global Settings
+[INFO]:[MultiplayerEvents] - Initializing
+[INFO]:[Satchel] - Initializing
+[INFO]:[API] - Creating mod preloads
+[INFO]:[API] - Preloading using mode RepackAssets
+[INFO]:[API] - Repacked 1 preload scenes from 1565 to 16 objects (0.02MB)
+[ERROR]:[API] - Finished preloading in 5.00s
+[INFO]:[HKMirrorMod] - Loading HKMirror Mod
+[INFO]:[Hkmp.HkmpMod] Initializing HKMP v2.4.3
+[INFO]:[Hkmp.Game.Client.Skin.SkinLoader] Successfully loaded skin in directory: E:\Games\AdventureGames\Hollow Knight\hollow_knight_Data\Managed\Mods\HKMP\Skins\Baby Mantis, given ID: 1
+[INFO]:[Hkmp.Game.Client.Skin.SkinLoader] Successfully loaded skin in directory: E:\Games\AdventureGames\Hollow Knight\hollow_knight_Data\Managed\Mods\HKMP\Skins\Daughter of Hallownest 1.2 (TWP), given ID: 3
+[INFO]:[Hkmp.Game.Client.Skin.SkinLoader] Successfully loaded skin in directory: E:\Games\AdventureGames\Hollow Knight\hollow_knight_Data\Managed\Mods\HKMP\Skins\Grimm_Knight by 复印纸, given ID: 4
+[INFO]:[Hkmp.Game.Client.Skin.SkinLoader] Successfully loaded skin in directory: E:\Games\AdventureGames\Hollow Knight\hollow_knight_Data\Managed\Mods\HKMP\Skins\Little Grimm, given ID: 2
+[INFO]:[API] - Finished loading mods:
+[INFO]:[API] - Modding API: 1.5.78.11833-77
+[INFO]:[API] - ESoulLink : 1.1.0
+[INFO]:[API] - HKMirrorMod : v2.1.0.0
+[INFO]:[API] - HKMP : 2.4.3
+[INFO]:[API] - HKMP_HealthDisplay : 0.0.6.0-5fb4e6
+[INFO]:[API] - HKMP.CheckSave : 1.0.0.0
+[INFO]:[API] - HKMP.ModDiff : 1.0.2.0
+[INFO]:[API] - HkmpPouch : 2.0.0
+[INFO]:[API] - HkmpTransitionAlerts : 1.0.0.1
+[INFO]:[API] - MagicUI : 1.10.9277.8364
+[INFO]:[API] - MultiplayerEvents : 1.0.1.0-610d97
+[INFO]:[API] - Satchel : 0.9.4-b6ec98
+[INFO]:[API] - 
+[INFO]:[Hkmp.Api.Addon.AddonLoader] Trying to load assembly at: E:\Games\AdventureGames\Hollow Knight\hollow_knight_Data\Managed\Mods\HKMP\HKMP.dll
+[INFO]:[Hkmp.Api.Server.ServerAddonManager] Assigned addon HkmpPouch v2.0.0 ID: 0
+[INFO]:[Hkmp.Api.Server.ServerAddonManager] Initializing server addon: HkmpPouch 2.0.0
+[INFO]:[Hkmp.Api.Server.ServerAddonManager] Initializing server addon: ESoulLink 1.1.0
+[INFO]:[HkmpPouch.Networking.Server] [ESoulLink]:[PipeServer Created]
+[INFO]:[Hkmp.Api.Server.ServerAddonManager] Assigned addon HKMP.CheckSave v1.0.0.0 ID: 1
+[INFO]:[Hkmp.Api.Server.ServerAddonManager] Initializing server addon: HKMP.CheckSave 1.0.0.0
+[INFO]:[Hkmp.CheckSave.Server] Server initialized
+[INFO]:[Hkmp.CheckSave.Server] Created Logs file
+[INFO]:[Hkmp.CheckSave.Services.ServerNetService] Configuration Updated
+[INFO]:[Hkmp.CheckSave.Services.ServerNetService] AllowedSave Updated
+[INFO]:[Hkmp.Api.Server.ServerAddonManager] Assigned addon HKMP.ModDiff v1.0.2.0 ID: 2
+[INFO]:[Hkmp.Api.Server.ServerAddonManager] Initializing server addon: HKMP.ModDiff 1.0.2.0
+[INFO]:[Hkmp.ModDiff.Server] Server initialized
+[INFO]:[Hkmp.ModDiff.Services.ServerNetService] Configuration Updated
+[INFO]:[Hkmp.ModDiff.Services.ServerNetService] ModList Updated
+[INFO]:[Hkmp.Api.Server.ServerAddonManager] Assigned addon HkmpTransitionAlerts v1.0.0.1 ID: 3
+[INFO]:[Hkmp.Api.Server.ServerAddonManager] Initializing server addon: HkmpTransitionAlerts 1.0.0.1
+[INFO]:[Hkmp.Api.Addon.AddonLoader] Trying to load assembly at: E:\Games\AdventureGames\Hollow Knight\hollow_knight_Data\Managed\Mods\HKMP\HKMP.dll
+[INFO]:[Hkmp.Api.Client.ClientAddonManager] Initializing client addon: HkmpPouch 2.0.0
+[INFO]:[HkmpPouch.Networking.Client] [MultiplayerEvents]:[Client Ready]
+[INFO]:[HkmpPouch.Networking.Client] [ESoulLink]:[Client Ready]
+[INFO]:[HkmpPouch.Networking.Client] [HealthDisplaySendPipe]:[Client Ready]
+[INFO]:[HkmpPouch.Networking.Client] [HealthDisplayRequestPipe]:[Client Ready]
+[INFO]:[Hkmp.Api.Client.ClientAddonManager] Initializing client addon: HKMP.CheckSave 1.0.0.0
+[INFO]:[Hkmp.CheckSave.Client] Client initialized
+[INFO]:[Hkmp.Api.Client.ClientAddonManager] Initializing client addon: HKMP.ModDiff 1.0.2.0
+[INFO]:[Hkmp.ModDiff.Client] Client initialized
+[INFO]:[Hkmp.ModDiff.Client] modlist.json created
+[INFO]:[Hkmp.Api.Client.ClientAddonManager] Initializing client addon: HkmpTransitionAlerts 1.0.0.1
+[INFO]:[Hkmp.ModDiff.Services.ServerNetService] ModList Updated
+[INFO]:[Hkmp.CheckSave.Services.ClientNetService+<>c__DisplayClass0_0] Player Reconected, sending save to server
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Menu_Title to RestingGrounds_09
+[INFO]:[Hkmp.Networking.Server.NetServer] Starting NetServer on port 26950
+[INFO]:[Hkmp.Game.Client.ClientManager] Connecting client to server: 127.0.0.1:26950 as OmarTef
+[INFO]:[Hkmp.Networking.Server.NetServer] Received packet from unknown client with address: 127.0.0.1:57361, creating new client
+[INFO]:[Hkmp.Networking.Server.NetServer] Received login request from 'OmarTef'
+[INFO]:[Hkmp.Game.Server.ServerManager] Received login request from IP: 127.0.0.1, username: OmarTef
+[INFO]:[Hkmp.Game.Server.ServerManager]   Client tries to connect with following addons: HkmpPouch v2.0.0, HKMP.CheckSave v1.0.0.0, HKMP.ModDiff v1.0.2.0, HkmpTransitionAlerts v1.0.0.1
+[INFO]:[Hkmp.Api.Client.ClientAddonManager] Retrieved addon HkmpPouch v2.0.0 ID: 0
+[INFO]:[Hkmp.Api.Client.ClientAddonManager] Retrieved addon HKMP.CheckSave v1.0.0.0 ID: 1
+[INFO]:[Hkmp.Api.Client.ClientAddonManager] Retrieved addon HKMP.ModDiff v1.0.2.0 ID: 2
+[INFO]:[Hkmp.Api.Client.ClientAddonManager] Retrieved addon HkmpTransitionAlerts v1.0.0.1 ID: 3
+[INFO]:[Hkmp.Game.Client.ClientManager] Client is connected, sending Hello packet
+[INFO]:[Hkmp.Game.Client.ClientManager] Sending Hello packet
+[INFO]:[Hkmp.Game.Server.ServerManager] Received HelloServer data from 0
+[INFO]:[Hkmp.Game.Client.ClientManager] Received HelloClient from server
+[INFO]:[HkmpPouch.Networking.Client] sending get packet
+[INFO]:[Hkmp.CheckSave.Services.ClientNetService+<>c__DisplayClass0_0] Player connected, sending save to server
+[INFO]:[Hkmp.ModDiff.Services.ClientNetService+<>c__DisplayClass0_0] Player connected, sending modlist to server
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.CheckSave.Services.ServerNetService] OmarTef joined with matching save!
+[INFO]:[Hkmp.ModDiff.Services.ServerNetService] OmarTef joined with matching mods!
+[INFO]:[HkmpPouch.Networking.Server] [MultiplayerEvents]:[PipeServer Created]
+[INFO]:[Hkmp.Networking.Server.NetServer] Received packet from unknown client with address: 25.4.159.179:53915, creating new client
+[INFO]:[Hkmp.Networking.Server.NetServer] Received login request from 'axlotrr'
+[INFO]:[Hkmp.Game.Server.ServerManager] Received login request from IP: 25.4.159.179, username: axlotrr
+[INFO]:[Hkmp.Game.Server.ServerManager]   Client tries to connect with following addons: HkmpPouch v2.0.0, HKMP.CheckSave v1.0.0.0, HKMP.ModDiff v1.0.2.0, HkmpTransitionAlerts v1.0.0.1
+[INFO]:[Hkmp.Game.Server.ServerManager] Received HelloServer data from 1
+[INFO]:[Hkmp.Game.Client.ClientManager] Received PlayerConnect data for ID: 1
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 1 entered scene
+[INFO]:[Hkmp.CheckSave.Services.ServerNetService] axlotrr joined with matching save!
+[INFO]:[Hkmp.ModDiff.Services.ServerNetService] axlotrr joined with matching mods!
+[INFO]:[Hkmp.Game.Server.ServerManager] Chat from (0, OmarTef): "what's up"
+[INFO]:[Hkmp.Game.Server.ServerManager] Chat from (0, OmarTef): "nigga"
+[INFO]:[Hkmp.Game.Server.ServerManager] Chat from (0, OmarTef): "u r the niggaest one here"
+[WARN]:[Hkmp.Game.Client.Skin.SkinManager] Tried to update skin with ID: 5, but there was no such skin loaded
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from RestingGrounds_09 to RestingGrounds_05
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: RestingGrounds_09
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: RestingGrounds_05
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (1, axlotrr), last scene: RestingGrounds_09
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (1, axlotrr), new scene: RestingGrounds_05
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 1 entered scene
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (1, axlotrr), last scene: RestingGrounds_05
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 1 left scene
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (1, axlotrr), new scene: RestingGrounds_09
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from RestingGrounds_05 to RestingGrounds_09
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: RestingGrounds_05
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: RestingGrounds_09
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.ClientManager] Updating already in scene player with ID: 1
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 1 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Taking control of all registered entities
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (1, axlotrr), last scene: RestingGrounds_09
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 1 left scene
+[WARN]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from ID 1, but there was no last scene registered
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (1, axlotrr), new scene: Fungus1_16_alt
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from  to Cinematic_Stag_travel
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: RestingGrounds_09
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (1, axlotrr), last scene: Fungus1_16_alt
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Cinematic_Stag_travel to Fungus2_02
+[WARN]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from ID 0, but there was no last scene registered
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Fungus2_02
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[WARN]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from ID 1, but there was no last scene registered
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (1, axlotrr), new scene: Fungus2_02
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 1 entered scene
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (1, axlotrr), last scene: Fungus2_02
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 1 left scene
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (1, axlotrr), new scene: Fungus2_01
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus2_02 to Fungus2_01
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Fungus2_02
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Fungus2_01
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.ClientManager] Updating already in scene player with ID: 1
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 1 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Taking control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus2_01 to Fungus3_02
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Fungus2_01
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (1, axlotrr), last scene: Fungus2_01
+[INFO]:[HkmpPouch.Networking.Server] [ESoulLink]:[PipeServer Created]
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Fungus3_02
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (1, axlotrr), new scene: Fungus3_02
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 1 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus3_02 to Fungus3_35
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Fungus3_02
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Fungus3_35
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (1, axlotrr), last scene: Fungus3_02
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (1, axlotrr), new scene: Fungus3_35
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 1 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus3_35 to Fungus3_02
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Fungus3_35
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Fungus3_02
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (1, axlotrr), last scene: Fungus3_35
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (1, axlotrr), new scene: Fungus3_02
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 1 entered scene
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (1, axlotrr), last scene: Fungus3_02
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 1 left scene
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (1, axlotrr), new scene: Fungus3_35
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (1, axlotrr), last scene: Fungus3_35
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (1, axlotrr), new scene: Fungus3_02
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 1 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus3_02 to Fungus3_03
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Fungus3_02
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Fungus3_03
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (1, axlotrr), last scene: Fungus3_02
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (1, axlotrr), new scene: Fungus3_03
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 1 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus3_03 to Fungus3_34
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Fungus3_03
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Fungus3_34
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (1, axlotrr), last scene: Fungus3_03
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (1, axlotrr), new scene: Fungus3_34
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 1 entered scene
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (1, axlotrr), last scene: Fungus3_34
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 1 left scene
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (1, axlotrr), new scene: Fungus3_04
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus3_34 to Fungus3_04
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Fungus3_34
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Fungus3_04
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.ClientManager] Updating already in scene player with ID: 1
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 1 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Taking control of all registered entities
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (1, axlotrr), last scene: Fungus3_04
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 1 left scene
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (1, axlotrr), new scene: Fungus3_34
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus3_04 to Fungus3_34
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Fungus3_04
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Fungus3_34
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.ClientManager] Updating already in scene player with ID: 1
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 1 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Taking control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus3_34 to Fungus3_44
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Fungus3_34
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Fungus3_44
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (1, axlotrr), last scene: Fungus3_34
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (1, axlotrr), new scene: Fungus3_44
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 1 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus3_44 to Room_Fungus_Shaman
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Fungus3_44
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Room_Fungus_Shaman
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Room_Fungus_Shaman to Fungus3_44
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Room_Fungus_Shaman
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Fungus3_44
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.ClientManager] Updating already in scene player with ID: 1
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 1 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Taking control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus3_44 to Room_Fungus_Shaman
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Fungus3_44
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Room_Fungus_Shaman
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (1, axlotrr), last scene: Fungus3_44
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Room_Fungus_Shaman to Fungus3_44
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (1, axlotrr), new scene: Room_Fungus_Shaman
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Room_Fungus_Shaman
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 1 entered scene
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Fungus3_44
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus3_44 to Room_Fungus_Shaman
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Fungus3_44
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Room_Fungus_Shaman
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.ClientManager] Updating already in scene player with ID: 1
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 1 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Taking control of all registered entities
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (1, axlotrr), last scene: Room_Fungus_Shaman
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 1 left scene
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (1, axlotrr), new scene: Fungus3_44
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Room_Fungus_Shaman to Fungus3_44
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Room_Fungus_Shaman
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Fungus3_44
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.ClientManager] Updating already in scene player with ID: 1
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 1 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Taking control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus3_44 to Fungus3_34
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Fungus3_44
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Fungus3_34
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (1, axlotrr), last scene: Fungus3_44
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (1, axlotrr), new scene: Fungus3_34
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 1 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus3_34 to Fungus3_04
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Fungus3_34
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Fungus3_04
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (1, axlotrr), last scene: Fungus3_34
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (1, axlotrr), new scene: Fungus3_04
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 1 entered scene
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (1, axlotrr), last scene: Fungus3_04
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 1 left scene
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (1, axlotrr), new scene: Fungus3_05
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus3_04 to Fungus3_05
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Fungus3_04
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Fungus3_05
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.ClientManager] Updating already in scene player with ID: 1
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 1 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Taking control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus3_05 to Fungus1_24
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Fungus3_05
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Fungus1_24
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (1, axlotrr), last scene: Fungus3_05
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (1, axlotrr), new scene: Fungus1_24
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 1 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus1_24 to Fungus3_05
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Fungus1_24
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Fungus3_05
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (1, axlotrr), last scene: Fungus1_24
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (1, axlotrr), new scene: Fungus3_05
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 1 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus3_05 to Fungus3_11
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Fungus3_05
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Fungus3_11
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (1, axlotrr), last scene: Fungus3_05
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (1, axlotrr), new scene: Fungus3_11
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 1 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus3_11 to Fungus3_39
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Fungus3_11
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Fungus3_39
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus3_39 to Fungus3_11
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Fungus3_39
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Fungus3_11
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.ClientManager] Updating already in scene player with ID: 1
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 1 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Taking control of all registered entities
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (1, axlotrr), last scene: Fungus3_11
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 1 left scene
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (1, axlotrr), new scene: Fungus3_39
+[INFO]:[Hkmp.Game.Server.ServerManager] Received PlayerDisconnect data from (1, axlotrr)
+[INFO]:[Hkmp.Networking.Server.NetServer] Client 1 disconnected
+[INFO]:[Hkmp.Game.Client.ClientManager] Received PlayerDisconnect data for ID: 1, timed out: False
+[INFO]:[Hkmp.Networking.Server.NetServer] Received packet from unknown client with address: 25.4.159.179:61076, creating new client
+[INFO]:[Hkmp.Networking.Server.NetServer] Received login request from 'axlotrr'
+[INFO]:[Hkmp.Game.Server.ServerManager] Received login request from IP: 25.4.159.179, username: axlotrr
+[INFO]:[Hkmp.Game.Server.ServerManager]   Client tries to connect with following addons: HkmpPouch v2.0.0, HKMP.CheckSave v1.0.0.0, HKMP.ModDiff v1.0.2.0, HkmpTransitionAlerts v1.0.0.1
+[INFO]:[Hkmp.Game.Server.ServerManager] Received HelloServer data from 2
+[INFO]:[Hkmp.Game.Client.ClientManager] Received PlayerConnect data for ID: 2
+[INFO]:[Hkmp.CheckSave.Services.ServerNetService] axlotrr joined with matching save!
+[INFO]:[Hkmp.ModDiff.Services.ServerNetService] axlotrr joined with matching mods!
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (2, axlotrr), last scene: Fungus3_39
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (2, axlotrr), new scene: Fungus3_11
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 2 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus3_11 to Fungus3_39
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Fungus3_11
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Fungus3_39
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (2, axlotrr), last scene: Fungus3_11
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (2, axlotrr), new scene: Fungus3_39
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 2 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus3_39 to Deepnest_01
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Fungus3_39
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Deepnest_01
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (2, axlotrr), last scene: Fungus3_39
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (2, axlotrr), new scene: Deepnest_01
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 2 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Deepnest_01 to Fungus3_39
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Deepnest_01
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Fungus3_39
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (2, axlotrr), last scene: Deepnest_01
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (2, axlotrr), new scene: Fungus3_39
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 2 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus3_39 to Fungus3_11
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Fungus3_39
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Fungus3_11
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (2, axlotrr), last scene: Fungus3_39
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (2, axlotrr), new scene: Fungus3_11
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 2 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus3_11 to Fungus3_08
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Fungus3_11
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Fungus3_08
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (2, axlotrr), last scene: Fungus3_11
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (2, axlotrr), new scene: Fungus3_08
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 2 entered scene
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (2, axlotrr), last scene: Fungus3_08
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 2 left scene
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (2, axlotrr), new scene: Deepnest_43
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus3_08 to Deepnest_43
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Fungus3_08
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Deepnest_43
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.ClientManager] Updating already in scene player with ID: 2
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 2 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Taking control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Deepnest_43 to Fungus3_50
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Deepnest_43
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Fungus3_50
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (2, axlotrr), last scene: Deepnest_43
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (2, axlotrr), new scene: Fungus3_50
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 2 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus3_50 to Deepnest_43
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Fungus3_50
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (2, axlotrr), last scene: Fungus3_50
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Deepnest_43
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (2, axlotrr), new scene: Deepnest_43
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 2 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Deepnest_43 to Deepnest_42
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Deepnest_43
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Deepnest_42
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (2, axlotrr), last scene: Deepnest_43
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (2, axlotrr), new scene: Deepnest_42
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 2 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Deepnest_42 to Room_Mask_Maker
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Deepnest_42
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Room_Mask_Maker
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (2, axlotrr), last scene: Deepnest_42
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (2, axlotrr), new scene: Room_Mask_Maker
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 2 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Room_Mask_Maker to Deepnest_42
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Room_Mask_Maker
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Deepnest_42
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (2, axlotrr), last scene: Room_Mask_Maker
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (2, axlotrr), new scene: Deepnest_42
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 2 entered scene
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (2, axlotrr), last scene: Deepnest_42
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 2 left scene
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (2, axlotrr), new scene: Deepnest_43
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Deepnest_42 to Deepnest_43
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Deepnest_42
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Deepnest_43
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.ClientManager] Updating already in scene player with ID: 2
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 2 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Taking control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Deepnest_43 to Fungus3_08
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Deepnest_43
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Fungus3_08
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (2, axlotrr), last scene: Deepnest_43
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (2, axlotrr), new scene: Fungus3_08
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 2 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus3_08 to Fungus3_10
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Fungus3_08
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Fungus3_10
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (2, axlotrr), last scene: Fungus3_08
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (2, axlotrr), new scene: Fungus3_10
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 2 entered scene
+[INFO]:[Hkmp.Game.Server.ServerManager] Received PlayerDeath data from (2, axlotrr)
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (2, axlotrr), last scene: Fungus3_10
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 2 left scene
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (2, axlotrr), new scene: Fungus3_50
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (2, axlotrr), last scene: Fungus3_50
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (2, axlotrr), new scene: Deepnest_43
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (2, axlotrr), last scene: Deepnest_43
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (2, axlotrr), new scene: Fungus3_08
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (2, axlotrr), last scene: Fungus3_08
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (2, axlotrr), new scene: Fungus3_10
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 2 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus3_10 to Fungus3_13
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Fungus3_10
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Fungus3_13
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (2, axlotrr), last scene: Fungus3_10
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (2, axlotrr), new scene: Fungus3_13
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 2 entered scene
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (2, axlotrr), last scene: Fungus3_13
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (2, axlotrr), new scene: Fungus3_49
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 2 left scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus3_13 to Fungus3_49
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Fungus3_13
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Fungus3_49
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.ClientManager] Updating already in scene player with ID: 2
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 2 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Taking control of all registered entities
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (2, axlotrr), last scene: Fungus3_49
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 2 left scene
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (2, axlotrr), new scene: Fungus3_13
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus3_49 to Fungus3_13
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Fungus3_49
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Fungus3_13
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.ClientManager] Updating already in scene player with ID: 2
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 2 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Taking control of all registered entities
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (2, axlotrr), last scene: Fungus3_13
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 2 left scene
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (2, axlotrr), new scene: Fungus1_23
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus3_13 to Fungus1_23
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Fungus3_13
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Fungus1_23
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.ClientManager] Updating already in scene player with ID: 2
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 2 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Taking control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus1_23 to Fungus3_48
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Fungus1_23
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Fungus3_48
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (2, axlotrr), last scene: Fungus1_23
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (2, axlotrr), new scene: Fungus3_48
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 2 entered scene
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (2, axlotrr), last scene: Fungus3_48
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 2 left scene
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (2, axlotrr), new scene: Fungus3_40
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus3_48 to Fungus3_40
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Fungus3_48
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Fungus3_40
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.ClientManager] Updating already in scene player with ID: 2
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 2 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Taking control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus3_40 to Fungus3_40_boss
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Fungus3_40
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus3_40_boss to Fungus3_13
+[WARN]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from ID 0, but there was no last scene registered
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Fungus3_13
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (2, axlotrr), last scene: Fungus3_40
+[WARN]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from ID 2, but there was no last scene registered
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (2, axlotrr), new scene: Fungus3_13
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 2 entered scene
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (2, axlotrr), last scene: Fungus3_13
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 2 left scene
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (2, axlotrr), new scene: Fungus3_40
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (2, axlotrr), last scene: Fungus3_40
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (2, axlotrr), new scene: Fungus3_13
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 2 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus3_13 to Fungus3_04
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Fungus3_13
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Fungus3_04
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (2, axlotrr), last scene: Fungus3_13
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (2, axlotrr), new scene: Fungus3_04
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 2 entered scene
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (2, axlotrr), last scene: Fungus3_04
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (2, axlotrr), new scene: Fungus3_21
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 2 left scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus3_04 to Fungus3_21
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Fungus3_04
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Fungus3_21
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.ClientManager] Updating already in scene player with ID: 2
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 2 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Taking control of all registered entities
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (2, axlotrr), last scene: Fungus3_21
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 2 left scene
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (2, axlotrr), new scene: Fungus3_22
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus3_21 to Fungus3_22
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Fungus3_21
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Fungus3_22
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.ClientManager] Updating already in scene player with ID: 2
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 2 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Taking control of all registered entities
+[INFO]:[Hkmp.Game.Server.ServerManager] Received PlayerDeath data from (2, axlotrr)
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (2, axlotrr), last scene: Fungus3_22
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 2 left scene
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (2, axlotrr), new scene: Fungus3_40
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (2, axlotrr), last scene: Fungus3_40
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (2, axlotrr), new scene: Fungus3_13
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (2, axlotrr), last scene: Fungus3_13
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (2, axlotrr), new scene: Fungus3_04
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (2, axlotrr), last scene: Fungus3_04
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (2, axlotrr), new scene: Fungus3_21
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (2, axlotrr), last scene: Fungus3_21
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (2, axlotrr), new scene: Fungus3_22
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 2 entered scene
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (2, axlotrr), last scene: Fungus3_22
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 2 left scene
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (2, axlotrr), new scene: Fungus1_13
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus3_22 to Fungus1_13
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Fungus3_22
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Fungus1_13
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.ClientManager] Updating already in scene player with ID: 2
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 2 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Taking control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus1_13 to Fungus3_22
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Fungus1_13
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Fungus3_22
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (2, axlotrr), last scene: Fungus1_13
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (2, axlotrr), new scene: Fungus3_22
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 2 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus3_22 to Fungus3_23
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Fungus3_22
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Fungus3_23
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (2, axlotrr), last scene: Fungus3_22
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (2, axlotrr), new scene: Fungus3_23
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 2 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus3_23 to Fungus3_22
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Fungus3_23
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Fungus3_22
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus3_22 to Fungus3_21
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Fungus3_22
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Fungus3_21
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus3_21 to Fungus3_22
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Fungus3_21
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Fungus3_22
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus3_22 to Fungus3_23
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Fungus3_22
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Fungus3_23
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.ClientManager] Updating already in scene player with ID: 2
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 2 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Taking control of all registered entities
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (2, axlotrr), last scene: Fungus3_23
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 2 left scene
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (2, axlotrr), new scene: Fungus3_22
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus3_23 to Fungus3_22
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Fungus3_23
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Fungus3_22
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.ClientManager] Updating already in scene player with ID: 2
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 2 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Taking control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus3_22 to Fungus3_21
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Fungus3_22
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Fungus3_21
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (2, axlotrr), last scene: Fungus3_22
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (2, axlotrr), new scene: Fungus3_21
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 2 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus3_21 to Fungus3_04
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Fungus3_21
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Fungus3_04
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus3_04 to Fungus3_13
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Fungus3_04
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Fungus3_13
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (2, axlotrr), last scene: Fungus3_21
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (2, axlotrr), new scene: Fungus3_04
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus3_13 to Fungus3_10
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Fungus3_13
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Fungus3_10
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus3_10 to Fungus3_13
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Fungus3_10
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Fungus3_13
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus3_13 to Fungus3_40
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Fungus3_13
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Fungus3_40
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (2, axlotrr), last scene: Fungus3_04
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (2, axlotrr), new scene: Fungus3_13
+[INFO]:[Hkmp.Game.Server.ServerManager] Received PlayerDeath data from (2, axlotrr)
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (2, axlotrr), last scene: Fungus3_13
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (2, axlotrr), new scene: Fungus3_40
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 2 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus3_40 to Fungus3_13
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Fungus3_40
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Fungus3_13
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (2, axlotrr), last scene: Fungus3_40
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (2, axlotrr), new scene: Fungus3_13
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 2 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Fungus3_13 to Fungus3_40
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Fungus3_13
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Fungus3_40
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from  to Cinematic_Stag_travel
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Fungus3_40
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (2, axlotrr), last scene: Fungus3_13
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (2, axlotrr), new scene: Fungus3_10
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (2, axlotrr), last scene: Fungus3_10
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (2, axlotrr), new scene: Fungus3_13
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Cinematic_Stag_travel to Ruins2_08
+[WARN]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from ID 0, but there was no last scene registered
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Ruins2_08
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (2, axlotrr), last scene: Fungus3_13
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (2, axlotrr), new scene: Fungus3_40
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (2, axlotrr), last scene: Fungus3_40
+[WARN]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from ID 2, but there was no last scene registered
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (2, axlotrr), new scene: Ruins2_08
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 2 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Ruins2_08 to Ruins2_06
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Ruins2_08
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Ruins2_06
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (2, axlotrr), last scene: Ruins2_08
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (2, axlotrr), new scene: Ruins2_06
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 2 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Ruins2_06 to Ruins2_07
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Ruins2_06
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Ruins2_07
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (2, axlotrr), last scene: Ruins2_06
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (2, axlotrr), new scene: Ruins2_07
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 2 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Ruins2_07 to Ruins2_11_b
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Ruins2_07
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Ruins2_11_b
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Ruins2_11_b to Ruins2_07
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Ruins2_11_b
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Ruins2_07
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.ClientManager] Updating already in scene player with ID: 2
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 2 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Taking control of all registered entities
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (2, axlotrr), last scene: Ruins2_07
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 2 left scene
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (2, axlotrr), new scene: Ruins2_11_b
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (2, axlotrr), last scene: Ruins2_11_b
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (2, axlotrr), new scene: Ruins2_07
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 2 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Ruins2_07 to Deepnest_East_03
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Ruins2_07
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Deepnest_East_03
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (2, axlotrr), last scene: Ruins2_07
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (2, axlotrr), new scene: Deepnest_East_03
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 2 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Deepnest_East_03 to Deepnest_East_07
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Deepnest_East_03
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Deepnest_East_07
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Deepnest_East_07 to Deepnest_East_03
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Deepnest_East_07
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Deepnest_East_03
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.ClientManager] Updating already in scene player with ID: 2
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 2 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Taking control of all registered entities
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (2, axlotrr), last scene: Deepnest_East_03
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 2 left scene
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (2, axlotrr), new scene: Deepnest_East_07
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (2, axlotrr), last scene: Deepnest_East_07
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (2, axlotrr), new scene: Deepnest_East_03
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 2 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Deepnest_East_03 to Deepnest_East_06
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Deepnest_East_03
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Deepnest_East_06
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (2, axlotrr), last scene: Deepnest_East_03
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (2, axlotrr), new scene: Deepnest_East_06
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 2 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Deepnest_East_06 to Room_nailmaster_03
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Deepnest_East_06
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Room_nailmaster_03
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (2, axlotrr), last scene: Deepnest_East_06
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (2, axlotrr), new scene: Room_nailmaster_03
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 2 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Room_nailmaster_03 to Deepnest_East_06
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Room_nailmaster_03
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Deepnest_East_06
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (2, axlotrr), last scene: Room_nailmaster_03
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (2, axlotrr), new scene: Deepnest_East_06
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 2 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Deepnest_East_06 to Deepnest_East_16
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Deepnest_East_06
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Deepnest_East_16
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (2, axlotrr), last scene: Deepnest_East_06
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (2, axlotrr), new scene: Deepnest_East_16
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 2 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Deepnest_East_16 to Deepnest_East_14
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Deepnest_East_16
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Deepnest_East_14
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (2, axlotrr), last scene: Deepnest_East_16
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (2, axlotrr), new scene: Deepnest_East_14
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 2 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Deepnest_East_14 to Deepnest_East_17
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Deepnest_East_14
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Deepnest_East_17
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (2, axlotrr), last scene: Deepnest_East_14
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (2, axlotrr), new scene: Deepnest_East_17
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 2 entered scene
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (2, axlotrr), last scene: Deepnest_East_17
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 2 left scene
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (2, axlotrr), new scene: Deepnest_East_14
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (2, axlotrr), last scene: Deepnest_East_14
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (2, axlotrr), new scene: Deepnest_East_17
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 2 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Deepnest_East_17 to Deepnest_East_14
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Deepnest_East_17
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Deepnest_East_14
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (2, axlotrr), last scene: Deepnest_East_17
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (2, axlotrr), new scene: Deepnest_East_14
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 2 entered scene
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Deepnest_East_14 to Deepnest_East_14b
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (0, OmarTef), last scene: Deepnest_East_14
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (0, OmarTef), new scene: Deepnest_East_14b
+[INFO]:[Hkmp.Game.Client.ClientManager] Received AlreadyInScene packet
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Releasing control of all registered entities
+[INFO]:[Hkmp.Game.Server.ServerManager] Received LeaveScene data from (2, axlotrr), last scene: Deepnest_East_14
+[INFO]:[Hkmp.Game.Server.ServerManager] Received EnterScene data from (2, axlotrr), new scene: Deepnest_East_14b
+[INFO]:[Hkmp.Game.Client.ClientManager] Player 2 entered scene
+[INFO]:[Hkmp.Networking.Server.NetServer] Client 2 timed out
+[INFO]:[Hkmp.Game.Client.ClientManager] Received PlayerDisconnect data for ID: 2, timed out: True
+[INFO]:[Hkmp.Networking.Server.NetServer] Received packet from unknown client with address: 127.0.0.1:57361, creating new client
+[INFO]:[Hkmp.Game.Client.ClientManager] Received ServerClientDisconnect, reason: Shutdown
+[ERROR]:[Hkmp.Networking.Client.UdpNetClient] UDP Socket exception:
+[ERROR]:System.Net.Sockets.SocketException (0x80004005): Connection reset by peer
+[ERROR]:  at System.Net.Sockets.Socket.ReceiveFrom (System.Byte[] buffer, System.Int32 offset, System.Int32 size, System.Net.Sockets.SocketFlags socketFlags, System.Net.EndPoint& remoteEP) [0x0003e] in <3df7f9ca50404bbc8bd4e7b954e70293>:0 
+[ERROR]:  at System.Net.Sockets.Socket.ReceiveFrom (System.Byte[] buffer, System.Net.Sockets.SocketFlags socketFlags, System.Net.EndPoint& remoteEP) [0x00000] in <3df7f9ca50404bbc8bd4e7b954e70293>:0 
+[ERROR]:  at Hkmp.Networking.Client.UdpNetClient.ReceiveData (System.Threading.CancellationToken token) [0x00019] in /home/runner/work/HKMP/HKMP/HKMP/Networking/Client/UdpNetClient.cs:82 
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from Deepnest_East_14b to Deepnest_East_06
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from  to Quit_To_Menu
+[INFO]:[Hkmp.Game.Client.Entity.EntityManager] Clearing all registered entities
+[INFO]:[Hkmp.Game.Client.ClientManager] Scene changed from  to Menu_Title
+[INFO]:[HkmpMod] - Saving Global Settings
+[INFO]:[HKMP_HealthDisplay] - Saving Global Settings
+[INFO]:[HkmpTransitionAlerts] - Saving Global Settings
+[INFO]:[MagicUIMod] - Saving Global Settings
+[INFO]:[Hkmp.Game.Server.ServerManager] Could not stop server, it was not started
+[INFO]:[API] - Saving Global Settings
