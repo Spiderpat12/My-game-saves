@@ -1,0 +1,26 @@
+Godot Engine v4.2.2.stable.godotbuilder.com - https://godotengine.org
+Vulkan API 1.3.280 - Forward+ - Using Vulkan Device #0: NVIDIA - NVIDIA GeForce GTX 750 Ti
+ 
+USER WARNING: This control can't grab focus. Use set_focus_mode() to allow a control to get focus.
+   at: grab_focus (scene/gui/control.cpp:2014)
+USER WARNING: This control can't grab focus. Use set_focus_mode() to allow a control to get focus.
+   at: grab_focus (scene/gui/control.cpp:2014)
+USER WARNING: This control can't grab focus. Use set_focus_mode() to allow a control to get focus.
+   at: grab_focus (scene/gui/control.cpp:2014)
+USER WARNING: This control can't grab focus. Use set_focus_mode() to allow a control to get focus.
+   at: grab_focus (scene/gui/control.cpp:2014)
+USER WARNING: This control can't grab focus. Use set_focus_mode() to allow a control to get focus.
+   at: grab_focus (scene/gui/control.cpp:2014)
+USER WARNING: This control can't grab focus. Use set_focus_mode() to allow a control to get focus.
+   at: grab_focus (scene/gui/control.cpp:2014)
+USER WARNING: This control can't grab focus. Use set_focus_mode() to allow a control to get focus.
+   at: grab_focus (scene/gui/control.cpp:2014)
+USER WARNING: This control can't grab focus. Use set_focus_mode() to allow a control to get focus.
+   at: grab_focus (scene/gui/control.cpp:2014)
+ERROR: 1 RID allocations of type 'N10RendererRD14TextureStorage7TextureE' were leaked at exit.
+USER ERROR: Parameter "RenderingServer::get_singleton()" is null.
+   at: ~CompressedTexture2D (scene/resources/compressed_texture.cpp:464)
+USER WARNING: 2 RIDs of type "Texture" were leaked.
+   at: finalize (drivers/vulkan/rendering_device_vulkan.cpp:9655)
+USER WARNING: ObjectDB instances leaked at exit (run with --verbose for details).
+   at: cleanup (core/object/object.cpp:2209)
