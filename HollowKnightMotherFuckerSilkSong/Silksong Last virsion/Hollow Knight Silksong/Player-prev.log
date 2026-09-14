@@ -13,8 +13,8 @@ Direct3D:
     VRAM:     1999 MB
     Driver:   32.0.15.6094
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.551 seconds
-- Finished resetting the current domain, in  0.004 seconds
+- Loaded All Assemblies, in  2.310 seconds
+- Finished resetting the current domain, in  0.038 seconds
 [Physics::Module] Selected backend.
 [Physics::Module] Name: PhysX
 [Physics::Module] Id: 0xf2b8ea05
@@ -25,324 +25,49 @@ Begin MonoManager ReloadAssembly
 Using Windows.Gaming.Input
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.575100 ms
+UnloadTime: 13.257500 ms
 No online subsystems packaged.
 Direct3D: detected that using refresh rate causes time drift. Will stop trusting refresh rate until the game window is moved.
 Direct3D: detected that vsync is broken (it does not limit frame rate properly). Delta time will now be calculated using cpu-side time stampling until the game window is moved.
-Unloading 5 Unused Serialized files (Serialized files now loaded: 528)
-UnloadTime: 1.416300 ms
-Discovered supported languages: DE, EN, ES, FR, IT, JA, KO, PT, RU, ZH
+Unloading 5 Unused Serialized files (Serialized files now loaded: 529)
+UnloadTime: 2.012200 ms
+Discovered supported languages: DE, EN, ES, FR, IT, JA, KO, PT, RU, ZH, ZH_TW
 Loaded saved language code 'EN'
 Restored language code 'EN'
 Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Unloading 53 unused Assets to reduce memory usage. Loaded Objects now: 6528.
-Total: 7.628000 ms (FindLiveObjects: 0.568500 ms CreateObjectMapping: 0.603600 ms MarkObjects: 6.358100 ms  DeleteObjects: 0.092800 ms)
-
-Unloading 2 Unused Serialized files (Serialized files now loaded: 528)
-Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 13748.
-Total: 12.132500 ms (FindLiveObjects: 0.816100 ms CreateObjectMapping: 0.701900 ms MarkObjects: 10.549700 ms  DeleteObjects: 0.064400 ms)
-
-Couldn't find GameCameras, make sure one exists in the scene.
-Unloading 1 Unused Serialized files (Serialized files now loaded: 582)
 Couldn't find a Game Manager, make sure one exists in the scene.
-UnloadTime: 32.169700 ms
+Couldn't find GameCameras, make sure one exists in the scene.
+Unloading 52 unused Assets to reduce memory usage. Loaded Objects now: 6511.
+Total: 37.601000 ms (FindLiveObjects: 1.311000 ms CreateObjectMapping: 0.578700 ms MarkObjects: 35.662900 ms  DeleteObjects: 0.043300 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 529)
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 13760.
+Total: 8.051000 ms (FindLiveObjects: 0.887700 ms CreateObjectMapping: 1.223600 ms MarkObjects: 5.883100 ms  DeleteObjects: 0.056200 ms)
+
+Couldn't find GameCameras, make sure one exists in the scene.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 583)
+Couldn't find a Game Manager, make sure one exists in the scene.
+UnloadTime: 11.768900 ms
 Loaded saved language code 'EN'
 Restored language code 'EN'
-Unloading 73 unused Assets to reduce memory usage. Loaded Objects now: 67446.
-Total: 81.140300 ms (FindLiveObjects: 6.375900 ms CreateObjectMapping: 6.243900 ms MarkObjects: 49.667800 ms  DeleteObjects: 18.852400 ms)
+Unloading 75 unused Assets to reduce memory usage. Loaded Objects now: 68096.
+Total: 50.147800 ms (FindLiveObjects: 5.769000 ms CreateObjectMapping: 6.993500 ms MarkObjects: 36.980100 ms  DeleteObjects: 0.404900 ms)
 
-MenuButton missing flashEffect!
-Making UI menu lean.
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Started loading clips for Bone Record Bone_East_14
-Started loading clips for Bone Record Greymoor_flooded_corridor
-Started loading clips for Bone Record Understore_Map_Room
-Started loading clips for Bone Record Wisp Top
-Started loading clips for Weaver Totem Bonetown_upper_room
-Started loading clips for Weaver Totem Witch
-Started loading clips for Weaver Totem Slab_Bottom
-Started loading clips for Seal Chit Aspid_01
-Started loading clips for Seal Chit Ward Corpse
-Started loading clips for Seal Chit City Merchant
-Started loading clips for Seal Chit Silk Siphon
-Started loading clips for Weaver Record Weave_08
-Started loading clips for Weaver Record Sprint_Challenge
-Started loading clips for Weaver Record Conductor
-Started loading clips for Ancient Egg Abyss Middle
-Started loading clips for Psalm Cylinder Librarian
-Started loading clips for Psalm Cylinder Ward
-Started loading clips for Psalm Cylinder Hang
-Started loading clips for Psalm Cylinder Grindle
-Started loading clips for Psalm Cylinder Library Roof
-Started loading clips for Librarian Melody Cylinder
-Finished loading gramaphone clip for Psalm Cylinder Librarian
-Finished loading gramaphone clip for Psalm Cylinder Ward
-Finished loading gramaphone clip for Psalm Cylinder Hang
-Finished loading gramaphone clip for Psalm Cylinder Grindle
-Finished loading gramaphone clip for Psalm Cylinder Library Roof
-Unloading 3 Unused Serialized files (Serialized files now loaded: 578)
-Finished loading gramaphone clip for Librarian Melody Cylinder
-Finished loading needolin clip for Librarian Melody Cylinder
-Unloading 276 unused Assets to reduce memory usage. Loaded Objects now: 112336.
-Total: 127.002000 ms (FindLiveObjects: 10.297100 ms CreateObjectMapping: 12.942500 ms MarkObjects: 102.322700 ms  DeleteObjects: 1.439300 ms)
-
-Converting Vertex Colors from Color32 to Color.
-Converting Vertex Colors from Color32 to Color.
-Converting Vertex Colors from Color32 to Color.
-Freed clips for Bone Record Bone_East_14
-Freed clips for Bone Record Greymoor_flooded_corridor
-Freed clips for Bone Record Understore_Map_Room
-Freed clips for Bone Record Wisp Top
-Freed clips for Weaver Totem Bonetown_upper_room
-Freed clips for Weaver Totem Witch
-Freed clips for Weaver Totem Slab_Bottom
-Freed clips for Seal Chit Aspid_01
-Freed clips for Seal Chit Ward Corpse
-Freed clips for Seal Chit City Merchant
-Freed clips for Seal Chit Silk Siphon
-Freed clips for Weaver Record Weave_08
-Freed clips for Weaver Record Sprint_Challenge
-Freed clips for Weaver Record Conductor
-Freed clips for Ancient Egg Abyss Middle
-Freed clips for Psalm Cylinder Librarian
-Freed clips for Psalm Cylinder Ward
-Freed clips for Psalm Cylinder Hang
-Freed clips for Psalm Cylinder Grindle
-Freed clips for Psalm Cylinder Library Roof
-Freed clips for Librarian Melody Cylinder
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Unloading 1 Unused Serialized files (Serialized files now loaded: 646)
-UnloadTime: 11.471700 ms
-Unloading 9541 unused Assets to reduce memory usage. Loaded Objects now: 141526.
-Total: 187.632800 ms (FindLiveObjects: 18.477000 ms CreateObjectMapping: 12.522100 ms MarkObjects: 122.850200 ms  DeleteObjects: 33.783100 ms)
-
-Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for archive:/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1.resource
-Unloading 2 Unused Serialized files (Serialized files now loaded: 609)
-Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 149263.
-Total: 126.236600 ms (FindLiveObjects: 16.169300 ms CreateObjectMapping: 10.612400 ms MarkObjects: 98.987800 ms  DeleteObjects: 0.466800 ms)
-
-Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
-Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Unloading 1 Unused Serialized files (Serialized files now loaded: 614)
-Unloading 4741 unused Assets to reduce memory usage. Loaded Objects now: 149662.
-Total: 221.108300 ms (FindLiveObjects: 18.370900 ms CreateObjectMapping: 11.118200 ms MarkObjects: 159.493000 ms  DeleteObjects: 32.126000 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 620)
-UnloadTime: 8.423700 ms
-Unloading 4071 unused Assets to reduce memory usage. Loaded Objects now: 140181.
-Total: 141.438700 ms (FindLiveObjects: 15.580900 ms CreateObjectMapping: 11.241800 ms MarkObjects: 103.442900 ms  DeleteObjects: 11.172700 ms)
-
-Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for archive:/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1.resource
-Unloading 1 Unused Serialized files (Serialized files now loaded: 600)
-Unloading 96 unused Assets to reduce memory usage. Loaded Objects now: 146512.
-Total: 107.057600 ms (FindLiveObjects: 14.140700 ms CreateObjectMapping: 9.516700 ms MarkObjects: 81.837200 ms  DeleteObjects: 1.562600 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 593)
-Unloading 2464 unused Assets to reduce memory usage. Loaded Objects now: 147029.
-Total: 163.465700 ms (FindLiveObjects: 17.038700 ms CreateObjectMapping: 10.203600 ms MarkObjects: 105.555000 ms  DeleteObjects: 30.667400 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 600)
-Scene Manager missing from scene Bellway_01
-Scene Manager missing from scene Bellway_01
-UnloadTime: 7.952400 ms
-Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for archive:/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1.resource
-Unloading 3016 unused Assets to reduce memory usage. Loaded Objects now: 141345.
-Total: 148.695100 ms (FindLiveObjects: 15.474500 ms CreateObjectMapping: 11.036600 ms MarkObjects: 114.907700 ms  DeleteObjects: 7.276100 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 576)
-Unloading 87 unused Assets to reduce memory usage. Loaded Objects now: 150757.
-Total: 111.635700 ms (FindLiveObjects: 14.779100 ms CreateObjectMapping: 9.203200 ms MarkObjects: 86.029300 ms  DeleteObjects: 1.623700 ms)
-
-Using fallback 1 to find tilemap. Scene Bellshrine requires manual fixing.
-Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
-Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Unloading 1 Unused Serialized files (Serialized files now loaded: 587)
-Unloading 5120 unused Assets to reduce memory usage. Loaded Objects now: 150814.
-Total: 169.467300 ms (FindLiveObjects: 19.301400 ms CreateObjectMapping: 11.578100 ms MarkObjects: 111.306200 ms  DeleteObjects: 27.281300 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 605)
-UnloadTime: 12.304400 ms
-Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for archive:/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1.resource
-Unloading 3379 unused Assets to reduce memory usage. Loaded Objects now: 141353.
-Total: 126.675300 ms (FindLiveObjects: 17.036900 ms CreateObjectMapping: 11.819900 ms MarkObjects: 90.806200 ms  DeleteObjects: 7.011900 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 576)
-Unloading 60 unused Assets to reduce memory usage. Loaded Objects now: 147076.
-Total: 115.218200 ms (FindLiveObjects: 14.710400 ms CreateObjectMapping: 9.262300 ms MarkObjects: 89.458200 ms  DeleteObjects: 1.786800 ms)
-
-Can not play a disabled audio source
-Unloading 1 Unused Serialized files (Serialized files now loaded: 670)
-Scene Manager missing from scene Bellway_01
-UnloadTime: 7.287300 ms
-Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for archive:/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1.resource
-Unloading 6508 unused Assets to reduce memory usage. Loaded Objects now: 141579.
-Total: 257.747300 ms (FindLiveObjects: 18.312500 ms CreateObjectMapping: 13.070200 ms MarkObjects: 140.704000 ms  DeleteObjects: 85.660200 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 631)
-Unloading 89 unused Assets to reduce memory usage. Loaded Objects now: 154652.
-Total: 121.344700 ms (FindLiveObjects: 15.896900 ms CreateObjectMapping: 9.727900 ms MarkObjects: 93.980300 ms  DeleteObjects: 1.739200 ms)
-
-Hazard Respawn Trigger v2 (2) does not have a Hazard Respawn Marker Set
-Hazard Respawn Trigger v2 does not have a Hazard Respawn Marker Set
-gameObject1 is null!
-Coroutine couldn't be started because the the game object 'Seamstress Umbrella Platform' is inactive!
-gameObject1 is null!
-Unloading 1 Unused Serialized files (Serialized files now loaded: 651)
-Unloading 3411 unused Assets to reduce memory usage. Loaded Objects now: 154721.
-Total: 158.431700 ms (FindLiveObjects: 18.701500 ms CreateObjectMapping: 9.667600 ms MarkObjects: 97.212100 ms  DeleteObjects: 32.849700 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 668)
-UnloadTime: 15.273700 ms
-Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for archive:/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1.resource
-Unloading 4943 unused Assets to reduce memory usage. Loaded Objects now: 142122.
-Total: 137.492900 ms (FindLiveObjects: 19.105000 ms CreateObjectMapping: 12.974400 ms MarkObjects: 91.824800 ms  DeleteObjects: 13.588400 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 630)
-Unloading 205 unused Assets to reduce memory usage. Loaded Objects now: 149378.
-Total: 108.584000 ms (FindLiveObjects: 15.396100 ms CreateObjectMapping: 9.074900 ms MarkObjects: 81.965600 ms  DeleteObjects: 2.147000 ms)
-
-Coroutine couldn't be started because the the game object 'Farmer Catcher (3)' is inactive!
-Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
-Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
-Unloading 1 Unused Serialized files (Serialized files now loaded: 658)
-Unloading 3769 unused Assets to reduce memory usage. Loaded Objects now: 149451.
-Total: 171.453200 ms (FindLiveObjects: 16.025300 ms CreateObjectMapping: 10.520300 ms MarkObjects: 111.507600 ms  DeleteObjects: 33.399500 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 675)
-UnloadTime: 11.447300 ms
-Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for archive:/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1.resource
-Unloading 2981 unused Assets to reduce memory usage. Loaded Objects now: 141730.
-Total: 126.590600 ms (FindLiveObjects: 18.865900 ms CreateObjectMapping: 11.540700 ms MarkObjects: 88.484700 ms  DeleteObjects: 7.699100 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 641)
-Unloading 49 unused Assets to reduce memory usage. Loaded Objects now: 147459.
-Total: 109.598200 ms (FindLiveObjects: 15.289000 ms CreateObjectMapping: 8.887700 ms MarkObjects: 84.047400 ms  DeleteObjects: 1.373900 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 658)
-UnloadTime: 7.480800 ms
-Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for archive:/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1/CAB-965c2a5f50b73f63c5ea1427a8f3d5b1.resource
-Unloading 3021 unused Assets to reduce memory usage. Loaded Objects now: 141771.
-Total: 158.583600 ms (FindLiveObjects: 20.071800 ms CreateObjectMapping: 13.317300 ms MarkObjects: 118.533800 ms  DeleteObjects: 6.660400 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 655)
-Unloading 57 unused Assets to reduce memory usage. Loaded Objects now: 151444.
-Total: 112.401800 ms (FindLiveObjects: 14.884400 ms CreateObjectMapping: 9.617100 ms MarkObjects: 86.882900 ms  DeleteObjects: 1.016900 ms)
-
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Started loading clips for Bone Record Bone_East_14
-Started loading clips for Bone Record Greymoor_flooded_corridor
-Started loading clips for Bone Record Understore_Map_Room
-Started loading clips for Bone Record Wisp Top
-Started loading clips for Weaver Totem Bonetown_upper_room
-Started loading clips for Weaver Totem Witch
-Started loading clips for Weaver Totem Slab_Bottom
-Started loading clips for Seal Chit Aspid_01
-Started loading clips for Seal Chit Ward Corpse
-Started loading clips for Seal Chit City Merchant
-Started loading clips for Seal Chit Silk Siphon
-Started loading clips for Weaver Record Weave_08
-Started loading clips for Weaver Record Sprint_Challenge
-Started loading clips for Weaver Record Conductor
-Started loading clips for Ancient Egg Abyss Middle
-Started loading clips for Psalm Cylinder Librarian
-Started loading clips for Psalm Cylinder Ward
-Started loading clips for Psalm Cylinder Hang
-Started loading clips for Psalm Cylinder Grindle
-Started loading clips for Psalm Cylinder Library Roof
-Started loading clips for Librarian Melody Cylinder
-Finished loading gramaphone clip for Psalm Cylinder Librarian
-Finished loading gramaphone clip for Psalm Cylinder Ward
-Finished loading gramaphone clip for Psalm Cylinder Hang
-Finished loading gramaphone clip for Psalm Cylinder Grindle
-Finished loading gramaphone clip for Psalm Cylinder Library Roof
-Finished loading gramaphone clip for Librarian Melody Cylinder
-Finished loading needolin clip for Librarian Melody Cylinder
-Unloading 1 Unused Serialized files (Serialized files now loaded: 666)
-Freed clips for Bone Record Bone_East_14
-Freed clips for Bone Record Greymoor_flooded_corridor
-Freed clips for Bone Record Understore_Map_Room
-Freed clips for Bone Record Wisp Top
-Freed clips for Weaver Totem Bonetown_upper_room
-Freed clips for Weaver Totem Witch
-Freed clips for Weaver Totem Slab_Bottom
-Freed clips for Seal Chit Aspid_01
-Freed clips for Seal Chit Ward Corpse
-Freed clips for Seal Chit City Merchant
-Freed clips for Seal Chit Silk Siphon
-Freed clips for Weaver Record Weave_08
-Freed clips for Weaver Record Sprint_Challenge
-Freed clips for Weaver Record Conductor
-Freed clips for Ancient Egg Abyss Middle
-Freed clips for Psalm Cylinder Librarian
-Freed clips for Psalm Cylinder Ward
-Freed clips for Psalm Cylinder Hang
-Freed clips for Psalm Cylinder Grindle
-Freed clips for Psalm Cylinder Library Roof
-Freed clips for Librarian Melody Cylinder
-UnloadTime: 4.646000 ms
-Unloading 6131 unused Assets to reduce memory usage. Loaded Objects now: 141163.
-Total: 144.274700 ms (FindLiveObjects: 14.339700 ms CreateObjectMapping: 10.131100 ms MarkObjects: 94.564800 ms  DeleteObjects: 25.238700 ms)
-
-Unloading 0 Unused Serialized files (Serialized files now loaded: 605)
-Unloading 6840 unused Assets to reduce memory usage. Loaded Objects now: 27196.
-Total: 77.917000 ms (FindLiveObjects: 2.458100 ms CreateObjectMapping: 4.241100 ms MarkObjects: 57.153200 ms  DeleteObjects: 14.064400 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 657)
-UnloadTime: 0.966000 ms
-Loaded saved language code 'EN'
-Restored language code 'EN'
-Unloading 55 unused Assets to reduce memory usage. Loaded Objects now: 73074.
-Total: 85.771000 ms (FindLiveObjects: 7.597400 ms CreateObjectMapping: 6.657800 ms MarkObjects: 71.297500 ms  DeleteObjects: 0.217900 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 655)
-Unloading 5617 unused Assets to reduce memory usage. Loaded Objects now: 67441.
-Total: 89.036800 ms (FindLiveObjects: 5.708600 ms CreateObjectMapping: 7.270100 ms MarkObjects: 62.809000 ms  DeleteObjects: 13.248800 ms)
-
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
 [Physics::Module] Cleanup current backned.
 [Physics::Module] Id: 0xf2b8ea05
 Input System module state changed to: ShutdownInProgress.
